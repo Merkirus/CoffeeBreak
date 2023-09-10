@@ -1,0 +1,60 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "REDSHIFTS OF SOUTHERN QUASARS. III.",
+    "dc:creator": [
+        "BROWNE IWA",
+        "SAVAGE A"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "MONTH. NOT. R. ASTR. SOC.; G.B.; DA. 1977; VOL. 179; NO 3; PP. 65P-67P; H.T. 1; BIBL. 9 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "QUASAR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DEPLACEMENT VERS LE ROUGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TABLE DONNEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARTE IDENTIFICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HEMISPHERE SUD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "QUASAR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REDSHIFT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DATA TABLE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FINDING CHART"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOUTHERN HEMISPHERE"
+        },
+        "001E03: Astronomie / Astronomy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7730428241"
+}

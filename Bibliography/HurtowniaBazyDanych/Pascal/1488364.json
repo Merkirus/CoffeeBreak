@@ -1,0 +1,97 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ENERGY REQUIREMENTS IN DIRECT-REDUCTION IRONMAKING.",
+    "dc:creator": [
+        "DE ANGELIS RJ",
+        "GILLIS PP",
+        "YU KO"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "METALS AND MATER., METALLURG. REV.; G.B.; DA. 1978-02; PP. 44-47; BIBL. 2 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "FONTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELABORATION FONTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MINERAI FER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REDUCTION CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GAZ REDUCTEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONSOMMATION D'ENERGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BOULETAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GAZEIFICATION DE COMBUSTIBLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHARBON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FONTE LIQUIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PIG IRON MANUFACTURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IRON ORE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REDUCTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REDUCING GAS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PELLETIZATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOLTEN CAST IRON"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METALLURGY"
+        },
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7880212848"
+}

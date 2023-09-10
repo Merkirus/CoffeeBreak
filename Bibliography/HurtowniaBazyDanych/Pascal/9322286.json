@@ -1,0 +1,312 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Brain anatomy in non-affected parents of autistic probands : a MRI study",
+    "dc:creator": [
+        "PALMEN, Saskia J. M. C",
+        "HULSHOFF POL, Hilleke E",
+        "KEMNER, Chantal",
+        "SCHNACK, Hugo G",
+        "SITSKOORN, Margriet M",
+        "APPELS, Melanie C. M",
+        "KAHN, René S",
+        "VAN ENGELAND, Herman"
+    ],
+    "dc:relation": "Psychological medicine (Print) -- Psychol. med. (Print), CODEN PSMDCO, ISSN 0033-2917, Vol. 35 (10) , pp. 1411-1420",
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Cambridge University Press",
+    "dc:format": [
+        "print",
+        "10 p. ; 1 p.3/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Encéphale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Imagerie médicale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système nerveux central"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble développement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ventricule cérébral latéral"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Autisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cortex cérébral"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Déterminisme génétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etiologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude comparative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude familiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur milieu"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Génétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Imagerie RMN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interaction génotype environnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Intracrânien"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu familial"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Parent"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Substance blanche"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Substance grise"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Troisième ventricule cérébral"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Volumétrie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Encephalon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Medical imagery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central nervous system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Developmental disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lateral cerebral ventricle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Autism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cerebral cortex"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Genetic determinism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Etiology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Family study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Environmental factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Genetics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nuclear magnetic resonance imaging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Genotype environment interaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Intracranial"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Family environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Parent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "White matter"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Grey matter"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Third cerebral ventricle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Volumetric analysis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Encéfalo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Imaginería médica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso central"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno desarrollo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ventrículo cerebral lateral"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Autismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Corteza cerebral"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Determinismo genético"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Etiología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio comparativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio familiar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor medio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Genética"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Imaginería RMN"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interacción genotipo ambiente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Intracraneal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio familiar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pariente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Substancia blanca"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Substancia gris"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tercer ventrículo cerebral"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Volumetría"
+        },
+        "002B18H07: Milieu familial. Histoire familiale / Family environment. Family history",
+        "770-: Psychologie. Psychanalyse. Psychiatrie / Psychology. Psychoanalysis. Psychiatry",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17175826"
+}

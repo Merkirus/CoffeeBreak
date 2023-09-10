@@ -1,0 +1,249 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "An integrated geographic information system solution for estimating transportation infrastructure needs: a Florida example",
+    "dc:creator": "HARTER, G. L",
+    "dc:contributor": "Annual Meeting of the Transportation Research Board (77 ;  1998-01)",
+    "dc:relation": [
+        "Transportation research record -- Transp. res. rec, CODEN TRREDM, ISSN 0361-1981 (1617) , pp. 50-55",
+        "Land use and transportation planning and programming applications"
+    ],
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "National Research Council",
+    "dc:format": [
+        "print",
+        "5 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse coût"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Besoin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Caractéristique construction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Description système"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Développement logiciel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gestion organisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Infrastructure transport"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interface utilisateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Intermodulation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Législation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthodologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système information géographique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système intégré"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transports"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cost analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Need"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Construction parameter"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "System description"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Software development"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Organization management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transportation infrastructure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "User interface"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Intermodulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Legislation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Methodology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Geographic information system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Integrated system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transportation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis costo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Necesidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Característica construcción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Descripción sistema"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desarrollo logicial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gestión organización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Infraestructura transporte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interfase usuario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Intermodulación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Legislación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metodología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema información geográfica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema integrado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transportes"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works",
+        "001D14O01: Généralités. Tracé / General. Plotting",
+        "001D15A: Généralités / General"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats Unis"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Floride"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Florida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estados Unidos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Florida"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1672174"
+}

@@ -1,0 +1,110 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The pragmatism of Benjamin Franklin",
+    "dc:creator": "CAMPBELL, J",
+    "dc:relation": "Transactions of the Charles S. Peirce Society -- Trans. Charles S. Peirce Soc, ISSN 0009-1774, Vol. 31 (4) , pp. 745-792",
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Charles S. Peirce Society",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bien commun"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ethique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Franklin (B.)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Philosophie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Politique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pragmatisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Religion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Science"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Common Good"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ethics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Franklin (B.)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Philosophy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Politics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pragmatism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Religion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Science"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Franklin (B.)"
+        },
+        "519-: Philosophie / Philosophy",
+        "519-1: Etudes historiques (Histoire de la philosophie. Histoire des idées) / Historical studies (History of philosophy. History of ideas)",
+        "519-1I: XVIIIe siècle / 18th century"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats-Unis"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Siècle 18"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States;U.S.A"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Century 18"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3267214"
+}

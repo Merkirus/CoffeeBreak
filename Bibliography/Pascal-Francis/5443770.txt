@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Exécution Parallèle de Requêtes Base de Données en Mémoire Partagée: un Modèle et son Implantation; Parallel Execution of Database Requests in Shared Stored Systems: a Model and its Implementation</dc:title>
+  <dc:creator>Dageville, Benoît</dc:creator>
+  <dc:contributor>Gardarin, G (Advisor (for a thesis or dissertation))</dc:contributor>
+  <dc:contributor>Université de Paris 06 (Degree-grantor)</dc:contributor>
+  <dc:date>1995</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Thesis</dc:type>
+  <dc:identifier>NNT 95 PA06 6575</dc:identifier>
+  <dc:language>French</dc:language>
+  <dc:format>print</dc:format>
+  <dc:format>180 p. ; 98 ref</dc:format>
+  <dc:subject xml:lang="fr">Base donnée</dc:subject>
+  <dc:subject xml:lang="fr">Modèle</dc:subject>
+  <dc:subject xml:lang="fr">Mémoire partagée</dc:subject>
+  <dc:subject xml:lang="fr">Parallélisme</dc:subject>
+  <dc:subject xml:lang="fr">Système gestion base donnée</dc:subject>
+  <dc:subject xml:lang="fr">DBS3</dc:subject>
+  <dc:subject xml:lang="fr">Exécution parallèle</dc:subject>
+  <dc:subject xml:lang="en">Database</dc:subject>
+  <dc:subject xml:lang="en">Models</dc:subject>
+  <dc:subject xml:lang="en">Shared memory</dc:subject>
+  <dc:subject xml:lang="en">Parallelism</dc:subject>
+  <dc:subject xml:lang="en">Database management system</dc:subject>
+  <dc:subject xml:lang="es">Base dato</dc:subject>
+  <dc:subject xml:lang="es">Modelo</dc:subject>
+  <dc:subject xml:lang="es">Memoria compartida</dc:subject>
+  <dc:subject xml:lang="es">Paralelismo</dc:subject>
+  <dc:subject xml:lang="es">Sistema gestión base datos</dc:subject>
+  <dc:subject>001D02B07D: Systèmes d'information. Bases de données / Information systems. Data bases</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 176996</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

@@ -1,0 +1,212 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Study of CO chemisorption on graphite-supported Ru-Cu and Ni-Cu bimetallic catalysts",
+    "dc:creator": [
+        "ASEDEGBEGA-NIETO, E",
+        "GUERRERO-RUIZ, A",
+        "RODRIGUEZ-RAMOS, I"
+    ],
+    "dc:contributor": [
+        "AUROUX, Aline (Editor)",
+        "International Symposium on Calorimetry and Thermal Effects in Catalysis (3 ; Lyon 2004-07-06)"
+    ],
+    "dc:relation": [
+        "Thermochimica acta -- Thermochim. acta, CODEN THACAS, ISSN 0040-6031, Vol. 434 (1-2) , pp. 113-118",
+        "Calorimetry and Thermal Effects in Catalysis: A Collection of Papers from the Third International Symposium on Calorimetry and Thermal Effects in Catalysis held in Lyon, France, July 6-9, 2004"
+    ],
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "6 p. ; 26 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Métal transition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Platinoïde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Adsorption"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse thermique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Carbone monoxyde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Catalyseur sur support"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chimisorption"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cuivre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Graphite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Isotherme adsorption"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microcalorimétrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nickel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ruthénium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transition metal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Platinoid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adsorption"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermal analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Carbon monoxide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Supported catalyst"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemisorption"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Copper"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Graphite"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adsorption isotherm"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microcalorimetry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nickel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ruthenium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bimetallic catalysts"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CO adsorption"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Graphite-supported catalysts"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microcalorimetry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface alloys"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metal transición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Platinoide"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adsorción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis térmico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carbono monóxido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Catalizador sobre soporte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adsorción química"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cobre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Grafito"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Isotermo adsorción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Microcalorimetría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Niquel"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rutenio"
+        },
+        "001C01A03A: Catalyseurs: préparations et propriétés / Catalysts: preparations and properties"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17053387"
+}

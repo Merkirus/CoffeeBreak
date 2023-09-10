@@ -1,0 +1,233 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "La Bretagne contre le cancer : tableau de bord des patientes hospitalisées pour cancer du sein et domiciliées dans le Finistère",
+    "dc:creator": [
+        "BRETAGNE, E",
+        "ZITOUNI, J"
+    ],
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Book"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "ORS Bretagne",
+    "dc:format": [
+        "print",
+        "8 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Age"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Biais méthodologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Donnée statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epidémiologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude comparative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Glande mammaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Incidence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Longue durée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Maladie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mortalité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthodologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Surveillance sanitaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tumeur maligne"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Age"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Methodological bias"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Statistical data"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Epidemiology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mammary gland"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Incidence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Long lasting"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mortality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Methodology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sanitary surveillance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Malignant tumor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Edad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ruta metodológica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dato estadístico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Epidemiología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio comparativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Glándula mamaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Incidencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Larga duración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enfermedad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mortalidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metodología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vigilancia sanitaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tumor maligno"
+        },
+        "002B30A11: Divers / Miscellaneous"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bretagne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Finistère"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bretagne"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Finistère"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bretagne"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Finistère"
+        }
+    ],
+    "dc:rights": [
+        "Banque de données en santé publique - Ecole des hautes études en santé publique (BDSP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16667502"
+}

@@ -1,0 +1,119 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Security Enhancement Mechanism for Ad-Hoc OLSR Protocol",
+    "dc:creator": [
+        "DOH, Inshil",
+        "CHAE, Kijoon",
+        "KIM, Howon",
+        "CHUNG, Kyoil"
+    ],
+    "dc:contributor": "International Conference on Information Networking (Sendai 2006)",
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 317-326",
+        "Information networking (advances in data communications and wireless networks) -- 0ICOIN 2006"
+    ],
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Springer",
+        "Springer",
+        "Springer"
+    ],
+    "dc:format": [
+        "print",
+        "10 p. ; 16 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Authentification message"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Routage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau sans fil"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Service proactif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Signature électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système réparti"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vulnérabilité"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Message authentication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Routing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wireless network"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Proactive service"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Digital signature"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Distributed system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vulnerability"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enrutamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red sin hilo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sevicio proactivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Firma numérica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema repartido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vulnerabilidad"
+        },
+        "001D02B04: Systèmes informatiques et systèmes répartis. Interface utilisateur / Computer systems and distributed systems. User interface",
+        "001D02B07C: Gestion des mémoires et des fichiers (y compris la protection et la sécurité des fichiers) / Memory and file management (including protection and security)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20014383"
+}

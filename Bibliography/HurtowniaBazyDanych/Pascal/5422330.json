@@ -1,0 +1,175 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Mars base zero - : A terrestrial analog",
+    "dc:creator": [
+        "DRYSDALE, Alan",
+        "COLLINS, Ray"
+    ],
+    "dc:contributor": "YERKES, Kirk L (Editor)",
+    "dc:relation": "SAE transactions -- SAE transact, ISSN 0096-736X, Vol. 114 (1) , pp. 1-12",
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Society of Automotive Engineers",
+    "dc:format": [
+        "print",
+        "12 p. ; 7 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Agriculture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Application spatiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aérospatiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Consommation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eau usée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Endommagement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Expérience exploitation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu confiné"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plante vivrière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Productivité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système ouvert"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Agriculture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Space application"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aerospace"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Consumption"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Waste water"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Damaging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Operating experience"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Confined space"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Food crop"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Productivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Open systems"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agricultura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aplicación espacial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aeroespacial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Consumo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agua residual"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Deterioración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Experiencia explotación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio confinado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cultivos alimenticios"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Productividad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema abierto"
+        },
+        "001D: Sciences appliquees / Applied sciences",
+        "002A32A: Généralités. Biométrie, expérimentation. Télédétection / Generalities. Biometrics, experimentation. Remote sensing",
+        "002B29C02: Transports. Aérospatiale. Plongée. Altitude / Transports. Aerospace. Diving. Altitude"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17554510"
+}

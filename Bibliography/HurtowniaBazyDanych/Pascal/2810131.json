@@ -1,0 +1,105 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SPECTROSCOPIC ANALYSIS OF LITMF4",
+    "dc:creator": "CHRISTENSEN HP",
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "PHYS. REV., B; USA; DA. 1979; VOL. 19; NO 12; PP. 6573-6582; BIBL. 16 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE LANTHANIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BASSE TEMPERATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRES BASSE TEMPERATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HAMILTONIEN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSITION OPTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MONOCRISTAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHAMP CRISTALLIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTERACTION SPIN ORBITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ABSORPTION OPTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LUMIERE POLARISEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FLUORURE LITHIUM THULIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE SOLIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LOW TEMPERATURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VERY LOW TEMPERATURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HAMILTONIAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPTICAL TRANSITION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SINGLE CRYSTAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CRYSTAL FIELD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SPIN ORBIT INTERACTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPTICAL ABSORPTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLARIZED LIGHT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID PHYSICS"
+        },
+        "001B60: Etat condense: structure, proprietes mecaniques et thermiques / Condensed matter: structure, mechanical and thermal properties"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8030124724"
+}

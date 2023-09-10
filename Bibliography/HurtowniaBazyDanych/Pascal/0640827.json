@@ -1,0 +1,84 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A MODEL FOR A MOLECULAR CLONING SYSTEM IN HIGHER PLANTS: ISOLATION OF PLANT VIRAL PROMOTORS",
+    "dc:creator": [
+        "MEAGHER RB",
+        "MCKNIGHT TD"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Book Chapter",
+    "dc:language": "English",
+    "dc:format": "GENOME ORGANIZATION AND EXPRESSION IN PLANTS; GBR; NEW-YORK: PLENUM PRESS; DA. 1980; PP. 63-75; BIBL. 3 P.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MODELISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ADN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENIE GENETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PLASMIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RELATION HOTE AGENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BACTERIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AGROBACTERIUM TUMEFACIENS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AGRONOMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MODELING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENETIC ENGINEERING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PLASMID"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HOST AGENT RELATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BACTERIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AGROBACTERIUM TUMEFACIENS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AGRONOMY"
+        },
+        "002A32: Agronomie. Sciences du sol et productions vegetales / Agronomy. Soil science and plant productions"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALAGROLINEINRA8110418249"
+}

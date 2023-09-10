@@ -1,0 +1,99 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Librarianship and the professional model : A sociological tutorial and critique",
+    "dc:creator": [
+        "DEVARAI, R. S",
+        "RAMESH, L. S. R. C. V"
+    ],
+    "dc:relation": "Library Science with a Slant to Documentation and Information Studies -- Libr. Sci. Slant Doc. Inf. Stud, ISSN 0970-6089, Vol. 36 (3) , pp. 155-164",
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Sarada Ranganathan Endowment for Library Science",
+    "dc:format": [
+        "print",
+        "46 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bibliothèque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bibliothécaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bibliothéconomie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Profession"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sociologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Image sociale"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Library"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Librarian"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Librarianship"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Profession"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sociology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Social image"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biblioteca"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bibliotecario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biblioteconomía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Profesión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sociología"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation",
+        "001A01A04: Aspects professionnels / Professional aspects",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-B: Sciences de l'information et des bibliothèques. Etude d'ensemble / Library and information science. General aspects"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1245872"
+}

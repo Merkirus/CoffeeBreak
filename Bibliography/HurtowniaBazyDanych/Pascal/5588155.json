@@ -1,0 +1,285 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Structure and function of scorpion toxins affecting K+-channels",
+    "dc:creator": [
+        "POSSANI, L. D",
+        "SELISKO, B",
+        "GURROLA, G. B"
+    ],
+    "dc:contributor": [
+        "DARBON, Hervé (Editor)",
+        "SABATIER, Jean-Marc (Editor)"
+    ],
+    "dc:relation": "Perspectives in drug discovery and design -- Perspect. drug discov. des, ISSN 0928-2866, Vol. 15-16, pp. 15-40",
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Kluwer",
+    "dc:format": [
+        "print",
+        "127 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Arachnida"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Arthropoda"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Invertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Scorpionides"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse structurale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Article synthèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Canal ionique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Electrophysiologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Encéphale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fixation biologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ligand"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Muscle lisse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Peptide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Potassium Cation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Relation structure fonction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Scorpionidae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure 3 dimensions"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Synaptosome"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système nerveux central"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Toxicité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Toxine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Arachnida"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Arthropoda"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Invertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Scorpionides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Structural analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Review"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ionic channel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrophysiology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Brain (vertebrata)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biological fixation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ligand"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Smooth muscle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Peptides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Potassium Cations"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Structure function relationship"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Scorpionidae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Three dimensional structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Synaptosome"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central nervous system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Toxicity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Toxin"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arachnida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arthropoda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Invertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Scorpionides"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis estructural"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Artículo síntesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Canal iónico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Electrofisiología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Encéfalo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fijación biológica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ligando"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Músculo liso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Péptido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Potasio Cation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Relación estructura función"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Scorpionidae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estructura 3 dimensiones"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sinaptosoma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso central"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Toxicidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Toxina"
+        },
+        "002A04F02: Membranes cellulaires. Canaux ioniques. Pores membranaires / Cell membranes. Ionic channels. Membrane pores"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1890576"
+}

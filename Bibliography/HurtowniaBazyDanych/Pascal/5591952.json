@@ -1,0 +1,168 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Atmospheric turbulence profiling by detecting the wave function of a test beam",
+    "dc:creator": [
+        "KHIZHNYAK, Anatoliy",
+        "MARKOV, Vladimir"
+    ],
+    "dc:contributor": [
+        "Mecherle, G. Stephen (Editor)",
+        "Korotkova, Olga (Editor)",
+        "Society of photo-optical instrumentation engineers (Organiser of meeting)",
+        "Atmospheric propagation of electromagnetic waves. Conference (2007)",
+        "Free-space laser communication technologies. Conference (19 ;  2007)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, pp. 64570L.1-64570L.5",
+        "Free-space laser communication technologies XIX and atmospheric propogation of electromagnetic waves (24-25 January 2007, San Jose, California, USA) -- 0Atmospheric propagation of electromagnetic waves"
+    ],
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "4 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Cohérence mutuelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Déphasage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Faisceau laser"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fonction cohérence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fonction corrélation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interférométrie optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optique atmosphérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phase aléatoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propagation onde électromagnétique atmosphérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Turbulence atmosphérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0760L"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4268A"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4268B"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mutual coherence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "phase shift"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "experimental studies"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laser beam"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Coherence function"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "correlation function"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical interferometry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Atmospheric optics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Random phase"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Atmospheric electromagnetic wave propagation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Atmospheric turbulence"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Coherencia mutual"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Haz láser"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Función coherencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interferometría óptica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Optica atmosférica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fase aleatoria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Turbulencia atmosférica"
+        },
+        "001B00G60L: Interféromètres / Interferometers",
+        "001E02D02: Convection, turbulence, diffusion. Structure et dynamique de la couche limite atmosphérique / Convection, turbulence, diffusion. Boundary layer structure and dynamics",
+        "001E02D12: Interaction des ondes électromagnétiques avec l'atmosphère; propagation / Interaction of atmosphere with electromagnetic waves; propagation"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18937207"
+}

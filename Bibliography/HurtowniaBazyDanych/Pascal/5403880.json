@@ -1,0 +1,157 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A matrix representation and mapping approach to knowledge acquisition for product design",
+    "dc:creator": [
+        "ZHIMING RAO",
+        "CHEN, Chun-Hsien"
+    ],
+    "dc:contributor": [
+        "Khosla, Rajiv (Editor)",
+        "Howlett, Robert J (Editor)",
+        "Jain, Lakhmi C (Editor)",
+        "International Conference on Knowledge-Based Intelligent Information and Engineering Systems (9 ; Melbourne 2005-09-14)"
+    ],
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743",
+        "Knowledge-based intelligent information and engineering systems (Part I,III-IV : 9th international conference, KES 2005, Melbourne, Australia, September 14-16, 2005 : proceedings) -- 0KES 2005"
+    ],
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Springer",
+        "Springer"
+    ],
+    "dc:format": [
+        "print",
+        "vol1, 311-317 ; 10 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Acquisition connaissances"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse mécanisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Arbre graphe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conception ingénierie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Développement produit"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "En ligne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Goulot étranglement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Intelligence artificielle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Processus acquisition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système base connaissances"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Knowledge acquisition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mechanism analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tree(graph)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Engineering design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Product development"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "On line"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bottleneck"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Artificial intelligence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Acquisition process"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Knowledge based systems"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adquisición de conocimientos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis mecánismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arbol grafo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Concepción ingeniería"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desarrollo producto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "En línea"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gollete estrangulamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inteligencia artificial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Proceso adquisición"
+        },
+        "001D02C: Intelligence artificielle / Artificial intelligence",
+        "001D12A: Généralités / General"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17437851"
+}

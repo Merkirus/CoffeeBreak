@@ -1,0 +1,132 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The measurement of gain in a supersonic, combustion-driven generator for NCl(a1Δ)",
+    "dc:creator": [
+        "MANKE, Gerald C",
+        "MADDEN, Timothy J",
+        "COOPER, Chris B",
+        "HAGER, Gordon D"
+    ],
+    "dc:contributor": [
+        "Wood, Gary L (Editor)",
+        "Society of photo-optical instrumentation engineers (Organiser of meeting)",
+        "Laser source and system technology for defense and security. Conference (Orlando FL 2005-03-28)"
+    ],
+    "dc:relation": [
+        "SPIE proceedings series -- SPIE proc. ser, pp. 97-108",
+        "Laser source and system technology for defense and security (28-29 March 2005, Orlando, Florida, USA)"
+    ],
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "12 p. ; 38 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Application laser"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Haute température"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Iode"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Laser chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Laser gaz"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Laser iode"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phase gazeuse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transfert énergie excitation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4255K"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4255L"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4262"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laser beam applications"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High temperature"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Iodine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical lasers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gas lasers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Iodine lasers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measuring methods"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gas phase"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Excitation energy transfer"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alta temperatura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transferencia energía excitación"
+        },
+        "001B40B55K: Lasers chimiques / Chemical lasers",
+        "001B40B55L: Lasers à gaz, incluant les lasers à excimère et les lasers à vapeur métallique / Gas lasers including excimer and metal-vapor lasers",
+        "001B40B62: Applications biologiques et médicales / Biological and medical applications"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17833484"
+}

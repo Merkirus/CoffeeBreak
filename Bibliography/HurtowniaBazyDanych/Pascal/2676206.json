@@ -1,0 +1,77 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "RUTHENIUM DIOXIDE: A REDOX CATALYST FOR THE GENERATION OF HYDROGEN FROM WATER",
+    "dc:creator": [
+        "KELLER P",
+        "MORADPOUR A",
+        "AMOUYAL E"
+    ],
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "CS FARADAY TRANS. 1; ISSN 0300-9599; GBR; DA. 1982; VOL. 78; NO 11; PP. 3331-3340; BIBL. 25 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "RUTHENIUM IV OXYDE!ACT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EAU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DECOMPOSITION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HYDROGENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CATALYSEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE PHYSIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE GENERALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RUTHENIUM IV OXIDES!ACT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WATER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DECOMPOSITION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HYDROGEN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CATALYST"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHYSICAL CHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENERAL CHEMISTRY"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0020306"
+}

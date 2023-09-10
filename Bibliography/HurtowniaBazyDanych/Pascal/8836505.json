@@ -1,0 +1,65 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "La Etnoarqueología, hoy : una vía eficaz de aproximación al pasado; Ethnoarchaeology, today : an effective way for learning about the past",
+    "dc:creator": "GONZALO, A. H",
+    "dc:relation": "Trabajos de prehistoria -- Trab. prehist, ISSN 0082-5638, Vol. 52 (2) , pp. 15-30",
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "Spanish, Castilian",
+    "dc:publisher": "Universidad Complutense",
+    "dc:format": [
+        "print",
+        "1 p.1/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Ethnoarchéologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ethnoarchaeology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Method"
+        },
+        "525-: Prehistoire et protohistoire / Prehistory and protohistory",
+        "525-12: Méthodologie et études générales / Methodology and general studies",
+        "525-13: Epistémologie / Epistemology"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Guatemala"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chahal (Municipio de)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Guatemala"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3284942"
+}

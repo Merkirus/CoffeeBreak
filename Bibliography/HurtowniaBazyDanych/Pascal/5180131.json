@@ -1,0 +1,282 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Adsorption of difenzoquat on montmorillonite: model calculations and increase in hydrophobicity",
+    "dc:creator": [
+        "RYTWO, Giora",
+        "TAVASI, Mordechai",
+        "AFUTA, Shmuel",
+        "NIR, Shlomo"
+    ],
+    "dc:contributor": [
+        "SHOVAL, Shlomo (Editor)",
+        "NIR, Shlomo (Editor)",
+        "Mediterranean Clay Meeting (3 ; Jerusalem 2002-09-30)"
+    ],
+    "dc:relation": [
+        "Applied clay science -- Appl. clay sci, CODEN ACLSER, ISSN 0169-1317, Vol. 24 (3-4) , pp. 149-157",
+        "Third Mediterranean Clay Meeting"
+    ],
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Elsevier Science",
+        "Elsevier Science",
+        "Elsevier Science"
+    ],
+    "dc:format": [
+        "print",
+        "9 p. ; 27 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Argile minéral"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phyllosilicate"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Silicate"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Smectite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Adsorption"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Capacité échange cation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Comportement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Concentration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Herbicide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Influence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Isotherme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Montmorillonite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mécanisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prévision"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système fermé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Test"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hydrophobicité"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "clay minerals"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "sheet silicates"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "silicates"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "smectite"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "adsorption"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "cation exchange capacity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "cations"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "behavior"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "concentration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "experimental studies"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "herbicides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "influence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "isotherms"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "models"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "montmorillonite"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "mechanism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "prediction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "closed systems"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "tests"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adsorption model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Clay"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Difenzoquat"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hydrophobicity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Montmorillonite"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Organic cations"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pendimethalin"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arcilla mineral"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Filosilicato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Silicato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Esmectita"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adsorción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Capacidad intercambio catión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Concentración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Isothermo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Montmorilonita"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Previsión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema cerrado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prueba"
+        },
+        "001E01A02: Silicates / Silicates"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15493359"
+}

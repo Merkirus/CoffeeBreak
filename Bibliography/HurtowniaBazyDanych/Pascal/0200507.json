@@ -1,0 +1,238 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Activation of protein kinase C by tumor necrosis factor-α in human non-pigmented ciliary epithelium",
+    "dc:creator": [
+        "PRASANNA, G",
+        "DIBAS, A",
+        "BROWN, K",
+        "YORIO, T"
+    ],
+    "dc:contributor": "Annual Meeting of the Association for Ocular Pharmacology and Therapeutics (3 ; Bethesda, Maryland 1997-11-22)",
+    "dc:relation": [
+        "Journal of ocular pharmacology and therapeutics -- J. ocul. pharmacol. ther, ISSN 1080-7683, Vol. 14 (5) , pp. 401-412",
+        "Annual Meeting of the Association for Ocular Pharmacology and Therapeutics (3 ; Bethesda, Maryland 1997-11-22)"
+    ],
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Liebert",
+    "dc:format": [
+        "print",
+        "38 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Cytokine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enzyme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hormone peptide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transferases"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vasoconstricteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Activité enzymatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Corps ciliaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Endothéline"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epithélium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur nécrose tumorale α"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "In vitro"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Inflammation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Isozyme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Oeil"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Protein kinase C"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transduction signal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cytokine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Enzyme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Peptide hormone"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transferases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vasoconstrictor agent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Enzymatic activity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ciliary body"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Endothelin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Epithelium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tumor necrosis factor α"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "In vitro"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inflammation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Isozyme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Eye"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Protein kinase C"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Signal transduction"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Citoquina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enzima"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hormona péptido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transferases"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vasoconstrictor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Actividad enzimática"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuerpo ciliar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Endothelina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Epitelio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor necrosis tumoral α"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "In vitro"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inflamación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Isozima"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ojo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Protein kinase C"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transducción señal"
+        },
+        "002A19: Vertebres: peau, glandes annexes, phaneres, organes lumineux, glandes exocrines diverses (glande a sel, glande uropygienne etc.), tissu adipeux, tissu conjonctif / Vertebrates: skin, associated glands, phaneres, light organs, various exocrine glands (salt gland, uropygial gland...), adipose tissue, connective tissue"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1605725"
+}

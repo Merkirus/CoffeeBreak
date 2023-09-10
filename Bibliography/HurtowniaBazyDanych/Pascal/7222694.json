@@ -1,0 +1,293 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Comparison of techniques for determining the effect of aluminium on the growth of, and the inheritance of aluminium tolerance in wheat",
+    "dc:creator": [
+        "WHEELER, D. M",
+        "EDMEADES, D. C",
+        "CHRISTIE, R. A",
+        "GARDNER, R"
+    ],
+    "dc:contributor": [
+        "RANDALL, P. J (Editor)",
+        "DELHAIZE, E (Editor)",
+        "RICHARDS, R. A (Editor)",
+        "MUNNS, R (Editor)",
+        "International symposium on genetic aspects of plant mineral nutrition (4 ; Camberra 1991-09-30)"
+    ],
+    "dc:relation": [
+        "Plant and soil -- Plant soil, CODEN PLSOA2, ISSN 0032-079X, Vol. 146 (1-2) , pp. 1-8",
+        "International symposium on genetic aspects of plant mineral nutrition"
+    ],
+    "dc:date": "1992",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "11 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Adaptation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Angiospermae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur milieu"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur édaphique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gramineae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Monocotyledones"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métal groupe IIIB"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plante céréalière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spermatophyta"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Toxique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aluminium Sulfate"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aluminium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Croissance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cultivar"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Déterminisme génétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude en serre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phytotoxicité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Solution nutritive"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tolérance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Triticum aestivum"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adaptation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Angiospermae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Environmental factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Edaphic factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gramineae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Monocotyledones"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Group IIIB metal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cereal crop"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spermatophyta"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Poison"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aluminium Sulfates"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aluminium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Growth"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cultivar"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inheritance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Greenhouse study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phytotoxicity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nutrient solution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Technique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tolerance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Triticum aestivum"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adaptación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Angiospermae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor medio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor edáfico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gramineae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Monocotyledones"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metal grupo IIIB"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Planta cerealista"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Spermatophyta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tóxico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aluminio Sulfato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aluminio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Crecimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cultivar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Determinismo genético"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio en invernadero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fitotoxicidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Solución nutritive"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Técnica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tolerancia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Triticum aestivum"
+        },
+        "002A32: Agronomie. Sciences du sol et productions vegetales / Agronomy. Soil science and plant productions",
+        "002A32D03C: Adaptation au milieu et aux conditions de culture / Adaptation to environment and cultivation conditions"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4497188"
+}

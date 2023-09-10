@@ -1,0 +1,84 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "WELDING OF AN ADVANCED HIGH STRENGTH TITANIUM ALLOY; SOUDAGE D'UN ALLIAGE DE TITANE MODERNE A HAUTE RESISTANCE",
+    "dc:creator": [
+        "GREENFIELD MA",
+        "DUVALL DS"
+    ],
+    "dc:date": "1975",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "WELDG J.; U.S.A.; DA. 1975; VOL. 54; NO 3; PP. 73S-80S; BIBL. 17 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TITANE 50-100"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOUDAGE TIG"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOUDABILITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ESSAI DURETE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ESSAI PLIAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ESSAI TRACTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRAITEMENT THERMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ESSAI MECANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARACTERISTIQUE MECANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLOGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE EXPERIMENTALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROCEDE UTILISE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EFFET"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOUDAGE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WELDING"
+        },
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALSOUDAGE7574502133"
+}

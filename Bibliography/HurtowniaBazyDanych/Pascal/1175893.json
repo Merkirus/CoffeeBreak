@@ -1,0 +1,54 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "CONVENTIONAL PROBES FOR THE RELATIVE FLOW MEASUREMENT IN A TURBOMACHINERY ROTOR BLADE PASSAGE",
+    "dc:creator": [
+        "SITARAM N",
+        "LAKSHMINARAYANA B",
+        "RAVINDRANATH A"
+    ],
+    "dc:date": "1981",
+    "dc:type": "Conference Paper",
+    "dc:language": "English",
+    "dc:format": "J. ENG. POWER; ISSN 0022-0825; USA; DA. 1981; VOL. 103; NO 2; PP. 406-414; BIBL. 17 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPRESSEUR AXIAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE EXPERIMENTALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ECOULEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUSTRIE MECANIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AXIAL COMPRESSOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXPERIMENTAL STUDY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FLOW"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MECHANICAL ENGINEERING"
+        },
+        "001B: Physique / Physics",
+        "001D12: Genie mecanique. Construction mecanique / Mechanical engineering. Machine design"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8130359229"
+}

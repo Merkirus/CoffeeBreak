@@ -1,0 +1,72 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Proceedings/8th. International workshop on human gene mapping, Helsinki, Finland, August 4-10, 1985",
+    "dc:creator": [
+        "DE LA CHAPELLE, A",
+        "March of Dimes Birth Defects Foundation",
+        "Ministry of Education",
+        "Pension-Varma Insurance Company",
+        "National Science Foundation"
+    ],
+    "dc:contributor": "International workshop on human gene mapping. 8",
+    "dc:relation": "Cytogenetics and cell genetics -- Cytogenet. cell genet, CODEN CGCGBR, ISSN 0301-0171, Vol. 40 (1-4)",
+    "dc:date": "1985",
+    "dc:type": [
+        "Text",
+        "Conference Proceedings"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Karger",
+        "Karger",
+        "Karger"
+    ],
+    "dc:format": [
+        "print",
+        "823 p. ; dissem"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Carte génétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Congrès"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Genetic mapping"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Congress"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mapa genetico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Congreso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        "002A07C03: Homme / Human"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 8495127"
+}

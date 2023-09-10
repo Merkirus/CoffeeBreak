@@ -1,0 +1,76 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "L'ACTION DES ENGRAIS ET DU LUPIN SUR L'ACTIVITE BIOLOGIQUE DES SOLS DE PEUPLEMENTS DE CHENES",
+    "dc:creator": [
+        "BLINTSOV IK",
+        "VALAKHANOVICH AA"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "LESOVEDENIE; S.S.S.R.; DA. 1976; NO 1; PP. 46-51; ABS. ANGL.; BIBL. 26REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "QUERCUS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FUMURE MINERALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CULTURE ASSOCIEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACTIVITE BIOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LUPIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AZOTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FIXATION SYMBIOTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VALEUR FERTILISANTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FORET"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FEUILLU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LEGUMINEUSE FOURRAGERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AGRONOMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AGRONOMY"
+        },
+        "002A35: Industries agroalimentaires / Food industries"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7638005547"
+}

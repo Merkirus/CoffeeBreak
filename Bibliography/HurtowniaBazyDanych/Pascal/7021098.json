@@ -1,0 +1,149 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Optimisation and scale-up of batch chemical reactors : Impact of safety constraints",
+    "dc:creator": [
+        "TOULOUSE, C",
+        "CEZERAC, J",
+        "CABASSUD, M",
+        "LE LANN, M. V",
+        "CASAMATTA, G"
+    ],
+    "dc:contributor": [
+        "FROMENT, G. F (Editor)",
+        "MARIN, G. B (Editor)",
+        "European Federation of Chemical Engineering ; Working Party on Chemical Reaction Engineering (Funder/Sponsor)",
+        "Technological Institute of the Royal Flemish Society of Engineers (TI-K VIV) (Funder/Sponsor)",
+        "ISCRE 14: International Symposium on Chemical Reaction Engineering (14 ; Brugge 1996-05-05)"
+    ],
+    "dc:relation": [
+        "Chemical engineering science -- Chem. eng. sci, CODEN CESCAC, ISSN 0009-2509, Vol. 51 (10) , pp. 2243-2252",
+        "Chemical reaction engineering: from fundamentals to commercial plants and products.Part A"
+    ],
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "7 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Commande processus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Commande température"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet échelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Emballement réaction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "En discontinu"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Extrapolation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optimisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réacteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sécurité"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Process control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Temperature control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Scale effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reaction runaway"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Batchwise"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Extrapolation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optimization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reactor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Safety"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Control proceso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Control temperatura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efecto escala"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Embalamiento reacción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "En discontinuo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Extrapolación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Optimización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reactor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Seguridad"
+        },
+        "001D07H: Réacteurs / Reactors"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3100458"
+}

@@ -1,0 +1,245 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Agents transmissibles non conventionnels et virus (et autres pathogènes infectieux) émergents; Non conventional transmissible agents and emerging viruses",
+    "dc:creator": "GARRAUD, O",
+    "dc:contributor": [
+        "Société française de transfusion sanguine (Funder/Sponsor)",
+        "Congrès national de la SFTS (21 ; Saint-Etienne 2003-06-16)"
+    ],
+    "dc:relation": [
+        "Transfusion clinique et biologique (Paris) -- Transfus. clin. biol. (Paris), ISSN 1246-7820, Vol. 10 (3) , pp. 238-243",
+        "XXIe Congrès national de la SFTS, 16-19 juin 2003 - Saint-Etienne"
+    ],
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "6 p. ; 12 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Greffe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Agent biologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bactérie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contamination"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Donneur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Emergence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur risque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homogreffe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Produit sanguin labile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Receveur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sang"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transfusion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transmission"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Greffes ; Infections ; Virus émergents ; Prions"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transfusion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Graft"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biological agent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bacteria"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Contamination"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Donor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Emergence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Risk factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Homograft"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Labile blood product"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Recipient"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Blood"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transfusion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transmission"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Injerto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agente biológico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bacteria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contaminación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Donador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Emergencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor riesgo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Homoinjerto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Infección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Producto sanguíneo lábil"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Receptor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sangre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transfusión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transmisión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Virus"
+        },
+        "002B05C02J: Divers / Miscellaneous",
+        "002B27D01: Sang. Succédanés du sang et du plasma. Constituants du sang. Cellules sanguines. Groupage sanguin. Plasmaphérèse. Aphérèse / Blood. Blood and plasma substitutes. Blood products. Blood cells. Blood typing. Plasmapheresis. Apheresis"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14898108"
+}

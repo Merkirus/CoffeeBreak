@@ -1,0 +1,236 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Difficulties in the interpretation of coronary angiogram early after coronary artery bypass surgery on the beating heart. Discussion",
+    "dc:creator": [
+        "WIKLUND, L",
+        "JOHANSSON, M",
+        "BRANDRUP-WOGNSEN, G",
+        "BUGGE, M",
+        "RDBERG, G",
+        "BERGLIN, E"
+    ],
+    "dc:contributor": [
+        "JAVIDI, D (Commentator)",
+        "SVENNEVIG (Commentator)",
+        "POMAR, J (Commentator)",
+        "HOFFMAN, D (Commentator)",
+        "SUBRAMANIAN, V (Commentator)",
+        "SHENNIB, H (Commentator)",
+        "Annual Meeting of the European Association for Cardio-thoracic Surgery (13 ; Glasgow, Scotland 1999-09-05)"
+    ],
+    "dc:relation": [
+        "European journal of cardio-thoracic surgery -- Eur. j. cardio-thorac. surg, CODEN EJCSE7, ISSN 1010-7940, Vol. 17 (1) , pp. 46-51",
+        "Annual Meeting of the European Association for Cardio-thoracic Surgery (13 ; Glasgow, Scotland 1999-09-05)"
+    ],
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "24 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Chirurgie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Radiodiagnostic"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aortocoronaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Complication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Coronarographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diagnostic"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dérivation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exploration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Greffe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Greffon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interprétation image"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Postopératoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sténose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Surveillance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surgery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiodiagnosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aortocoronary"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Complication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Coronary arteriography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diagnosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bypass"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Exploration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Graft"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Graft(material)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Image interpretation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Postoperative"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stenosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surveillance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Technique"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cirugía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radiodiagnóstico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aortocoronaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Complicación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Coronarografía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diagnóstico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Derivación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Exploración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Injerto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Injerto(material)"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interpretación imágen"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Postoperatorio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estenosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vigilancia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Técnica"
+        },
+        "002B25E: Chirurgie cardiaque / Surgery of the heart"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1289905"
+}

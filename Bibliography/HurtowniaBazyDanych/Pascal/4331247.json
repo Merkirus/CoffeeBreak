@@ -1,0 +1,61 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "METHODE DE PREVISION DE LA TEMPERATURE DE L'AIR POUR LA SAISON SYNOPTIQUE NATURELLE DE L'HIVER",
+    "dc:creator": "ALESHINA AM",
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "TRUDY GIDROMETEOROL. NAUCH.-ISSLEDOVAT. CENTRA S.S.S.R.; SUN; DA. 1978; NO 202; PP. 46-58; BIBL. 3 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PREVISION METEOROLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TEMPERATURE AIR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HIVER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "URSS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE PREVISION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METEOROLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WEATHER FORECAST"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AIR TEMPERATURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WINTER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "USSR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METEOROLOGY"
+        },
+        "001E02F: Géophysique. Techniques, méthodes, appareillage et modèles / Geophysics. Techniques, methods, instrumentation and models"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7930081541"
+}

@@ -1,0 +1,41 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Intrasexual selection on multiple plumage ornaments in the lark bunting",
+    "dc:creator": [
+        "CHAINE, Alexis S",
+        "LYON, Bruce E"
+    ],
+    "dc:relation": "Animal behaviour -- Anim. behav, CODEN ANBEA8, ISSN 0003-3472, Vol. 76, pp. 657-667",
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "11 p. ; 1 p.1/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Plumage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plumage"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Plumaje"
+        },
+        "002A13: Ethologie animale / Animal ethology",
+        "770-A: Ethologie Animale / Animal ethology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20634873"
+}

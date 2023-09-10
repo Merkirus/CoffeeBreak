@@ -1,0 +1,78 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Controlling pain reports through operant conditioning: a laboratory demonstration",
+    "dc:creator": [
+        "LINTON, S. J",
+        "GOTESTAM, K. G"
+    ],
+    "dc:relation": "Perceptual and motor skills -- Percept. mot. skills, CODEN PMOSAZ, ISSN 0031-5125, Vol. 60 (2) , pp. 427-437",
+    "dc:date": "1985",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Perceptual and Motor Skills",
+    "dc:format": [
+        "print",
+        "8 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Conditionnement instrumental"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Douleur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation subjective"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Processus acquisition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Operant conditioning"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Subjective evaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Acquisition process"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dolor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Proceso adquisicion"
+        },
+        "002A26F02: Psychométrie / Psychometrics",
+        "770-: Psychologie. Psychanalyse. Psychiatrie / Psychology. Psychoanalysis. Psychiatry",
+        "770-B: Psychologie. Psychophysiologie / Psychology. Psychophysiology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 9214606"
+}

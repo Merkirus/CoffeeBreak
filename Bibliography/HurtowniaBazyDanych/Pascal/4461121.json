@@ -1,0 +1,55 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SOLUTION DE LA COMMANDE OPTIMALE EN BOUCLE FERMEE D'UNE CIMENTERIE",
+    "dc:creator": [
+        "CSAKI F",
+        "KIS P",
+        "HILGER M",
+        "KEVICZKY L",
+        "KOLOSTORI J"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "Hungarian",
+    "dc:format": "MERES ES AUTOMAT.; MAGYAR.; DA. 1977; VOL. 25; NO 1; PP. 10-13; ABS. RUSSE ALLEM. ANGL.; BIBL. 4 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUSTRIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMMANDE OPTIMALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CIMENTERIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATHEMATIQUES APPLIQUEES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INDUSTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPTIMAL CONTROL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CEMENT PLANT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "APPLIED MATHEMATICS"
+        },
+        "001A02: Mathematiques / Mathematics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7730298069"
+}

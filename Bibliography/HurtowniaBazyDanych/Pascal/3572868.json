@@ -1,0 +1,72 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "BREVET 2.272.167 (A1) (7515543). A 16 MAI 1975. DETERGENT AYANT UN EFFET ANTISTATIQUE ET D'ADOUCISSEMENT VIS-A-VIS DES TEXTILES",
+    "dc:creator": "BEROL KEMI A. B",
+    "dc:date": "sd",
+    "dc:type": "Patent",
+    "dc:language": "French",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ADOUCISSANT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANTISTATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TEXTILE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DETERGENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LAVAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "UTILISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AGENT SURFACE NON IONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AGENT SURFACE AMPHOTERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AGENT SURFACE ANIONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AGENT SURFACE CATIONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATIERE PREMIERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPRIETE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUSTRIE CHIMIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL INDUSTRY"
+        },
+        "001D07: Genie chimique / Chemical engineering"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7688005686"
+}

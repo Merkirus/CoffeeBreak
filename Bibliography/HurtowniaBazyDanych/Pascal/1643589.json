@@ -1,0 +1,49 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "FURTHER RESULTS FOR THE SOLUTIONS OF CERTAIN THIRD ORDER DIFFERENTIAL EQUATIONS",
+    "dc:creator": "HARA T",
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "PROC. JPN. ACAD., SER. A; ISSN 0386-2194; JPN; DA. 1980; VOL. 56; NO 5; PP. 200-205; BIBL. 9 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "EQUATION DIFFERENTIELLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EQUATION ORDRE 3"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE NUMERIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATHEMATIQUES APPLIQUEES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIFFERENTIAL EQUATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THIRD ORDER EQUATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NUMERICAL ANALYSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "APPLIED MATHEMATICS"
+        },
+        "001A02: Mathematiques / Mathematics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8130188936"
+}

@@ -1,0 +1,41 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "MELASTOMATACEAE NOUVELLES OU PEU CONNUES DU ZAIRE",
+    "dc:creator": "JACQUES FELIX H",
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "BULL. JARD. BOT. NATION. BELG.; BELG.; DA. 1974; VOL. 44; NO 1-2; PP. 161-171",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MELASTOMATACEAE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DICOTYLEDONES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SYSTEMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ZAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOLOGIE VEGETALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PLANT BIOLOGY"
+        },
+        "002A10: Physiologie vegetale et developpement / Plant physiology and development"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7537006810"
+}

@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Parallel processing of incremental ray tracing on a shared-memory multiprocessor",
+    "dc:creator": [
+        "HORIGUCHI, S",
+        "KATAHIRA, M",
+        "NAKADA, T"
+    ],
+    "dc:contributor": "NAKAMURA, T (Editor)",
+    "dc:relation": "The Visual computer -- Vis. comput, CODEN VICOE5, ISSN 0178-2789, Vol. 9 (7) , pp. 371-380",
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Springer",
+        "Springer"
+    ],
+    "dc:format": [
+        "print",
+        "25 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Mémoire partagée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Parallélisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tracé rayon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement parallèle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Multiprocesseur mémoire partagée"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Shared memory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Parallelism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ray tracing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Parallel processing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Shared-memory multiprocesseur"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Memoria compartida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Paralelismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trazado rayos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento paralelo"
+        },
+        "001D02B04: Systèmes informatiques et systèmes répartis. Interface utilisateur / Computer systems and distributed systems. User interface"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3854315"
+}

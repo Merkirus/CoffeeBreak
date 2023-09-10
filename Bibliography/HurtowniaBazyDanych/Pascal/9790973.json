@@ -1,0 +1,80 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "L'application de la méthode d'analyse par amas à l'évaluation des communications en radiologie dans la communauté scientifique; Applying cluster analysis to the evaluation of scientific communications in radiology",
+    "dc:creator": [
+        "ARTAMONOVA, N. O",
+        "BUSYGINA, N. A",
+        "GORBUSHIN, N. G"
+    ],
+    "dc:relation": "Naučno-tehničeskaâ informaciâ - Vsesoûznyj institut naučnoj i tehničeskoj informacii. Seriâ 2. Informacionnye processy i sistemy -- Naučno-teh. inf. - Vses. inst. naučn. teh. inf., Ser. 2, CODEN NIPSBP, ISSN 0548-0027 (5) , pp. 24-27",
+    "dc:date": "1988",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "Russian",
+    "dc:publisher": "VINITI",
+    "dc:format": [
+        "print",
+        "16 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse amas"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Indicateur recherche"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Médecine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thèse"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cluster analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Research indicator"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Medicine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Analisis enjambre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Indicador investigación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medicina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tesis"
+        },
+        "001A01D: Sources d'information spécialisée (support papier ou électronique) / Specialized information sources (paper or electronic format)",
+        "001A01D01: Documents primaires / Primary documents",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-D: Organismes documentaires / Documentation institutions"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 7009185"
+}

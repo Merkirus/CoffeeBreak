@@ -1,0 +1,90 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Enquêtes sur l'emploi de 1990 et 1991 : résultats détaillés",
+    "dc:creator": "Institut National de la Statistique et des Etudes Economiques. (I.N.S.E.E.). Paris",
+    "dc:relation": "INSEE RESULTATS - EMPLOI REVENU (40-41)",
+    "dc:date": "1992",
+    "dc:type": [
+        "Text",
+        "Serial Issue"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "286 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "1990"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "1991"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Donnée statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Emploi"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "1991"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Statistical data"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Employment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "1991"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dato estadístico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Empleo"
+        },
+        "002B30A11: Divers / Miscellaneous"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francia"
+        }
+    ],
+    "dc:rights": [
+        "Banque de données en santé publique - Ecole des hautes études en santé publique (BDSP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6437113"
+}

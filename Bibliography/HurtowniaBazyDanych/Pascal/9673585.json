@@ -1,0 +1,144 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Single and multiple suicide attempts and associated health risk factors in new hampshire adolescents",
+    "dc:creator": [
+        "ROSENBERG, Harriet J",
+        "JANKOWSKI, Mary K",
+        "SENGUPTA, Anjana",
+        "WOLFE, Rosemarie S",
+        "WOLFORD, George L",
+        "ROSENBERG, Stanley D"
+    ],
+    "dc:relation": "Suicide & life-threatening behavior -- Suicide life-threat. behav, CODEN SLBEDP, ISSN 0363-0234, Vol. 35 (5) , pp. 547-557",
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Guilford",
+    "dc:format": [
+        "print",
+        "11 p. ; 1 p.1/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Adolescent"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur risque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tentative suicide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adolescent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Risk factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Suicide attempt"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adolescente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor riesgo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tentativa suicidio"
+        },
+        "002B18C11: Suicide / Suicide",
+        "770-: Psychologie. Psychanalyse. Psychiatrie / Psychology. Psychoanalysis. Psychiatry",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats Unis"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "New Hampshire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "New Hampshire"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estados Unidos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "New Hampshire"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17717359"
+}

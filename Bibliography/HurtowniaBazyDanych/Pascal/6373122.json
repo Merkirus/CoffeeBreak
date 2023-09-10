@@ -1,0 +1,223 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Hospital infections. Discussion",
+    "dc:creator": "MCGOWAN, J. E",
+    "dc:contributor": [
+        "RUBIN (Commentator)",
+        "HEMMER (Commentator)",
+        "TOMASZ (Commentator)",
+        "STUERCHLER (Commentator)",
+        "VAN DER MEER (Commentator)",
+        "VAN DER MEER, J. W. M (Editor)",
+        "VANDENBROUCKE-GRAULS, C. M. J. E (Editor)",
+        "VAN REES-WORTELBOER, M. M (Editor)",
+        "Advisory Group for the Health Research Promotion Programme (SGO) (Funder/Sponsor)",
+        "Dutch Inspectorate for Health Care (IGZ) (Funder/Sponsor)",
+        "The challenge of infectious diseases; the European perspective. Symposium (Amsterdam 1996-12-18)"
+    ],
+    "dc:relation": [
+        "Netherlands journal of medicine -- Neth. j. med, ISSN 0300-2977, Vol. 52 (6) , pp. 233-237",
+        "The challenge of infectious diseases; the European perspective. Symposium"
+    ],
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Van zuiden",
+    "dc:format": [
+        "print",
+        "7 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Hygiène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé publique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Antibiotique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Antimicrobien"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chimiothérapie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Guide pratique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hôpital"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Infection nosocomiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prévention"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résistance traitement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hygiene"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antibiotic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antimicrobial agent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemotherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Handbook"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hospital"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nosocomial infection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prevention"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Negative therapeutic reaction"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Higiene"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud pública"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antibiótico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antimicrobiano"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Quimioterapia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Guía práctica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hospital"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Infección nosocomial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prevención"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resistencia al tratamiento terapeútico"
+        },
+        "002B05A01: Pathogénie de l'infection / Infection pathogenesis"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats Unis"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Monde"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "World"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estados Unidos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mundo"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2400861"
+}

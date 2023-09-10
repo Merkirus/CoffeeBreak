@@ -1,0 +1,73 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DYNAMIC ANALYSIS AND SIMULATION OF A HELIUM-HEATED STEAM REFORMER",
+    "dc:creator": [
+        "MIYASUGI T",
+        "KOSAKA S",
+        "SUZUKI A"
+    ],
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "CANADIAN JOURNAL OF CHEMICAL ENGINEERING; ISSN 0008-4034; CAN; DA. 1982; VOL. 60; NO 6; PP. 759-766; ABS. FRE; BIBL. 6 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "RAFFINAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REFORMAGE VAPEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ECHANGEUR CHALEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHAUFFAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HELIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE DYNAMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REFINING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STEAM REFORMING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEAT EXCHANGER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SPACE HEATING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HELIUM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY"
+        },
+        "001D06: Energie / Energy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0273903"
+}

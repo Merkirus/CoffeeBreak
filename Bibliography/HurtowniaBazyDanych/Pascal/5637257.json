@@ -1,0 +1,230 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Qualité de l'information dispensée par les visiteurs médicaux aux médecins généralistes : réflexions sur l'intérêt de la visite médicale",
+    "dc:creator": "GANDILLET, Stéphane",
+    "dc:contributor": "Université de Nice Sophia Antipolis. Nice (Degree-grantor)",
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Thesis"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "144 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Commerce"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Commercialisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enquête"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude transversale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fiabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Industrie pharmaceutique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Information biomédicale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Laboratoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Médecin généraliste"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Médicament"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prescription"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Qualité"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Commerce"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Marketing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Survey"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cross sectional study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reliability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pharmaceutical industry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biomedical information"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laboratory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "General practitioner"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Drug"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prescription"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quality"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Comercio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Comercialización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Encuesta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio transversal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fiabilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Industria farmacéutica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Información biomédical"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Laboratorio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medico general"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medicamento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prescripción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Calidad"
+        },
+        "002B30A11: Divers / Miscellaneous"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Provence Alpes Côte d'Azur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Alpes Maritimes"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Var"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Provence Alpes Côte d'Azur"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Alpes-Maritimes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Var"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Provence Alpes Côte d'Azur"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alpes Marítimos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Var"
+        }
+    ],
+    "dc:rights": [
+        "Banque de données en santé publique - Ecole des hautes études en santé publique (BDSP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 19684434"
+}

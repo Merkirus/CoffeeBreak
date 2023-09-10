@@ -1,0 +1,81 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "NONLINEAR TRANSIENT PHENOMENA IN SATURED POROUS MEDIA",
+    "dc:creator": "PREVOST JH",
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "COMPUT. METHODS APPL. MECH. ENG.; ISSN 0045-7825; NLD; DA. 1982; VOL. 30; NO 1; PP. 3-18; BIBL. 35 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MATERIAU POREUX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MILIEU SATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REPONSE DYNAMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EQUATION CONSTITUTIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RESOLUTION EQUATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE ELEMENT FINI"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REPONSE STATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "THEORIE MELANGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MECANIQUE SOLIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POROUS MATERIAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SATURATED MEDIUM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DYNAMIC RESPONSE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONSTITUTIVE EQUATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EQUATION RESOLUTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FINITE ELEMENT METHOD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID MECHANICS"
+        },
+        "001B: Physique / Physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL82X0364368"
+}

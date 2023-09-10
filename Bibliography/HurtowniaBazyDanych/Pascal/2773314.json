@@ -1,0 +1,57 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SOLUTION OF THE KONDO PROBLEM",
+    "dc:creator": "ANDREI N",
+    "dc:date": "1982",
+    "dc:type": "Conference Paper",
+    "dc:language": "English",
+    "dc:format": "NORTH-HOLL. MATH. STUD.; ISSN 0304-0208; NLD; DA. 1982; VOL. 61; PP. 169-177; BIBL. 10 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MECANIQUE STATISTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GAZ ELECTRON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTERACTION SPIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROBLEME KONDO"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METROLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE THEORIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STATISTICAL MECHANICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRON GAS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MEASUREMENT SCIENCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THEORETICAL PHYSICS"
+        },
+        "001B: Physique / Physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0028312"
+}

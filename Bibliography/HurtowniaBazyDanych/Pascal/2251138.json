@@ -1,0 +1,63 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ON CRYSTALLINE STRUCTURE OF CARBYNE",
+    "dc:creator": [
+        "KASATOCHKIN VI",
+        "KORSHAK VV",
+        "KUDRYAVTSEV YP",
+        "SLADKOV AM",
+        "STERENBERG IE"
+    ],
+    "dc:date": "1973",
+    "dc:type": "Serial Issue",
+    "dc:language": "English",
+    "dc:format": "CARBON; G.B.; DA. 1973; VOL. 11; NO 1; PP. 70-72; BIBL. 11 REF",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CARBONE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARBYNE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLYMORPHISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EFFET TEMPERATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EFFET PRESSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PARAMETRE CRISTALLIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIFFRACTION RAYON X"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EFFET PRESSION TEMPERATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CRISTALLOGRAPHIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CRISTALLOGRAPHY"
+        },
+        "001B60A: Structure des liquides et des solides; cristallographie / Structure of solids and liquids; crystallography"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7316105892"
+}

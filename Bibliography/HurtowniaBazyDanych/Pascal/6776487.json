@@ -1,0 +1,81 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Localization of winding shorts using fuzzified neural networks. Discussion. Authors' reply",
+    "dc:creator": [
+        "EL-SHARKAWI, M. A",
+        "MARKS, R. J",
+        "OH, S",
+        "HUANG, S. J",
+        "KERSZENBAUM, I",
+        "RODRIGUEZ, A"
+    ],
+    "dc:contributor": [
+        "SANTOSO, N. I (Commentator)",
+        "LAI, L. L (Commentator)",
+        "CHU, K. H (Commentator)",
+        "IEEE/PES Winter meeting (New York NY 1994-01-30)"
+    ],
+    "dc:relation": [
+        "IEEE transactions on energy conversion -- IEEE trans. energy convers, CODEN ITCNE4, ISSN 0885-8969, Vol. 10 (1) , pp. 140-146",
+        "IEEE/PES Winter meeting (New York NY 1994-01-30)"
+    ],
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institute of Electrical and Electronics Engineers",
+    "dc:format": [
+        "print",
+        "17 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse signal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Court circuit"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Détection panne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enroulement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai en champ"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Logique floue"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Machine courant alternatif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Machine synchrone"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau neuronal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Turbogénérateur"
+        },
+        "001D05D01: Machines à courant alternatif / A.c. Machines"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3505556"
+}

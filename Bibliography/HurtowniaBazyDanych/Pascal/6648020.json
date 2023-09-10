@@ -1,0 +1,265 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DBToaster: higher-order delta processing for dynamic, frequently fresh views",
+    "dc:creator": [
+        "KOCH, Christoph",
+        "AHMAD, Yanif",
+        "KENNEDY, Oliver",
+        "NIKOLIC, Milos",
+        "NÖTZLI, Andres",
+        "LUPEI, Daniel",
+        "SHAIKHHA, Amir"
+    ],
+    "dc:contributor": [
+        "MERAL ÖZSOYOGLU, Z (Editor)",
+        "CETINTEMEL, Uğur (Editor)",
+        "DALVI, Nilesh (Editor)",
+        "KORTH, Hank (Editor)",
+        "TUNG, Anthony (Editor)",
+        "VLDB2012 International Conference on Very Large Databases (38 ; Istanbul 2012-08-27)"
+    ],
+    "dc:relation": [
+        "The VLDB journal -- VLDB j, ISSN 1066-8888, Vol. 23 (2) , pp. 253-278",
+        "Best Papers of VLDB 2012"
+    ],
+    "dc:date": "2014",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "26 p. ; 47 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Algorithmique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse temporelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bourse valeurs"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Compilation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Historique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interrogation base donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Maintenance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mise à jour"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode différence finie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Requête à intervalle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Retard"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sémantique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Temps réel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vue incrémentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vue matérialisée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SQL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Algorithmics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Data analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Time analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stock exchange"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Compilation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Case history"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Database query"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Maintenance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Updating"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Finite difference method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Range query"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Delay"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Semantics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Real time"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Incremental view"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Materialized view"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SQL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Compilation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Database queries"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Incremental view maintenance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Materialized views"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Algorítmica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis datos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis temporal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bolsa valores"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Compilación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio histórico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interrogación base datos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mantenimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Actualización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método diferencia finita"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Búsquedas dentro de un rango"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Retraso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Semántica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tiempo real"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vista incremental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vista materializada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "SQL"
+        },
+        "001D02A05: Algorithmique. Calculabilité. Arithmétique ordinateur / Algorithmics. Computability. Computer arithmetics",
+        "001D02B07D: Systèmes d'information. Bases de données / Information systems. Data bases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 28681276"
+}

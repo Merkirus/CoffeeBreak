@@ -1,0 +1,38 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "TERNARY DIFFUSION IN THE 20NE-22NE-CO2 SYSTEM",
+    "dc:creator": [
+        "OISHI Y",
+        "SUGISAKI M",
+        "KAMEI Y",
+        "SHONO Y"
+    ],
+    "dc:date": "1972",
+    "dc:type": "Serial Issue",
+    "dc:language": "English",
+    "dc:format": "BULL. CHEM. SOC. JAP.; JAP.; DA. 1972; VOL. 45; NO 10; PP. 2984-2988; BIBL. 10 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DIFFUSION DANS FLUIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COEFFICIENT AUTO DIFFUSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MELANGE GAZEUX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MELANGE TERNAIRE"
+        },
+        "001B: Physique / Physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7313009906"
+}

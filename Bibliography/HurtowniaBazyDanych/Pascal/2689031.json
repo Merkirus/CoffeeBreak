@@ -1,0 +1,85 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SCLEROSING EPITHELIAL HAMARTOMA",
+    "dc:creator": [
+        "MACDONALD DM",
+        "JONES EW",
+        "MARKS R"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "CLIN. EXPER. DERMATOL.; G.B.; DA. 1977; VOL. 2; NO 2; PP. 153-160; BIBL. 8 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TRICHOEPITHELIOME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANATOMOPATHOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIAGNOSTIC DIFFERENTIEL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TUMEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PEAU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FOLLICULE PILOSEBACE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DERMATOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TRICHOEPITHELIOMA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PATHOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIFFERENTIAL DIAGNOSTIC"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TUMOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SKIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FOLLICLE OF THE PILE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DERMATOLOGY"
+        },
+        "002B08: Dermatologie / Dermatology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7850050172"
+}

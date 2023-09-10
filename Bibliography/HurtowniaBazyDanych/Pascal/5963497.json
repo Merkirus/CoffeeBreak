@@ -1,0 +1,135 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Language architecture : obsolescence and deletions",
+    "dc:creator": "MUXWORTHY, D",
+    "dc:contributor": "WAGENER, Jerry L (Editor)",
+    "dc:relation": "Computer standards & interfaces -- Comput. stand. interfaces, CODEN CSTIEZ, ISSN 0920-5489, Vol. 18 (4) , pp. 303-307",
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse langage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Architecture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Développement verbal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FORTRAN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Langage programmation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Langage évolué"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Programme utilitaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système redondant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Purging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Language analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Architecture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Language development"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FORTRAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Programming language"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High level language"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Utility program"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Data structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Redundant system"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis lenguaje"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arquitectura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desarrollo verbal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "FORTRAN"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lenguaje programación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lenguaje evolucionado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Programa utilitario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estructura datos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema redundante"
+        },
+        "001D02B02: Langages de programmation / Programming languages"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3253909"
+}

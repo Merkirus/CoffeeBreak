@@ -1,0 +1,202 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Self-cleansing sewer design based on sediment transport principles",
+    "dc:creator": [
+        "BUTLER, David",
+        "MAY, Richard",
+        "ACKERS, John"
+    ],
+    "dc:contributor": "DELLEUR, Jacques W (Editor)",
+    "dc:relation": "Journal of hydraulic engineering (New York, N.Y.) -- J. hydraul. eng. (New York, N.Y.), CODEN JHEND8, ISSN 0733-9429, Vol. 129 (4) , pp. 276-282",
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "American Society of Civil Engineers",
+    "dc:format": [
+        "print",
+        "7 p. ; 16 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Conception système"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Configuration lit"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Critère conception"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Egout"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Erosion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude méthode"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nettoyage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau assainissement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Suspension particule"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transport particule"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Autonettoyage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "System design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bedform"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Design criterion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sewer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Erosion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Method study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cleaning"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sewer network"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Particle suspension"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Particle transport"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Erosion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sediment transport"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sewers design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Suspension"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United Kingdom"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Concepción sistema"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Configuración lecho (río)"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Criterio concepción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alcantarillado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Erosión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio método"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Limpieza"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red saneamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Suspensión partícula"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transporte partícula"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works",
+        "001D14E03: Réparation (renforcement, consolidation) / Repair (reinforcement, strenthening)",
+        "001D14K: Assainissement. Construction des égouts / Sewerage. Sewer construction"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Royaume Uni"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United Kingdom"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reino Unido"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14664728"
+}

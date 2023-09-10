@@ -1,0 +1,60 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "BREVET 2.322.714 (A1) (76 26647). - 3 SEPTEMBRE 1976. PROCEDE ET APPAREIL POUR PRODUIRE DES TUYAUX CINTRES EN UNE RESINE SYNTHETIQUE RENFORCEE.",
+    "dc:creator": "USUI (FUMIO)",
+    "dc:date": "sd",
+    "dc:type": "Patent",
+    "dc:language": "French",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PLASTIQUE RENFORCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TUBE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FABRICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CINTRAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE MACROMOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLYMERES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REINFORCED PLASTICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TUBE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ROLL BENDING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MACROMOLECULAR CHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLYMERS"
+        },
+        "001D09: Physicochimie des polymeres / Physicochemistry of polymers"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7760346056"
+}

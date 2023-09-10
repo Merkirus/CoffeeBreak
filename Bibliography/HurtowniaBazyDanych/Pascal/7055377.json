@@ -1,0 +1,105 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Quantum limits in spacetime measurements",
+    "dc:creator": [
+        "JAEKEL, M.-T",
+        "REYNAUD, S"
+    ],
+    "dc:contributor": "Workshop on non-classical light (Corvara 1995-01-28)",
+    "dc:relation": [
+        "Quantum and semiclassical optics -- Quantum semiclassical opt, ISSN 1355-5111, Vol. 7 (4) , pp. 639-647",
+        "Workshop on non-classical light (Corvara 1995-01-28)"
+    ],
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institute of Physics",
+    "dc:format": [
+        "print",
+        "18 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bruit quantique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etat vide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude théorique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fluctuation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gravitation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interférométrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optique quantique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Position"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quantum noise"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vacuum states"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Theoretical study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fluctuations"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gravitation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interferometry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metering"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quantum optics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Positions"
+        },
+        "001B40B50L: Fluctuations quantiques, bruit quantique et sauts quantiques / Quantum fluctuations, quantum noise, and quantum jumps",
+        "4250L:  / Quantum fluctuations, quantum noise, and quantum jumps"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2909800"
+}

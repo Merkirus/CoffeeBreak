@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Image-based 3D corn reconstruction for retrieval of geometrical structural parameters</dc:title>
+  <dc:creator>HAOXING WANG</dc:creator>
+  <dc:creator>WUMING ZHANG</dc:creator>
+  <dc:creator>GUOQING ZHOU</dc:creator>
+  <dc:creator>GUANGJIAN YAN</dc:creator>
+  <dc:creator>CLINTON, Nicholas</dc:creator>
+  <dc:contributor>ZHANG, Jingxiong (Editor)</dc:contributor>
+  <dc:contributor>FOODY, Giles M (Editor)</dc:contributor>
+  <dc:contributor>International Spatial Accuracy Research Association (Organiser of meeting)</dc:contributor>
+  <dc:contributor>International Symposium on Spatial Accuracy Assessment in Natural Resources and Environmental Sciences (Accuracy 2008) (8 ; Shangai 2008-06-25)</dc:contributor>
+  <dc:relation>International journal of remote sensing (Print) -- Int. j. remote sens. (Print), CODEN IJSEDK, ISSN 0143-1161, Vol. 30 (20) , pp. 5505-5513</dc:relation>
+  <dc:relation>Accuracy 2008 : Spatial Accuracy Assessment in Natural Resources and Environmental Sciences</dc:relation>
+  <dc:date>2009</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Conference Paper</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>Taylor &amp; Francis</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>9 p. ; 1/2 p</dc:format>
+  <dc:subject xml:lang="fr">Caractéristique</dc:subject>
+  <dc:subject xml:lang="fr">Caractéristiques</dc:subject>
+  <dc:subject xml:lang="fr">Champ</dc:subject>
+  <dc:subject xml:lang="fr">Direction</dc:subject>
+  <dc:subject xml:lang="fr">Distribution</dc:subject>
+  <dc:subject xml:lang="fr">Feuille végétal</dc:subject>
+  <dc:subject xml:lang="fr">Image</dc:subject>
+  <dc:subject xml:lang="fr">Indice foliaire</dc:subject>
+  <dc:subject xml:lang="fr">Instrumentation</dc:subject>
+  <dc:subject xml:lang="fr">Limitation</dc:subject>
+  <dc:subject xml:lang="fr">Mesure basée sol</dc:subject>
+  <dc:subject xml:lang="fr">Modèle 3 dimensions</dc:subject>
+  <dc:subject xml:lang="fr">Modélisation</dc:subject>
+  <dc:subject xml:lang="fr">Méthode mesure</dc:subject>
+  <dc:subject xml:lang="fr">Paramètre</dc:subject>
+  <dc:subject xml:lang="fr">Personnel scientifique</dc:subject>
+  <dc:subject xml:lang="fr">Phyllotaxie</dc:subject>
+  <dc:subject xml:lang="fr">Précision</dc:subject>
+  <dc:subject xml:lang="fr">Résultat expérimental</dc:subject>
+  <dc:subject xml:lang="fr">Surface foliaire</dc:subject>
+  <dc:subject xml:lang="fr">Système 3 dimensions</dc:subject>
+  <dc:subject xml:lang="fr">Technique</dc:subject>
+  <dc:subject xml:lang="fr">Télédétection</dc:subject>
+  <dc:subject xml:lang="fr">Utilisation</dc:subject>
+  <dc:subject xml:lang="fr">Validation</dc:subject>
+  <dc:subject xml:lang="en">Characteristic</dc:subject>
+  <dc:subject xml:lang="en">Characteristics</dc:subject>
+  <dc:subject xml:lang="en">Field</dc:subject>
+  <dc:subject xml:lang="en">direction</dc:subject>
+  <dc:subject xml:lang="en">distribution</dc:subject>
+  <dc:subject xml:lang="en">Plant leaf</dc:subject>
+  <dc:subject xml:lang="en">Image</dc:subject>
+  <dc:subject xml:lang="en">Leaf area index</dc:subject>
+  <dc:subject xml:lang="en">instruments</dc:subject>
+  <dc:subject xml:lang="en">Limitation</dc:subject>
+  <dc:subject xml:lang="en">Ground based measurement</dc:subject>
+  <dc:subject xml:lang="en">three-dimensional models</dc:subject>
+  <dc:subject xml:lang="en">Modeling</dc:subject>
+  <dc:subject xml:lang="en">Measurement method</dc:subject>
+  <dc:subject xml:lang="en">Parameter</dc:subject>
+  <dc:subject xml:lang="en">Scientific staff</dc:subject>
+  <dc:subject xml:lang="en">Phyllotaxis</dc:subject>
+  <dc:subject xml:lang="en">accuracy</dc:subject>
+  <dc:subject xml:lang="en">Experimental result</dc:subject>
+  <dc:subject xml:lang="en">Leaf area</dc:subject>
+  <dc:subject xml:lang="en">Three dimensional system</dc:subject>
+  <dc:subject xml:lang="en">techniques</dc:subject>
+  <dc:subject xml:lang="en">remote sensing</dc:subject>
+  <dc:subject xml:lang="en">utilization</dc:subject>
+  <dc:subject xml:lang="en">Validation</dc:subject>
+  <dc:subject xml:lang="es">Característica</dc:subject>
+  <dc:subject xml:lang="es">Características</dc:subject>
+  <dc:subject xml:lang="es">Campo</dc:subject>
+  <dc:subject xml:lang="es">Dirección</dc:subject>
+  <dc:subject xml:lang="es">Hoja vegetal</dc:subject>
+  <dc:subject xml:lang="es">Imagen</dc:subject>
+  <dc:subject xml:lang="es">Indice foliar</dc:subject>
+  <dc:subject xml:lang="es">Instrumentación</dc:subject>
+  <dc:subject xml:lang="es">Limitación</dc:subject>
+  <dc:subject xml:lang="es">Medida en tierra</dc:subject>
+  <dc:subject xml:lang="es">Modelo 3 dimensiones</dc:subject>
+  <dc:subject xml:lang="es">Modelización</dc:subject>
+  <dc:subject xml:lang="es">Método medida</dc:subject>
+  <dc:subject xml:lang="es">Parámetro</dc:subject>
+  <dc:subject xml:lang="es">Personal científico</dc:subject>
+  <dc:subject xml:lang="es">Filotaxia</dc:subject>
+  <dc:subject xml:lang="es">Precisión</dc:subject>
+  <dc:subject xml:lang="es">Resultado experimental</dc:subject>
+  <dc:subject xml:lang="es">Superficie foliar</dc:subject>
+  <dc:subject xml:lang="es">Sistema 3 dimensiones</dc:subject>
+  <dc:subject xml:lang="es">Detección a distancia</dc:subject>
+  <dc:subject xml:lang="es">Validación</dc:subject>
+  <dc:subject>001E01M04: Géophysique appliquée / Applied geophysics</dc:subject>
+  <dc:subject>002A14A03: Télédétection, cartes de végétation / Teledetection and vegetation maps</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 22087187</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

@@ -1,0 +1,85 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Influence of design shrinks and proximity influence distance on flattening of optical hierarchy during RET",
+    "dc:creator": [
+        "NISTLER, John L",
+        "DUCKWORTH, Koby"
+    ],
+    "dc:contributor": [
+        "Martin, Patrick M (Editor)",
+        "Naber, Robert J (Editor)",
+        "Society of photo-optical instrumentation engineers (Organiser of meeting)",
+        "Photomask technology (2006)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, pp. 634925.1-634925.9",
+        "Photomask technology 2006 (19-22 September, 2006, Monterey, California, USA)"
+    ],
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "3 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Base donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Photolithographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plus proche voisin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Temps calcul"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Database"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photolithography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nearest neighbour"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computation time"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Base dato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fotolitografía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vecino más cercano"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tiempo computación"
+        },
+        "001D03F17: Fabrication microélectronique (technologie des matériaux et des surfaces) / Microelectronic fabrication (materials and surfaces technology)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 19104051"
+}

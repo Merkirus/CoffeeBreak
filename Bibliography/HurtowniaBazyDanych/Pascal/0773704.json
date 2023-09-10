@@ -1,0 +1,105 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ADVANCES IN GEOPHYSICAL METHODS FOR THE DETECTION OF HYDROCARBONS; PROGRES REALISES DANS LES METHODES GEOPHYSIQUES POUR LA DETECTION DES HYDROCARBURES",
+    "dc:creator": "SAVIT CH",
+    "dc:date": "1979",
+    "dc:type": "Book Chapter",
+    "dc:language": "English",
+    "dc:format": "CONTINENTAL MARGINS GEOLOGICAL AND GEOPHYSICAL RESEARCH NEEDS AND PROBLEMS; USA; WASHINGTON: NATIONAL ACAD. SCI.; DA. 1979; PP. 222-228",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE SISMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HYDROCARBURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MARGE CONTINENTALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRAITEMENT DONNEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRECISION MESURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE EN MER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE MARINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ROCHE CARBONEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ROCHE SEDIMENTAIRE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SEISMIC METHODS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FUEL RESOURCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONTINENTAL MARGIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AUTOMATIC DATA PROCESSING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ACCURACY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MARINE METHODS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MARINE GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORGANIC RESIDUES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SEDIMENTARY ROCKS"
+        },
+        "001E01G: Roches sédimentaires / Sedimentary rocks"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALGEODEBRGM8220055689"
+}

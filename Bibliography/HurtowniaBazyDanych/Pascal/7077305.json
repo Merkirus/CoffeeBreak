@@ -1,0 +1,154 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Scene Simulation of Terahertz Radiation Characteristics of the Armored Vehicle",
+    "dc:creator": [
+        "HE, Ye",
+        "JIANG, Yuesong",
+        "HE, Yuntao"
+    ],
+    "dc:contributor": [
+        "Yao, Jianquan (Editor)",
+        "Liu, Shenggang (Editor)",
+        "Zhang, Xi-Cheng (Editor)",
+        "SPIE (Organiser of meeting)",
+        "Photonics and Optoelectronics Meetings (Wuhan 2008)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, Vol. 7277",
+        "Terahertz science and technology (Photonics and Optoelectronics Meetings (POEM) 2008) -- 0Photonics and Optoelectronics Meetings (POEM) 2008 -- 1POEM 2008"
+    ],
+    "dc:date": "2009",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "727712.1-727712.7 ; 7 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Application militaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Champ température"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composant passif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Domaine fréquence THz"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Formation image"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Imagerie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode optimisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optimisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0130C"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0757"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4230V"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "8920D"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Arrière plan"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Military application"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Temperature distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Passive component"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THz range"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Imaging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Imagery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optimization method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optimization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Background"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aplicación militar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Componente pasivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Imaginería"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método optimización"
+        },
+        "001B00A30C: Actes de congrès / Conference proceedings",
+        "001B00G57: Instrumentation, équipements et techniques en infrarouge, onde submillimétrique, hyperfréquence et radiofréquence / Infrared, submillimeter wave, microwave and radiowave instruments, equipment and techniques",
+        "001B40B30V: Formation et traitement des images / Image forming and processing",
+        "001D17: Techniques et industries diverses / Other techniques and industries"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 21919908"
+}

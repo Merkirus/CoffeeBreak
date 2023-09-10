@@ -1,0 +1,133 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "On the composition of compositional reasoning",
+    "dc:creator": [
+        "FREILING, Felix C",
+        "SANTEN, Thomas"
+    ],
+    "dc:contributor": [
+        "Reussner, Ralf H (Editor)",
+        "Stafford, Judith A (Editor)",
+        "Szyperski, Clemens A (Editor)",
+        "Architecting systems with trustworthy components (2004)"
+    ],
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 137-151",
+        "Architecting systems with trustworthy components (international seminar, Dagstuhl Castle, Germany, December 12-17, 2004)"
+    ],
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Springer",
+        "Springer"
+    ],
+    "dc:format": [
+        "print",
+        "15 p. ; 17 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Architecture système"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composant logiciel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Compositionnalité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Confidentialité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Invariance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système sécurité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sûreté fonctionnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vivacité"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "System architecture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Software component"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Compositionality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Confidentiality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Invariance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Safety systems"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dependability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Liveness"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arquitectura sistema"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Componente logicial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Composiciónalidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Confidencialidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Invarianza"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Seguridad funcionamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vivacidad"
+        },
+        "001D02B09: Génie logiciel / Software engineering",
+        "001D02B10: Performances des systèmes informatiques. Fiabilité / Computer systems performance. Reliability"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 19184350"
+}

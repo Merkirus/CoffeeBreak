@@ -1,0 +1,123 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Energie: les Tchèques redistribuent les cartes; Energy : Czech re-allocate cards",
+    "dc:creator": "PIERSON, J. D",
+    "dc:relation": "L' Observateur de l'OCDE (Print) -- Obs. OCDE (Print), CODEN OBTVAF, ISSN 0304-3398 (191) , pp. 35-38",
+    "dc:date": "1994",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Organisation de coopération et de développement économiques",
+    "dc:format": [
+        "print",
+        "6 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Approvisionnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Environnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Politique énergétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Privatisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prix"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Protection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Supply"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Energy policy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Privatisation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Price"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Protection"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aprovisionamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio ambiente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Política energética"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Precio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Protección"
+        },
+        "001D06: Energie / Energy",
+        "001D06A01B: Politique de l'énergie / Energy policy",
+        "731-: Economie de l'énergie / Energy economics",
+        "731-20: Politique énergétique / Energy policy",
+        "731-2: Politique énergétique / Energy policy"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "République tchèque"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Czech Republic"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "República checa"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3347909"
+}

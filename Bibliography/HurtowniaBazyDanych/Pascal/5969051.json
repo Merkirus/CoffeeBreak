@@ -1,0 +1,66 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Some aspects of scriptural quotation in Piers Plowman : Lady Holy Church",
+    "dc:creator": "ANDERSON, J. J",
+    "dc:contributor": [
+        "RUMBLE, Alexander R (Editor)",
+        "WEINBERG, S. C (Editor)",
+        "ANDERSON, J. J (Editor)",
+        "OWEN-CROCKER, Gale R (Editor)",
+        "G.L. Brook Symposium (2 ; Manchester 1993)"
+    ],
+    "dc:relation": [
+        "Bulletin of the John Rylands University Library of Manchester -- Bull. John Rylands Univ. Libr. Manch, ISSN 0301-102X, Vol. 77 (3) , pp. 19-30",
+        "The Bible and early English literature from the beginnings to 1500"
+    ],
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "John Rylands University Library of Manchester",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Enseignement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Moyen Âge"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Poésie religieuse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Citation latine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Langland (W.)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Teaching"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Middle Ages"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Religious poetry"
+        },
+        "527-: Histoire et sciences des religions / History and sciences of religions",
+        "527-865: Christianisme / Christianity",
+        "527-1080: Etudes littéraires. Textes. Editions / Literary studies. Texts. Editions"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3290483"
+}

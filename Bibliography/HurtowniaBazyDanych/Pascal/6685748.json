@@ -1,0 +1,271 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Elasto-plastic large deflection response of pressure loaded circular plates stiffened by a single diametral stiffener",
+    "dc:creator": [
+        "TURVEY, G. J",
+        "SALEHI, M"
+    ],
+    "dc:contributor": [
+        "NASH, David H (Editor)",
+        "BANKS, William M (Editor)",
+        "LOUGHLAN, Joseph (Editor)",
+        "MACDONALD, Martin (Editor)",
+        "WHEEL, Marcus A (Editor)",
+        "The Thin-Walled Structures. Conference (Glasgow 2007)"
+    ],
+    "dc:relation": [
+        "Thin-walled structures -- Thin-walled struct, CODEN TWASDE, ISSN 0263-8231, Vol. 46 (7-9) , pp. 991-1002",
+        "The Thin-Walled Structures. Conference"
+    ],
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Elsevier Science",
+        "Elsevier Science"
+    ],
+    "dc:format": [
+        "print",
+        "12 p. ; 27 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Appui simple"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Asymétrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Charge répartie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Critère Von Mises"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Elastoplasticité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grande déformation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Inélasticité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode différence finie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode itérative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plaque circulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plaque encastrée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plaque renforcée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plasticité associée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Raidisseur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Section rectangulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure renforcée"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Simple support"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asymmetry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Distributed load"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Von Mises criterion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Elastoplasticity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High strain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inelasticity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Finite difference method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Iterative method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Circular plate"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Clamped plate"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reinforced plate"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Associated plasticity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stiffener"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rectangular cross section"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reinforced structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Deflection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Elasticity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plasticity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plates"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pressure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stiffener"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Apoyo simple"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asimetría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carga repartida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Criterio Von Mises"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Elastoplasticidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gran deformación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inelasticidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método diferencia finita"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método iterativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Placa circular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Placa empotrada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Placa reforzada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Plasticidad asociada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tensor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sección rectangular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estructura reforzada"
+        },
+        "001B40F30C: Elasticité statique (thermoélasticité...) / Static elasticity (thermoelasticity...)",
+        "001B40F30J: Inélasticité (thermoplasticité, viscoplasticité...) / Inelasticity (thermoplasticity, viscoplasticity...)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20463328"
+}

@@ -1,0 +1,73 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A multipole array magnetic spring",
+    "dc:creator": [
+        "ROBERTSON, Will",
+        "CAZZOLATO, Ben",
+        "ZANDER, Anthony"
+    ],
+    "dc:contributor": [
+        "IEEE Magnetics Society (Funder/Sponsor)",
+        "Magnetic Society of Japan (Funder/Sponsor)",
+        "International Magnetics Conference (Nagoya 2005-04-04)"
+    ],
+    "dc:relation": [
+        "IEEE transactions on magnetics -- IEEE trans. magn, CODEN IEMGAQ, ISSN 0018-9464, Vol. 41 (10) , pp. 3826-3828",
+        "Selected papers from the international magnetics conference (Intermag 2005), Nagoya, Japan, April 4-8, 2005"
+    ],
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institute of Electrical and Electronics Engineers",
+    "dc:format": [
+        "print",
+        "3 p. ; 7 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété magnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ressort"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetic properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Springs"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetic forces"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "magnetic levitation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "magnetic spring"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "multipole arrays"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "permanent magnetics"
+        },
+        "001B80A90: Divers / Other topics in materials science"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17231222"
+}

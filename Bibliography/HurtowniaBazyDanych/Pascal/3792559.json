@@ -1,0 +1,41 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "LA PREVISION DU DIAGRAMME DE DIFFRACTION ELECTRONIQUE D'UN MICROCRISTAL.",
+    "dc:creator": [
+        "LARROQUE P",
+        "BRIEU M",
+        "LAFOURCADE L"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "C.R. ACAD. SCI., B; FR.; DA. 1976; VOL. 282; NO 14; PP. 309-312; BIBL. 12 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DIFFRACTOMETRIE ELECTRON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIAGRAMME DIFFRACTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SIMULATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CRISTALLOGRAPHIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CRISTALLOGRAPHY"
+        },
+        "001B60A: Structure des liquides et des solides; cristallographie / Structure of solids and liquids; crystallography"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7640237573"
+}

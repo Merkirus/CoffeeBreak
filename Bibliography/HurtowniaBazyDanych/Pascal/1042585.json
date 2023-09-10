@@ -1,0 +1,72 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "CHARACTERIZATION OF AN ULTRADENSE REPRODUCIBLE Z PINCH.",
+    "dc:creator": [
+        "DUSTON D",
+        "ROCKETT PD",
+        "STEEL DG",
+        "ACKENHUSEN JG",
+        "BACH DR",
+        "DUDERSTADT JJ"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "APPL. PHYS. LETTERS; U.S.A.; DA. 1977; VOL. 31; NO 12; PP. 801-803; BIBL. 7 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PLASMA DENSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FAISCEAU LASER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTERACTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STRICTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STRICTION LONGITUDINALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE EXPERIMENTALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE DES PLASMAS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DENSE PLASMA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LASER BEAM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTERACTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXPERIMENTAL STUDY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PLASMA PHYSICS"
+        },
+        "001B30: Physique atomique et moleculaire / Atomic and molecular physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7830321803"
+}

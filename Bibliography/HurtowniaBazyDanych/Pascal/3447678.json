@@ -1,0 +1,73 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "HEAT TRANSFER FROM TRANSVERSE RIPPED TUBES IN A HENGTH-WISE FLOW; TRANSFERT DE CHALEUR DE TUBES A AILETTES TRANSVERSALES DANS UN ECOULEMENT LONGITUDINAL",
+    "dc:creator": [
+        "JORDANOV P",
+        "DOBREV I"
+    ],
+    "dc:date": "1972",
+    "dc:type": "Article",
+    "dc:language": "Bulgarian",
+    "dc:format": "NAUCH. TRUD. TOPLOTEKH.; BALG.; DA. 1972; VOL. 2; PP. 203-211; ABS. RUSSE ALLEM.; BIBL. 5 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSFERT CHALEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ECOULEMENT FLUIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TUBE AILETTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE EXPERIMENTALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NOMBRE NUSSELT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CORRELATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ECOULEMENT LONGITUDINAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONDUITE CIRCULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE CALCUL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MECANIQUE FLUIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FLUID MECHANICS"
+        },
+        "001B: Physique / Physics",
+        "001D06: Energie / Energy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7670101963"
+}

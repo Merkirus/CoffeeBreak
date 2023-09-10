@@ -1,0 +1,248 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Independent residual analysis for temporally correlated signals",
+    "dc:creator": [
+        "ZHANG, L.-Q",
+        "CICHOCKI, A"
+    ],
+    "dc:contributor": [
+        "Mira, José (Editor)",
+        "Alvarez, José R (Editor)",
+        "IWANN 2003 : international work-conference on artificial and natural neural networks (7 ; Mao 2003-06-03)"
+    ],
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 158-165",
+        "Computational methods in neural modeling (Mao, 3-6 June 2003)"
+    ],
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "8 p. ; 12 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Algorithme apprentissage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse coût"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse signal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Approche probabiliste"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Circuit intégré"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Filtre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fonction coût"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Intelligence artificielle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interconnexion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mélange signal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode séparation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Performance algorithme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Source signal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Séparation aveugle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Séparation source"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement signal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Learning algorithm"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cost analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Signal analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Statistical analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Probabilistic approach"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Integrated circuit"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Filter"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cost function"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Artificial intelligence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interconnection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Signal mixing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Separation method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Algorithm performance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Signal sources"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Blind separation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Source separation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Signal processing"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Algoritmo aprendizaje"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis costo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis de señal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis estadístico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enfoque probabilista"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Circuito integrado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Filtro"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Función coste"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inteligencia artificial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interconexión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mezcla señal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método separación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resultado algoritmo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estabilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Separación ciega"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Separación señal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Procesamiento señal"
+        },
+        "001D02B01: Généralités / General"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15671103"
+}

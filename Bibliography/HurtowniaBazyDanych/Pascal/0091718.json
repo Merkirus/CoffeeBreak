@@ -1,0 +1,95 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE OLDEST KNOWN WELL-PRESERVED RADIOLARIA.",
+    "dc:creator": [
+        "FORTEY RA",
+        "HOLDSWORTH BK",
+        "BR MUS",
+        "DEP PALEONT",
+        "LONDON"
+    ],
+    "dc:date": "1971",
+    "dc:type": "Miscellaneous",
+    "dc:language": "English",
+    "dc:format": "BOLL. SOC. PALEONTOL. ITAL.; ITA; 1971,1972, VOL. 10, NUM. 0001, P. 35 A 41",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "RADIOLARIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORDOVICIEN INF"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CLASSIFICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SVALBARD"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PALEONTOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROTOZOA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRIMAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ARCTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REGIONS POLAIRES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RADIOLARIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LOWER ORDOVICIAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CLASSIFICATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SVALBARD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PALEONTOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        "001E01Q: Paléontologie / Paleontology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number GEODEBRGM722272038"
+}

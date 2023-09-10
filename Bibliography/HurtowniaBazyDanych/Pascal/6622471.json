@@ -1,0 +1,345 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Characterization and composition of heavy metals and persistent organic pollutants in water and estuarine sediments from Gao-ping River, Taiwan",
+    "dc:creator": [
+        "DOONG, Ruey-An",
+        "LEE, Shih-Hui",
+        "LEE, Chun-Chee",
+        "SUN, Yuh-Chang",
+        "WU, Shian-Chee"
+    ],
+    "dc:contributor": [
+        "WU, Rudolf (Editor)",
+        "RICHARDSON, Bruce (Editor)",
+        "LAM, Paul (Editor)",
+        "CONNELL, Des (Editor)",
+        "SCHLENK, Dan (Editor)",
+        "TANABE, Shinsuke (Editor)",
+        "GIESY, John (Editor)",
+        "HUASHENG HONG (Editor)",
+        "International Conference on Marine Pollution and Ecotoxicology (5 ;  2007-06)"
+    ],
+    "dc:relation": [
+        "Marine pollution bulletin -- Mar. pollut. bull, CODEN MPNBAZ, ISSN 0025-326X, Vol. 57 (6-12) , pp. 846-857",
+        "5th International Conference on Marine Pollution and Ecotoxicology"
+    ],
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "12 p. ; 1 p.1/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé organique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polluant organique persistant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Arsenic"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chlore composé organique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé aromatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cours eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Distribution concentration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eau surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Estuaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur anthropique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hydrocarbure chloré"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Inventaire source pollution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métal lourd"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Organochloré"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pesticide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pollution eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polychlorobiphényles"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sédiment"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Variation spatiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Variation temporelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Zone côtière"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Organic compounds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Persistent organic pollutant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Arsenic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Organic chlorine compounds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aromatic compound"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stream"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Concentration distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface water"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Estuaries"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Anthropogenic factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chlorocarbon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pollution source inventory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heavy metal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Organochlorine compounds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pesticides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water pollution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polychlorobiphenyls"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sediments"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spatial variation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Time variation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Coastal zone"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gao-ping River"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heavy metals"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Organochlorine pesticides (OCPs)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Persistent organic pollutants (POPs)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polychlorinated biphenyls (PCBs)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sediments"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Compuesto orgánico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contaminante organico persistente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arsénico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Compuesto aromático"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Curso agua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Distribución concentración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agua superficie"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estuario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor antrópico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hidrocarburo clorado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inventario fuente polución"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metal pesado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Organoclorado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Plaguicida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contaminación agua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polichlorobifenilos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sedimento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Variación espacial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Variación temporal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Zona costera"
+        },
+        "001D16A04C: Eaux continentales superficielles / Continental surface waters",
+        "001D16A04D: Eaux de mer, estuaires / Seawaters, estuaries",
+        "001E01O04: Pollution, géologie de l'environnement / Pollution, environment geology"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Asie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Taiwan"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Taiwan"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Taiwan"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20683611"
+}

@@ -1,0 +1,112 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Dependence of satellite sampling error on monthly averaged rain rates: Comparison of simple models and recent studies",
+    "dc:creator": [
+        "BELL, T. L",
+        "KUNDU, P. K"
+    ],
+    "dc:relation": "Journal of climate -- J. clim, ISSN 0894-8755, Vol. 13 (2) , pp. 449-462",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "American Meteorological Society",
+    "dc:format": [
+        "print",
+        "34 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Carte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Echelle planétaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Erreur échantillonnage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Estimation erreur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Observation par satellite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Télédétection spatiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pluviométrie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Maps"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Planetary scale"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sampling error"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Error estimation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Satellite observation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Space remote sensing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pluviometry"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mapa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Escala planetaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Error muestreo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estimación error"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Observación por satélite"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Teledetección espacial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pluviometría"
+        },
+        "001E02F: Géophysique. Techniques, méthodes, appareillage et modèles / Geophysics. Techniques, methods, instrumentation and models"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1349452"
+}

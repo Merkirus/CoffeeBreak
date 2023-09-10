@@ -1,0 +1,242 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Regulation of the taurine transporter gene in the S3 segment of the proximal tubule",
+    "dc:creator": [
+        "MATSELL, D. G",
+        "BENNETT, T",
+        "HAN, X",
+        "BUDREAU, A. M",
+        "CHESNEY, R. W"
+    ],
+    "dc:contributor": [
+        "French Society of Nephrology (Funder/Sponsor)",
+        "French Society of Nephrology. Meeting (Reims 1996-10-09)"
+    ],
+    "dc:relation": [
+        "Kidney international -- Kidney int, CODEN KDYIA5, ISSN 0085-2538, Vol. 52 (3) , pp. 748-754",
+        "French Society of Nephrology. Meeting"
+    ],
+    "dc:date": "1997",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Nature Publishing",
+    "dc:format": [
+        "print",
+        "29 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Anatomopathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aminoacide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Biologie moléculaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hybridation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunohistochimie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "In situ"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode Northern"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RNA messager"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réabsorption tubulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Taurine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tube proximal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tube rénal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Segment S3"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pathology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aminoacid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Molecular biology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hybridization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immunohistochemistry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "In situ"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Northern blotting"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Messenger RNA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rat"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tubular reabsorption"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Taurine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Proximal tube"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Renal tubule"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anatomía patológica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aminoácido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biología molecular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hibridación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunohistoquímica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "In situ"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "RNA mensajero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reabsorción tubular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Taurina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tubo proximal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Túbulo renal"
+        },
+        "002A18: Vertebres: systeme urinaire / Vertebrates: urinary system"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2837510"
+}

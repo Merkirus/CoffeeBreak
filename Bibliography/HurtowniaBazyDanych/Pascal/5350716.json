@@ -1,0 +1,105 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Effects of roughness pitch of surfaces on their wettability",
+    "dc:creator": [
+        "NAKAE, H",
+        "YOSHIDA, M",
+        "YOKOTA, M"
+    ],
+    "dc:contributor": "International Conference High Temperature Capillarity (4 ; Sanremo 2004-03-31)",
+    "dc:relation": [
+        "Journal of materials science -- J. mater. sci, CODEN JMTSAS, ISSN 0022-2461, Vol. 40 (9-10) , pp. 2287-2293",
+        "International Conference High Temperature Capillarity (4 ; Sanremo 2004-03-31)"
+    ],
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "7 p. ; 19 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude théorique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interface liquide solide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mouillabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mouillage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rugosité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Surface"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Theoretical study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Liquid solid interface"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Models"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wettability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wetting"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Roughness"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surfaces"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interfase líquido sólido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo"
+        },
+        "001B60H45G: Mouillage / Wetting"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17000874"
+}

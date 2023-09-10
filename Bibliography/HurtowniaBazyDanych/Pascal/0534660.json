@@ -1,0 +1,84 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "WIE NUETZLICH IST DIE INTERSAKKADISCHE INTERVALLANALYSE DES VESTIBULAEREN NYSTAGMUS IN DER KLINISCHEN DIAGNOSTIK.; QUELLE EST L'UTILITE DE L'ANALYSE DE L'INTERVALLE ENTRE LES SACCADES DU NYSTAGMUS VESTIBULAIRE DANS LE DIAGNOSTIC CLINIQUE.",
+    "dc:creator": [
+        "ZANGEMEISTER WH",
+        "BOCK O"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "LARYNGOL. RHINOL. OTOL.; DEU; DA. 1979; VOL. 58; NO 4; PP. 328-335; ABS. ENG; BIBL. 24 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "VESTIBULOMETRIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NYSTAGMUS PROVOQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRONYSTAGMOGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VESTIBULAIRE SYNDROME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIAGNOSTIC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STOMATOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VESTIBULOMETRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NYSTAGMUS TEST"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONYSTAGMOGRAPHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VESTIBULAR SYNDROME"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIAGNOSTIC"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STOMATOLOGY"
+        },
+        "002B13: Gastroenterologie. Foie. Pancreas. Abdomen / Gastroenterology. Liver. Pancreas. Abdomen"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7950362940"
+}

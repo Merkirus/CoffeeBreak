@@ -1,0 +1,56 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DOSAGE SPECTROPHOTOMETRIQUE DE L'ACIDE GLYCYRRHIZIQUE DANS LE TABAC HACHE (ETUDE DES COMPOSANTS DE LA RACINE DE REGLISSE UTILISE POUR AROMATISER LE TABAC II)",
+    "dc:creator": [
+        "SAKAGAMI H",
+        "MORISHITA I"
+    ],
+    "dc:date": "1972",
+    "dc:type": "Serial Issue",
+    "dc:language": "Japanese",
+    "dc:format": "J. AGRIC. CHEM. SOC. JAP.; JAP.; DA. 1972; VOL. 46; NO 9; PP. 443-446; ABS. ANGL.; BIBL. 14REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TABAC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GLYCYRRHIZIQUE ACIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DOSAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROPHOTOMETRIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSITION CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GLYCYRRHIZA GLABRA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LEGUMINOSAE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TOXICOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TOXICOLOGY"
+        },
+        "002B02: Pharmacologie. Traitements medicamenteux / Pharmacology. Drug treatments"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL733308497"
+}

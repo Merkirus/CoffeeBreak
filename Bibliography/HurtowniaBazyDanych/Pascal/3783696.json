@@ -1,0 +1,72 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "LA FRACTION COAGULANTE P.P.S.B.",
+    "dc:creator": [
+        "SOULIER JP",
+        "STEINBUCH M"
+    ],
+    "dc:date": "1975",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "NOUV. PRESSE MED.; FR.; DA. 1975; VOL. 4; NO 36; PP. 2581-2584; BIBL. 28 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "HYPOCOAGULABILITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DEFICIT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FACTEUR COAGULATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PREPARATION CONSERVEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROTHROMBINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROCONVERTINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FACTEUR STUART"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FACTEUR ANTIHEMOPHILIQUE B"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSFUSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HEMATOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEMATOLOGY"
+        },
+        "002B19: Hemopathies / Hematologic and hematopoietic diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7650048773"
+}

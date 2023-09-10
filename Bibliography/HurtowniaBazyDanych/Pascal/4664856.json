@@ -1,0 +1,248 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Identification des enjeux économiques et sociaux de la modernisation du secteur public; Identification of the economic and social stakes of the public sector modernization",
+    "dc:contributor": "Ministère de l'enseignement supérieur et de la recherche (Sponsor)",
+    "dc:creator": "Ministère de la recherche et de la technologie, Département homme, travail, technologies",
+    "dc:date": "1994",
+    "dc:type": [
+        "Text",
+        "Report"
+    ],
+    "dc:identifier": [
+        "REPORTNUMBER MESR - 92-D-0871",
+        "Inist-CNRS record number 101552"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "88 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Allocations familiales"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cadre supérieur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Comparaison internationale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fonction publique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Formation continue"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gestion du personnel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Informatisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Justice"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modernisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Médiation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Négociation collective"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Partenariat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Police"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Politique de l'environnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Politique urbaine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Port"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Région"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Régulation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Secteur public"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Service public"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Service social"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Syndicat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transport urbain"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Télécommunication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Université"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Usager"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Family allowance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Head manager"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Crossnational Comparisons"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Civil Service"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Continuing Education"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Personnel Management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computerization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Justice"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modernization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mediation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Collective Bargaining"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Partnership"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Police"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Environmental Policy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Urban Policy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Harbour"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Region"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Regulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "State Entreprise"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public Service"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Social Service"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Trade union"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Urban transport"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Telecommunication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "University"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "User"
+        },
+        "521-: Sociologie / Sociology",
+        "521-47A: Sociologie de travail et des organisations / Sociology of work and sociology of organizations",
+        "521-55: Sociologie des organisations et des entreprises. Bureaucratie et administration / Sociology of organizations and enterprises. Bureaucracy and administration",
+        "430A05R:  / Sociology; social studies; welfare studies; social services"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

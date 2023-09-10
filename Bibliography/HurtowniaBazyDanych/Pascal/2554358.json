@@ -1,0 +1,90 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "RADICALS FROM 2-NITROFURAN",
+    "dc:creator": [
+        "CAMAGGI CM",
+        "LUNAZZI L",
+        "PLACUCCI G"
+    ],
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. ORG. CHEM.; U.S.A.; DA. 1974; VOL. 39; NO 16; PP. 2425-2426; BIBL. 8 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "RADICAL LIBRE ORGANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RADICAL LIBRE ANIONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NITRO RADICAL(FURYL-2)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PREPARATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTRE RPE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HETEROCYCLE OXYGENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE MONOCYCLIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PARAMETRE RPE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ISOMERIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE RPE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NITRO(FURYL-\"2\"),RADICAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE ORGANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE MOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE ATOMIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORGANIC CHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOLECULAR PHYSICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ATOMIC PHYSICS"
+        },
+        "001B30: Physique atomique et moleculaire / Atomic and molecular physics",
+        "001C01: Chimie generale et chimie physique / General and physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7517009156"
+}

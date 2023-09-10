@@ -1,0 +1,193 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Radiation induced changes in the solid state detector performance for the Mercury Atmospheric and Surface Composition Spectrometer (MASCS)",
+    "dc:creator": [
+        "TURNER-VALLE, J. A",
+        "DRAKE, V. A",
+        "MCCLINTOCK, W. E",
+        "HOLSCLAW, G",
+        "MAUER, R. H"
+    ],
+    "dc:contributor": [
+        "Johnson, C. Bruce (Editor)",
+        "Sinha, Divyendu (Editor)",
+        "Laplante, Phillip A (Editor)",
+        "International Society for Optical Engineering (Organiser of meeting)",
+        "Low-light-level and real-time imaging systems, components, and applications. Conference (Seattle WA 2002-07-09)"
+    ],
+    "dc:relation": [
+        "SPIE proceedings series -- SPIE proc. ser, pp. 175-183",
+        "Low-light-level and real-time imaging systems, components, and applications (Seattle WA, 9-11 July 2002)"
+    ],
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "9 p. ; 1 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Capteur mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dispositif optoélectronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dégradation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet rayonnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Endommagement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation performance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Instrumentation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Irradiation proton"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Photodiode"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rayonnement ionisant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau capteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau diode"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet verrouillage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measurement sensor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optoelectronic device"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Degradation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiation effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Damaging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Performance evaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Instruments"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Proton irradiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photodiode"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ionizing radiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sensor array"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diode array"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Latchup"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Captador medida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dispositivo optoelectrónico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Degradación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efecto radiación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Deterioración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evaluación prestación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Instrumentación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Irradiación protón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fotodiodo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radiación ionizante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red sensores"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red diodo"
+        },
+        "001D03F15: Dispositifs optoélectroniques / Optoelectronic devices"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15095186"
+}

@@ -1,0 +1,252 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Electroluminescent nematic polymer networks with polarised emission",
+    "dc:creator": [
+        "CONTORET, Adam",
+        "FARRAR, Simon",
+        "JACKSON, Perregrin",
+        "KELLY, Stephen M",
+        "KHAN, Sultan",
+        "NICHOLLS, Edward",
+        "O'NEILL, Mary",
+        "RICHARDS, Gary"
+    ],
+    "dc:contributor": [
+        "KOBAYASHI, Shunsuke (Editor)",
+        "UCHIDA, Tatsuo (Editor)",
+        "YOKOYAMA, Hiroshi (Editor)",
+        "ILCC2000 International Liquid Crystal Conference (18 ; Sendai 2000-07-24)"
+    ],
+    "dc:relation": [
+        "Molecular crystals and liquid crystals science and technology. Section A, Molecular crystals and liquid crystals -- Mol. cryst. liq. cryst. sci. technol., A Mol. cryst. liq. cryst, ISSN 1058-725X, Vol. 364, pp. 511-518",
+        "Proceedings of the 18th International Liquid Crystal Conference, ILCC2000. Part I of V, Sendai, Japan, July 24th-28th, 2000"
+    ],
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Gordon and Breach",
+    "dc:format": [
+        "print",
+        "18 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé bifonctionnel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé mésogène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cyclopolymérisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diène polymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Electroluminescence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etat nématique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthacrylate polymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Photoluminescence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polymère orienté"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polymère réticulé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polymérisation photochimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Préparation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rayonnement polarisé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réticulation photochimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thiophène dérivé polymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fluorène dérivé polymère"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bifunctional compound"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mesogenic compound"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cyclopolymerization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diene polymer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electroluminescence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nematic state"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Methacrylate polymer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photoluminescence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oriented polymer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Crosslinked polymer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photopolymerization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Preparation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polarized radiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photochemical crosslinking"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thiophene derivative polymer"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad óptica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Compuesto bifuncional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Compuesto mesógeno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ciclopolimerización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dieno polímero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Electroluminiscencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estado nemático"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metacrilato polímero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fotoluminiscencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polímero orientado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polímero reticulado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polimerización fotoquímica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Preparación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radiación polarizada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fotorreticulación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tiofeno derivado polímero"
+        },
+        "001D03F15: Dispositifs optoélectroniques / Optoelectronic devices",
+        "001D10A08: Domaines d'application / Application fields"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14128831"
+}

@@ -1,0 +1,200 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Statistical analysis of under-sampled dynamic displacement measurement",
+    "dc:creator": [
+        "INAUDI, D",
+        "CONTE, J. P",
+        "PERREGAUX, N",
+        "VURPILLOT, S"
+    ],
+    "dc:contributor": [
+        "Liu, S.C (Editor)",
+        "International Society for Optical Engineering (Organiser of meeting)",
+        "Society for Experimental Mechanics (Organiser of meeting)",
+        "American Society of Mechanical Engineers (Organiser of meeting)",
+        "BFGoodrich Aerospace (Organiser of meeting)",
+        "Smart systems for bridges, structures, and highways. Conference (San Diego CA 1998-03-04)"
+    ],
+    "dc:relation": [
+        "SPIE proceedings series -- SPIE proc. ser, pp. 104-110",
+        "Smart systems for bridges, structures, and highways (San Diego CA, 4-5 March 1998)"
+    ],
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "11 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse structurale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Capteur déplacement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Charge trafic"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Congrès international"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Courbure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai dynamique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exemple"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fibre optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mesure déformation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mesure statique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Monitorage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pont route"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Statistical analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Structural analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Displacement sensor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Traffic load"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "International conference"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Curvature"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dynamic test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Example"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical fiber"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Deformation measurement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Static measurement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Monitoring"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Road bridge"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis estadístico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis estructural"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transductor desplazamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carga tráfico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Congreso internacional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Curvatura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo dinámico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ejemplo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fibra óptica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medición deformación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medición estatica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Monitoreo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Puente carretera"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works",
+        "001D14A09: Mesures. Techniques expérimentales / Measurements. Technique of testing",
+        "001D14C02: Sollicitations. Sécurité / Stresses. Safety",
+        "001D14M01: Généralités / General"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2289775"
+}

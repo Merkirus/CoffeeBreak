@@ -1,0 +1,83 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Avis présenté au nom de la commission des Affaires sociales sur le projet de loi de finances pour 1995, adopté par l'assemblée nationale. Tome III : politique familiale",
+    "dc:creator": [
+        "CHERIOUX, J",
+        "Sénat. Commission des Affaires sociales. Paris"
+    ],
+    "dc:date": "1994",
+    "dc:type": [
+        "Text",
+        "Book"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Sénat",
+    "dc:format": [
+        "print",
+        "47 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "1995"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Budget"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Politique familiale"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "1995"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Budget"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "1995"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Presupuesto"
+        },
+        "002B30: Sante publique. Hygiene-medecine du travail / Public health. Hygiene-occupational medicine",
+        "002B30A04: Etablissements sanitaires et sociaux / Health and social institutions",
+        "002B30A07: Protection sociale et couverture des risques sociaux (en france et pour les français résidant à l'étranger) / Social services (in france and for the french living abroad)"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francia"
+        }
+    ],
+    "dc:rights": [
+        "Banque de données en santé publique - Ecole des hautes études en santé publique (BDSP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6344161"
+}

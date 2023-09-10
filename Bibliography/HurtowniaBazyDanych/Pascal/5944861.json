@@ -1,0 +1,210 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Biologie moléculaire du poliovirus; Molecular biology of poliovirus",
+    "dc:creator": [
+        "BLONDEL, B",
+        "COUDERC, T",
+        "PAVIO, N",
+        "COLBERE-GARAPIN, F"
+    ],
+    "dc:relation": "Annales de l'Institut Pasteur. Actualités -- Ann. Inst. Pasteur, Actual, ISSN 0924-4204, Vol. 6 (2) , pp. 86-99",
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "173 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Enterovirus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Picornaviridae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Article synthèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Biologie moléculaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Carte génétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cycle développement virus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Génome"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle animal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathogénie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Poliovirus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RNA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure moléculaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Virose"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Enterovirus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Picornaviridae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Review"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Molecular biology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Genetic mapping"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Virus replication cycle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Genome"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Animal model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pathogenesis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Poliovirus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RNA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Molecular structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Viral disease"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enterovirus"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Infección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Picornaviridae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Artículo síntesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biología molecular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mapa genético"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ciclo desarrollo virus"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Genoma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo animal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Patogenia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Poliovirus"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "RNA"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estructura molecular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Virosis"
+        },
+        "002A05C03: Morphologie, structure, composition chimique, propriétés physicochimiques / Morphology, structure, chemical composition, physicochemical properties"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2922973"
+}

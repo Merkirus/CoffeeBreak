@@ -1,0 +1,168 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A novel technology to reduce the pattern effect in all-optical clock recovery using injected mode-locked laser based on SOA",
+    "dc:creator": [
+        "WANG TONG",
+        "LOU CAIYUN",
+        "GAO YIZHI"
+    ],
+    "dc:contributor": [
+        "Chongchen Fan (Editor)",
+        "Kwong, Norman S (Editor)",
+        "International Society for Optical Engineering (Organiser of meeting)",
+        "Passive components and transmission systems. Conference (Beijing 2001-11-12)"
+    ],
+    "dc:relation": [
+        "SPIE proceedings series -- SPIE proc. ser, pp. 170-174",
+        "Passive components and transmission systems (Beijing, 12-15 November 2001)"
+    ],
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "9 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Fabrication microélectronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amplificateur optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amplificateur semiconducteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Circuit tout optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Formation motif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Horloge"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Laser mode bloqué"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Laser semiconducteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mode laser"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polariseur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Reconstitution rythme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microelectronic fabrication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical amplifier"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Semiconductor amplifier"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "All optical circuit"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Patterning"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Clock"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mode locked laser"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Semiconductor laser"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laser mode"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polarizer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Clock recovery"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fabricación microeléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Amplificador óptico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Amplificador semiconductor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Circuito todo óptico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Formacíon motivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reloj"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Laser modo bloqueado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Laser semiconductor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modo láser"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polarizador"
+        },
+        "001D03F17: Fabrication microélectronique (technologie des matériaux et des surfaces) / Microelectronic fabrication (materials and surfaces technology)",
+        "001D03G02C1: Optique intégrée. Fibres et guides d'onde optiques / Integrated optics. Optical fibers and wave guides",
+        "001D03G02C3: Circuits tout optique / All optical circuits"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14053772"
+}

@@ -1,0 +1,92 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "LOW-FREQUENCY SCATTERING BY A SLIT IN A CONDUCTING PLANE",
+    "dc:creator": [
+        "HURD RA",
+        "HAYASHI Y"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "RADIO SCI.; ISSN 0048-6604; USA; DA. 1980; VOL. 15; NO 6; PP. 1171-1178; BIBL. 9 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DIFFRACTION ONDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ONDE ELECTROMAGNETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FENTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ECRAN CONDUCTEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EQUATION INTEGRALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHAMP ELECTROMAGNETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FACTEUR TRANSMISSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ONDE PLANE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WAVE DIFFRACTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROMAGNETIC WAVES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SLOT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONDUCTING SCREEN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTEGRAL EQUATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROMAGNETIC FIELD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TRANSMITTANCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PLANE WAVE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONICS"
+        },
+        "001D03: Electronique / Electronics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8130230794"
+}

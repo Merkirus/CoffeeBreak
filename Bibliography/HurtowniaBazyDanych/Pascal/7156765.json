@@ -1,0 +1,290 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Use of corticosteroids in multiple sclerosis by consultant neurologists in the United Kingdom",
+    "dc:creator": [
+        "TREMLETT, H. L",
+        "LUSCOMBE, D. K",
+        "WILES, C. M"
+    ],
+    "dc:contributor": [
+        "Association of British Neurologists (Funder/Sponsor)",
+        "Association of British Neurologists (Leeds 1998-04-15)"
+    ],
+    "dc:relation": [
+        "Journal of neurology, neurosurgery and psychiatry -- J. neurol. neurosurg. psychiatry, CODEN JNNPAU, ISSN 0022-3050, Vol. 65 (3) , pp. 362-365",
+        "Association of British Neurologists"
+    ],
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "BMJ",
+    "dc:format": [
+        "print",
+        "13 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Maladie inflammatoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système nerveux central pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système nerveux pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chimiothérapie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conduite à tenir"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Corticostéroïde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dose efficace"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Forme clinique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunodépresseur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modalité traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Médecin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Neurologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prescription médicale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recommandation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sclérose en plaque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spécialité médicale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Voie administration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inflammatory disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central nervous system disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nervous system diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemotherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Clinical management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Corticosteroid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Effective dose"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Clinical form"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immunosuppressive agent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Application method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Physician"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neurology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Medical prescription"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Recommendation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multiple sclerosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Medical specialty"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Route of administration"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enfermedad inflamatoria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervosio central patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Quimioterapia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Actitud médica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Corticoesteroide"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dosis eficaz"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Forma clínica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunodepresor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modalidad tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Médico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Neurología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prescripción médica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Recomendación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Esclerosis en placa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Especialidad medical"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vía administración"
+        },
+        "002B02Q: Immunomodulateurs / Immunomodulators"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Royaume Uni"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United Kingdom"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reino Unido"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2363647"
+}

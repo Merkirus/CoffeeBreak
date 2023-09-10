@@ -1,0 +1,57 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "CHANGEMENTS DE CONDUCTIVITE ELECTRIQUE SUR DE PETITS PRELEVEMENTS SUCCESSIFS D'EAU DISTILLEE OU DEMINERALISEE",
+    "dc:creator": "FAUSSURIER A",
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "C.R. ACAD. SCI., C.; FR.; DA. 1976; VOL. 282; NO 2; PP. 73-76; ABS. ANGL.; BIBL. 11 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "EAU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONDUCTIVITE ELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PURETE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOLUTION ELECTROLYTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROCHIMIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE PHYSIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE GENERALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROCHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHYSICAL CHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENERAL CHEMISTRY"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7617012685"
+}

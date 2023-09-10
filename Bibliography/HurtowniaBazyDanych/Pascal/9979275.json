@@ -1,0 +1,232 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Mental health and nutritional status among the adult Serbian minority in Kosovo",
+    "dc:creator": [
+        "SALAMA, P",
+        "SPIEGEL, P",
+        "VAN DYKE, M",
+        "PHELPS, L",
+        "WILKINSON, C"
+    ],
+    "dc:relation": "JAMA, the journal of the American Medical Association -- JAMA j. Am. Med. Assoc, ISSN 0098-7484, Vol. 284 (5) , pp. 578-584",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "American Medical Association",
+    "dc:format": [
+        "print",
+        "30 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nutrition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé publique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Adulte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Complication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epidémiologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etat nutritionnel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ethnie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Guerre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Indice masse corporelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Minorité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Morbidité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Personne âgée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prévalence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble psychiatrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Kosovo"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Serbe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nutrition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adult"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Complication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Epidemiology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nutritional status"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ethnic group"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Evaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "War"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Body mass index"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Minority"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Morbidity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Elderly"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prevalence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mental disorder"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nutrición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud pública"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adulto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Complicación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Epidemiología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estado nutricional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Etnia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evaluación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Guerra"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Indice masa corporal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Minoría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Morbilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anciano"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prevalencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno psiquiátrico"
+        },
+        "002B29B: Enquêtes nutritionnelles. Ressources et besoins alimentaires / Nutritional survey. Food supply and nutritional requirement",
+        "002B30A01A2: Analyse. Etat de santé / Analysis. Health state"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1448270"
+}

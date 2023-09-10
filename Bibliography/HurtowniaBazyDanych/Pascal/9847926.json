@@ -1,0 +1,252 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Contributions to light extinction during project MOHAVE",
+    "dc:creator": [
+        "LOWENTHAL, D. H",
+        "WATSON, J. G",
+        "SAXENA, P"
+    ],
+    "dc:relation": "Atmospheric environment (1994) -- Atmos. environ. (1994), ISSN 1352-2310, Vol. 34 (15) , pp. 2351-2359",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "1 p.1/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Acidité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aérosol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Centrale charbon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffusion optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Extinction optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mécanisme croissance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Parc national"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Particule en suspension"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pollution air"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prévention pollution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Qualité air"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Soufre dioxyde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Source pollution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Visibilité"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Acidity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aerosols"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Coal power plant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical scattering"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical extinction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Growth mechanism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "National park"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Suspended particle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Air pollution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pollution prevention"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Air quality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sulfur dioxide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pollution source"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Visibility"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acidez"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aerosol"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Central carbón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Difusión óptica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Extinción óptica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mecanismo crecimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Parque nacional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Partícula en suspensión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contaminación aire"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prevención polución"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Calidad aire"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dióxido sulfúrico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fuente polución"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Visibilidad"
+        },
+        "001D16C02: Etude de la physicochimie des polluants: propriétés, effets, réactions, transport et distribution / Pollutants physicochemistry study: properties, effects, reactions, transport and distribution",
+        "001E02D06: Particules et aérosols / Particles and aerosols"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats Unis"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Arizona"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grand Canyon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Arizona"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estados Unidos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arizona"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1322893"
+}

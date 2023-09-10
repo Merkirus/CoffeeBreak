@@ -1,0 +1,169 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "High Energy Low-repetition-rate Graphene Mode-locked Er-doped Fiber Lasers",
+    "dc:creator": [
+        "JIAXU",
+        "JIANGLIU",
+        "SIDA WU",
+        "YANG, Quan-Hong",
+        "PU WANG"
+    ],
+    "dc:contributor": [
+        "Amzajerdian, Farzin (Editor)",
+        "Chen, Weibiao (Editor)",
+        "Gao, Chunqing (Editor)",
+        "Xie, Tianyu (Editor)",
+        "Zhongguo yu hang xue hui, Photoelectric Technology Professional Committee (Organiser of meeting)",
+        "Tianjin Jinhang Institute of Technical Physics (Organiser of meeting)",
+        "Science and Technology on Low Light Vision Laboratory (Organiser of meeting)",
+        "Zhongguo yu hang xue hui (Organiser of meeting)",
+        "SPIE (Organiser of meeting)",
+        "International symposium on photoelectronic detection and imaging (Beijing 2011-05-24)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, Vol. 8192",
+        "Laser sensing and imaging; and Biological and medical applications of photonics sensing and imaging (24-26 May 2011, Beijing China) -- 0ISPDI 2011 (laser sensing and imaging, and, Biological and medical applications of photonics sensing and imaging) -- 1Laser sensing and imaging, and, Biological and medical applications of photonics sensing and imaging -- 2Biological and medical applications of photonics sensing and imaging"
+    ],
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "81924B.1-81924B.7 ; 15 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Addition erbium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dispositif optoélectronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Domaine temps ns"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Durée impulsion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Imagerie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Impulsion unique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Laser fibre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pompage par diode"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Puissance sortie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résonateur anneau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0130C"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4230"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4255W"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4255X"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Erbium additions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optoelectronic devices"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ns range"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pulse width"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Imagery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Single pulse"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fiber lasers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diode pumping"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Output power"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ring resonator"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Duración impulso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Imaginería"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Impulsión única"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bombeo por diodo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Potencia salida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resonador anillo"
+        },
+        "001B00A30C: Actes de congrès / Conference proceedings",
+        "001B40B30: Formation des images et traitement optique / Imaging and optical processing",
+        "001B40B55W: Lasers à fibre / Fiber lasers",
+        "001B40B55X: Lasers pompés par diode / Diode-pumped lasers"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 25387347"
+}

@@ -1,0 +1,72 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "PROGRAM RESTRUCTURING IN A MULTILEVEL VIRTUAL MEMORY",
+    "dc:creator": [
+        "LAU EJ",
+        "FERRARI O"
+    ],
+    "dc:date": "1983",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "IEEE TRANSACTIONS ON SOFTWARE ENGINEERING; ISSN 0098-5589; USA; DA. 1983; VOL. 9; NO 1; PP. 69-79; BIBL. 24 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MEMOIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GESTION MEMOIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HIERARCHIE MEMOIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MEMOIRE VIRTUELLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RESTRUCTURATION PROGRAMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INFORMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATHEMATIQUES APPLIQUEES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MEMORY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STORAGE MANAGEMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MEMORY HIERARCHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VIRTUAL MEMORY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COMPUTER SCIENCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "APPLIED MATHEMATICS"
+        },
+        "001A02: Mathematiques / Mathematics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0245205"
+}

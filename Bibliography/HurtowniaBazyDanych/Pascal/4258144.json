@@ -1,0 +1,45 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "INFLUENCE DE LA TENEUR EN AMIDON ET EN PHYTINE SUR LA DESINTEGRATION DES TISSUS DES TUBERCULES DE POMME DE TERRE",
+    "dc:creator": "KOLODZIEJ Z",
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "Polish",
+    "dc:format": "ROCZ. TECHNOL. CHEM. ZYWN.; POLSKA; DA. 1974; VOL. 24; NO 3; PP. 309-319; ABS. ANGL.; BIBL. 22 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "POMME DE TERRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALTERATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSITION CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AMIDON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LEGUME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TECHNOLOGIE ALIMENTAIRE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FOOD SCIENCES"
+        },
+        "002A35: Industries agroalimentaires / Food industries"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7538015096"
+}

@@ -1,0 +1,148 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Endogenous fluorescence lifetime of viable cells by flow cytometry",
+    "dc:creator": [
+        "HOUSTON, Jessica P",
+        "NAIVAR, Mark",
+        "MARTIN, John C",
+        "GODDARD, Greg",
+        "CARPENTER, Susan",
+        "MOURANT, Judith R",
+        "FREYER, James P"
+    ],
+    "dc:contributor": [
+        "Farkas, Daniel L (Editor)",
+        "Leif, Robert C (Editor)",
+        "Nicolau, Dan V (Editor)",
+        "SPIE (Organiser of meeting)",
+        "Imaging, manipulation, and analysis of biomolecules, cells, and tissues (6 ; San Jose CA 2008)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, pp. 68590T.1-68590T.8",
+        "Imaging, manipulation, and analysis of biomolecules, cells, and tissues VI (21-23 January 2008, San Jose, California, USA)"
+    ],
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "22 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Cytométrie flux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cytométrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Domaine temps ns"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Déclin luminescence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Déphasage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fluorescence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fluorophore"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modulation intensité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0130C"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "8764"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Flow cytometry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cytometry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ns range"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Luminescence decay"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phase shift"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fluorescence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fluorophore"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Intensity modulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measuring methods"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rats"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Citometría flujo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Citometría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Decadencia luminiscencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fluoróforo"
+        },
+        "001B00A30C: Actes de congrès / Conference proceedings",
+        "002A08A: Généralités, techniques d'étude, appareils / General aspects, investigation technics, apparatus"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20650045"
+}

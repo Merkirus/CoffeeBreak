@@ -1,0 +1,39 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Capire Wittgenstein. Un centenario e un'antologia",
+    "dc:creator": "BORUTTI, S",
+    "dc:relation": "Aut Aut -- Aut Aut, ISSN 0005-0601 (231) , pp. 120-131",
+    "dc:date": "1989",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "Italian",
+    "dc:publisher": "Nuova Italia",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Etudes récentes"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Wittgenstein, L"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Recent Studies"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wittgenstein, L"
+        },
+        "519-1: Etudes historiques (Histoire de la philosophie. Histoire des idées) / Historical studies (History of philosophy. History of ideas)",
+        "519-1K: XXe siècle / 20th century"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6131390"
+}

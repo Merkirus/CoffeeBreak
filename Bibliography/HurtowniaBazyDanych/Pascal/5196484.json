@@ -1,0 +1,158 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "CT of pelvic fractures",
+    "dc:creator": [
+        "FALCHI, Marco",
+        "ROLLANDI, Gian Andrea"
+    ],
+    "dc:contributor": [
+        "DAWSON, Peter (Editor)",
+        "GRASSI, Roberto (Editor)",
+        "ROMANO, Stefania (Editor)"
+    ],
+    "dc:relation": "European journal of radiology -- Eur. j. radiol, CODEN EJRADR, ISSN 0720-048X, Vol. 50 (1) , pp. 96-105",
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "10 p. ; 18 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Imagerie médicale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Radiodiagnostic"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système ostéoarticulaire pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Blessure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fracture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Médecine nucléaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Radiologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tomodensitométrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traumatisme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Medical imagery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiodiagnosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diseases of the osteoarticular system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Injury"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fracture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nuclear medicine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computerized axial tomography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Trauma"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pelvic fracture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pelvis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Traumatic injuries"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Imaginería médica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radiodiagnóstico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema osteoarticular patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Herida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fractura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medicina nuclear"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radiología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tomodensitometría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Traumatismo"
+        },
+        "002B24: Techniques d'exploration et de diagnostic (generalites) / Investigative techniques, diagnostic techniques (general aspects)",
+        "002B26: Radiotherapie. Traitement instrumental. Physiotherapie. Reeducation. Readaptation, orthophonie, crenotherapie. Traitement dietetique et traitements divers (generalites) / Radiotherapy. Instrumental treatment. Physiotherapy. Reeducation. Rehabilitation, orthophony, crenotherapy. Diet therapy and various other treatments (general aspects)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15623790"
+}

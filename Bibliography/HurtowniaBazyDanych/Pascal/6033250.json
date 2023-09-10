@@ -1,0 +1,105 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Progress in understanding treeing phenomena",
+    "dc:contributor": [
+        "KOSAKI, M (Editor)",
+        "KUDO, K (Editor)",
+        "MUTO, H (Editor)",
+        "OHKI, Y (Editor)",
+        "SHIMIZU, N (Editor)"
+    ],
+    "dc:relation": "IEEE transactions on dielectrics and electrical insulation -- IEEE trans. dielectr. electr. insul, CODEN ITDIES, ISSN 1070-9878, Vol. 5 (5)",
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Serial Issue"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institute of Electrical and Electronics Engineers",
+    "dc:format": [
+        "print",
+        "184 p. ; dissem"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Arborescence hygroscopique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Câble électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Décharge électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Isolation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water treeing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrical cable"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electric discharge"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Insulation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arborescencia higroscópica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cable eléctrico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Descarga eléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aislamiento"
+        },
+        "001B70G: Propriétés et matériaux diélectriques, piézoélectriques et ferroélectriques / Dielectrics, piezoelectrics, and ferroelectrics and their properties",
+        "001D05B: Essais. Fiabilité. Contrôle de qualité / Testing. Reliability. Quality control",
+        "001D05G05: Isolateurs / Insulators"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 444808"
+}

@@ -1,0 +1,121 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The behaviour of LAS inthe environment",
+    "dc:creator": [
+        "BERNA, J. L",
+        "MORENO, A",
+        "FERRER, J"
+    ],
+    "dc:contributor": "SCI conference advances in the detergent industry (Cambridge 1990-03-26)",
+    "dc:relation": [
+        "Journal of chemical technology and biotechnology (1986) -- J. chem. technol. biotechnol. (1986), CODEN JCTBDC, ISSN 0268-2575, Vol. 50 (3) , pp. 387-398",
+        "SCI conference advances in the detergent industry (Cambridge 1990-03-26)"
+    ],
+    "dc:date": "1991",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Wiley",
+    "dc:format": [
+        "print",
+        "17 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Agent surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse quantitative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chromatographie HPLC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dégradation biologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Environnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Monitorage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Alkyl benzène sulfonate"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surfactant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quantitative analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HPLC chromatography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biodegradation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Monitoring"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Soils"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agente superficie"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis cuantitativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cromatografía HPLC"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Degradación biológica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio ambiente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Monitoreo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Suelo"
+        },
+        "001D16B07: Déchets divers et constituants particuliers des déchets / Other wastes and particular components of wastes"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 5429312"
+}

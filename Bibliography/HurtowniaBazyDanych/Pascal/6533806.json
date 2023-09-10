@@ -1,0 +1,332 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Contraintes géographiques et modes d'utilisation des parcelles en élevage bovin laitier et allaitant : Systèmes fourragers, systèmes d'élevage et travail; Geographical constraints and ways of utilizing the fields in the management of dairy cattle and suckler cattle",
+    "dc:creator": [
+        "BRUNSCHWIG, G",
+        "JOSIEN, E",
+        "BERNHARD, C"
+    ],
+    "dc:contributor": "Systèmes fourragers, systèmes d'élevage et travail. Séminaire de l'A.F.P.F. (2005-10-20)",
+    "dc:relation": [
+        "Fourrages (Versailles) -- Fourrages (Versailles), CODEN FOACDS, ISSN 0429-2766 (185) , pp. 83-95",
+        "Systèmes fourragers, systèmes d'élevage et travail. Séminaire de l'A.F.P.F. (2005-10-20)"
+    ],
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Association Française pour la Production Fourragère",
+    "dc:format": [
+        "print",
+        "13 p. ; 17 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Animal élevage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Artiodactyla"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ungulata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Agriculteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aménagement territoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Animal à viande"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bovin laitier"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Elevage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exploitation herbage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plante fourragère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Production laitière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pâturage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Race allaitante"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système culture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Troupeau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exploitation laitière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Production de viande"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gestion du pâturage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "gestion du territoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "gestion du troupeau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "pratiques des agriculteurs"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "production de viande"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "production laitière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "système fourrager"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "travail"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Farming animal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Artiodactyla"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ungulata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Farmer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Area planning"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Meat animals"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dairy cattle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rearing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Grassland management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fodder crop"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Milk production"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Grazing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Suckler breed"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cropping system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Herd"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dairy farms"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Meat production"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Animal cría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Artiodactyla"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ungulata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agricultor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aprovechamiento territorial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Animales de carne"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ganado de leche"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Manejo de praderas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Planta forrajera"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Producción lechera"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pastoreo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Raza lactante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema cultural"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rebaño"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Granjas lecheras"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Producción de carne"
+        },
+        "002A32C04A: Généralités. Systèmes et modes de culture / Generalities. Cropping systems and patterns",
+        "002A36C03: Vertébrés / Vertebrates"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe Ouest"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Western Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa del Oeste"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francia"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17649962"
+}

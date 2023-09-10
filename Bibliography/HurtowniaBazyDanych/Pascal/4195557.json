@@ -1,0 +1,67 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ETUDE DES TITANATES DE POTASSIUM FIBREUX",
+    "dc:creator": [
+        "POKHODNYA IK",
+        "ANELOK LI",
+        "GASIK MI",
+        "MARCHENKO AE",
+        "GORPENYUK VN"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "IZV. AKAD. NAUK SSSR, NEORG. MATER.; ISSN 0002-337X; SUN; DA. 1980; VOL. 16; NO 8; PP. 1435-1439; BIBL. 6 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TITANATE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POTASSIUM TITANATE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FIBRE MINERALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE GENERALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TYPE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUSTRIE CHIMIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TITANATES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MINERAL FIBER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENERAL STUDY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TYPE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL INDUSTRY"
+        },
+        "001D07: Genie chimique / Chemical engineering"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8130191941"
+}

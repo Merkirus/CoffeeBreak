@@ -1,0 +1,153 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Picosecond X-ray diffraction studies of shocked single crystals",
+    "dc:creator": [
+        "WARK, J. S",
+        "BELAK, J. K",
+        "HOLIAN, B. L",
+        "KADAU, K",
+        "KALANTAR, D. H",
+        "LOMDAHL, P. S",
+        "LORENZANA, H. E",
+        "MEYERS, M. A",
+        "MURPHY, W",
+        "PARK, N",
+        "REMINGTON, B. A",
+        "ROSOLANKOVA, K",
+        "COLLINS, G. W",
+        "RUDD, R. E",
+        "SCHNEIDER, M. S",
+        "SHEPPARD, J",
+        "STOLKEN, J. S",
+        "COLVIN, J. D",
+        "DAVIES, H. M",
+        "DUCHAINEAU, M",
+        "EGGERT, J. H",
+        "GERMANN, T. C",
+        "HAWRELIAK, J",
+        "HIGGINBOTHAM, A"
+    ],
+    "dc:contributor": [
+        "Phipps, Claude R (Editor)",
+        "Society of Photo-optical Instrumentation Engineers (Organiser of meeting)",
+        "Los Alamos National Laboratory (Organiser of meeting)",
+        "Air Force Research Laboratory, Edwards Air Force Base California (Organiser of meeting)",
+        "European Office of Aerospace Research and Development (Organiser of meeting)",
+        "High-power laser ablation. Conference (6 ;  2006)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X",
+        "High-power laser ablation VI (7-12 May, 2006, Taos, New Mexico, USA)"
+    ],
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "vol1, 62610T.1-62610T.12 ; 31 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Cuivre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffraction RX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Domaine temps ps"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fer"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Laser puissance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matière plastique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Monocristal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode ablation laser"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Onde choc"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plasma"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rayon X"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4262C"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Copper"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "XRD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ps range"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Iron"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High-power lasers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plastics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Monocrystals"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laser ablation technique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Shock waves"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plasma"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "X radiation"
+        },
+        "001B40B62C: Applications industrielles / Industrial applications"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18244909"
+}

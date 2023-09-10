@@ -1,0 +1,291 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Cell growth kinetics of the human cell line colo-205 irradiated with photons and Astatine-211 alpha-particles",
+    "dc:creator": [
+        "PALM, S",
+        "ANDERSSON, H",
+        "BÄCK, T",
+        "CLAESSON, I",
+        "DELLE, U",
+        "HULTBORN, R",
+        "JACOBSSON, L",
+        "KÖPF, I",
+        "LINDEGREN, S"
+    ],
+    "dc:relation": "Anticancer research -- Anticancer res, ISSN 0250-7005, Vol. 20 (3A) , pp. 1807-1812",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "International Institute of Anticancer Research",
+    "dc:format": [
+        "print",
+        "15 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil digestif pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Côlon pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Intestin pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rectum pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tumeur maligne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Adénocarcinome"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Astate"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cinétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Côlon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Débit dose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "In vitro"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Irradiation ionisante"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lignée cellulaire établie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Multiplication cellulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Particule alpha"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Photon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Radioisotope"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Radiothérapie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rectum"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lignée Colo 205"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Digestive diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Colonic disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Intestinal disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rectal disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Malignant tumor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adenocarcinoma"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Astatine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Kinetics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Colon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dose rate"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "In vitro"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ionizing irradiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Established cell line"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cell proliferation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Alpha particle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radioisotope"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiotherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rectum"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato digestivo patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Colón patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Intestino patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Recto patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tumor maligno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adenocarcinoma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Astato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cinética"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Colón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Flujo dosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "In vitro"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Irradiación ionizante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Línea celular establecida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Multiplicación celular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Partícula alfa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fotón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radionúclido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radioterapia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Recto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        "002B26F: Maladies de l'appareil digestif / Diseases of the digestive system"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1464485"
+}

@@ -1,0 +1,100 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ON-LINE AUTOMATIC CONTINGENCY SELECTION ALGORITHMS",
+    "dc:creator": [
+        "VEMURI S",
+        "USHER RE"
+    ],
+    "dc:date": "1983",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "IEEE TRANSACTIONS ON POWER APPARATUS AND SYSTEMS; ISSN 0018-9510; USA; DA. 1983; VOL. 102; NO 2; PP. 346-354; BIBL. DISSEM.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "RESEAU ELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMMANDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ESTIMATION ETAT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EN LIGNE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRAITEMENT INFORMATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FIABILITE OPERATIONNELLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CAPACITE CHARGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REGIME PERTURBE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTERRUPTION SERVICE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROMAGNETISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROTECHNIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRICAL NETWORK"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONTROL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STATE ESTIMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ON LINE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFORMATION PROCESSING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPERATING RELIABILITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LOAD CAPACITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROMAGNETISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRICAL ENGINEERING"
+        },
+        "001D05: Electrotechnique. Electroenergetique / Electrical engineering. Electrical power engineering"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0287168"
+}

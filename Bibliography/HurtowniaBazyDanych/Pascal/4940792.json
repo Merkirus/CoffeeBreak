@@ -1,0 +1,229 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "MR examination of an atypical tethered cord",
+    "dc:creator": [
+        "DUPREZ, T",
+        "LOKIETEK, W"
+    ],
+    "dc:contributor": [
+        "BEECKMANS, K (Editor)",
+        "VANCOILLIE, P (Editor)",
+        "HAUMAN",
+        "Symposium on Temporal Lobe Disorders (Elewijt 1995-10-20)"
+    ],
+    "dc:relation": [
+        "Acta neurologica belgica -- Acta neurol. belg, CODEN ANUBBR, ISSN 0300-9009, Vol. 96 (1) , pp. 65-68",
+        "Symposium on Temporal Lobe Disorders"
+    ],
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Acta medica belgica",
+    "dc:format": [
+        "print",
+        "3 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Imagerie médicale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Maladie congénitale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Malformation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Moelle épinière pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rachis pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système nerveux central pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système nerveux pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système ostéoarticulaire pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Adhérence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cône terminal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude cas"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Femelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Filum terminale syndrome"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Imagerie RMN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spina bifida occulta"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Medical imagery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Congenital disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Malformation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spinal cord disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spine disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central nervous system disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nervous system diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diseases of the osteoarticular system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adhesion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Conus medullaris"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Case study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Female"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tethered cord syndrome"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nuclear magnetic resonance imaging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spina bifida occulta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Imageneria medical"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enfermedad congénita"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Malformación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Médula espinal patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Raquis patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervosio central patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema osteoarticular patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adherencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cono terminal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio caso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hembra"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Filum terminale síndrome"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Imageria RMN"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Espina bífida oculta"
+        },
+        "002B17D: Malformations du système nerveux / Malformations of the nervous system"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1338817"
+}

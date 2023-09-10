@@ -1,0 +1,77 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE CONSTRUCTION OF REDUCIBLE QUADRATURE RULES FOR VOLTERRA INTEGRAL AND INTEGRO-DIFFERENTIAL EQUATIONS",
+    "dc:creator": "WOLKENFELT PHM",
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "IMA J. NUMER. ANAL.; ISSN 0272-4979; GBR; DA. 1982; VOL. 2; NO 2; PP. 131-152; BIBL. 21 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "EQUATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EQUATION INTEGRALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EQUATION INTEGRODIFFERENTIELLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FORMULE QUADRATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EQUATION VOLTERRA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE PAS A PAS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE NUMERIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATHEMATIQUES APPLIQUEES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EQUATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTEGRAL EQUATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTEGRODIFFERENTIAL EQUATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "QUADRATURE FORMULA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VOLTERRA EQUATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NUMERICAL ANALYSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "APPLIED MATHEMATICS"
+        },
+        "001A02: Mathematiques / Mathematics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL82X0328844"
+}

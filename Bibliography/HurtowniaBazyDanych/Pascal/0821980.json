@@ -1,0 +1,197 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "AN ESR EXPERIMENT OF HEMOGLOBIN.",
+    "dc:creator": [
+        "SUDA N",
+        "HIDAKA T"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "CHEM. PHYS. LETTERS; NLD; DA. 1978; VOL. 55; NO 2; PP. 383-385; BIBL. 19 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "FER COMPOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPLEXE METALLIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOLUTION AQUEUSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FACTEUR LANDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTRE RPE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE RPE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FER II COMPLEXE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HEMOGLOBINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PORPHYRINE METALLIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GLOBINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROTOPORPHYRINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE MINERAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OXYGENATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHEMOGLOBINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OXYHEMOGLOBINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOUSUNITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OLIGOMERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HEMOPROTEINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE HERTZIENNE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE MOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE ATOMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOCHIMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IRON COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AQUEOUS SOLUTIONS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EPR SPECTRA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EPR SPECTROMETRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEMOGLOBIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METALLOPORPHYRIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GLOBIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PROTOPORPHYRIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INORGANIC COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OXYGENATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METHEMOGLOBIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OXYHEMOGLOBIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SUBUNIT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OLIGOMER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEMOPROTEIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RADIOFREQUENCY SPECTROMETRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RADIO-FREQUENCY SPECTR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOLECULAR PHYSICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ATOMIC PHYSICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOCHEMISTRY"
+        },
+        "001B30: Physique atomique et moleculaire / Atomic and molecular physics",
+        "002A02: Biochimie analytique, structurale et metabolique / Analytical, structural and metabolic biochemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7940015598"
+}

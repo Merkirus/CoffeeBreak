@@ -1,0 +1,160 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Distributed MD4 password hashing with grid computing package BOINC",
+    "dc:creator": [
+        "PELLICER, Stephen",
+        "YI PAN",
+        "MINYI GUO"
+    ],
+    "dc:contributor": [
+        "Hai Jin (Editor)",
+        "Yi Pan (Editor)",
+        "Nong Xiao (Editor)",
+        "Sun, Jianhua (Editor)",
+        "International conference on grid and cooperative computing (3 ; Wuhan 2004-10-21)"
+    ],
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 679-686",
+        "GCC 2004 : grid and cooperative computing (Wuhan, 21-24 October 2004)"
+    ],
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "8 p. ; 6 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Algorithme réparti"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Calcul parallèle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Calcul réparti"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrôle accès"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cryptographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grille"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hachage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Progiciel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système réparti"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sécurité informatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MD4 password"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Distributed algorithm"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Parallel computation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Distributed computing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Access control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cryptography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Grid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hashing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Software package"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Distributed system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computer security"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Algoritmo repartido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cálculo paralelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cálculo repartido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Criptografía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rejilla"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hashing"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Paquete programa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema repartido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Seguridad informatica"
+        },
+        "001D02B04: Systèmes informatiques et systèmes répartis. Interface utilisateur / Computer systems and distributed systems. User interface",
+        "001D04A04E: Cryptographie / Cryptography"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16442879"
+}

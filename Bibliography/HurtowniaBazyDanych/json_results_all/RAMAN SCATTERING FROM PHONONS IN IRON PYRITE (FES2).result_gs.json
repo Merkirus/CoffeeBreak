@@ -1,0 +1,29 @@
+[
+    {
+        "position": 0,
+        "title": "Raman scattering from phonons in iron pyrite (FeS2)",
+        "result_id": "9pYhV-v0ZNEJ",
+        "link": "https://www.sciencedirect.com/science/article/pii/0038109872900130",
+        "snippet": "We have measured the Raman spectra of the phonons in FeS 2 at room temperature, using the 4880\u00c5 and 5145\u00c5 lines of an argon ion laser in reflection from a sample surface. Out of the five distinct phonon lines expected from group theory, we were able to observe two lines of symmetry A g and E g at 351 cm\u2212 1 and 386 cm\u2212 1, and one line of symmetry T g at 443 cm\u2212 1. Two other modes of symmetry T g predicted to be Raman active by group theory were not observed.",
+        "publication_info": {
+            "summary": "S Ushioda - Solid state communications, 1972 - Elsevier"
+        },
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=9pYhV-v0ZNEJ",
+            "cited_by": {
+                "total": 69,
+                "link": "https://scholar.google.com/scholar?cites=15088453943214315254&as_sdt=5,33&sciodt=0,33&hl=en",
+                "cites_id": "15088453943214315254",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=15088453943214315254&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:9pYhV-v0ZNEJ:scholar.google.com/&scioq=RAMAN+SCATTERING+FROM+PHONONS+IN+IRON+PYRITE+(FES2).&hl=en&as_sdt=0,33",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=related%3A9pYhV-v0ZNEJ%3Ascholar.google.com%2F",
+            "versions": {
+                "total": 3,
+                "link": "https://scholar.google.com/scholar?cluster=15088453943214315254&hl=en&as_sdt=0,33",
+                "cluster_id": "15088453943214315254",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=15088453943214315254&engine=google_scholar&hl=en"
+            }
+        }
+    }
+]

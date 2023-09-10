@@ -1,0 +1,249 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Fixateur externe et fracture du pilon tibial; Mobile articular external fixation : External fixation and fractures of the tibial plafond",
+    "dc:creator": "BIGA, N",
+    "dc:contributor": [
+        "MEYRUEIS, Jean-Paul",
+        "MERLOZ, Philippe"
+    ],
+    "dc:relation": "Cahiers d'enseignement de la SOFCOT -- Cah. enseign. SOFCOT, ISSN 0338-3849, Vol. 58, pp. 185-191",
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "15 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Chirurgie orthopédique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système ostéoarticulaire pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traumatisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Articulation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cheville"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Distal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Externe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fixation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fracture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Indication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Intracapsulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Membre inférieur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Os"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ostéosynthèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tibia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pilon tibial"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Orthopedic surgery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diseases of the osteoarticular system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Trauma"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Joint"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ankle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Distal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "External"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fixation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fracture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Indication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Intracapsular"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lower limb"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bone"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Osteosynthesis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Technique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tibia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cirugía ortopédica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema osteoarticular patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Traumatismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Articulación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tobillo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Distal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Externo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fijación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fractura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Indicación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Intracapsular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Miembro inferior"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hueso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Osteosíntesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Técnica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tibia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        "002B25I: Chirurgie orthopédique / Orthopedic surgery"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2508531"
+}

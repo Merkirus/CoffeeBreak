@@ -1,0 +1,103 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Why should not they benefit from rare books? : Special collections and shaping the learning experience in higher education",
+    "dc:creator": "TORRE, Meredith E",
+    "dc:relation": "Library review (Glasgow) -- Libr. rev. (Glasgow), ISSN 0024-2535, Vol. 57 (1-2) , pp. 36-41",
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Emerald",
+    "dc:format": [
+        "print",
+        "6 p. ; 1/4 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bibliothèque enseignement supérieur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fonds réserve"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fonds spécialisé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Promotion service"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rôle professionnel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Higher education library"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rare books collection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Special holdings"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Services promoting"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Occupational role"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Collections management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Higher education"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Learning"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Undergraduates"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biblioteca enseñanza superior"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fondo libros raros"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fondos especializados"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Promoción servicio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rol profesional"
+        },
+        "001A01B02B1: Acquisition et accès : politique de développement, licences, censure / Acquisition and access: development policy, licenses, censorship",
+        "790-C: Gestion des services d'information / Information service management",
+        "790-C02B01: Acquisition. Politique de développement des collections / Acquisition. Collection development policy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20284236"
+}

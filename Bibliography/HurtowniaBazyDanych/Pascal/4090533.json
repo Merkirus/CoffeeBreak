@@ -1,0 +1,84 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "CORROSION SOUS TENSION DE L'INCONEL 600 ET DE L'INCOLOY 800 DANS NAOH A 40% ET A 140 C",
+    "dc:creator": [
+        "TAKANO M",
+        "KAWASHIMA A"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "Japanese",
+    "dc:format": "CORROS. ENGNG; JPN; DA. 1978; VOL. 27; NO 7; PP. 340-347; ABS. ENG; BIBL. 23 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "SUPERALLIAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CORROSION SOUS TENSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CORROSION PAR LES BASES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HYDROXYDE DE SODIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INCONEL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INCOLOY"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALLIAGE REFRACTAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NICKEL 50-100"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INCONEL 600"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INCOLOY 800"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STRESS CORROSION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INCONEL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INCOLOY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEAT RESISTANT ALLOY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METALLURGY"
+        },
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7900111021"
+}

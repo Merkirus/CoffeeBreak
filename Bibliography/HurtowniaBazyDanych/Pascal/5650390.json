@@ -1,0 +1,117 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Metadata : The content issue",
+    "dc:creator": "MILSTEAD, J. L",
+    "dc:contributor": [
+        "Williams, Martha E (Editor)",
+        "Information Today (Organiser of meeting)",
+        "National online meeting (20 ; New York NY 1999-05-18)"
+    ],
+    "dc:relation": "20th annual national online meeting (New York NY, May 18-20, 1999)",
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Information Today",
+    "dc:format": [
+        "print",
+        "11 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse contenu"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cartographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etiquette"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métadonnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Norme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau WWW"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vocabulaire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Content analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cartography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Label"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metadata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Standards"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "World wide web"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vocabulary"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis contenido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cartografía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Etiqueta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metadatos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Norma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red WWW"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vocabulario"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation",
+        "001A01E02C: Analyse des contenus / Content analysis",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-F: Traitement et recherche d'information / Information processing and retrieval"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2001694"
+}

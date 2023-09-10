@@ -1,0 +1,57 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SEROTYPING OF NON-CHOLERA VIBRIOS",
+    "dc:creator": "SMITH HL JR",
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. CLIN. MICROBIOL.; USA; DA. 1979; VOL. 10; NO 1; PP. 85-90; BIBL. 13 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "VIBRIO"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CLASSIFICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SEROTYPIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BACTERIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROBIOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VIBRIO"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CLASSIFICATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SEROTYPING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BACTERIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROBIOLOGY"
+        },
+        "002B05: Pathologie infectieuse / Infectious diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8050050089"
+}

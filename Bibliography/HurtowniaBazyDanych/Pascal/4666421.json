@@ -1,0 +1,188 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Dominance constraints: Algorithms and complexity",
+    "dc:creator": [
+        "KOLLER, Alexander",
+        "NIEHREN, Joachim",
+        "TREINEN, Ralf"
+    ],
+    "dc:contributor": [
+        "Moortgat, Michael (Editor)",
+        "Logical aspects of computational linguistics. International conference (3 ; Grenoble 1998-12-14)"
+    ],
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 106-125",
+        "LACL'98 : logical aspects of computational linguistics (Grenoble, 14-16 December 1998)"
+    ],
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "20 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Complexité algorithme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dominance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Géométrie finie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Langage programmation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Linguistique mathématique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Problème NP complet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Représentation connaissances"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Satisfaction contrainte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simultanéité informatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure arborescente"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Syntaxe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sémantique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Satisfaisabilité"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Algorithm complexity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dominance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Finite geometry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Programming language"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computational linguistics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NP complete problem"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Knowledge representation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Constraint satisfaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Concurrency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tree structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Syntax"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Semantics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Satisfiability"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Complejidad algoritmo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dominancia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Geometría finita"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lenguaje programación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Linguística matemática"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Problema NP completo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Representación conocimientos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Satisfaccion restricción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simultaneidad informatica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estructura arborescente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sintaxis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Semántica"
+        },
+        "001D02A02: Théorie des langages et analyse syntaxique / Language theory and syntactical analysis"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1017468"
+}

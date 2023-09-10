@@ -1,0 +1,205 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Behavior of Moderately Oscillating Sooting Methane-Air Diffusion Flames",
+    "dc:creator": [
+        "CHARWATH, M",
+        "HENTSCHEL, J",
+        "BOCKHORN, H",
+        "SUNTZ, R"
+    ],
+    "dc:contributor": [
+        "COELHO, P (Editor)",
+        "ROEKAERTS, D (Editor)",
+        "VERVISCH, L (Editor)",
+        "European Community on Computational Methods in Applied Sciences (ECCOMAS) (Organiser of meeting)",
+        "ECCOMAS Conference on Computational Combustion (2 ; Delft 2007-07-18)"
+    ],
+    "dc:relation": [
+        "Flow, turbulence and combustion -- Flow turbul. combust, ISSN 1386-6184, Vol. 82 (4) , pp. 553-569",
+        "Second ECCOMAS Conference on Computational Combustion, Delft, 2007"
+    ],
+    "dc:date": "2009",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "17 p. ; 20 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Chimiluminescence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cinématique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Densité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecoulement gaz"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Flamme diffusion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fraction volumique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthane"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Oscillation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Régime permanent"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Suie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemiluminescence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Kinematics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Density"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gas flow"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diffusion flame"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Volume fraction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measurement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Methane"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oscillation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Steady state"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Soot"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diffusion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Flame"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laminar"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Methane"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oscillating"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Quimioluminiscencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cinemática"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Densidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Flujo gas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Llama difusión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fracción volumétrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metano"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Oscilación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Régimen permanente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hollín"
+        },
+        "001D06: Energie / Energy",
+        "001D06D02E4: Combustion des combustibles gazeux / Combustion of gaseous fuels"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 21749874"
+}

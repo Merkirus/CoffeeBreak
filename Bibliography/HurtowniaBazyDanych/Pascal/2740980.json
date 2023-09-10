@@ -1,0 +1,195 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SILICON-ON-SAPPHIRE FILMS WITH NEGATIVE AND POSITIVE INTERFACIAL CHARGES",
+    "dc:creator": [
+        "TSENG WF",
+        "REPACE JL",
+        "HUGHES HL",
+        "CHRISTOU A"
+    ],
+    "dc:date": "1981",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "THIN SOLID FILMS; ISSN 0040-6090; CHE; DA. 1981; VOL. 82; NO 3; PP. 213-216; BIBL. 5 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "NON METAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE EXPERIMENTALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE SIMS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VITESSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROSCOPIE ELECTRONIQUE TRANSMISSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RETRODIFFUSION RUTHERFORD"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARACTERISTIQUE COURANT TENSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CRISTALLINITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTERFACE SOLIDE SOLIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONTACT ELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONTACT ISOLANT SEMICONDUCTEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TECHNOLOGIE SILICIUM SUR SAPHIR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHARGE ELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COUCHE EPITAXIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DEFAUT CRISTALLIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SILICIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MACLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DEFAUT EMPILEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IMPURETE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SUPPORT SAPHIR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RETRODIFFUSION HELIUM ION ATOMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IMPURETE ALUMINIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CRISTALLOGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NON METAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXPERIMENTAL STUDY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SECONDARY ION MASS SPECTROMETRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VELOCITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TRANSMISSION ELECTRON MICROSCOPY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RUTHERFORD BACKSCATTERING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VOLTAGE CURRENT CURVE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CRYSTALLINITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID SOLID INTERFACE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRIC CONTACT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SEMICONDUCTOR INSULATOR CONTACT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SILICON ON SAPPHIRE TECHNOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRIC CHARGE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTERFACE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EPITAXIAL FILM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CRYSTAL DEFECT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SILICON"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CRISTALLOGRAPHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONICS"
+        },
+        "001B60A: Structure des liquides et des solides; cristallographie / Structure of solids and liquids; crystallography",
+        "001D03: Electronique / Electronics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0027066"
+}

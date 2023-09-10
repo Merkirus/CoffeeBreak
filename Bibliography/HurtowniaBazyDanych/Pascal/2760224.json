@@ -1,0 +1,63 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SMOKING HABITS AND THE LEUKOCYTE COUNT; TABAC ET NOMBRE DE LEUCOCYTES",
+    "dc:creator": [
+        "FRIEDMAN GD",
+        "SIEGELAUB AB",
+        "SELTZER CC",
+        "FELDMAN R",
+        "COLLEN MF"
+    ],
+    "dc:date": "1973",
+    "dc:type": "Serial Issue",
+    "dc:language": "English",
+    "dc:format": "ARCH. ENVIRONMENT. HEALTH; U.S.A.; DA. 1973; VOL. 26; NO 3; PP. 137-143; BIBL. 12REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TABAGISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PATHOLOGIE HUMAINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LEUCOCYTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE STATISTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RACE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SEXE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TAUX SANGUIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SANG"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TOXICOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TOXICOLOGY"
+        },
+        "002B02: Pharmacologie. Traitements medicamenteux / Pharmacology. Drug treatments"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7333016799"
+}

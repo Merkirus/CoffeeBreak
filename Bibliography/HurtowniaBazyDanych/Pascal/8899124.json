@@ -1,0 +1,90 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Factores de influencia en el rendimiento educativo; Facteurs influençant la performance éducative; Effective factors in educational achievment",
+    "dc:creator": "CELORRIO IBANEZ, R",
+    "dc:relation": "Revista de ciencias de la educación (Madrid) -- Rev. cienc. educ. (Madr.), ISSN 0210-9581 (177) , pp. 7-34",
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "Spanish, Castilian",
+    "dc:publisher": "Instituto Calasanz de Ciencias de la Educación",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Choix professionnel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Elève du secondaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enseignement secondaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Performance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Profil d'élève"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stratégie d'apprentissage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Test d'aptitude"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Occupational choice"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Secondary School Student"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Secondary Education"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Performance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Student Profile"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Learning Strategy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aptitude Test"
+        },
+        "520-: Sciences de l'éducation / Educational sciences",
+        "520-263: Travail scolaire. Docimologie. Orientation / School work. Docimology. Guidance",
+        "520-270: Réussite et échec / Success and failure"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Espagne"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spain"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2011724"
+}

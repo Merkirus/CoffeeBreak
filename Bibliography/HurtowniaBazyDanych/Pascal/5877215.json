@@ -1,0 +1,176 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Accès à l'emploi des personnes handicapées dans le secteur privé",
+    "dc:creator": [
+        "Le Défenseur des droits. Paris",
+        "Association Nationale de Gestion du Fonds pour l'Insertion Professionnelle des Handicapés. (A.G.E.F.I.P.H.). Bagneux",
+        "Association des Paralysés de France. (A.P.F.). Paris",
+        "Pôle emploi. Paris",
+        "Union nationale des associations de parents de personnes handicapées mentales et de leurs amis. (U.N.A.P.E.I.). Paris"
+    ],
+    "dc:date": "2012",
+    "dc:type": [
+        "Text",
+        "Book"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "s.n",
+    "dc:format": [
+        "print",
+        "48 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Discrimination"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Handicap"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Intégration sociale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu professionnel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Participation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ressources humaines"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réglementation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Secteur privé"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Discrimination"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Handicap"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Social integration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Occupational environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Participation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human capital"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Regulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Private sector"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Discriminación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Discapacidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Integración social"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio profesional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Participación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Capital humano"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reglamentación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sector privado"
+        },
+        "002B30A11: Divers / Miscellaneous"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nord Pas de Calais"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nord Pas de Calais"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Norte Paso de Calais"
+        }
+    ],
+    "dc:rights": [
+        "Banque de données en santé publique - Ecole des hautes études en santé publique (BDSP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 26699462"
+}

@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "COALCON'S DEMONSTRATION PLANT FOR CLEAN FUELS.",
+    "dc:creator": "MORGAN WD",
+    "dc:date": "1977",
+    "dc:type": "Book Chapter",
+    "dc:language": "English",
+    "dc:format": "IN: COAL PROCESS. TECHNOL. 3; NEW YORK; ANN. INST. CHEM. ENG.; DA. 1977; PP. 140-141",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CARBOCHIMIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LIQUEFACTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HYDROGENATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARBONISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARACTERISTIQUES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETATS UNIS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GAZEIFICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "UNITE DEMONSTRATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROCEDE COALCON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CARBOCHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIQUEFACTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HYDROGENATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CARBONIZATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHARACTERISTICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "UNITED STATES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GASIFICATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY"
+        },
+        "001D06: Energie / Energy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7870038144"
+}

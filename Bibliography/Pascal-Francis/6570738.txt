@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>A parallel algorithm for the simultaneous solution of direct and adjoint multigroup diffusion problems</dc:title>
+  <dc:creator>VARIN, E</dc:creator>
+  <dc:creator>ROY, R</dc:creator>
+  <dc:creator>NKAOUA, T</dc:creator>
+  <dc:contributor>Alexandrov, Vassil (Editor)</dc:contributor>
+  <dc:contributor>Dongarra, Jack (Editor)</dc:contributor>
+  <dc:contributor>European PVM/MPI users' group meeting (5 ; Liverpool 1998-09-07)</dc:contributor>
+  <dc:relation>Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 403-410</dc:relation>
+  <dc:relation>Recent advances in parallel virtual machine and message passing interface (Liverpool, 7-9 September 1998)</dc:relation>
+  <dc:date>1998</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Conference Paper</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>Springer</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>9 ref</dc:format>
+  <dc:subject xml:lang="fr">Algorithme parallèle</dc:subject>
+  <dc:subject xml:lang="fr">Equation diffusion</dc:subject>
+  <dc:subject xml:lang="fr">Performance algorithme</dc:subject>
+  <dc:subject xml:lang="fr">Problème valeur propre</dc:subject>
+  <dc:subject xml:lang="fr">Simulation numérique</dc:subject>
+  <dc:subject xml:lang="en">Parallel algorithm</dc:subject>
+  <dc:subject xml:lang="en">Diffusion equation</dc:subject>
+  <dc:subject xml:lang="en">Algorithm performance</dc:subject>
+  <dc:subject xml:lang="en">Eigenvalue problem</dc:subject>
+  <dc:subject xml:lang="en">Numerical simulation</dc:subject>
+  <dc:subject xml:lang="es">Algoritmo paralelo</dc:subject>
+  <dc:subject xml:lang="es">Ecuación difusión</dc:subject>
+  <dc:subject xml:lang="es">Resultado algoritmo</dc:subject>
+  <dc:subject xml:lang="es">Problema valor propio</dc:subject>
+  <dc:subject xml:lang="es">Simulación numérica</dc:subject>
+  <dc:subject>001D02B08: Simulation / Simulation</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 2290863</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

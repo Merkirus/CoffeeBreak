@@ -1,0 +1,167 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Lebenserwartung in und ohne Pflegebedürftigkeit. Ausmass und Entwicklungstendenzen in Deutschland; Life Expectancy with and without Need for Care. Extent and Development Trends in Germany",
+    "dc:creator": [
+        "UNGER, R",
+        "MÜLLER, R",
+        "ROTHGANG, H"
+    ],
+    "dc:relation": "Das Gesundheitswesen (Stuttgart. Thieme) -- Gesundheitswesen (Stuttg.,Thieme), ISSN 0941-3790, Vol. 73 (5) , pp. 292-297",
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "German",
+    "dc:publisher": "Thieme",
+    "dc:format": [
+        "print",
+        "6 p. ; 19 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Besoin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Compression"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epidémiologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Espérance de vie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Morbidité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé publique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Soin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tendance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Need"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Compression"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Epidemiology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Life expectancy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Morbidity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Care"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Trend"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "care need"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "compression of morbidity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "life expectancy"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Necesidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Compresión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Epidemiología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Esperanza de vida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Morbilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud pública"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuidado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tendencia"
+        },
+        "002B30A01A: Epidémiologie / Epidemiology",
+        "002B30A11: Divers / Miscellaneous",
+        "760-A: Généralités / General aspects",
+        "760-A01: Epidémiologie / Epidemiology",
+        "760-L: Divers / Miscellaneous"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Allemagne"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Germany"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alemania"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 24166067"
+}

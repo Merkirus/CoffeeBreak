@@ -1,0 +1,301 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Family carers' distress and abusive behaviour: longitudinal study",
+    "dc:creator": [
+        "COOPER, Claudia",
+        "BLANCHARD, Martin",
+        "SELWOOD, Amber",
+        "WALKER, Zuzana",
+        "LIVINGSTON, Gill"
+    ],
+    "dc:relation": "British journal of psychiatry (Print) -- Br. j. psychiatry (Print), CODEN BJPYAJ, ISSN 0007-1250, Vol. 196 (JUN) , pp. 480-485",
+    "dc:date": "2010",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Maney",
+    "dc:format": [
+        "print",
+        "6 p. ; 31 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Environnement social"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Maladie dégénérative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie de l'encéphale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie du système nerveux central"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie du système nerveux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble de l'humeur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Victimologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Charge de l'aidant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Démence sénile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Détresse psychologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etat dépressif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude longitudinale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evolution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu familial"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé mentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé publique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Symptomatologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble anxieux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vieillard maltraité"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Social environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Degenerative disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cerebral disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central nervous system disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nervous system diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mood disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Victimology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Caregiver burden"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Senile dementia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Psychological distress"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Depression"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Follow up study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Evolution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Family environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mental health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Symptomatology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Anxiety disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Elderly abuse"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contexto social"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enfermedad degenerativa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Encéfalo patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervosio central patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno humor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Victimologia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sobrecarga del cuidador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Demencia senil"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desamparo psicológico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estado depresivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio longitudinal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evolución"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio familiar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud mental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud pública"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sintomatología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno ansiedad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mayor maltratado"
+        },
+        "002B18H07: Milieu familial. Histoire familiale / Family environment. Family history",
+        "002B18I01: Electroconvulsivothérapie / Electroconvulsive therapy",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry",
+        "770-D08G: Milieu familial. Histoire familiale / Family environment. Family history",
+        "770-D09A: Electroconvulsivothérapie / Electroconvulsive therapy"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Royaume-Uni"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United Kingdom"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reino Unido"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 22789211"
+}

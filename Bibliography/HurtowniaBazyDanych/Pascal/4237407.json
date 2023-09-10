@@ -1,0 +1,165 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "GEOLOGIE ET STRUCTURE DU CHAUDRON PALEOGENE DE HAZA, PREFECTURE DE SHIMANE, SUD OUEST DU JAPON",
+    "dc:creator": [
+        "MURAKAMI N",
+        "IMAOKA T",
+        "IZUTSU K"
+    ],
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "Japanese",
+    "dc:format": "CHISHITSUGAKU ZASSHI M AB.; ISSN 0016-7630; JPN; DA. 1982; VOL. 88; NO 4; PP. 311-319; ABS. ENG; BIBL. 1 P.; 21 ANAL.; 3 TAB. ; ESQUISSE/ESQUISSE GEOL./TABL./ANAL./ILL./COUPE GEOL.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CALDEIRA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PALEOGENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GRANITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIORITE QUARTZIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANDESITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DACITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RHYOLITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE MAJEURS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HONSHU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHAUDRON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HAZA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ROCHES CRISTALLINES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TERTIAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ROCHE IGNEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ROCHE VOLCANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "JAPON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ASIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CALDERAS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PALEOGENE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GRANITES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "QUARTZ DIORITE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANDESITES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DACITES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RHYOLITES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MAJOR ELEMENTS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HONSHU"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CRYSTALLINE ROCKS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TERTIARY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IGNEOUS ROCKS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VOLCANIC ROCKS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "JAPAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ASIA"
+        },
+        "001E02F: Géophysique. Techniques, méthodes, appareillage et modèles / Geophysics. Techniques, methods, instrumentation and models"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALGEODEBRGM8320084375"
+}

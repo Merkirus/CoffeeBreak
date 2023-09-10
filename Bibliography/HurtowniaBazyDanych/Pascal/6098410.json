@@ -1,0 +1,176 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "La ville aux champs",
+    "dc:contributor": [
+        "MARTINEZ, M (Editor)",
+        "DELEBARRE, M (Author of introductory parts)",
+        "Colloque sur la péri-urbanisation((S. l.) 2000-03-07)"
+    ],
+    "dc:creator": "ADEF",
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Conference Proceedings"
+    ],
+    "dc:identifier": [
+        "ISBN 2-905942-37-1",
+        "Inist-CNRS record number 6183210"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "ADEF",
+    "dc:format": [
+        "print",
+        "218 p. ; dissem"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Agriculture suburbaine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Choix de l'habitat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Congrès"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Densité urbaine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exurbanisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Financement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Localisation résidentielle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Logement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mobilité résidentielle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Péri-urbanisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ségrégation résidentielle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transport urbain"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Urbanisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Zone péri-urbaine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conflit d'usage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Espace néo-rural"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Politique publique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Suburban agriculture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Residential choice"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Congress"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Urban density"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Exurban settlement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Financing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Residential location"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Housing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Residential mobility"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Periurban development"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Residential segregation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Urban transport"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Urbanization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Outer conurbation area"
+        },
+        "531-: Bgi / Prodig / Bgi / Prodig",
+        "531-97: Géographie humaine / Human geography",
+        "531-124: Urbanisation. Rapports ville-campagne / Urbanization. Country-town relationships"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats-Unis"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States of America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        }
+    ],
+    "dc:rights": [
+        "Bibliographie Géographique Internationale - Pôle de Recherche pour l'Organisation et la Diffusion de l'Information Géographique (PRODIG)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

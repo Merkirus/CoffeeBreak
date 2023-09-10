@@ -1,0 +1,49 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "TRANSLATING AND ONLINE",
+    "dc:creator": "DUCKITT P",
+    "dc:date": "1981",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "ASLIB PROC.; ISSN 0001-253X; GBR; DA. 1981; VOL. 33; NO 7-8; PP. 290-296; BIBL. 5 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TRADUCTION ASSISTEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACCES INFORMATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MODE CONVERSATIONNEL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCE INFORMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ASSISTED TRANSLATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFORMATION ACCESS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTERACTIVE MODE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFORMATION SCIENCE"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8130402419"
+}

@@ -1,0 +1,188 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SYNCHROTON RADIATION. TECHNIQUES AND APPLICATIONS",
+    "dc:creator": "KUNZ C ED",
+    "dc:date": "1979",
+    "dc:type": "Serial Issue",
+    "dc:language": "English",
+    "dc:format": "TOPICS CURR. PHYS.; DEU; DA. 1979; VOL. 10; XVI-442 P.; BIBL. DISSEM.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "RAYON X MOU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RAYONNEMENT UV EXTREME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ARTICLE SYNTHESE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "APPAREILLAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOURCE RAYONNEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE MESURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPRIETE OPTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LUMINESCENCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EMISSION PHOTOELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REVUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RAYONNEMENT CYCLOTRON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RAYONNEMENT PARTICULE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOURCE UV"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOURCE RX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE ATOMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE MOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RAYONNEMENT SYNCHROTRON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE MOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE ATOMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE SOLIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OPTIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOFT X RAY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VACUUM ULTRAVIOLET RADIATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REVIEW"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RADIATION SOURCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MEASUREMENT METHOD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPTICAL PROPERTIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LUMINESCENCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHOTOELECTRON EMISSION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CYCLOTRON RADIATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PARTICLE RADIATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ULTRAVIOLET SOURCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "X RAY SOURCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ATOMIC PHYSICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOLECULAR PHYSICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SYNCHROTRON RADIATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOLECULAR PHYSICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ATOMIC PHYSICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID PHYSICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPTICS"
+        },
+        "001B: Physique / Physics",
+        "001B30: Physique atomique et moleculaire / Atomic and molecular physics",
+        "001B60: Etat condense: structure, proprietes mecaniques et thermiques / Condensed matter: structure, mechanical and thermal properties",
+        "001D03: Electronique / Electronics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8130036499"
+}

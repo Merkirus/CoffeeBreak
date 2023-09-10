@@ -1,0 +1,93 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "NONLINEAR STERN WAVES",
+    "dc:creator": "VANDEN BROECK JM",
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. FLUID MECH.; GBR; DA. 1980; VOL. 96; NO 3; PP. 603-611; BIBL. 6 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ECOULEMENT SURFACE LIBRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CORPS FLOTTANT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ECOULEMENT AVAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ONDE GRAVITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ONDE SURFACE GRAVITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ONDE NON LINEAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ECOULEMENT POTENTIEL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ECOULEMENT BIDIMENSIONNEL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ECOULEMENT STATIONNAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NOMBRE FRONDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MECANIQUE FLUIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FREE SURFACE FLOW"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FLOATING BODY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GRAVITY WAVE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SURFACE GRAVITY WAVE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NON LINEAR WAVE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POTENTIAL FLOW"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TWO DIMENSIONAL FLOW"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FLUID MECHANICS"
+        },
+        "001B: Physique / Physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8030283471"
+}

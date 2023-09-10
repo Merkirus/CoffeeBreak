@@ -1,0 +1,67 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Engineering hedonic attributes to generate perceptions of luxury : consumer perception of an everyday sound",
+    "dc:creator": [
+        "LAGEAT, T",
+        "CZELLAR, S",
+        "LAURENT, G"
+    ],
+    "dc:contributor": "Groupe HEC (Editor)",
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Book"
+    ],
+    "dc:language": "English",
+    "dc:format": [
+        "print",
+        "23 p. ; 5 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPORTEMENT DU CONSOMMATEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRODUIT DE LUXE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONSUMER BEHAVIOUR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LUXURY PRODUCT"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "COMPORTAMIENTO DEL CONSUMIDOR"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "PRODUCTO DE LUJO"
+        },
+        "616-: Doge / Gestion des entreprises / Doge / Company management",
+        "616-3: Marketing / Marketing"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "FRANCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FRANCE"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "FRANCIA"
+        }
+    ],
+    "dc:rights": [
+        "Documentation en Gestion des Entreprises - Eurofidai (institut européen de données financières) (DOGE)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15244183"
+}

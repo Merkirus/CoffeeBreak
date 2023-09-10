@@ -1,0 +1,257 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A generalized nonlinear IV unit root test for panel data with cross-sectional dependence",
+    "dc:creator": [
+        "SHAOPING WANG",
+        "PENG WANG",
+        "JISHENG YANG",
+        "ZINAI LI"
+    ],
+    "dc:contributor": [
+        "CHEN, Songnian (Editor)",
+        "LI, Qi (Editor)"
+    ],
+    "dc:relation": "Journal of econometrics -- J. econom, CODEN JECMB6, ISSN 0304-4076, Vol. 157 (1) , pp. 101-109",
+    "dc:date": "2010",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "9 p. ; 1/4 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse composante principale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse correspondance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse factorielle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse multivariable"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Distribution statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Econométrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Estimation statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude transversale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Loi limite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Loi normale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Racine unitaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Test hypothèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Théorie approximation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "60Fxx"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "62E17"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "62H25"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Donnée panel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Principal component analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Correspondence analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Factor analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multivariate analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Statistical distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Econometrics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Statistical estimation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cross sectional study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Limit distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gaussian distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Statistical method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Unit root"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hypothesis test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Approximation theory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Panel data"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "C12"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "C33"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cross-sectional dependence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Non-linear instruments"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Panel unit root test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Principal components"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis componente principal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis correspondencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis factorial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis multivariable"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Distribución estadística"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Econometría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estimación estadística"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio transversal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ley límite"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Curva Gauss"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método estadístico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Raíz unitaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simulación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Test hipótesis"
+        },
+        "001A02H01G: Théorèmes limites / Limit theorems",
+        "001A02H02F: Lois de probabilités / Distribution theory",
+        "001A02H02I: Analyse multivariable / Multivariate analysis",
+        "001A02H02N2: Assurances, économie, finance / Insurance, economics, finance"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 22880317"
+}

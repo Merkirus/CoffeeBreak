@@ -1,0 +1,81 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Development of lateral deformation mechanisms around a pile",
+    "dc:creator": [
+        "BRANSBY, M. F",
+        "SPRINGMAN, S. M"
+    ],
+    "dc:contributor": [
+        "PANDE, C. N (Editor)",
+        "PIETRUSZCZAK, S (Editor)",
+        "NUMOG : International symposium numerical models in geomechanics (5 ; Davos 1995-09-06)"
+    ],
+    "dc:relation": "Numerical models in geomechanics",
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "A.A. Balkema",
+    "dc:format": [
+        "print",
+        "Illustration ; 3 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Déformation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mécanique sol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode élément fini"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pieu"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Déformation latérale"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "deformation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "soil mechanics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "finite element analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "piles"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mecánica suelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método elemento finito"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estaca"
+        },
+        "001E01O01: Géotechnique / Engineering geology"
+    ],
+    "dc:rights": [
+        "Bureau de Recherches Géologiques et Minières (BRGM)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6310784"
+}

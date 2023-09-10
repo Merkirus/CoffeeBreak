@@ -1,0 +1,146 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Sydney gay community surveillance report : update to june 1998; Rapport d'enquête sur la communauté homosexuelle de Sydney : mise à jour de juin 1998",
+    "dc:creator": "National Centre in (H.I.V.). Social Research. (N.C.H.S.R.). Sydney",
+    "dc:relation": "SYDNEY GAY COMMUNITY SURVEILLANCE REPORT, ISSN 1325-3883 (7)",
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Serial Issue"
+    ],
+    "dc:language": "English",
+    "dc:format": [
+        "print",
+        "24 p. ; 6 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Virose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bisexualité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Comportement sexuel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homosexualité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Identité personnelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SIDA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sexualité"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Viral disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bisexuality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sexual behavior"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Homosexuality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Personal identity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AIDS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sexuality"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Infección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Virosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bisexualidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conducta sexual"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Homosexualidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Identidad personal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "SIDA"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sexualidad"
+        },
+        "002B30A03C: Divers / Miscellaneous"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Océanie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Australie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oceania"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Australia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Oceania"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Australia"
+        }
+    ],
+    "dc:rights": [
+        "Banque de données en santé publique - Ecole des hautes études en santé publique (BDSP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15299100"
+}

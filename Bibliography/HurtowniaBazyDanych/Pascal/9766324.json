@@ -1,0 +1,131 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Chronique de France; News from France; Cronica de Francia",
+    "dc:creator": "FRANCON, A",
+    "dc:contributor": [
+        "PLATT-HOMMEL, M (Translator)",
+        "MARTINEZ-ARRETZ, J (Translator)"
+    ],
+    "dc:relation": "Revue internationale du droit d'auteur -- Rev. int. droit auteur, CODEN RIDAAM, ISSN 0035-3515 (165) , pp. 94-131",
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": [
+        "English",
+        "French",
+        "Spanish, Castilian"
+    ],
+    "dc:publisher": "Association française pour la diffusion du droit d'auteur national et international",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Droit auteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Jurisprudence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Littérature"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Législation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété intellectuelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Copyright"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Jurisprudence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Literature"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Legislation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Intellectual property"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Properties"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Derecho autor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Jurisprudencía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Literatura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Legislación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad intelectual"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation",
+        "001A01A07: Aspects juridiques : propriété intellectuelle, responsabilité du producteur. Ethique / Legal aspects : intellectual property, producer responsability. Ethics",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-B: Sciences de l'information et des bibliothèques. Etude d'ensemble / Library and information science. General aspects"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francia"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2484947"
+}

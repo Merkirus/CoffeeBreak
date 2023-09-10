@@ -1,0 +1,141 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Centre for software reliability",
+    "dc:creator": "TRIER, H",
+    "dc:contributor": [
+        "LITTLEWOOD, Bev (Editor)",
+        "ANDERSON, Tom (Editor)",
+        "BLOOMFLIED, Robin (Editor)",
+        "MALCOLM, Bob (Editor)",
+        "Centre for Software Reliability (Funder/Sponsor)",
+        "Centre for Software Reliability. Annual conference (9 ; Luxembourg 1992-04-07)"
+    ],
+    "dc:relation": [
+        "Reliability engineering & systems safety -- Reliab. eng. syst. saf, ISSN 0951-8320, Vol. 43 (2) , pp. 221-231",
+        "Software safety"
+    ],
+    "dc:date": "1994",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "13 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Défaut"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Développement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Electronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fiabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Génie logiciel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Intégrité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sécurité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cycle vie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hasard"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Defect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Development"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reliability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Software engineering"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Integrity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Safety"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Defecto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desarrollo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Electrónica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fiabilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ingeniería logiciel"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Integridad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Seguridad"
+        },
+        "001D02B09: Génie logiciel / Software engineering",
+        "001D02B10: Performances des systèmes informatiques. Fiabilité / Computer systems performance. Reliability"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4075783"
+}

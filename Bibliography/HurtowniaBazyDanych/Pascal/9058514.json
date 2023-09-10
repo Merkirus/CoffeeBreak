@@ -1,0 +1,130 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Déprise agricole en Galice",
+    "dc:creator": [
+        "TORRES LUNA, M.P",
+        "BERTRAND, J.R",
+        "LOIS GONZALEZ, R.C",
+        "GOMEZ NIETO, G"
+    ],
+    "dc:relation": "Norois (Caen) -- Norois (Caen), CODEN NOROAU, ISSN 0029-182X, Vol. 40 (158) , pp. 217-233",
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Norois",
+    "dc:format": [
+        "print",
+        "Illustration ; 10 réf"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Diversification"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Déprise agricole"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exploitation agricole"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Paysannerie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Société"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Surface cultivée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système de culture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Taille de l'exploitation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Terre arable"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Utilisation du sol"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diversification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Agricultural retreat"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Farm"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Peasantry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Society"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cultivated surface"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Farming system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Farm size"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Arable land"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Land use"
+        },
+        "531-: Bgi / Prodig / Bgi / Prodig",
+        "531-153: Europe / Europe",
+        "531-264: Galice. Asturies. Cantabria. Pays Basque / Galacia. Asturias. Cantabria. The Basque Country"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Espagne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Galicia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Galicia"
+        }
+    ],
+    "dc:rights": [
+        "Bibliographie Géographique Internationale - Pôle de Recherche pour l'Organisation et la Diffusion de l'Information Géographique (PRODIG)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6076079"
+}

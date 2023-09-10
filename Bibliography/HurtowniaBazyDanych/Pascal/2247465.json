@@ -1,0 +1,72 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ON A METHOD OF DETERMINING FRICTION VELOCITY IN A WIND-WAVE TUNNEL",
+    "dc:creator": [
+        "KONISHI T",
+        "UJI T"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "PAPERS METEOROL. GEOPHYS.; JPN; DA. 1979; VOL. 30; NO 1; PP. 33-41; ABS. JAP; BIBL. 19 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "INTERACTION ATMOSPHERE OCEAN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COUCHE LIMITE ATMOSPHERIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SURFACE MARINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONTRAINTE FROTTEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE CALCUL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MESURE AU LABORATOIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TENSION FROTTEMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OCEAN ATMOSPHERE INTERACTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ATMOSPHERIC BOUNDARY LAYER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SEA SURFACE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FRICTION STRESS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CALCULATING METHOD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LABORATORY MEASUREMENT"
+        },
+        "001E01: Sciences de la terre / Earth sciences"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8030051487"
+}

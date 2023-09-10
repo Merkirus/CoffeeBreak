@@ -1,0 +1,87 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Problèmes posés par la reconnaissance de gestes en Langue des Signes; Problems of gesture recognition in sign language",
+    "dc:creator": "BRUNO, Bossard",
+    "dc:contributor": [
+        "Conférence annuelle sur le traitement automatique des langues naturelles (9 ; Nancy 2002-06-24)",
+        "Rencontre des étudiants chercheurs en informatique pour le traitement automatique des langues (6 ; Nancy 2002-06-24)"
+    ],
+    "dc:relation": "TALN 2002 Recital 2002 (Nancy, 24-27 juin 2002)",
+    "dc:date": "2002",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "INRIA",
+    "dc:format": [
+        "print",
+        "vol1, 445-454 ; 12 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Geste"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Langue des signes"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Linguistique appliquée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Linguistique informatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Reconnaissance automatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement automatique des langues naturelles"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gesture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sign language"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Applied linguistics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computational linguistics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Automatic recognition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Natural language processing"
+        },
+        "524-: Sciences du langage / Linguistics",
+        "524-68: Linguistique appliquée / Applied linguistics",
+        "524-78: Linguistique informatique / Computational linguistics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14215321"
+}

@@ -1,0 +1,131 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Predicting bad credit risk: An evolutionary approach",
+    "dc:creator": [
+        "BEDINGFIELD, Susan E",
+        "SMITH, Kate A"
+    ],
+    "dc:contributor": [
+        "Kaynak, Okyay (Editor)",
+        "Alpaydin, Ethem (Editor)",
+        "Oja, Erkki (Editor)",
+        "Lei Xu (Editor)",
+        "ICANN / ICONIP . Joint international conference (Istanbul 2003-06-26)"
+    ],
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 1081-1088",
+        "Artificial neural networks and neural information processing - ICANN / ICONIP 2003 (Istanbul, 26-29 June 2003)"
+    ],
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "8 p. ; 5 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Algorithme génétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Algorithme évolutionniste"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Classification"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Crédit"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Extraction information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fouille donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Secteur bancaire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Genetic algorithm"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Evolutionary algorithm"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Data analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Classification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Credit"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information extraction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Data mining"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Banking"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Algoritmo genético"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Algoritmo evoluciónista"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis datos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Clasificación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Crédito"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Extracción información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Busca dato"
+        },
+        "001D01A10: Sélection et gestion de portefeuilles / Portfolio theory",
+        "001D02C02: Apprentissage et systèmes adaptatifs / Learning and adaptive systems"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15509819"
+}

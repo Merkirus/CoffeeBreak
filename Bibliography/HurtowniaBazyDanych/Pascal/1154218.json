@@ -1,0 +1,44 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "CONFORMATIONAL STUDIES OF AUSTRALIA ANTIGEN BY OPTICAL ROTATORY DISPERSION AND CIRCULAR DICHROISM",
+    "dc:date": "1972",
+    "dc:type": "Serial Issue",
+    "dc:language": "English",
+    "dc:format": "J. VIROL.; U.S.A.; DA. 1972; VOL. 10; NO 1; PP. 157-158; BIBL. 11REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ANTIGENE ASSOCIE HEPATITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONSTITUTION CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPRIETE PHYSICOCHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MORPHOLOGIE, STRUCTURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DISPERSION OPTIQUE ROTATOIRE ET DICHROISME CIRCULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROBIOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROBIOLOGY"
+        },
+        "002B05: Pathologie infectieuse / Infectious diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL733401947"
+}

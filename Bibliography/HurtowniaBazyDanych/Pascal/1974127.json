@@ -1,0 +1,78 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "LENNERT'S LYMPHOMA PRESENTING WITH CLUSTERS OF CUTANEOUS INFECTION",
+    "dc:creator": [
+        "ZAMORA I",
+        "NUNEZ C",
+        "CHUNG HONG HU"
+    ],
+    "dc:date": "1981",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. AM. ACAD. DERMATOL.; ISSN 0190-9622; USA; DA. 1981; VOL. 5; NO 4; PP. 450-454; BIBL. 19 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "INFECTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LYMPHOME LENNERT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IMMUNODEPRESSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VIROSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BACTERIOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PEAU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DERMATOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HEMATOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LENNERT LYMPHOMA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BACTERIOSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DERMATOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEMATOLOGY"
+        },
+        "002B08: Dermatologie / Dermatology",
+        "002B19: Hemopathies / Hematologic and hematopoietic diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL82X0035602"
+}

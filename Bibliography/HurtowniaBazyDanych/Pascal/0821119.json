@@ -1,0 +1,76 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "AN ENZYMATIC RADIOASSAY FOR GENTAMICIN",
+    "dc:creator": [
+        "CASE RV",
+        "MEZEI LM"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "CLIN. CHEM.; USA; DA. 1978; VOL. 24; NO 12; PP. 2145-2150; BIBL. 16 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ANTIBIOTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE IMMUNOENZYMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DOSAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SERUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LIQUIDE BIOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENTAMICINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AMINOSIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHARMACOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANTIBIOTIC"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENZYME IMMUNOASSAY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANALYTICAL DETERMINATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SERUM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOLOGICAL FLUID"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHARMACOLOGY"
+        },
+        "002B02: Pharmacologie. Traitements medicamenteux / Pharmacology. Drug treatments"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7950247975"
+}

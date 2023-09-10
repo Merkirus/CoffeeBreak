@@ -1,0 +1,53 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE ANALOGUE OF THE BAECKLUND TRANSFORMATION FOR INTEGRABLE MANY-BODY SYSTEMS",
+    "dc:creator": "WOJCIECHOWSKI S",
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. PHYS. A; ISSN 0305-4470; GBR; DA. 1982; VOL. 15; NO 12; PP. L653-L657; BIBL. 5 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "SYSTEME DYNAMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROBLEME N CORPS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSFORMATION BAECKLUND"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METROLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE THEORIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DYNAMIC SYSTEM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "N BODY PROBLEM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MEASUREMENT SCIENCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THEORETICAL PHYSICS"
+        },
+        "001B: Physique / Physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0093849"
+}

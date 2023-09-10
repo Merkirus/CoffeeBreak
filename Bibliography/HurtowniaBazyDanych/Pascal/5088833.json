@@ -1,0 +1,263 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Drug-induced reversible lymphoid dyscrasia: A clonal lymphomatoid dermatitis of memory and activated T cells",
+    "dc:creator": [
+        "MAGRO, Cynthia M",
+        "CROWSON, A. Neil",
+        "KOVATICH, Al J",
+        "BURNS, Frank"
+    ],
+    "dc:contributor": "United States-Canadia Academy of Pathology meeting (Atlanta, GA 2001-03-03)",
+    "dc:relation": [
+        "Human pathology -- Human pathol, CODEN HPCQA4, ISSN 0046-8177, Vol. 34 (2) , pp. 119-129",
+        "United States-Canadia Academy of Pathology meeting (Atlanta, GA 2001-03-03)"
+    ],
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "11 p. ; 59 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Anatomopathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Peau pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Adulte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Biologie moléculaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Clonalité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dermatite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude cas"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunohistochimie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lymphocyte T"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Médicament"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathogénie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Peau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Personne âgée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pseudolymphome"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réversibilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Toxicité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cellule mémoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dyscrasie lymphoïde médicament induite"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pathology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Skin disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adult"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Molecular biology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Clonality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dermatitis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Case study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immunohistochemistry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "T-Lymphocyte"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Drug"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pathogenesis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Skin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Elderly"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pseudolymphoma"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reversibility"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Toxicity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Memory cell"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "drug-induced"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "lymphoid dyscrasia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "pseudolymphoma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anatomía patológica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Piel patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adulto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biología molecular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Clonalidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dermatitis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio caso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunohistoquímica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Linfocito T"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medicamento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Patogenia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Piel"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anciano"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Seudolinfómana"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reversibilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Toxicidad"
+        },
+        "002B02U05: Toxicité: peau, phanère / Toxicity: skin, dermoskeleton",
+        "002B08J: Dermatoses diverses. Peau et pathologie générale. Généralités / Skin involvement in other diseases. Miscellaneous. General aspects"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14606419"
+}

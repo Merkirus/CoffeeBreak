@@ -1,0 +1,139 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Base de données informatives sur les logiciels d'énergétique du bâtiment : le serveur LEB; Information data base on software for building energetics : the LEB computer host",
+    "dc:creator": [
+        "Adolphe, L",
+        "Brasselet, J. P",
+        "Brejon, P",
+        "Calvet, Ph",
+        "Estacaille, J. P",
+        "Flodrops, A",
+        "Association pour la recherche et le développement des processus industriels de l'Ecole des mines",
+        "Ecole nationale supérieure des mines de Paris, Centre d'énergétique"
+    ],
+    "dc:contributor": "Agence française pour la maîtrise de l'énergie (Sponsor)",
+    "dc:date": "1989",
+    "dc:type": [
+        "Text",
+        "Report"
+    ],
+    "dc:identifier": [
+        "REPORTNUMBER AFME - 88-04-0094",
+        "Inist-CNRS record number 85017"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "188 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Base donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Collecte donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Génie climatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Logiciel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rapport technique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Serveur documentaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Télématique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Serveur LEB"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Database"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Data gathering"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Evaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Environmental engineering"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Software"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Technical report"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Host computer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Teleinformatics"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Base dato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Recolección dato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evaluación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ingeniería climática"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Logicial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Informe técnico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Proveedor documental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Telemática"
+        },
+        "001D02B: Logiciel / Software",
+        "001D06D08: Génie climatique / Heating, air conditioning and ventilation",
+        "001D06D08B: Données techniques générales: confort, isolation, charges, etc / Technical data: comfort, insulation, loads, etc",
+        "430A09H:  / Computer software; programming"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

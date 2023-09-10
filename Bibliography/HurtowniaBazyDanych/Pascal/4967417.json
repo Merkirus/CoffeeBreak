@@ -1,0 +1,277 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Extracellular matrix composition and cellular mechanisms of transplant vasculopathy in rat aortic allografts",
+    "dc:creator": [
+        "RELIGA, P",
+        "BOJAKOWSKI, K",
+        "BOJAKOWSKA, M",
+        "GACIONG, Z",
+        "THYBERG, J",
+        "HEDIN, U"
+    ],
+    "dc:contributor": "Congress of the Polish Transplantation Society (5 ; Mikołajki 2001-04-19)",
+    "dc:relation": [
+        "Transplantation proceedings -- Transplant. proc, CODEN TRPPA8, ISSN 0041-1345, Vol. 34 (2) , pp. 687-688",
+        "Congress of the Polish Transplantation Society (5 ; Mikołajki 2001-04-19)"
+    ],
+    "dc:date": "2002",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "10 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Chirurgie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Greffe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vaisseau sanguin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aorte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Artériopathie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Artériosclérose de greffe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Athérosclérose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Greffon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homogreffe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homotransplantation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matrice extracellulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathogénie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transplantation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surgery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Graft"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Blood vessel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aorta"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Arteriopathy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Graft vascular disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Atherosclerosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Composition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Graft(material)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Homograft"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Homotransplantation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Extracellular matrix"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pathogenesis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rat"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transplantation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cirugía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Injerto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vaso sanguíneo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aorta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arteriopatía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arteriosclerosis del injerto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ateroesclerosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Composicion"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Injerto(material)"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Homoinjerto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Homotrasplante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Matriz extracelular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Patogenia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trasplantación"
+        },
+        "002A06F: Immunologie de tissu, d'organe, des greffes / Tissue, organ and graft immunology",
+        "002B25E: Chirurgie cardiaque / Surgery of the heart"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 13684561"
+}

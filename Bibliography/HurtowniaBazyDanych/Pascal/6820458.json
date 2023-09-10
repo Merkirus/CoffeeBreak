@@ -1,0 +1,82 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Properties of low-redshift QSO absorption systems: QSO-galaxy pairs",
+    "dc:creator": "WOMBLE, D. S",
+    "dc:contributor": "Annual Hubble fellous symposium (2 ; Baltimore MD 1992-11-09)",
+    "dc:relation": [
+        "Publications of the Astronomical Society of the Pacific -- Publ. Astron. Soc. Pac, CODEN PASPAU, ISSN 0004-6280, Vol. 105 (691) , pp. 1043-1050",
+        "Annual Hubble fellous symposium (2 ; Baltimore MD 1992-11-09)"
+    ],
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "University of Chicago Press",
+    "dc:format": [
+        "print",
+        "50 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Matière interstellaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Galaxies"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Intensité raie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Quasar"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectre absorption"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gaz interstellaire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interstellar matter"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Galaxies"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Line intensity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quasars"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Absorption spectra"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interstellar gases"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gas interestelar"
+        },
+        "001E03D54A: Quasars / Quasars",
+        "001E03D58A: Propriétés physiques (abondances, densité électronique, champs magnétiques, scintillation, diffusion, cinématique, dynamique, turbulence, etc.) / Physical properties (abundances, electron density, magnetic fields, scintillation, scattering, kinematics, dynamics, turbulence, etc.)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3953803"
+}

@@ -1,0 +1,98 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "RELATIVISTIC ELECTRON BEAM SOURCE WITH AN AIR-CORE STEP-UP TRANSFORMER.",
+    "dc:creator": [
+        "MOHRI A",
+        "IKUTA K",
+        "MASUZAKI M",
+        "TSUZUKI T",
+        "FUJIWAKA S",
+        "UKEGAWA K",
+        "KATO T"
+    ],
+    "dc:date": "1975",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "JAP. J. APPL. PHYS.; JAP.; DA. 1975; VOL. 14; NO 11; PP. 1777-1781; BIBL. 13 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "SOURCE PARTICULE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRON RELATIVISTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENERATEUR FAISCEAU ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FAISCEAU ELECTRON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSFORMATEUR ELEVATEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENERATEUR IMPULSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENERATEUR HAUTE TENSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STRICTION TOROIDALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STRICTION TOKAMAK"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHAUFFAGE PLASMA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHAUFFAGE INJECTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DISPOSITIF SPAC 2"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROMAGNETISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE DES PLASMAS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROMAGNETISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PLASMA PHYSICS"
+        },
+        "001B30: Physique atomique et moleculaire / Atomic and molecular physics",
+        "001D03: Electronique / Electronics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7630124152"
+}

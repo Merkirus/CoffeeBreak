@@ -1,0 +1,100 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Anti-faces for detection",
+    "dc:creator": [
+        "KEREN, D",
+        "OSADCHY, M",
+        "GOTSMAN, C"
+    ],
+    "dc:contributor": [
+        "Vernon, David (Editor)",
+        "ECCV 2000 : European conference on computer vision (6 ; Dublin 2000-06-26)"
+    ],
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743",
+        "Computer vision (Dublin, 26 June - 1 July 2000)"
+    ],
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "vol 1, 134-148 ; 25 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Performance algorithme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Reconnaissance forme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Reconnaissance image"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Reconnaissance objet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Reconnaissance visage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Statistical analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Algorithm performance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pattern recognition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Image recognition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Object recognition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Face recognition"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis estadístico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resultado algoritmo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reconocimiento patrón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reconocimiento imagen"
+        },
+        "001D02C03: Reconnaissance des formes. Traitement numérique des images. Géométrie algorithmique / Pattern recognition. Digital image processing. Computational geometry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1377285"
+}

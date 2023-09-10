@@ -1,0 +1,255 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Noise measurement used for reliability screening of optoelectronic coupled devices(OCDs)",
+    "dc:creator": [
+        "JIANSHENG XU",
+        "ABBOTT, D",
+        "YISONG DAI"
+    ],
+    "dc:contributor": [
+        "Courtois, Bernard (Editor)",
+        "Demidenko, Serge (Editor)",
+        "International Society for Optical Engineering (Organiser of meeting)",
+        "Design, characterization, and packaging for MEMS and microelectronics. Conference (1999-10-27)"
+    ],
+    "dc:relation": [
+        "SPIE proceedings series -- SPIE proc. ser, pp. 224-231",
+        "Design, characterization, and packaging for MEMS and microelectronics (Royal Pines Resort, 27-29 October 1999)"
+    ],
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "20 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bruit basse fréquence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bruit génération recombinaison"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bruit sursaut"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Circuit couplé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrôle qualité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Densité spectrale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dispositif optoélectronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude théorique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fiabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Forme onde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Loi normale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mesure bruit"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résultat expérimental"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Source bruit"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Type défaut"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Statistical analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "1/f noise"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Generation recombination noise"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Burst noise"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Coupled circuits"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quality control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spectral density"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optoelectronic device"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Theoretical study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reliability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Waveform"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gaussian distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Signal noise measurement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measurement method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental result"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Noise source"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measuring system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Defect shape"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis estadístico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ruido baja frecuencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ruido generación recombinación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Control calidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Densidad espectral"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dispositivo optoelectrónico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio teórico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fiabilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Forma onda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Curva Gauss"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método medida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resultado experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fuente ruido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema medida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tipo defecto"
+        },
+        "001D03B: Essais, mesure, bruit et fiabilité / Testing, measurement, noise and reliability",
+        "001D03G02C2: Optoélectronique intégrée. Circuits optoélectroniques / Integrated optoelectronics. Optoelectronic circuits"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1379213"
+}

@@ -1,0 +1,239 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Effects of MK-801 on vicarious trial-and-error and reversal of olfactory discrimination learning in weanling rats",
+    "dc:creator": [
+        "GRIESBACH, G. S",
+        "HU, D",
+        "AMSEL, A"
+    ],
+    "dc:relation": "Behavioural brain research -- Behav. brain res, CODEN BBREDI, ISSN 0166-4328, Vol. 97 (1-2) , pp. 29-38",
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "39 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Perception"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Processus acquisition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Récepteur glutamate"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Antagoniste"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Apprentissage inversion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Apprentissage perceptif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Discrimination stimulus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dizocilpine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mâle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Olfaction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Récepteur NMDA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stimulus chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rat Sprague Dawley"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Perception"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Acquisition process"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Glutamate receptor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antagonist"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reversal learning"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Perceptive learning"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stimulus discrimination"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dizocilpine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Male"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Olfaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rat"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NMDA receptor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical stimulus"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Percepción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Proceso adquisición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Receptor glutámato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antagonista"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aprendizaje inversión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aprendizaje perceptivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Discriminación estímulo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dizocilpina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Macho"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Olfación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Receptor NMDA"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estímulo químico"
+        },
+        "002A26C05: Neurotransmission et comportement / Neurotransmission and behavior",
+        "770-: Psychologie. Psychanalyse. Psychiatrie / Psychology. Psychoanalysis. Psychiatry",
+        "770-B: Psychologie. Psychophysiologie / Psychology. Psychophysiology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1599071"
+}

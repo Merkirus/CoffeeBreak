@@ -1,0 +1,60 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SEISMIC TRAVELTIMES AND NEAR-SURFACE CRUSTAL VELOCITY STRUCTURE BOUNDING THE SAN ANDREAS FAULT ZONE NEAR PARKFIELD, CALIFORNIA",
+    "dc:creator": [
+        "STEWART SW",
+        "O'NEILL ME"
+    ],
+    "dc:date": "1972",
+    "dc:type": "Serial Issue",
+    "dc:language": "English",
+    "dc:format": "GEOL. SURV. U.S.A., PROF. PAPER; U.S.A.; DA. 1972; NO 800-C; PP. 117-125; BIBL. 15 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PROSPECTION SISMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SISMIQUE REFRACTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ONDE SISMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VITESSE ONDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TEMPS PARCOURS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CROUTE TYPE CONTINENTAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CALIFORNIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROFIL 8"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOPHYSIQUE INTERNE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTERNAL GEOPHYSICS"
+        },
+        "001E01: Sciences de la terre / Earth sciences"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL731201376"
+}

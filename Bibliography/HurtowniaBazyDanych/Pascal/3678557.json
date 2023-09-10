@@ -1,0 +1,111 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ENQUETE NUTRITIONNELLE EN HAUTE-VOLTA. I: IMPORTANCE ET FORMES DE LA MALNUTRITION",
+    "dc:creator": [
+        "BENEFICE E",
+        "CHEVASSUS AGNES S",
+        "EPELBOIN A",
+        "CARLES C",
+        "AMADOU MACKTAR NDIAYE"
+    ],
+    "dc:date": "1983",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "BULLETIN DE LA SOCIETE DE PATHOLOGIE EXOTIQUE; ISSN 0037-9085; FRA; DA. 1983; VOL. 76; NO 1; PP. 87-94; ABS. ENG; BIBL. 20 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "HAUTE VOLTA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENQUETE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MORTALITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENFANT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETAT NUTRITIONNEL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANEMIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HEMOPATHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALIMENTATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AFRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MEDECINE TROPICALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "UPPER VOLTA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INQUIRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MORTALITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHILD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NUTRITIONAL STATUS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANEMIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEMOPATHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FEEDING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AFRICA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TROPICAL MEDICINE"
+        },
+        "002B05: Pathologie infectieuse / Infectious diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0196284"
+}

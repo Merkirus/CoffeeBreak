@@ -1,0 +1,115 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Noise Reduction vs. Spatial Resolution",
+    "dc:creator": [
+        "ARTMANN, Uwe",
+        "WUELLER, Dietmar"
+    ],
+    "dc:contributor": [
+        "DiCarlo, Jeffrey M (Editor)",
+        "Rodricks, Brian G (Editor)",
+        "Society for Imaging Science and Technology (Organiser of meeting)",
+        "SPIE (Organiser of meeting)",
+        "Digital photography (4 ; San Jose CA 2008)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, pp. 68170A.1-68170A.10",
+        "Digital photography IV (28-29 January 2008, San Jose, California, USA)"
+    ],
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "16 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bruit gaussien"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Photographie numérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pixel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réduction bruit"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réponse fréquence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résolution spatiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement signal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0130C"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0768"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gaussian noise"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Digital photography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pixel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Noise reduction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Frequency response"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spatial resolution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Signal processing"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fotografía digital"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pixel"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reducción ruido"
+        },
+        "001B00A30C: Actes de congrès / Conference proceedings",
+        "001B00G68: Photographie, instrumentation et techniques photographiques; xérographie / Photography, photographic instruments and techniques; xerography"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20566470"
+}

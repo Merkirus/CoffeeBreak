@@ -1,0 +1,79 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Du salon au cyberespace: La critique d'art face à la technologie",
+    "dc:creator": "LEROUX-GACONGNE, Claire",
+    "dc:relation": "Communication et langages -- Commun. lang, ISSN 0336-1500 (161)",
+    "dc:date": "2009",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "NecPlus",
+    "dc:format": [
+        "print",
+        "105-115, 140, 142 [13 p.]"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Art"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Critique d'art"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cybernétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lexique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modernité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dialogue homme machine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hybridation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immatérialité"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Art"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Art Criticism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cybernetics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lexicon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modernity"
+        },
+        "521-: Sociologie / Sociology",
+        "521-55A: Sociologie de la connaissance et de la culture / Sociology of knowledge and sociology of culture",
+        "521-60: Sociologie de l'art et de la littérature / Sociology of art and literature"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 22120057"
+}

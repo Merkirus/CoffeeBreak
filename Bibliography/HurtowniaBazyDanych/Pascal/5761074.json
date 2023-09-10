@@ -1,0 +1,138 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The optimisation of bevel gear tooth in mesh with various types of profile modifications",
+    "dc:creator": [
+        "XIA CHEN",
+        "QINGMING CHANG",
+        "JIAO WANG",
+        "CHANGJUN CHEN"
+    ],
+    "dc:contributor": [
+        "YONG-SHENG DING (Editor)",
+        "KUANG-RONG HAO (Editor)"
+    ],
+    "dc:relation": "International journal of modelling, identification and control (Print), ISSN 1746-6172, Vol. 9 (1-2) , pp. 83-89",
+    "dc:date": "2010",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Inderscience Publishers",
+    "dc:format": [
+        "print",
+        "7 p. ; 1/4 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Acoustique structurale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Denture engrenage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Distribution charge"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Engrenage conique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Erreur transmission"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Forme géométrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transmission engrenage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Structural acoustics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gear tooth"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Load distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bevel gear"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transmission error"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Geometrical shape"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gear drive"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "gear tooth modification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "straight bevel gear"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "torsional mesh stiffness"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "transmission error"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ruido transmitido estructura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dentado engranaje"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Distribución carga"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Engranaje cónico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Error transmisión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Forma geométrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transmisión engranaje"
+        },
+        "001D12E02: Engrenages / Gears"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 22638586"
+}

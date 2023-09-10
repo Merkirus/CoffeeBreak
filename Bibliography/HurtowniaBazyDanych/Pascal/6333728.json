@@ -1,0 +1,229 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Radiogene myelitis nach akzelerierter Radiotherapie; Radiation myelitis after accelerated radiotherapy",
+    "dc:creator": [
+        "DUNST, J",
+        "DUNST, U",
+        "WITTMOSER, W"
+    ],
+    "dc:contributor": [
+        "Radiologische Universitätsklinik. Abteilung klinische Radiologie (Funder/Sponsor)",
+        "Deutsches Krebsforschungszentrum. Forschungsschwerpunkt radiologische Diagnostik und Therapie (Funder/Sponsor)",
+        "Neue Planungstechniken in der Strahlentherapie. Symposium (Heidelberg 1993-03-19)"
+    ],
+    "dc:relation": [
+        "Strahlentherapie und Onkologie -- Strahlenther. Onkol -- Journal of radiation oncology. Biology . Physics, CODEN STONE4, ISSN 0179-7158, Vol. 169 (9) , pp. 543-544",
+        "Neue Planungstechniken in der Strahlentherapie. Symposium"
+    ],
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "German",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "7 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Cavité buccale pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Moelle épinière pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORL pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pharynx pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stomatologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système nerveux pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Adulte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Complication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude cas"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Myélite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Oropharynx"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Radiolésion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Radiothérapie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tumeur maligne"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oral cavity disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spinal cord disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENT disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pharynx disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stomatology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nervous system diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adult"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Complication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Case study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Myelitis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oropharynx"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiation injury"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiotherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Malignant tumor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cavidad bucal patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Médula espinal patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "ORL patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Faringe patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estomatología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adulto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Complicación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio caso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mielitis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Orofaringe"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lesión por radiación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radioterapia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tumor maligno"
+        },
+        "002B26C: Orl et stomatologie / Ent and stomatology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3778072"
+}

@@ -1,0 +1,137 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Cryostat for electron irradiation experiments in subcooled superfluid helium at 1.8 K",
+    "dc:creator": [
+        "GREUBEL, K.-H",
+        "GMELIN, E",
+        "KIENHOFER, M",
+        "MAJOR, J"
+    ],
+    "dc:contributor": [
+        "RIZZUTO, C (Editor)",
+        "FERDEGHINI, C (Editor)",
+        "International Cryogenic Engineering Committee (Funder/Sponsor)",
+        "International Institut of Refrigeration. Commission A 1/2 (Funder/Sponsor)",
+        "ICEC 15: international cryogenic engineering conference (15 ; Genova 1994-06-07)"
+    ],
+    "dc:relation": [
+        "Proceedings of the International Cryogenic Engineering Conference -- Proc. Int. Cryog. Eng. Conf, ISSN 0308-5422, Vol. 34, pp. 259-262",
+        "ICEC 15: international cryogenic engineering conference"
+    ],
+    "dc:date": "1994",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "22 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Cryogénie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cryostat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dispositif expérimental"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hélium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Irradiation électron"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mesure température"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Performance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Superfluide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cryogenics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cryostat"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental device"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Helium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electron irradiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Temperature measurement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Performance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Superfluid"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Criogenia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Criostato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dispositivo experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Helio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Irradiación electrón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medida temperatura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rendimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Superflúido"
+        },
+        "001D06: Energie / Energy",
+        "001D06D09B: Techniques cryogéniques / Cryogenics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3381794"
+}

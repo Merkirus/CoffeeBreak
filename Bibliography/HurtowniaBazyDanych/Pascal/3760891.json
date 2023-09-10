@@ -1,0 +1,97 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "L'ANGOR DU PRINZMETAL",
+    "dc:creator": [
+        "CHERRIER F",
+        "MATHIEU P",
+        "GROUSSIN P",
+        "PAQUIS M",
+        "GILGENKRANTZ JM",
+        "HUON J"
+    ],
+    "dc:date": "1975",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "ANN. MED. NANCY; FR.; DA. 1975; VOL. 14; PP. 19-26 (7P.)",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ANGINE POITRINE PRINZMETAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPASME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ARTERE CORONAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CORONAROGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VENTRICULOGRAPHIE GAUCHE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DERIVATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AORTO CORONAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AUTOGREFFE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "URINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARDIOPATHIE CORONAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIRURGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OBSERVATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETIOPATHOGENIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PATHOLOGIE CARDIOVASCULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARDIOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CARDIOLOGY"
+        },
+        "002B: Sciences medicales / Medical sciences",
+        "002B12: Cardiologie. Appareil circulatoire / Cardiology. Vascular system"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7535204949"
+}

@@ -1,0 +1,142 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Expérimentation 1981-1982. Service lutte antiparasitaire; 1981-1982 Experiments. Pest and Disease Control Office",
+    "dc:creator": "Association de Coordination Technique Agricole",
+    "dc:date": "1982",
+    "dc:type": [
+        "Text",
+        "Book"
+    ],
+    "dc:identifier": [
+        "ISBN 2-85794-029-7",
+        "Inist-CNRS record number 9588755"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "78 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "1981"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "1982"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACTA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Apis mellifica"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Arbre fruitier"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Beta vulgaris var. saccharata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Déprédateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lutte phytosanitaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pesticide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phytopathogène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plante céréalière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plante sucrière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rapport activité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sorghum vulgare"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Triticum aestivum"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Viticulture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vitis vinifera"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fruit tree"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pest"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plant diseases control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pesticides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phytopathogen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cereal crop"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sugar plant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Progress report"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Viticulture"
+        },
+        "002A32A01: Etudes générales. Information. Documentation. Recherche / Generalities. Information. Documentation. Research",
+        "002A32C: Agronomie générale. Phytotechnie / General agronomy. Plant production",
+        "002A34: Phytopathologie. Zoologie agricole. Protection des cultures et des forets / Phytopathology. Animal pests. Plant and forest protection",
+        "002A34A: Généralités. Plants sains / Generalities. Disease free stocks",
+        "430A02D:  / Agronomy; crop production; crop diseases; horticulture"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

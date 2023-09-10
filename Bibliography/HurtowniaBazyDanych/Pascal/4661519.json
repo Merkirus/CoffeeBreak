@@ -1,0 +1,300 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Validation et justification des codes de calcul des ouvrages en géomatériaux; Validation and justification of computation codes of the geomaterial works",
+    "dc:creator": [
+        "Tardieu, B",
+        "Ozanam, O",
+        "Carrere, A",
+        "Coyne et Bellier"
+    ],
+    "dc:contributor": "Ministère de la recherche et de l'espace (Sponsor)",
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Report"
+    ],
+    "dc:identifier": [
+        "REPORTNUMBER MRE - 89-F-0563",
+        "Inist-CNRS record number 100649"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "196 p. ; dissem"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Barrage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Calcul construction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Code calcul"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Comportement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecoulement milieu poreux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enrochement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exemple"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fondation superficielle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Justification"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Logiciel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle simulation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mécanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode élément fini"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthodologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ouvrage art"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Qualité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Remblai"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rhéologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Terminologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tunnel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Validation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dam"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Structural design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computation code"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Behavior"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Porous medium flow"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rockfill"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Example"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Shallow foundations"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Justification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Software"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Simulation model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mechanics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Finite element method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Methodology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Engineering work"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Embankments"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rheology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Terminology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tunnels"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Validation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Presa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cálculo construcción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Código computación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conducta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Flujo medio poroso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Escollera"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ejemplo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fundación superficial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Justificación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Logicial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo simulación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mecánica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método elemento finito"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metodología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Obra fábrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Calidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Terraplén"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Terminología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Túnel"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Validación"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works",
+        "001D14C03: Méthodes de calcul. Tables. Abaques / Computation methods. Tables. Charts",
+        "001D14F02: Mécanique des sols. Mécanique des roches / Soil mechanics. Rocks mechanics",
+        "001D14L03: Barrages et installations annexes / Dams and subsidiary installations",
+        "430A13B:  / Civil engineering"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

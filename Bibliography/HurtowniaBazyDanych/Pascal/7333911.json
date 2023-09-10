@@ -1,0 +1,101 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The proposed interconnection between Greece and Italy",
+    "dc:creator": [
+        "CHRISTOS, P",
+        "PAOLO, R"
+    ],
+    "dc:contributor": "Conférence mondiale de l'énergie. 13 (1986-10-05)",
+    "dc:relation": "Conférence mondiale de l'énergie. 13",
+    "dc:date": "1986",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "[s.n.]",
+    "dc:format": [
+        "print",
+        "3 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Economie énergie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Energie électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grèce"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Italie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau électrique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Energy economy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electric energy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Greece"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Italy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrical network"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Economía energía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Energía eléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Grecia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Italia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red eléctrica"
+        },
+        "001D06A01C4: Energie électrique / Electric energy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 8331241"
+}

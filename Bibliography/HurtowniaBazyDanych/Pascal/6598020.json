@@ -1,0 +1,241 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Appearance of prolactin-releasing peptide-producing cells in the area postrema of postnatal rats",
+    "dc:creator": [
+        "FUJIWARA, Ken",
+        "USUI, Kimie",
+        "YASHIRO, Takashi",
+        "INOUE, Kinji"
+    ],
+    "dc:contributor": [
+        "SHIODA, Seiji (Editor)",
+        "Satellite Symposium on G-Protein-Coupled Receptors (GPCRs) (Hakone 2006-09-02)"
+    ],
+    "dc:relation": [
+        "Regulatory peptides -- Regul. pept, CODEN REPPDY, ISSN 0167-0115, Vol. 145 (1-3) , pp. 33-36",
+        "Satellite Symposium on G-Protein-Couples [Coupled] Receptors (GPCRs), September 2, 2006, Hakone, Japan"
+    ],
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Elsevier",
+        "Elsevier"
+    ],
+    "dc:format": [
+        "print",
+        "4 p. ; 22 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Encéphale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hormone adénohypophysaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Organe épendymaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système nerveux central"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Area postrema"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Développement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunohistochimie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Peptide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Postnatal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prolactine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rat"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Encephalon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adenohypophyseal hormone"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ependymal organ"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central nervous system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Area postrema"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Development"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immunohistochemistry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Peptides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Postnatal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prolactin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rat"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Area postrema"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Development"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immunohistochemistry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PrRP"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rat"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Encéfalo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hormona adenohipofisaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Organo ependimario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso central"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Area postrema"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desarrollo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunohistoquímica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Péptido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Postnatal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prolactina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rata"
+        },
+        "002A25B: Circulation cérébrale. Barrière hématoencéphalique. Plexus choroïde. Liquide céphalorachidien. Organe épendymaire. Méninges / Cerebral circulation. Blood-brain barrier. Choroid plexus. Cerebrospinal fluid. Circumventricular organ. Meninges",
+        "002A28: Vertebres: endocrinologie / Vertebrates: endocrinology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20184388"
+}

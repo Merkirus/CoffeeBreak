@@ -1,0 +1,104 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Device dependent control of chemical-mechanical polishing of dielectric films",
+    "dc:creator": [
+        "PATEL, N. S",
+        "MILLER, G. A",
+        "GUINN, C",
+        "SANCHEZ, A. C",
+        "JENKINS, S. T"
+    ],
+    "dc:relation": "IEEE transactions on semiconductor manufacturing -- IEEE trans. semicond. manuf, ISSN 0894-6507, Vol. 13 (3) , pp. 331-343",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institute of Electrical and Electronics Engineers",
+    "dc:format": [
+        "print",
+        "15 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Commande processus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diélectrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fabrication microélectronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pastille électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Planarisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polissage chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polissage mécanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chemical mechanical polishing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Process control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dielectric materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microelectronic fabrication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wafers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Planarization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical polishing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mechanical polishing"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dieléctrico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fabricación microeléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Planarización"
+        },
+        "001B80A65: Traitements de surface / Surface treatments",
+        "8165P:  / Polishing"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1450781"
+}

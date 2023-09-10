@@ -1,0 +1,245 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "30.4-NM HE (II) PHOTOELECTRON SPECTRA OF ORGANIC MOLECULES. PART III: OXO-COMPOUNDS (C, H, O)",
+    "dc:creator": [
+        "VON NIESSEN W",
+        "BIERI G",
+        "ASBRINK L"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. ELECTRON. SPECTROSC. RELAT. PHENOM.; ISSN 0368-2048; NLD; DA. 1980; VOL. 21; NO 2; PP. 175-191; BIBL. 5 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE PHOTOELECTRON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RAYONNEMENT UV"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TABLE DONNEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE ALIPHATIQUE SATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE ALIPHATIQUE ACETYLENIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALDEHYDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALCOOL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACIDE CARBOXYLIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE ORGANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE THEORIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FONCTION GREEN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE SCF MO"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE SEMIEMPIRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STRUCTURE ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POTENTIEL IONISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHANOL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GLYOXAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACETIQUE ACIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETHANOL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPYNAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPIOLIQUE ACIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPYNOL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACROLEINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIACETYLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETHANEDIOL-1,2"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FORMIQUE ACIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FORMALDEHYDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE HAM 3"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE MOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE ATOMIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHOTOELECTRON SPECTROMETRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ULTRAVIOLET RADIATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DATA TABLE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SATURATED ALIPHATIC COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ACETYLENIC ALIPHATIC COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ALDEHYDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ALCOHOL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CARBOXYLIC ACID"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORGANIC COMPOUNDS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THEORETICAL STUDY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GREEN FUNCTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SCF MO METHOD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SEMIEMPIRICAL METHOD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONIC STRUCTURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IONIZATION POTENTIAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METHANOL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GLYOXAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ACETIC ACID"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ETHANOL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ACROLEIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ETHYLENE GLYCOL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FORMIC ACID"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FORMALDEHYDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HAM 3 METHOD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOLECULAR PHYSICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ATOMIC PHYSICS"
+        },
+        "001B30: Physique atomique et moleculaire / Atomic and molecular physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8130073957"
+}

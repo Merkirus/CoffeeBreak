@@ -1,0 +1,85 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THEORIE SUR DES THERMOKARSTS",
+    "dc:creator": "ROMANOVSKIJ NN",
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "VEST. MOSKOV. UNIV., 4; S.S.S.R.; DA. 1977; NO 1; PP. 65-71; BIBL. 13 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "THEORIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "KARST"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "THERMOKARST"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOMORPHOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PEDOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FORMATION SUPERFICIELLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THEORY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THEORETICAL STUDIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "KARST"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THERMOKARST"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOMORPHOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOIL SCIENCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SUPERFICIAL GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        "001E01N: Hydrologie. Hydrogéologie / Hydrology. Hydrogeology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALGEODEBRGM7720435172"
+}

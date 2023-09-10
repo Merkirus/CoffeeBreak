@@ -1,0 +1,76 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SURFACE QUALITY; QUALITE DE SURFACE",
+    "dc:date": "1979",
+    "dc:type": "Conference Paper",
+    "dc:language": "English",
+    "dc:format": "CONTROLE DE QUALITE DES STRUCTURES EN BETON. REUNION INTERNATIONALE DES LABORATOIRES D'ESSAIS ET DE RECHERCHES SUR LES MATERIAUX/1979/STOCKHOLM; SWE; STOCKHOLM:SWED. CEMENT CONCRETE RES. INST.; DA. 1979; VOL. 2; PP. 149-161; BIBL. DISSEM.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CONSTRUCTION BETON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COLORATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BETON COLORE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ASPECT SURFACE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETAT SURFACE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PLANEITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELEMENT BETON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENIE CIVIL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONCRETE CONSTRUCTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COLORATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COLORED CONCRETE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SURFACE CONDITIONS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FLATNESS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONCRETE ELEMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CIVIL ENGINEERING"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALBTP8080071655"
+}

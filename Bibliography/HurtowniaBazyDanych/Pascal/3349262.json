@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "UNIVERSITY OF WISCONSIN RADIOCARBON DATES. XIV.",
+    "dc:creator": [
+        "BENDER MM",
+        "BRYSON RA",
+        "BAERREIS DA"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "RADIOCARBON; U.S.A.; DA. 1977; VOL. 19; NO 1; PP. 127-137; BIBL. 13 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "INVENTAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "C 14"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ARCHEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INSTITUTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "UNIV. WISCONSIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOCHIMIE ISOTOPIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INVENTORY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "C-14"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ARCHAEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ASSOCIATIONS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ISOTOPE GEOCHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        "001E01: Sciences de la terre / Earth sciences"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALGEODEBRGM7720302020"
+}

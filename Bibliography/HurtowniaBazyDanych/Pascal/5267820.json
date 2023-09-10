@@ -1,0 +1,65 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Automated model-based organ delineation for radiotherapy planning in prostatic region",
+    "dc:creator": [
+        "PEKAR, Vladimir",
+        "MCNUTT, Todd R",
+        "KAUS, Michael R"
+    ],
+    "dc:contributor": "ASTRO Meeting (Salt Lake City, UT 2003-10)",
+    "dc:relation": [
+        "International journal of radiation oncology, biology, physics -- Int. j. radiat. oncol. biol. phys, CODEN IOBPD3, ISSN 0360-3016, Vol. 60 (3) , pp. 973-980",
+        "ASTRO Meeting (Salt Lake City, UT 2003-10)"
+    ],
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "8 p. ; 21 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Génie biomédical"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biomedical engineering"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Deformable organ models"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Model adaptation by energy minimization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Organ delineation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Organ-specific features"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiotherapy planning"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ingeniería biomédica"
+        },
+        "002B26N: Technologie. Biomatériaux. Equipements. Matériel. Appareillage / Technology. Biomaterials. Equipments. Material. Instrumentation"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16179209"
+}

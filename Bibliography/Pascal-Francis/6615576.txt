@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>CPP-GMR heads with a current screen layer for high areal density</dc:title>
+  <dc:creator>KATADA, H</dc:creator>
+  <dc:creator>NAKAMOTO, K</dc:creator>
+  <dc:creator>WATANABE, K</dc:creator>
+  <dc:creator>IKEDA, Y</dc:creator>
+  <dc:creator>MEGURO, K</dc:creator>
+  <dc:creator>HOSHIYA, H</dc:creator>
+  <dc:creator>HOSHINO, K</dc:creator>
+  <dc:creator>YOSHIDA, N</dc:creator>
+  <dc:creator>SHIIMOTO, M</dc:creator>
+  <dc:creator>SATO, Y</dc:creator>
+  <dc:creator>TAKAZAWA, H</dc:creator>
+  <dc:creator>YASUI, K</dc:creator>
+  <dc:creator>HATATANI, M</dc:creator>
+  <dc:contributor>HOMMA, Takayuki (Editor)</dc:contributor>
+  <dc:contributor>ASAHI, Toru (Editor)</dc:contributor>
+  <dc:contributor>Perpendicular Magnetic Recording Conference (PMRC 2007) (8 ; Tokyo 2007-10-15)</dc:contributor>
+  <dc:relation>Journal of magnetism and magnetic materials -- J. magn. magn. mater, CODEN JMMMDC, ISSN 0304-8853, Vol. 320 (22) , pp. 2975-2979</dc:relation>
+  <dc:relation>Selected papers from the eighth Perpendicular Magnetic Recording Conference (PMRC 2007)</dc:relation>
+  <dc:date>2008</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Conference Paper</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>Elsevier</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>5 p. ; 15 ref</dc:format>
+  <dc:subject xml:lang="fr">Anisotropie</dc:subject>
+  <dc:subject xml:lang="fr">Bruit fond</dc:subject>
+  <dc:subject xml:lang="fr">Capteur mesure</dc:subject>
+  <dc:subject xml:lang="fr">Couche oxyde</dc:subject>
+  <dc:subject xml:lang="fr">Densité enregistrement</dc:subject>
+  <dc:subject xml:lang="fr">Densité élevée</dc:subject>
+  <dc:subject xml:lang="fr">Dispositif magnétorésistif</dc:subject>
+  <dc:subject xml:lang="fr">Effet écran</dc:subject>
+  <dc:subject xml:lang="fr">Magnétorésistance géante</dc:subject>
+  <dc:subject xml:lang="fr">Nanotechnologie</dc:subject>
+  <dc:subject xml:lang="fr">Radium</dc:subject>
+  <dc:subject xml:lang="fr">Rapport signal bruit</dc:subject>
+  <dc:subject xml:lang="fr">Tête lecture</dc:subject>
+  <dc:subject xml:lang="fr">Tête magnétique</dc:subject>
+  <dc:subject xml:lang="fr">0707D</dc:subject>
+  <dc:subject xml:lang="fr">Ra</dc:subject>
+  <dc:subject xml:lang="en">Anisotropy</dc:subject>
+  <dc:subject xml:lang="en">Background noise</dc:subject>
+  <dc:subject xml:lang="en">Measurement sensor</dc:subject>
+  <dc:subject xml:lang="en">Oxide layer</dc:subject>
+  <dc:subject xml:lang="en">Recording density</dc:subject>
+  <dc:subject xml:lang="en">High density</dc:subject>
+  <dc:subject xml:lang="en">Magnetoresistive device</dc:subject>
+  <dc:subject xml:lang="en">Shielding effect</dc:subject>
+  <dc:subject xml:lang="en">Giant magnetoresistance</dc:subject>
+  <dc:subject xml:lang="en">Nanotechnology</dc:subject>
+  <dc:subject xml:lang="en">Radium</dc:subject>
+  <dc:subject xml:lang="en">Signal to noise ratio</dc:subject>
+  <dc:subject xml:lang="en">Read head</dc:subject>
+  <dc:subject xml:lang="en">Magnetic head</dc:subject>
+  <dc:subject xml:lang="en">72.25.Pn</dc:subject>
+  <dc:subject xml:lang="en">72.70.+m</dc:subject>
+  <dc:subject xml:lang="en">75.47.De</dc:subject>
+  <dc:subject xml:lang="en">85.70.Kh</dc:subject>
+  <dc:subject xml:lang="en">CPP-GMR</dc:subject>
+  <dc:subject xml:lang="en">Confined current path</dc:subject>
+  <dc:subject xml:lang="en">Current screen layer</dc:subject>
+  <dc:subject xml:lang="en">Nano-oxide layer</dc:subject>
+  <dc:subject xml:lang="en">Read head</dc:subject>
+  <dc:subject xml:lang="en">Read sensor</dc:subject>
+  <dc:subject xml:lang="en">Resistance distribution</dc:subject>
+  <dc:subject xml:lang="en">Spin-torque</dc:subject>
+  <dc:subject xml:lang="es">Anisotropía</dc:subject>
+  <dc:subject xml:lang="es">Ruido fondo</dc:subject>
+  <dc:subject xml:lang="es">Captador medida</dc:subject>
+  <dc:subject xml:lang="es">Capa óxido</dc:subject>
+  <dc:subject xml:lang="es">Densidad grabación</dc:subject>
+  <dc:subject xml:lang="es">Densidad elevada</dc:subject>
+  <dc:subject xml:lang="es">Dispositivo magnetoresistivo</dc:subject>
+  <dc:subject xml:lang="es">Efecto pantalla</dc:subject>
+  <dc:subject xml:lang="es">Nanotecnología</dc:subject>
+  <dc:subject xml:lang="es">Radio</dc:subject>
+  <dc:subject xml:lang="es">Relación señal ruido</dc:subject>
+  <dc:subject xml:lang="es">Cabeza lectura</dc:subject>
+  <dc:subject xml:lang="es">Cabeza magnética</dc:subject>
+  <dc:subject>001B00G07D: Capteurs (chimiques, optiques, électriques, de mouvement, de gaz, etc.); télédétection / Sensors (chemical, optical, electrical, movement, gas, etc.); remote sensing</dc:subject>
+  <dc:subject>001B70E47D: Magnétorésistance géante / Giant magnetoresistance</dc:subject>
+  <dc:subject>001D03F12: Dispositifs magnétoélectriques, magnétostrictifs, magnétoacoustiques, magnétooptiques et magnétothermiques. Electronique de spin / Magnetoelectric, magnetostrictive, magnetoacoustic, magnetooptic and magnetothermal devices. Spintronics</dc:subject>
+  <dc:subject>001D03I03: Divers / Miscellaneous</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 20846661</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

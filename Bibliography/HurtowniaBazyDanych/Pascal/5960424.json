@@ -1,0 +1,225 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Local and national archiving of electronic publications in Switzerland",
+    "dc:creator": "JAUSLIN, J.-F",
+    "dc:contributor": [
+        "NEUBAUER, Karl Wilhelm (Editor)",
+        "Die Bibliothek der Universität Bielefeld (Funder/Sponsor)",
+        "The British Council in Deutschland (Funder/Sponsor)",
+        "Die Buchhändler-Vereinigung GmbH (Funder/Sponsor)",
+        "Elektronisches Publizieren und Bibliotheken. Kolloquium (Bielefeld 1996-02)"
+    ],
+    "dc:relation": [
+        "Zeitschrift für Bibliothekswesen und Bibliographie. Sonderheft -- Z. Bibliothekswes. Bibliogr., Sonderh, ISSN 0514-6364, Vol. 65, pp. 70-75",
+        "Elektronisches Publizieren und Bibliotheken. Kolloquium -- Digital Publications and Libraries. Colloquium"
+    ],
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Klostermann",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bibliothéconomie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bibliothèque nationale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bibliothécaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Edition électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude générale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fonctionnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Formation professionnelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gestion fonds"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau bibliothèque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Science information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stockage information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technologie information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Utilisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gestion information"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Librarianship"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "National library"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Librarian"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic publishing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "General study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Running"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Occupational training"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stock management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Library network"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information science"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information storage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information technology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Use"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information management"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biblioteconomía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biblioteca nacional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bibliotecario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Edición electrónica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio general"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Funcionamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Formación profesional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gestión fondos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red biblioteca"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ciencia información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Almacenamiento información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tecnología información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Utilización"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation",
+        "001A01B: Gestion des services d'information / Information service management",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-C: Gestion des services d'information / Information service management"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Suisse"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Switzerland"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Suiza"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3194767"
+}

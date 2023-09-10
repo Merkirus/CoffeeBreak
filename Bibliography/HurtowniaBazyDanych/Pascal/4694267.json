@@ -1,0 +1,77 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Création d'un système externe d'assurance qualité pour l'enseignement supérieur : l'exemple de la Pologne; Creation of an extern quality control system for higher education: example in Poland",
+    "dc:creator": "WOJCICKA, Maria",
+    "dc:relation": "Formation professionnelle (Luxembourg) -- Form. prof. (Luxemb.), ISSN 0378-5092 (15) , pp. 64-71",
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "CEDEFOP",
+    "dc:format": [
+        "print",
+        "9 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrôle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enseignement supérieur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Formation des enseignants"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Qualité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système éducatif"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Higher Education"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Teachers training"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Educational System"
+        },
+        "520-: Sciences de l'éducation / Educational sciences",
+        "520-80: Organisation de l'enseignement / Educational organization",
+        "520-140: Europe de l'Est / Eastern Europe"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Pologne"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Poland"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1157506"
+}

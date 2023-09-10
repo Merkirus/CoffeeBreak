@@ -1,0 +1,52 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "BREVET 2.294.350 (A1) (7538010). - 11 DECEMBRE 1975. DISPOSITIF DE COMMANDE AUTOMATIQUE DE REPARTITION DE LIQUIDE SOUS PRESSION D'UNE SOURCE SUR PLUSIEURS CIRCUITS HYDRAULIQUES DE RANGS DIFFERENTS.",
+    "dc:creator": "INTERNATIONAL HARVESTER CO",
+    "dc:date": "sd",
+    "dc:type": "Patent",
+    "dc:language": "French",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "COMMANDE HYDRAULIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CIRCUIT HYDRAULIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRACTEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MACHINE AGRICOLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUSTRIE MECANIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HYDRAULIC CONTROL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HYDRAULIC CIRCUIT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TRACTOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MECHANICAL ENGINEERING"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7780022139"
+}

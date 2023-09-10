@@ -1,0 +1,277 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Induction of tumor-specific antitumor immunity after chemotherapy with cisplatin in mice bearing MOPC-104E plasmacytoma by modulation of MHC expression on tumor surface",
+    "dc:creator": [
+        "NIO, Yoshinori",
+        "HIRAHARA, Noriyuki",
+        "MINARI, Yoshimitsu",
+        "IGUCHI, Chikage",
+        "YAMASAWA, Kunihiro",
+        "TOGA, Tomoko",
+        "TAMURA, Katsuhiro"
+    ],
+    "dc:relation": "Anticancer research -- Anticancer res, ISSN 0250-7005, Vol. 20 (5A) , pp. 3293-3299",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "International Institute of Anticancer Research",
+    "dc:format": [
+        "print",
+        "17 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Hémopathie maligne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lymphoprolifératif syndrome"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Agent alkylant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Anticancéreux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Antigène histocompatibilité classe I"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chimiothérapie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cisplatine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lignée cellulaire établie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle animal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plasmocytome"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Platine II Complexe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réponse immune"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Souris"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système H-2"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système histocompatibilité majeur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lignée MOPC 104E"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Malignant hemopathy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lymphoproliferative syndrome"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Alkylating agent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antineoplastic agent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Class I histocompatibility antigen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemotherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cisplatin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Established cell line"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Animal model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plasmacytoma"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Platinum II Complexes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immune response"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mouse"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "H-2-System"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Major histocompatibility system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hemopatía maligna"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Linfoproliferativo síndrome"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agente alquilante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anticanceroso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antígeno histocompatibilidad clase I"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Quimioterapia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cisplatino"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Línea celular establecida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo animal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Plasmocitoma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Platino II Complejo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Respuesta inmune"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ratón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema H-2"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema histocompatibilidad mayor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        "002B02R02: Chimiothérapie / Chemotherapy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1526780"
+}

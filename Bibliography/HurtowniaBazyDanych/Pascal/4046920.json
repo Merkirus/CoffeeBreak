@@ -1,0 +1,59 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "CARACTERES ELECTROPHYSIOLOGIQUES ET MAINTIEN ENERGETIQUE DE L'ETAT FONCTIONNEL CEREBRAL LORS DU CHOC TRAUMATIQUE",
+    "dc:creator": [
+        "NASONKIN OS",
+        "KAZUEVA TV",
+        "BOLDINA IG",
+        "KOVRIZHNYKH EH V",
+        "KUZ'MINA RI"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "PATOL. FIZIOL. EKSPER.TERAP.; S.S.S.R.; DA. 1976; NO 2; PP. 39-47; ABS. ANGL.; BIBL. 29 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CHOC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRAUMATISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PATHOLOGIE EXPERIMENTALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METABOLISME ENERGETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENCEPHALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHAT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MAMMALIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REANIMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTENSIVE CARE MEDICINE"
+        },
+        "002B27: Anesthesie. Reanimation. Transfusion. Therapie cellulaire et therapie genique / Anesthesia. Intensive care medicine. Transfusions. Cell therapy and gene therapy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7650274171"
+}

@@ -1,0 +1,53 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "COAL GASIFICATION: SOME ENGINEERING PROBLEMS; GAZEIFICATION DU CHARBON: QUELQUES PROBLEMES D'INGENIERIE",
+    "dc:creator": "LEWIS R",
+    "dc:date": "1975",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "CHEM. ENGNG PROGR.; U.S.A.; DA. 1975; VOL. 71; NO NO 4; PP. 68-69; RESUME",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CARBOCHIMIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GAZEIFICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "UNITE PILOTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONSTRUCTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TECHNOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETATS UNIS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROCEDE SYNTHANE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY"
+        },
+        "001D06: Energie / Energy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7573014562"
+}

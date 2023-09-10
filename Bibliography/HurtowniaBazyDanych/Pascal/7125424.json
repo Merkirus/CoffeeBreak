@@ -1,0 +1,131 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The dynamic approach to autonomous robotics demonstrated on a low-level vehicle platform",
+    "dc:creator": [
+        "BICHO, E",
+        "SCHÖNER, G"
+    ],
+    "dc:contributor": [
+        "SANTOS-VICTOR, José (Editor)",
+        "International Symposium on Intelligent Robotic Systems SIRS'96 (4 ; Lisbon 1996-07-22)"
+    ],
+    "dc:relation": [
+        "Robotics and autonomous systems -- Robot. auton. syst, ISSN 0921-8890, Vol. 21 (1) , pp. 23-35",
+        "Intelligent robotic systems"
+    ],
+    "dc:date": "1997",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "12 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Cible"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Détection IR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode dynamique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phototactisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prévention esquive collision"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Robotique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système autonome"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Véhicule"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Target"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infrared detection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dynamic method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phototaxis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Collision avoidance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Robotics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Autonomous system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vehicle"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Blanco"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Detección IR"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método dinámico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fototactismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prevención esquiva colisión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Robótica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema autónomo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vehículo"
+        },
+        "001D02D11: Robotique / Robotics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2053971"
+}

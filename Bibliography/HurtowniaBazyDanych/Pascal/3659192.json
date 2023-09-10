@@ -1,0 +1,96 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DETRESSES RESPIRATOIRES NEO-NATALES D'ORIGINE PULMONAIRE",
+    "dc:creator": [
+        "ROCHE J",
+        "LEFUR JM",
+        "CLAVIER M",
+        "L'HOUR M",
+        "CASTEL Y"
+    ],
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "OUEST MED.; FR.; DA. 1974; VOL. 27; NO 23-24; PP. 2039-2057; BIBL. 26REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DETRESSE RESPIRATOIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NOUVEAU NE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MEMBRANE HYALINE MALADIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INHALATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LIQUIDE AMNIOTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PNEUMOTHORAX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EMPHYSEME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POUMON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INFECTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOIN INTENSIF"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REANIMATION RESPIRATOIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENFANT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INSUFFISANCE RESPIRATOIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REANIMATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PNEUMOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTENSIVE CARE MEDICINE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PNEUMOLOGY"
+        },
+        "002B12: Cardiologie. Appareil circulatoire / Cardiology. Vascular system",
+        "002B27: Anesthesie. Reanimation. Transfusion. Therapie cellulaire et therapie genique / Anesthesia. Intensive care medicine. Transfusions. Cell therapy and gene therapy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7534901591"
+}

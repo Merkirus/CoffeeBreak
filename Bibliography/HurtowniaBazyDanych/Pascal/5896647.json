@@ -1,0 +1,44 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A tribute to Christian Körner for his 25 years of service on the Oecologia editorial board",
+    "dc:creator": [
+        "HÄTTENSCHWILER, Stephan",
+        "ARNONE, John A"
+    ],
+    "dc:contributor": [
+        "HÄTTENSCHWILER, Stephan (Editor)",
+        "ARNONE, John A (Editor)"
+    ],
+    "dc:relation": "Oecologia -- Oecologia, CODEN OECOBX, ISSN 0029-8549, Vol. 171 (3) , pp. 605-611",
+    "dc:date": "2013",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "7 p. ; 1/4 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Planche"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Board"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tablón"
+        },
+        "002A14B01: Généralités / General aspects"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 27454409"
+}

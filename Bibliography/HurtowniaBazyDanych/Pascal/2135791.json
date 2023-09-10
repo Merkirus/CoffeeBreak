@@ -1,0 +1,93 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "MORPHOLOGICAL CHARACTERIZATION OF LIPOSOME SUSPENSIONS BY STEREOLOGICAL ANALYSIS OF FREEZE-FRACTURE REPLICAS FROM SPRAY-FROZEN SAMPLES",
+    "dc:creator": [
+        "GUIOT P",
+        "BAUDHUIN P",
+        "GOTFREDSEN C"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. MICROSC. (OXF.); ISSN 0022-2720; GBR; DA. 1980; VOL. 120; NO 2; PP. 159-174; BIBL. 28 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "LIPOSOME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SUSPENSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROSCOPIE ELECTRONIQUE TRANSMISSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STEREOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CRYODECAPAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ULTRASTRUCTURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PARTICULE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REPLIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIPOSOME"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SUSPENSION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TRANSMISSION ELECTRON MICROSCOPY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STEREOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FREEZE ETCHING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METHOD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ULTRASTRUCTURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PARTICLE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REPLICA"
+        },
+        "002A14: Ecologie animale, vegetale et microbienne / Animal, plant and microbial ecology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8110190712"
+}

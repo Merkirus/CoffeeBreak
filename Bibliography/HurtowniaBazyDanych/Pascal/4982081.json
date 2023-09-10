@@ -1,0 +1,183 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Advanced flip chip technologies in RF, microwave and MEMS applications",
+    "dc:creator": [
+        "OPPERMANN, H. H",
+        "KALLMAYER, C",
+        "KLEIN, M",
+        "ASCHENBRENNER, R",
+        "REICHL, H"
+    ],
+    "dc:contributor": [
+        "Courtois, Bernard (Editor)",
+        "Crary, Selden B (Editor)",
+        "Gabriel, Kaigham J (Editor)",
+        "Karam, Jean Michel (Editor)",
+        "Markus, Karen (Editor)",
+        "Tay, Andrew A.O (Editor)",
+        "International Society for Optical Engineering (Organiser of meeting)",
+        "Design, test, integration, and packaging of MEMS/MOEMS. Conference (Paris 2000-05-09)"
+    ],
+    "dc:relation": [
+        "SPIE proceedings series -- SPIE proc. ser, pp. 308-314",
+        "Design, test, integration, and packaging of MEMS/MOEMS (Paris, 9-11 mai 2000)"
+    ],
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "13 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Assemblage brasage tendre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Autoalignement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Capteur mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Circuit hyperfréquence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Circuit intégré hyperfréquence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Circuit intégré monolithique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dispositif optoélectronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dépôt électrolytique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation performance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hyperfréquence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Module multipuce"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Onde radio"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Packaging électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Radiofréquence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Soldered joints"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Self alignment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measurement sensor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microwave circuits"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microwave integrated circuits"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Monolithic integrated circuits"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optoelectronic devices"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrodeposition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Performance evaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microwave radiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multichip modules"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiowave radiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic packaging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiofrequency"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Autoalineación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Captador medida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Packaging electrónico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radiofrecuencia"
+        },
+        "001B00G07D: Capteurs (chimiques, optiques, électriques, de mouvement, de gaz, etc.); télédétection / Sensors (chemical, optical, electrical, movement, gas, etc.); remote sensing",
+        "001D03F17: Fabrication microélectronique (technologie des matériaux et des surfaces) / Microelectronic fabrication (materials and surfaces technology)",
+        "001D03G01: Etude théorique. Analyse et conception des circuits / Theoretical study. Circuits analysis and design",
+        "0707D:  / Sensors (chemical, optical, electrical, movement, gas, etc.); remote sensing"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1379208"
+}

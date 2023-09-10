@@ -1,0 +1,61 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE FLAGELLAR ROOT SYSTEM IN THE GAMETE OF ACETABULARIA MEDITERRANEA",
+    "dc:creator": [
+        "HERTH W",
+        "HECK B",
+        "KOOP HU"
+    ],
+    "dc:date": "1981",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "PROTOPLASMA; ISSN 0033-183X; AUT; DA. 1981; VOL. 109; NO 3-4; PP. 257-269; BIBL. 19 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ALGAE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHLOROPHYCOPHYTA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ULTRASTRUCTURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROSCOPIE ELECTRONIQUE TRANSMISSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REPRODUCTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACETABULARIA MEDITERRANEA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOLOGIE VEGETALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ALGA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TRANSMISSION ELECTRON MICROSCOPY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PLANT BIOLOGY"
+        },
+        "002A10: Physiologie vegetale et developpement / Plant physiology and development"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL82X0130772"
+}

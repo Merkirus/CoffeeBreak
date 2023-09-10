@@ -1,0 +1,106 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ETUDE PAR SPECTROSCOPIE RMN, DE LA COMPLEXATION DU CHLORURE D'HYDROGENE AVEC LE TETRACHLORURE D'ETAIN ET LE TETRACHLORURE DE CARBONE",
+    "dc:creator": [
+        "POLYAKOV VA",
+        "ROSTOVSHCHIKOVA TN",
+        "SMIRNOV VV",
+        "SERGEEV GB"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "Z. FIZ. HIM.; ISSN 0044-4537; SUN; DA. 1980; VOL. 54; NO 3; PP. 785-786; BIBL. 5 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CONSTANTE EQUILIBRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPLEXATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REACTION CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENTHALPIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENTROPIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHALEUR REACTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPRIETE THERMODYNAMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HYDROGENE CHLORURE!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETAIN IV CHLORURE!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHANE(TETRACHLORO)!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE PHYSIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE GENERALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EQUILIBRIUM CONSTANT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COMPLEXING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL REACTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENTHALPY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENTROPY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEAT OF REACTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THERMODYNAMIC PROPERTIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHYSICAL CHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENERAL CHEMISTRY"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8060372487"
+}

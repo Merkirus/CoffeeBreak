@@ -1,0 +1,92 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Interpreting textual data in writing research",
+    "dc:creator": "THOMPSON, I",
+    "dc:relation": "Journal of technical writing and communication -- J. tech. writ. commun, CODEN JTWCAA, ISSN 0047-2816, Vol. 29 (2) , pp. 153-165",
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Baywood",
+    "dc:format": [
+        "print",
+        "21 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Chercheur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Compréhension"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interprétation information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lecture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Théorie de Rosenblatt"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Research worker"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comprehension"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information interpretation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reading"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Investigador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Comprensión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interpretación información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lectura"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation",
+        "001A01A03: Communication. Transfert de l'information / Communication. Information transfer",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-B: Sciences de l'information et des bibliothèques. Etude d'ensemble / Library and information science. General aspects"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1912279"
+}

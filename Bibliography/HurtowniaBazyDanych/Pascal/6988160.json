@@ -1,0 +1,96 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Protein solubilities determined by a rapid technique and modification of that technique to a micro-method",
+    "dc:creator": [
+        "CACIOPPO, E",
+        "MUNSON, S",
+        "PUSEY, M. L"
+    ],
+    "dc:contributor": [
+        "WARD, K. B (Editor)",
+        "International conference on crystallization of biological macromolecules (03 ; Washington DC 1989-08-13)"
+    ],
+    "dc:relation": [
+        "Journal of crystal growth -- J. cryst. growth, CODEN JCRGAE, ISSN 0022-0248, Vol. 110 (1-2) , pp. 66-71",
+        "Crystal growth of biological macromolecules, Washington, DC, USA, 13-19 August 1989"
+    ],
+    "dc:date": "1991",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "16 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareillage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Protéine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Solubilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Solution chimique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Instrumentation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Proteins"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Solubility"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical solution"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Instrumentación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Proteina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Solubilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Solución química"
+        },
+        "002A03B: Propriétés physicochimiques de molécules biologiques / Physico-chemical properties of biomolecules"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4300935"
+}

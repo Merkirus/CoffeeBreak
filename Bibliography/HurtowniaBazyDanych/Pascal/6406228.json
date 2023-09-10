@@ -1,0 +1,270 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Regional and seasonal prediction of the Caribbean lobster (Panulirus argus) commercial catch in Cuba",
+    "dc:creator": [
+        "CRUZ, Raul",
+        "ADRIANO, Roberto"
+    ],
+    "dc:contributor": "ICWL International Conference and Workshop on Lobster Biology and Management (6 ; Key West, Florida 2000-09-10)",
+    "dc:relation": [
+        "Marine and freshwater research -- Mar. freshw. res, ISSN 1323-1650, Vol. 52 (8) , pp. 1633-1640",
+        "Lobster Biology and Management: Proceedings of the Sixth International Conference and Workshop on Lobster Biology and Management"
+    ],
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Commonwealth Scientific and Industrial Research Organization",
+    "dc:format": [
+        "print",
+        "21 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Arthropoda"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Crustacea"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Decapoda"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Invertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Macrura"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu marin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Palinuridae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exploitation durable"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exploitation population"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gestion ressources"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nourricerie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Panulirus argus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prévision"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pêcherie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Taux capture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Arthropoda"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Crustacea"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Decapoda"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Invertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Macrura"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Marine environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Palinuridae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sustainable use"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Population exploitation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Resource management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nursery (animal)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Panulirus argus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Forecasting"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fishery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Capture rate"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arthropoda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Crustacea"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Decapoda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Invertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Macrura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio marino"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Palinuridae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Exploitación sustentable"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Explotación población"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gestión recursos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Panulirus argus"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Previsión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pesquería"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tasa captura"
+        },
+        "002A14D03: Exploitation et gestion des ressources biologiques naturelles (chasse, pêche, surveillance des populations exploitées, etc.) / Exploitation and management of natural biological resources (hunting, fishing and exploited populations survey, etc.)"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique Centrale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Antilles"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cuba"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mer des Caraïbes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "West Indies"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cuba"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Caribbean Sea"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America central"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antillas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuba"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mar del Caribe"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 13487895"
+}

@@ -1,0 +1,85 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "LE SECTEUR ET LES MURS DE L'ASILE.",
+    "dc:creator": "LECOMTE G",
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "ENCEPHALE; FR.; DA. 1976; VOL. 2; NO 3; PP. 229-230; ABS. ANGL.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PSYCHIATRIE SECTEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PSYCHIATRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIOTHERAPIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NEUROLEPTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DELIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRAITEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PSYCHOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PSYCHIATRIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOGRAPHICAL DISTRICT PSYCHIATRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PSYCHIATRIST"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMOTHERAPY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NEUROLEPTIC"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TREATMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PSYCHOSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PSYCHIATRY"
+        },
+        "002A26: Psychologie. Psychophysiologie / Psychology. Psychophysiology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7750195480"
+}

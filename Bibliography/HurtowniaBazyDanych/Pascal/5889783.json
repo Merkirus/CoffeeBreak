@@ -1,0 +1,143 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Un algorithme séquentiel de squelettisation en un balayage application à la segmentation hiérarchiques d'images de documents; A sequential algorithm of squeleting on scanning : application for the hierarchical segmentation of document images",
+    "dc:creator": "NORMAND, N",
+    "dc:contributor": [
+        "Association française pour la cybernétique économique et technique (Organiser of meeting)",
+        "Association française pour l'intelligence artificielle (Organiser of meeting)",
+        "Université de Nantes, Institut de recherche et d'enseignement supérieur aux techniques de l'électronique (Organiser of meeting)",
+        "La Poste, Service de recherche technique (Organiser of meeting)",
+        "Colloque national sur l'écrit et le document (4 ; Nantes 1996-07-03)"
+    ],
+    "dc:relation": "CNED '96 : 4ème colloque national sur l'écrit et le document (Nantes, 3-5 juillet 1996)",
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "IRESTE",
+    "dc:format": [
+        "print",
+        "11 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Technologie information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Algorithme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Morphologie mathématique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthodologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Reconnaissance image"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Segmentation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Squelette"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement image"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information technology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Algorithm"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mathematical morphology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Methodology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Image recognition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Segmentation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Skeleton"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Image processing"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tecnología información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Algoritmo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Morfología matemática"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metodología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reconocimiento imagen"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Segmentación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Esqueleto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Procesamiento imagen"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation",
+        "001A01F01: Conception et modélisation des systèmes / System design and modelling",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-G: Système de recherche documentaire. Système de gestion documentaire et d'information / Information retrieval systems. Information and document management system"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2726250"
+}

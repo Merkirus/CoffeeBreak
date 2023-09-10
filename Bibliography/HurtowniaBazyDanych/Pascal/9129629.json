@@ -1,0 +1,71 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "What is an original? The interests of the historian working with manuscripts, for example those of Jacob and Wilhelm Grimm",
+    "dc:creator": "HUSSONG, Ulrich",
+    "dc:relation": "Restaurator -- Restaurator, CODEN RESTBP, ISSN 0034-5806, Vol. 29 (4) , pp. 262-273",
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "De Gruyter",
+    "dc:format": [
+        "print",
+        "12 p. ; 2 p.1/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Authenticité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Document original"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Intérêt"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Manuscrit"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Authenticity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Original document"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interest"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Manuscript"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Documento original"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interés"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Manuscrito"
+        },
+        "001A01B02B2: Conservation. Stockage / Preservation. Storage",
+        "790-C: Gestion des services d'information / Information service management",
+        "790-C02B02: Conservation. Stockage / Preservation. Storage"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20979930"
+}

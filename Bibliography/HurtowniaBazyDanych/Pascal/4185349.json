@@ -1,0 +1,56 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ETUDE DE LA TRANSITION DE PHASE DANS NAD3 SEO3)2 PAR LA METHODE DE DIFFUSION RAMAN OPTIQUE",
+    "dc:creator": [
+        "SHABANOV VF",
+        "FEDOTOV AP"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "FIZ. TVERD. TELA; S.S.S.R.; DA. 1976; VOL. 18; NO 6; PP. 1508-1510; BIBL. 8 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DIFFUSION RAMAN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LARGEUR RAIE SPECTRALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EFFET ISOTOPIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSITION PHASE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TEMPERATURE CRITIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTENSITE EXCITATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HYDROGENOSELENIATE SODIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE SOLIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID PHYSICS"
+        },
+        "001B60: Etat condense: structure, proprietes mecaniques et thermiques / Condensed matter: structure, mechanical and thermal properties"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7630293424"
+}

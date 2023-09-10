@@ -1,0 +1,65 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "AUSWIRKUNGEN DER STEIGERUNG DES BEZOGENEN SPANUNGSVOLUMENS INFOLGE ERHOEHTER SCHLEIFKOERPERUMFANGSGESCHWINDIGKEIT BEIM AUSSENRUNDSTECHSCHLEIFEN.; EFFET DE L'AUGMENTATION DU VOLUME DE COPEAUX ENLEVES DU FAIT DE L'AUGMENTATION DE LA VITESSE PERIPHERIQUE DE LA MEULE LORS DE LA REDIFICATION CYLINDRIQUE EXTERIEURE PAR PLONGEE",
+    "dc:creator": "LOCHMANN K",
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "FERTIG.-TECH. U. BETRIEB; DTSCH.; DA. 1976; VOL. 26; NO 11; PP. 656-658; ABS. RUSSE ANGL.; BIBL. 15 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "RECTIFICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RECTIFICATION CYLINDRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RECTIFICATION EXTERIEURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "USINAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VITESSE COUPE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RENDEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CYLINDRICAL GRINDING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MACHINING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CUTTING SPEED"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "YIELD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METALLURGY"
+        },
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7780188349"
+}

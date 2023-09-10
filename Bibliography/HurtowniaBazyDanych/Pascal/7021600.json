@@ -1,0 +1,101 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Optimization of a fuzzy controller by genetic algorithms",
+    "dc:creator": [
+        "MARINELLI, C",
+        "CASTELLANO, G",
+        "ATTOLICO, G",
+        "DISTANTE, A"
+    ],
+    "dc:contributor": [
+        "Bosacchi, Bruno (Editor)",
+        "Bezdek, James C (Editor)",
+        "Fogel, David B (Editor)",
+        "International Society for Optical Engineering (Organiser of meeting)",
+        "Applications of soft computing. Conference (San Diego CA 1997-07-28)"
+    ],
+    "dc:relation": [
+        "SPIE proceedings series -- SPIE proc. ser, pp. 153-160",
+        "Applications of soft computing (San Diego CA, 28-29 July 1997)"
+    ],
+    "dc:date": "1997",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "5 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Aide navigation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Algorithme génétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Commande floue"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Robot mobile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système commande"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Navigational aid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Genetic algorithm"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fuzzy control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Moving robot"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Control system"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ayuda navegación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Algoritmo genético"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Control difusa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Robot móvil"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema control"
+        },
+        "001D02C02: Apprentissage et systèmes adaptatifs / Learning and adaptive systems",
+        "001D02D11: Robotique / Robotics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2039534"
+}

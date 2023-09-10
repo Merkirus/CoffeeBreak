@@ -1,0 +1,101 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "OXIDATION OF INORGANIC SULFUR COMPOUNDS BY YEAST",
+    "dc:creator": "KUREK E",
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "ACTA MICROBIOL. POLON.; POL; DA. 1979; VOL. 28; NO 2; PP. 169-172; BIBL. 9 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "RHODOTORULA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OXYDATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE MINERAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOUFRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METABOLISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NUTRITION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LEVURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SULFITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "THIOSULFATE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE SOUFRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROBIOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RHODOTORULA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OXIDATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INORGANIC COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SULFUR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METABOLISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NUTRITION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "YEAST"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SULFITES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THIOSULFATES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROBIOLOGY"
+        },
+        "002B05: Pathologie infectieuse / Infectious diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7950371990"
+}

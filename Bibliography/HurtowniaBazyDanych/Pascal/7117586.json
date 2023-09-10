@@ -1,0 +1,189 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Tests on deep I-shape pultruded beams",
+    "dc:creator": [
+        "ZUREICK, A",
+        "KAHN, L. F",
+        "BANDY, B. J"
+    ],
+    "dc:contributor": "SPI Composites Institute's annual conference and EXPO '94 (49 ; Cincinnati OH 1994-02)",
+    "dc:relation": [
+        "Journal of reinforced plastics and composites -- J. reinf. plast. compos, CODEN JRPCDW, ISSN 0731-6844, Vol. 14 (4) , pp. 378-389",
+        "SPI Composites Institute's annual conference and EXPO '94 (49 ; Cincinnati OH 1994-02)"
+    ],
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Sage",
+    "dc:format": [
+        "print",
+        "20 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété mécanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrainte flexion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Critère conception"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fibre verre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau composite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode élément fini"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Poutre I"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Poutre composite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Relation contrainte déformation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Théorie poutre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vinylique dérivé polymère"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mechanical properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bending stress"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Design criterion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Glass fiber"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Composite material"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Finite element method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "I shaped beam"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Composite girder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stress strain relation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Beam theory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polyvinyl derivative"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad mecánica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tensión flexión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Criterio concepción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fibra vidrio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Material compuesto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método elemento finito"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Viga I"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vigna compuesta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Relación tensión deformación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Teoría viga"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vinílico derivado polímero"
+        },
+        "001D10A06H: Matériaux composites / Composites"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3482559"
+}

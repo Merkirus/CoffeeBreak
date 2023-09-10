@@ -1,0 +1,200 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "US voluntary Semp initiative: holy grail on poisened chalice ?",
+    "dc:creator": "POWELL, T.A.F",
+    "dc:contributor": [
+        "Offshore Technology Conference (Funder/Sponsor)",
+        "Platform and marine system design 1996 Offshore Technology Conference (Houston TX 1996-05-06)"
+    ],
+    "dc:relation": "Platform and marine system design 1996 Offshore Technology Conference",
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Offshore Technology Conference",
+    "dc:format": [
+        "print",
+        "41 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Exploitation marine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fiabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Inspection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Législation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plateforme forage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plateforme production"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réglementation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sécurité"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Offshore production"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reliability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inspection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Legislation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Offshore drilling platform"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Production platform"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Regulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Safety"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Explotación marina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fiabilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inspección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Legislación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Plataforma perforación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Plataforma producción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reglamentación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Seguridad"
+        },
+        "001D06: Energie / Energy",
+        "001D06B02B4A: Généralités / General"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Royaume Uni"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats Unis"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grande Bretagne"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United Kingdom"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Great Britain"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reino Unido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estados Unidos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gran Bretaña"
+        }
+    ],
+    "dc:rights": [
+        "Institut Français du Pétrole et des Energies Nouvelles (IFP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6271334"
+}

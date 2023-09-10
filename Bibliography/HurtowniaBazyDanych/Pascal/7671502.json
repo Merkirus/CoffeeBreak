@@ -1,0 +1,58 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Painted leaves, context, and semantic analysis",
+    "dc:creator": "PREDELLI, Stefano",
+    "dc:relation": "Linguistics and philosophy -- Linguist. philos, ISSN 0165-0157, Vol. 28 (3) , pp. 351-374",
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "24 p. ; 23 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Condition de vérité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Philosophie du langage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sémantique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contextualisme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Truth condition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Philosophy of language"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Semantics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Contextualism"
+        },
+        "524-: Sciences du langage / Linguistics",
+        "524-43: Philosophie du langage et logique / Philosophy of language. Logic"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17030673"
+}

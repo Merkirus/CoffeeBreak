@@ -1,0 +1,229 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Miliaire tuberculeuse aiguë du pharynx ou maladie d'Isambert: à propos d'un cas; Acute miliary tuberculosis or Isambert disease: A case report",
+    "dc:creator": [
+        "ZIAD, T",
+        "NOURI, H",
+        "ADNY, A",
+        "ROCHDI, Y",
+        "ADERDOUR, L",
+        "RAJI, A"
+    ],
+    "dc:relation": "Archives de pédiatrie (Paris) -- Arch. pédiatr. (Paris), ISSN 0929-693X, Vol. 20 (1) , pp. 41-43",
+    "dc:date": "2013",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "3 p. ; 11 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bactériose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mycobactériose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie de l'appareil respiratoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie des poumons"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aigu"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enfant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude cas"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Maladie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pharynx"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pédiatrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé publique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tuberculose miliaire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bacteriosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mycobacterial infection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Respiratory disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lung disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Acute"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Child"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Case study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pharynx"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pediatrics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Miliary tuberculosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bacteriosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Infección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Micobacteriosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato respiratorio patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pulmón patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agudo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Niño"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio caso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enfermedad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Faringe"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pediatría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud pública"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tuberculosis miliar"
+        },
+        "002B01: Generalites / General aspects",
+        "002B05B02O: Tuberculose et mycobactérioses atypiques / Tuberculosis and atypical mycobacterial infections",
+        "002B30A11: Divers / Miscellaneous",
+        "760-L: Divers / Miscellaneous"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francia"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 26752564"
+}

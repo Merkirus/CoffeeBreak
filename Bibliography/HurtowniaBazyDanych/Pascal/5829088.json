@@ -1,0 +1,41 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Evidence Based Medicine",
+    "dc:contributor": [
+        "SAMPAIO, Cristina (Editor)",
+        "SEPPI, Klaus (Editor)",
+        "FOX, Susan H (Editor)"
+    ],
+    "dc:relation": "Movement disorders -- Mov. disord, ISSN 0885-3185, Vol. 26 (12)",
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Serial Issue"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Wiley",
+    "dc:format": [
+        "print",
+        "81 p. ; dissem"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie du système nerveux"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nervous system diseases"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso patología"
+        },
+        "002B17: Neurologie / Neurology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 24617598"
+}

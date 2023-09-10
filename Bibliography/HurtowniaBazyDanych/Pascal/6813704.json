@@ -1,0 +1,103 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Optimizing robot's service movement in a robot-centered FMC",
+    "dc:creator": "YANG-BYUNG PARK",
+    "dc:contributor": [
+        "GEN, Mitsue (Editor)",
+        "YAMAZAKI, GENJI (Editor)",
+        "Institute of Industrial Engineers (Funder/Sponsor)",
+        "Systems Engineering Society of China (Funder/Sponsor)",
+        "Korean Institute of Industrial Engineers (Funder/Sponsor)",
+        "Japan Industrial Management Association (Funder/Sponsor)",
+        "Ashikaga Institute of Technology (Funder/Sponsor)",
+        "ICC&IE-94 : annual international conference on computer and industrial engineering (16 ; Ashikaga 1994-03-07)"
+    ],
+    "dc:relation": [
+        "Computers & industrial engineering -- Comput. ind. eng, CODEN CINDDL, ISSN 0360-8352, Vol. 27 (1-4) , pp. 47-50",
+        "ICC&IE-94 : annual international conference on computer and industrial engineering"
+    ],
+    "dc:date": "1994",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Pergamon Press",
+        "Pergamon Press",
+        "Pergamon Press"
+    ],
+    "dc:format": [
+        "print",
+        "5 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Atelier flexible"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Automatisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Robotique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Règle décision"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Flexible manufacturing system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Automation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Robotics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Decision rule"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Simulation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema flexible producción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Automatización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Robótica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Regla decisión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simulación"
+        },
+        "001D02D09: Commande des processus. Productique / Process control. Computer integrated manufacturing",
+        "001D02D11: Robotique / Robotics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3403654"
+}

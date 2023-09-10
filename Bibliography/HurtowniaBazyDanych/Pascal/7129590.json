@@ -1,0 +1,128 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The importance of holograms in dentistry",
+    "dc:creator": [
+        "SINESCU, Cosmin",
+        "NEGRUTIU, Meda",
+        "BRADU, Adrian",
+        "ANTONIAC, Iulian",
+        "DOBRE, George",
+        "PODOLEANU, Adrian",
+        "POP, Dana",
+        "CUC, Lavinia",
+        "DESABATA, Aldo",
+        "NEGRU, Radu",
+        "HLUSCU, Mihai",
+        "ROMINU, Mihai",
+        "MARCAUTEANU, Corina",
+        "DEMJAN, Eniko"
+    ],
+    "dc:contributor": [
+        "Miler, Miroslav (Editor)",
+        "Hrabovský, Miroslav (Editor)",
+        "SPIE Europe (Organiser of meeting)",
+        "Akademie věd České republiky, Fyzikální ústav (Organiser of meeting)",
+        "SPIE (Organiser of meeting)",
+        "Holography (Prague 2009)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, Vol. 7358",
+        "Holography (advances and modern trends)"
+    ],
+    "dc:date": "2009",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "73580J.1-73580J.10 ; 27 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Faisceau laser"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hologramme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Holographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "In vitro"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "In vivo"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode moiré"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thérapie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0130C"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4240"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laser beams"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Holograms"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Holography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "In vitro"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "In vivo"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measuring methods"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Moire method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Therapy"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método muaré"
+        },
+        "001B00A30C: Actes de congrès / Conference proceedings",
+        "001B40B40: Holographie / Holography"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 22129161"
+}

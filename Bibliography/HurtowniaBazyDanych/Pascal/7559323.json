@@ -1,0 +1,53 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Une histoire de l'homo religiosus au Moyen Age; History of the homo religiosus in Middle ages",
+    "dc:creator": "PLATELLE, H",
+    "dc:relation": "Revue d'histoire ecclésiastique -- Rev. hist. ecclés, ISSN 0035-2381, Vol. 95 (1) , pp. 188-196",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Université catholique de Louvain",
+    "dc:format": [
+        "print",
+        "1 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Christianisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Religiosité"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Christianity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Religiosity"
+        },
+        "527-: Histoire et sciences des religions / History and sciences of religions",
+        "527-865: Christianisme / Christianity",
+        "527-946: Bibliographie / Bibliography"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Moyen Âge"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Middle Ages"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1562542"
+}

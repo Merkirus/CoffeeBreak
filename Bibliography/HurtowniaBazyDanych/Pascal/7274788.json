@@ -1,0 +1,152 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Maternal morbidity and mortality in 442 pregancies with hemolysis, elevated liver enzymes, and low platelets (HELLP syndrome)",
+    "dc:creator": [
+        "SIBAI, B. M",
+        "RAMADAN, M. K",
+        "IHAB USTA, I",
+        "MOSTAFA SALAMA",
+        "MERCER, B. M",
+        "FRIEDMAN, S. A"
+    ],
+    "dc:contributor": "Society of Perinatal Obstetricians. Annual meeting (13 ; San Francisco CA 1993-02-08)",
+    "dc:relation": [
+        "American journal of obstetrics and gynecology -- Am. j. obstet. gynecol, CODEN AJOGAH, ISSN 0002-9378, Vol. 169 (4) , pp. 1000-1006",
+        "Society of Perinatal Obstetricians. Annual meeting (13 ; San Francisco CA 1993-02-08)"
+    ],
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "20 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Gestation pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Toxémie gravidique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude cohorte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Morbidité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mortalité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prééclampsie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé publique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HELLP syndrome"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pregnancy disorders"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pregnancy toxemia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cohort study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Morbidity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mortality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mother"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Preeclampsia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HELLP syndrome"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gestación patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Toxemia gravídica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio cohorte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Morbilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mortalidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Madre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Preeclampsia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud pública"
+        },
+        "002B20F02: Pathologie mère, foetus, gestation / Diseases of mother, fetus and pregnancy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4229240"
+}

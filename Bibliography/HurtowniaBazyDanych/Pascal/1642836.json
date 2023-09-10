@@ -1,0 +1,68 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "FURTHER MEASUREMENTS OF HIGH ENERGY COSMIC RAY ELECTRONS",
+    "dc:creator": [
+        "MUELLER D",
+        "TANG J"
+    ],
+    "dc:date": "1982",
+    "dc:type": "Conference Paper",
+    "dc:language": "English",
+    "dc:format": "INTERNATIONAL COSMIC CONFERENCE. 17/1981-07-13/PARIS; FRA; SACLAY: COMMISSARIAT A L'ENERGIE ATOMIQUE; DA. 1982; PP. 142-145; BIBL. 4 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "HAUTE ENERGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RAYONNEMENT COSMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OBSERVATION PAR BALLON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTRE ENERGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOPHYSIQUE EXTERNE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HIGH ENERGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COSMIC RAY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BALLOON OBSERVATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY SPECTRUM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXTERNAL GEOPHYSICS"
+        },
+        "001E02: Geophysique externe / External geophysics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0084557"
+}

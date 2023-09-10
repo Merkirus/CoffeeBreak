@@ -1,0 +1,112 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Processing parameters for filament winding thick-section PEEK/carbon fiber composites",
+    "dc:creator": [
+        "COLTON, J",
+        "LEACH, D"
+    ],
+    "dc:relation": "Polymer composites -- Polym. compos, CODEN PCOMDI, ISSN 0272-8397, Vol. 13 (6) , pp. 427-434",
+    "dc:date": "1992",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Willey",
+    "dc:format": [
+        "print",
+        "12 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Condition mise en œuvre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Consolidation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet pression"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enroulement filamentaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etherethercétone polymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fibre carbone"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau composite"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Processing parameter"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Consolidation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pressure effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Filament winding"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polyetheretherketone"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Carbon fiber"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Composite material"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Condición puesta en ejecución"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Consolidación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efecto presión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Devanado filamentoso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Eter éter cetona polímero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fibra carbón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Material compuesto"
+        },
+        "001D10A06H: Matériaux composites / Composites"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4584921"
+}

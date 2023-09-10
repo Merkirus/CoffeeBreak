@@ -1,0 +1,263 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Brain SPECT imaging of amphetamine-induced dopamine release in euthymic bipolar disorder patients",
+    "dc:creator": [
+        "ANAND, A",
+        "VERHOEFF, P",
+        "SENECA, N",
+        "ZOGHBI, S. S",
+        "SEIBYL, J. P",
+        "CHARNEY, D. S",
+        "INNIS, R. B"
+    ],
+    "dc:relation": "The American journal of psychiatry -- Am. j. psychiatr, CODEN AJPSAO, ISSN 0002-953X, Vol. 157 (7) , pp. 1108-1114",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "American Psychiatric Association",
+    "dc:format": [
+        "print",
+        "20 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Exploration radioisotopique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble humeur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amfétamine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amphétamine dérivé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Assistance ordinateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dopamine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Encéphale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exploration clinique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fixation biologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Induction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Libération"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Photon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Physiopathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Récepteur dopaminergique D2"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système nerveux central"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tomoscintigraphie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transmission dopaminergique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble bipolaire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radionuclide study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mood disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Amfetamine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Amphetamine derivatives"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computer aid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dopamine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Brain (vertebrata)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Clinical investigation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biological fixation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Induction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Release"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pathophysiology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "D2 Dopamine receptor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central nervous system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Emission tomography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dopaminergic transmission"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bipolar disorder"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Exploración radioisotópica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno humor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anfetamina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Amfetamina derivado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asistencia ordenador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dopamina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Encéfalo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Exploración clínica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fijación biológica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inducción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Liberación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fotón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fisiopatología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Receptor dopaminérgico D2"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso central"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tomocentelleografía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transmisión dopaminérgica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno bipolar"
+        },
+        "002B18C07C: Troubles bipolaires / Bipolar disorders",
+        "770-: Psychologie. Psychanalyse. Psychiatrie / Psychology. Psychoanalysis. Psychiatry",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1437720"
+}

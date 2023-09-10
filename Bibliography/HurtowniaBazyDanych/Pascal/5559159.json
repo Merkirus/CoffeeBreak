@@ -1,0 +1,102 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Ecosystems emerging : 3. Openness",
+    "dc:creator": [
+        "JØRGENSEN, S. E",
+        "PATTEN, B. C",
+        "STRASKRABA, M"
+    ],
+    "dc:contributor": "JØRGENSEN, Sven Erik (Editor)",
+    "dc:relation": "Ecological modelling -- Ecol. model, CODEN ECMODT, ISSN 0304-3800, Vol. 117 (1) , pp. 41-64",
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "38 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecosystème"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exergie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur limitant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Principe thermodynamique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système ouvert"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thermodynamique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ecosystem"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Exergy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Limiting factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermodynamic principle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Open systems"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermodynamics"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ecosistema"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Exergía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor limitante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Principio termodinámico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema abierto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Termodinámica"
+        },
+        "002A14A02: Méthodes et techniques (échantillonnage, marquage, piégeage, modélisation...) / Methods and techniques (sampling, tagging, trapping, modelling...)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1860327"
+}

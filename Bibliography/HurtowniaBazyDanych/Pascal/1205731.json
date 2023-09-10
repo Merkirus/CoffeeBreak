@@ -1,0 +1,158 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "CRYSTAL FIELDS AND EXCHANGE PARAMETERS IN LAAL2: EU2+ AND LAAL2: GD3+ SINGLE CRYSTALS; CHAMPS CRISTALLINS ET PARAMETRES D'ECHANGE DANS DES MONOCRISTAUX DE LAAL2: EU2+ ET LAAL2:GD3+",
+    "dc:creator": [
+        "BABERSCHKE K",
+        "BACHOR B",
+        "BARNES SE"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "PHYS. REV. B.; ISSN 0163-1829; USA; DA. 1980; VOL. 21; NO 7; PP. 2666-2673; BIBL. 26 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ALUMINIUM ALLIAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LANTHANE ALLIAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LANTHANIDE ALLIAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MONOCRISTAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RESONANCE PARAMAGNETIQUE ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FACTEUR G"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRES BASSE TEMPERATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IMPURETE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHAMP CRISTALLIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTERACTION ECHANGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RESONANCE MAGNETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RPE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EUROPIUM!ACT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GADOLINIUM!ACT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALUMINIUM LANTHANE ALLIAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALLIAGE2 LA:>50 AL:20-30"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AL2LA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IMPURETE EUROPIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IMPURETE GADOLINIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE SOLIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ALUMINIUM ALLOY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LANTHANUM ALLOY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RARE EARTH METAL ALLOY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SINGLE CRYSTAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRON PARAMAGNETIC RESONANCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "G FACTOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VERY LOW TEMPERATURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IMPURITIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CRYSTAL FIELD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXCHANGE INTERACTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MAGNETIC RESONANCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID PHYSICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METALLURGY"
+        },
+        "001B60: Etat condense: structure, proprietes mecaniques et thermiques / Condensed matter: structure, mechanical and thermal properties",
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8130008673"
+}

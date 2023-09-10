@@ -1,0 +1,108 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Digital side-scan sonar survey of Louisiana slope areas containing active oil seeps and halokinetics sediment modification",
+    "dc:creator": [
+        "SAGER, W.W",
+        "MACDONALD, I.R",
+        "BRYANT, W.R",
+        "CARLSON, R.L",
+        "PRIOR, D.B"
+    ],
+    "dc:contributor": [
+        "Offshore Technology Conference (Funder/Sponsor)",
+        "Geology, earth sciences and environmental factors - Offshore Technology Conference (Houston, TX 1998-05-04)"
+    ],
+    "dc:relation": "Geology, earth sciences and environmental factors - Offshore Technology Conference",
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Offshore Technology Conference",
+    "dc:format": [
+        "print",
+        "Illustration ; 13 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Exploitation marine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fond marin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Géotechnique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plateforme forage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sonar"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sédiment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Offshore production"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ocean floors"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Engineering geology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Offshore drilling platform"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sonar"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sediments"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Explotación marina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fondo marino"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Geotécnica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Plataforma perforación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sonar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sedimento"
+        },
+        "001D06: Energie / Energy",
+        "001D06B02B4A: Généralités / General"
+    ],
+    "dc:rights": [
+        "Institut Français du Pétrole et des Energies Nouvelles (IFP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6254440"
+}

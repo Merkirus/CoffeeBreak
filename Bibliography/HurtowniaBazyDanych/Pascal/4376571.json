@@ -1,0 +1,49 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "PASSAGE DE QUELQUES SIGNAUX ALEATOIRES NORMAUX A TRAVERS UN DISPOSITIF AVEC UNE NON-LINEARITE COMPLEXE",
+    "dc:creator": "DEEV VV",
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "IZVEST. VYSSH. UCHEBN. ZAVED., RADIOELEKTRON.; UKR; DA. 1980; VOL. 23; NO 4; PP. 82-88; BIBL. 6 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CIRCUIT NON LINEAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SIGNAL ALEATOIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SIGNAL GAUSSIEN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NON LINEAR CIRCUIT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RANDOM SIGNAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GAUSSIAN SIGNAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONICS"
+        },
+        "001D03: Electronique / Electronics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8030466146"
+}

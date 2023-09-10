@@ -1,0 +1,96 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "QUELQUES TENDANCES DE LA COOPERATION DES BIBLIOTHEQUES DE HONGRIE DANS LE DOMAINE DE L'ACQUISITION DE LA LITTERATURE ETRANGERE",
+    "dc:creator": [
+        "KONDOR I",
+        "POKHVASHCHEVOJ EH V TR"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "BIBLIOTEKOVED. BBG RUBEZH.; SUN; DA. 1978; NO 70; PP. 3-10; ABS. ENG",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "BIBLIOTHEQUE SPECIALISEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TECHNOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACQUISITION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FONDS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LANGUE ETRANGERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ASPECT ECONOMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DOCUMENT SECONDAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HONGRIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCE INFORMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SPECIAL LIBRARY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TECHNOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ACQUISITION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIBRARY HOLDINGS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FOREIGN LANGUAGE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ECONOMIC ASPECT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SECONDARY DOCUMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUNGARY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFORMATION SCIENCE"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7930145584"
+}

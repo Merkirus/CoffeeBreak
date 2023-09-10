@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Coupled Structural-Acoustic Response of a Duct-Mounted Elastic Plate with Grazing Flow</dc:title>
+  <dc:creator>SUCHEENDRAN, Mahesh M</dc:creator>
+  <dc:creator>BODONY, Daniel J</dc:creator>
+  <dc:creator>GEUBELLE, Philippe H</dc:creator>
+  <dc:contributor>AIAA/CEAS Aeroacoustics Conference (18 ; Colorado Springs, CO 2012-06-04)</dc:contributor>
+  <dc:relation>AIAA journal -- AIAA j, CODEN AIAJAH, ISSN 0001-1452, Vol. 52 (1) , pp. 178-194</dc:relation>
+  <dc:relation>AIAA/CEAS Aeroacoustics Conference (18 ; Colorado Springs, CO 2012-06-04)</dc:relation>
+  <dc:date>2014</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Conference Paper</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>American Institute of Aeronautics and Astronautics</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>17 p. ; 45 ref</dc:format>
+  <dc:subject xml:lang="fr">Acoustique structurale</dc:subject>
+  <dc:subject xml:lang="fr">Analyse structurale</dc:subject>
+  <dc:subject xml:lang="fr">Appui simple</dc:subject>
+  <dc:subject xml:lang="fr">Aéronef</dc:subject>
+  <dc:subject xml:lang="fr">Conduite rectangulaire</dc:subject>
+  <dc:subject xml:lang="fr">Couche limite</dc:subject>
+  <dc:subject xml:lang="fr">Couplage acoustique</dc:subject>
+  <dc:subject xml:lang="fr">Couplage mode</dc:subject>
+  <dc:subject xml:lang="fr">Ecoulement conduite</dc:subject>
+  <dc:subject xml:lang="fr">Ecoulement subsonique</dc:subject>
+  <dc:subject xml:lang="fr">Ecoulement uniforme</dc:subject>
+  <dc:subject xml:lang="fr">Fréquence fondamentale</dc:subject>
+  <dc:subject xml:lang="fr">Fréquence propre</dc:subject>
+  <dc:subject xml:lang="fr">Harmonique</dc:subject>
+  <dc:subject xml:lang="fr">Incidence rasante</dc:subject>
+  <dc:subject xml:lang="fr">Lutte bruit</dc:subject>
+  <dc:subject xml:lang="fr">Modèle milieu effectif</dc:subject>
+  <dc:subject xml:lang="fr">Modélisation</dc:subject>
+  <dc:subject xml:lang="fr">Métrique</dc:subject>
+  <dc:subject xml:lang="fr">Onde plane</dc:subject>
+  <dc:subject xml:lang="fr">Plaque mince</dc:subject>
+  <dc:subject xml:lang="fr">Réponse fréquence</dc:subject>
+  <dc:subject xml:lang="fr">Système ordre réduit</dc:subject>
+  <dc:subject xml:lang="en">Structural acoustics</dc:subject>
+  <dc:subject xml:lang="en">Structural analysis</dc:subject>
+  <dc:subject xml:lang="en">Simple support</dc:subject>
+  <dc:subject xml:lang="en">Aircraft</dc:subject>
+  <dc:subject xml:lang="en">Rectangular pipe</dc:subject>
+  <dc:subject xml:lang="en">Boundary layer</dc:subject>
+  <dc:subject xml:lang="en">Acoustic coupling</dc:subject>
+  <dc:subject xml:lang="en">Mode coupling</dc:subject>
+  <dc:subject xml:lang="en">Pipe flow</dc:subject>
+  <dc:subject xml:lang="en">Subsonic flow</dc:subject>
+  <dc:subject xml:lang="en">Uniform flow</dc:subject>
+  <dc:subject xml:lang="en">Fundamental frequency</dc:subject>
+  <dc:subject xml:lang="en">Natural frequency</dc:subject>
+  <dc:subject xml:lang="en">Harmonic</dc:subject>
+  <dc:subject xml:lang="en">Grazing incidence</dc:subject>
+  <dc:subject xml:lang="en">Noise control</dc:subject>
+  <dc:subject xml:lang="en">Effective medium model</dc:subject>
+  <dc:subject xml:lang="en">Modeling</dc:subject>
+  <dc:subject xml:lang="en">Metric</dc:subject>
+  <dc:subject xml:lang="en">Plane wave</dc:subject>
+  <dc:subject xml:lang="en">Thin plate</dc:subject>
+  <dc:subject xml:lang="en">Frequency response</dc:subject>
+  <dc:subject xml:lang="en">Reduced order systems</dc:subject>
+  <dc:subject xml:lang="es">Ruido transmitido estructura</dc:subject>
+  <dc:subject xml:lang="es">Análisis estructural</dc:subject>
+  <dc:subject xml:lang="es">Apoyo simple</dc:subject>
+  <dc:subject xml:lang="es">Aeronave</dc:subject>
+  <dc:subject xml:lang="es">Conducto rectangular</dc:subject>
+  <dc:subject xml:lang="es">Capa límite</dc:subject>
+  <dc:subject xml:lang="es">Acoplamiento acústico</dc:subject>
+  <dc:subject xml:lang="es">Acoplamiento modo</dc:subject>
+  <dc:subject xml:lang="es">Flujo conducción</dc:subject>
+  <dc:subject xml:lang="es">Flujo subsónico</dc:subject>
+  <dc:subject xml:lang="es">Flujo uniforme</dc:subject>
+  <dc:subject xml:lang="es">Frecuencia fundamental</dc:subject>
+  <dc:subject xml:lang="es">Frecuencia propia</dc:subject>
+  <dc:subject xml:lang="es">Armónica</dc:subject>
+  <dc:subject xml:lang="es">Incidencia rasante</dc:subject>
+  <dc:subject xml:lang="es">Control ruido</dc:subject>
+  <dc:subject xml:lang="es">Modelo medio efectivo</dc:subject>
+  <dc:subject xml:lang="es">Modelización</dc:subject>
+  <dc:subject xml:lang="es">Métrico</dc:subject>
+  <dc:subject xml:lang="es">Onda plana</dc:subject>
+  <dc:subject xml:lang="es">Placa delgada</dc:subject>
+  <dc:subject xml:lang="es">Respuesta frecuencia</dc:subject>
+  <dc:subject xml:lang="es">Sistema de orden reducido</dc:subject>
+  <dc:subject>001B40C20: Acoustique linéaire / Linear acoustics</dc:subject>
+  <dc:subject>001B40C40: Acoustique des structures et vibration / Structural acoustics and vibration</dc:subject>
+  <dc:subject>001B40F30M: Vibration, onde mécanique, stabilité dynamique (aéroélasticité, contrôle vibration...) / Vibration, mechanical wave, dynamic stability (aeroelasticity, vibration control...)</dc:subject>
+  <dc:subject>001B40G40D: Ecoulements subsoniques / General subsonic flows</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 28231951</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

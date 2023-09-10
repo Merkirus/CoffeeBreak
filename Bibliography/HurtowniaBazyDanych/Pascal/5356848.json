@@ -1,0 +1,249 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Adrenocortical carcinoma",
+    "dc:creator": [
+        "SCHULICK, R. D",
+        "BRENNAN, M. F"
+    ],
+    "dc:contributor": "VAUGHAN, E. Darracott (Editor)",
+    "dc:relation": "World journal of urology (Print) -- World j. urol. (Print), CODEN WJURDJ, ISSN 0724-4983, Vol. 17 (1) , pp. 26-34",
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Springer",
+        "Springer",
+        "Springer"
+    ],
+    "dc:format": [
+        "print",
+        "33 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Corticosurrénale pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Endocrinopathie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tumeur maligne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Anticancéreux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Article synthèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Carcinome"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chimiothérapie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chirurgie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Corticosurrénale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etiologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exploration clinique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Imagerie médicale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Incidence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Radiothérapie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stade clinique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Survie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adrenal cortex diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Endocrinopathy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Malignant tumor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antineoplastic agent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Review"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Carcinoma"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemotherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surgery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adrenal cortex"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Etiology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Clinical investigation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Medical imagery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Incidence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiotherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Clinical stage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Survival"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Corticosuprarrenal patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Endocrinopatía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tumor maligno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anticanceroso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Artículo síntesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carcinoma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Quimioterapia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cirugía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Corticosuprarrenal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Etiología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Exploración clínica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Imageneria medical"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Incidencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radioterapia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estadio clínico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sobrevivencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        "002B21B02: Tumeurs malignes / Malignant tumors"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1704441"
+}

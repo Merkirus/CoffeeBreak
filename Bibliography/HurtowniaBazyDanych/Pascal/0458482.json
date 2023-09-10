@@ -1,0 +1,65 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "REVISION DER IN DEUTSCHLAND VORKOMMENDEN ARTEN DER UNTERGATTUNG UNIONICOLA S. STR. (HYDRACHNELLAE, ACARI).; REVISION DES ESPECES PRESENTEES EN ALLEMAGNE DU SOUS-GENRE U. S.STR. (H., A.)",
+    "dc:creator": "HEVERS J",
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "ACAROLOGIA; FR.; DA. 1977; VOL. 18; NO 4; PP. 691-703; ABS. ANGL.; BIBL. 24 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MILIEU DULCAQUICOLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALLEMAGNE(REPUBLIQUE FEDERALE)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REPARTITION GEOGRAPHIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ARACHNIDA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACARI"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INVERTEBRATA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EUROPE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "UNIONICOLA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FRESHWATER ENVIRONMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WEST GERMANY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOGRAPHIC DISTRIBUTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EUROPE"
+        },
+        "002A14: Ecologie animale, vegetale et microbienne / Animal, plant and microbial ecology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7750401422"
+}

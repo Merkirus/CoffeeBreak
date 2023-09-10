@@ -1,0 +1,88 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Characteristic evolutions in numerical relativity using six angular patches",
+    "dc:creator": [
+        "REISSWIG, Christian",
+        "BISHOP, Nigel T",
+        "CHI WAI LAI",
+        "THOMBURG, Jonathan",
+        "SZILAGYI, Bela"
+    ],
+    "dc:contributor": [
+        "CAMPANELLI, M (Editor)",
+        "REZZOLLA, L (Editor)",
+        "Albert Einstein Institute, Numerical Relativity Group (Organiser of meeting)",
+        "International meeting on New Frontiers in Numerical Relativity (Potsdam 2006-07-17)"
+    ],
+    "dc:relation": [
+        "Classical and quantum gravity (Print) -- Class. quantum gravity (Print), CODEN CQGRDG, ISSN 0264-9381, Vol. 24 (12)",
+        "Invited papers from the international meeting on New Frontiers in Numerical Relativity, Potsdam, 17-21 July 2006"
+    ],
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institute of Physics",
+    "dc:format": [
+        "print",
+        "S327-S339 ; 37 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Equation Einstein"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ordre 2"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système coordonnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système gravitationnel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Einstein equation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Second order"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Coordinate system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gravitational system"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ecuación Einstein"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Orden 2"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema coordenadas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema gravitacional"
+        },
+        "001B00D: Relativité générale et gravitation / General relativity and gravitation"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18905822"
+}

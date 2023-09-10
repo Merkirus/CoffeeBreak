@@ -1,0 +1,209 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Performance of a compact submerged membrane sequencing batch reactor (SM-SBR) for greywater treatment",
+    "dc:creator": [
+        "KRAUME, Matthias",
+        "SCHEUMANN, René",
+        "BABAN, Ahmet",
+        "EL HAMOURI, Bouchaib"
+    ],
+    "dc:contributor": "Aachener Membrane Kolloquium (12 ; Aachen 2008-10-29)",
+    "dc:relation": [
+        "Desalination (Amsterdam) -- Desalination (Amst.), CODEN DSLNAH, ISSN 0011-9164, Vol. 250 (3) , pp. 1011-1013",
+        "Aachener Membrane Kolloquium (12 ; Aachen 2008-10-29)"
+    ],
+    "dc:date": "2009",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "3 p. ; 10 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Agent surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bioréacteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Directive européenne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eau usée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "En discontinu"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Irrigation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Long terme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nettoyage chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Perméabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réacteur SBR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réacteur membrane"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réutilisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Unité pilote"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surfactant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bioreactor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "European directive"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Waste water"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Batchwise"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Irrigation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Long term"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical cleaning"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Permeability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sequencing batch reactor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Membrane reactor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reuse"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pilot plant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Greywater"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Membrane bioreactor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sequencing batch"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surfactants"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agente superficie"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biorreactor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Directiva europea"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agua residual"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "En discontinuo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Irrigación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Largo plazo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Limpieza química"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Permeabilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reactor SBR"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reactor membrana"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reutilización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Planta piloto"
+        },
+        "001D07H: Réacteurs / Reactors",
+        "001D16A05A: Procédés généraux d'épuration / General purification processes",
+        "002A31: Biotechnologie / Biotechnology",
+        "002A31C09C: Autres / Others"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 22464568"
+}

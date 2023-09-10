@@ -1,0 +1,409 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The psychopharmacology of huperzine A: an alkaloid with cognitive enhancing and neuroprotective properties of interest in the treatment of Alzheimer's disease",
+    "dc:creator": "ZANGARA, Andrea",
+    "dc:contributor": [
+        "HOUGHTON, Peter J (Editor)",
+        "SETH, Pallab (Editor)"
+    ],
+    "dc:relation": "Pharmacology, biochemistry and behavior -- Pharmacol. biochem. behav, CODEN PBBHAU, ISSN 0091-3057, Vol. 75 (3) , pp. 675-686",
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "12 p. ; 1 p.3/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Carboxylic ester hydrolases"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Encéphale pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enzyme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Esterases"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hydrolases"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Maladie dégénérative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système nerveux central pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système nerveux pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Activité biologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Activité enzymatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Alcaloïde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Article synthèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cholinesterase"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Démence Alzheimer"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai clinique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai préclinique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Extrait"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Inhibiteur enzyme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lycopode"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Médecine chinoise"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mémoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Neuroprotecteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Origine végétale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pharmacognosie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plante médicinale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété biologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Revue bibliographique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Huperzia serrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Huperzine A"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Carboxylic ester hydrolases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cerebral disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Enzyme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Esterases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hydrolases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Degenerative disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central nervous system disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nervous system diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biological activity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Enzymatic activity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Alkaloid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Review"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cholinesterase"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Alzheimer disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Clinical trial"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Preclinical trial"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Extract"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Enzyme inhibitor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lycopodium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chinese medicine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Memory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neuroprotective agent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plant origin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pharmacognosy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Medicinal plant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biological properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bibliographic review"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Alzheimer's disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cholinesterase"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cognitive enhancer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Huperzine A"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Natural product"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neuroprotective"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carboxylic ester hydrolases"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Encéfalo patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enzima"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Esterases"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hydrolases"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enfermedad degenerativa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervosio central patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Actividad biológica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Actividad enzimática"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alcaloide"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Artículo síntesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cholinesterase"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Demencia Alzheimer"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo clínico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo preclínico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Extracto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inhibidor enzima"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lycopodium"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medicina china"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Memoria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Neuroprotector"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Origen vegetal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Farmacognosia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Planta medicinal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad biológica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Revista bibliográfica"
+        },
+        "002B02A04: Pharmacognosie. Homéopathie. Aliment santé / Pharmacognosy. Homeopathy. Health food"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15121187"
+}

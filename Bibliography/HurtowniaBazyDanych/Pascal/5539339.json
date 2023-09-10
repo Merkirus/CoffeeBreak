@@ -1,0 +1,78 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A novel reduction algorithm based decomposition and merging strategy",
+    "dc:creator": [
+        "FENG HU",
+        "XINGHUA FAN",
+        "SIMON. X. YANG",
+        "CHAOHAI TAO"
+    ],
+    "dc:contributor": "International conference on intelligent computing (Kunming 2006)",
+    "dc:relation": [
+        "Lecture notes in control and information sciences -- Lect. notes control inf. sci, CODEN LCISDU, ISSN 0170-8643, pp. 790-796",
+        "Intelligent control and automation (International conference on Intelligent computing, ICIC 2006, Kunming, China, August 16-19, 2006) -- 0ICIC 2006"
+    ],
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "7 p. ; 7 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Acquisition connaissances"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Base connaissance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Table décision"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Théorie ensemble approximatif"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Knowledge acquisition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Knowledge base"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Decision table"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rough set theory"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adquisición de conocimientos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Base conocimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tabla decisión"
+        },
+        "001D02C: Intelligence artificielle / Artificial intelligence"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18393565"
+}

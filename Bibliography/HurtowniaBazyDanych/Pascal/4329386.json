@@ -1,0 +1,69 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "METHODE DE CHROMATOGRAPHIE EN PHASE GAZEUSE POUR L'ESTIMATION DE LA LONGUEUR DE CHAINE DE L'AMYLOPECTINE",
+    "dc:creator": [
+        "YAMADA T",
+        "HISAMATSU M",
+        "TAKI M"
+    ],
+    "dc:date": "1975",
+    "dc:type": "Article",
+    "dc:language": "Japanese",
+    "dc:format": "J. AGRIC. CHEM. SOC. JAP.; JAP.; DA. 1975; VOL. 49; NO 3; PP. 163-167; ABS. ANGL.; BIBL. 11REF",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "AMYLOPECTINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TAILLE MOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHROMATOGRAPHIE PHASE GAZEUSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLYMERISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AMYLOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AMIDON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ZEA MAYS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GRAMINEAE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VEGETAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSICOCHIMIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOCHIMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOCHEMISTRY"
+        },
+        "002A02: Biochimie analytique, structurale et metabolique / Analytical, structural and metabolic biochemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7532010676"
+}

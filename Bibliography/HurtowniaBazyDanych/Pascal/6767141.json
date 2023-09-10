@@ -1,0 +1,122 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Justifications for reducing HBM and MM ESD qualification test time",
+    "dc:creator": [
+        "VERHAEGE, K",
+        "ROBINSON-HAHN, D",
+        "RUSS, C",
+        "FARRIS, M",
+        "SCANLON, J",
+        "LIN, D",
+        "VELTRI, J",
+        "GROESENEKEN, G"
+    ],
+    "dc:contributor": [
+        "GROESENEKEN, Guido (Editor)",
+        "MAES, Herman E (Editor)",
+        "MOUTHAAN, Anton J (Editor)",
+        "VERWEIJ, Jan F (Editor)",
+        "IMEC (Funder/Sponsor)",
+        "University of Twente ; MESA Research Institute (Funder/Sponsor)",
+        "ESREF'96 European Symposium on Reliability of Electron Devices, Failure Physics and Analysis (7 ; Enschede 1996-10-08)"
+    ],
+    "dc:relation": [
+        "Microelectronics and reliability -- Microelectron. reliab, CODEN MCRLAS, ISSN 0026-2714, Vol. 36 (11-12) , pp. 1715-1718",
+        "Reliability of electron devices, failure physics and analysis"
+    ],
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "9 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Circuit intégré"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Défaillance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fiabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Programme essai"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Protection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Qualification"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Décharge electrostatique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Integrated circuit"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Failures"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reliability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Test programme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Protection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Qualification"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Circuito integrado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fallo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fiabilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Programa ensayo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Protección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Calificación"
+        },
+        "001D03B: Essais, mesure, bruit et fiabilité / Testing, measurement, noise and reliability"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3241789"
+}

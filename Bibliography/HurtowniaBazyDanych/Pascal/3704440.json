@@ -1,0 +1,57 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ETUDE DU TAUX DE BILIRUBINE DANS LE SANG DU CORDON DU NOUVEAU-NE, A ALGER",
+    "dc:creator": "MADAOUI BAHIA",
+    "dc:date": "1974",
+    "dc:type": "Thesis",
+    "dc:language": "French",
+    "dc:format": "; S.L.; DA. 1974; PP. (96P.); BIBL. 14P.; (THESE DOCT. MED.; ALGER)",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CORDON OMBILICAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SANG"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BILIRUBINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METABOLISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NOUVEAU NE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LIQUIDE BIOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NEONATOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REPRODUCTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REPRODUCTION"
+        },
+        "002A29: Vertebres: reproduction / Vertebrates: reproduction"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7536111983"
+}

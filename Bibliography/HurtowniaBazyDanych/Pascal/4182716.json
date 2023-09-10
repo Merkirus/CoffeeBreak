@@ -1,0 +1,58 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ETUDE DE LA RESISTANCE DES MOULES DE COULEE SOUS PRESSION",
+    "dc:creator": [
+        "STREL'SKIJ VA",
+        "BEL'SKIJ EI",
+        "SILIN II",
+        "VESHNYAKOV VP"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "VESCI AKAD. NAVUK B.S.S.R., FIZ.-TEKH. NAVUK; BYS; DA. 1976; NO 4; PP. 14-18; BIBL. 1 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "COULEE SOUS PRESSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MOULE FONDERIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPRIETE TECHNOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COQUILLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PRESSURE DIE CASTING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FOUNDRY MOLD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TECHNOLOGICAL PROPERTIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METALLURGY"
+        },
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7900236152"
+}

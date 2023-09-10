@@ -1,0 +1,78 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Les parcours modulaires qualifiants dans la branche textile : OPCA: conseil et ingénierie en formation; Qualifying modular curricula in the textile sector",
+    "dc:creator": [
+        "ROYER, Xavier",
+        "JAMBON, Paul",
+        "PRAT, Claire"
+    ],
+    "dc:relation": "Actualité de la formation permanente (Paris-la-Défense) -- Actual. form. perm. (Paris-la-Défense), ISSN 0397-331X (175) , pp. 64-70",
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Centre Inffo",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Certification"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Formation continue"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Formation professionnelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Qualification"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Validation des acquis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Certification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Continuing training"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Professional training"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Qualification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Confirmation of acquisition"
+        },
+        "520-: Sciences de l'éducation / Educational sciences",
+        "520-156: Éducation permanente et emploi / Life-long education and employment",
+        "520-160: Éducation permanente, formation en cours d'emploi, recyclage professionnel / Life-long education, in-service training, retraining"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 13421175"
+}

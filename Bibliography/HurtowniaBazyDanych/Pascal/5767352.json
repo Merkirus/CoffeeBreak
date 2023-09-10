@@ -1,0 +1,117 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Douleur et chirurgie; Pain and surgery",
+    "dc:creator": [
+        "HOFFMEYER, P",
+        "FORSTER, A"
+    ],
+    "dc:contributor": [
+        "SARTORIUS, Norman (Author of introductory parts)",
+        "RAPIN, Charles-Henri",
+        "FOREST, Martyne-Isabel"
+    ],
+    "dc:relation": "Cahiers psychiatriques -- Cah. psychiatr, ISSN 1422-5239 (23) , pp. 53-57",
+    "dc:date": "1997",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Editions médecine et hygiène",
+    "dc:format": [
+        "print",
+        "3 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analgésique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chimiothérapie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chirurgie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Douleur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Postopératoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Analgesic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemotherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surgery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Postoperative"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Analgésico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Quimioterapia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cirugía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dolor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Postoperatorio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        "002B02B05: Analgésiques / Analgesics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2282800"
+}

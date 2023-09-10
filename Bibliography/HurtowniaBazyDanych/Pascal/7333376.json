@@ -1,0 +1,157 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The physical processes of seabed disturbance during iceberg grounding and scouring",
+    "dc:creator": [
+        "WOODWORTH-LYNAS, C.M.T",
+        "JOSENHANS, H.W",
+        "BARRIE, J.V",
+        "LEWIS, C.F.M",
+        "PARROTT, D.R"
+    ],
+    "dc:contributor": "Canadian continental shelf seabed symposium (C2S3) (1989-10-02)",
+    "dc:relation": [
+        "Continental shelf research -- Cont. shelf res, ISSN 0278-4343, Vol. 11 (8-10) , pp. 939-961",
+        "Canadian continental shelf seabed symposium (C2S3) (1989-10-02)"
+    ],
+    "dc:date": "1991",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "Plan ; 1 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Affouillement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fond marin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Iceberg"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "scours"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ocean floors"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "icebergs"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "models"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Socavación fluvial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fondo marino"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Iceberg"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo"
+        },
+        "001E01P01: Géomorphologie, morphodynamique / Geomorphology, landform evolution"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Canada Est"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Océan Atlantique Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Océan Atlantique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Labrador"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mer du Labrador"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Eastern Canada"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North Atlantic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Atlantic Ocean"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Labrador"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Labrador Sea"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Canadá Este"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Océano Atlántico Norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Océano Atlántico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Labrador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mar de Labrador"
+        }
+    ],
+    "dc:rights": [
+        "Bureau de Recherches Géologiques et Minières (BRGM)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6533913"
+}

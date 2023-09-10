@@ -1,0 +1,120 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Energy relaxation of hot electrons in degenerate p-type III-V semiconductors",
+    "dc:creator": [
+        "MEZRIN, O. A",
+        "FEYGENSON, A",
+        "HAMM, R. A"
+    ],
+    "dc:contributor": [
+        "HAMILTON, Douglas S (Editor)",
+        "MELTZER, Richard S (Editor)",
+        "STURGE, Michael D (Editor)",
+        "University of Connecticut (Funder/Sponsor)",
+        "ICL'93 : international conference on luminescence (Storrs CT 1993-08-09)"
+    ],
+    "dc:relation": [
+        "Journal of luminescence -- J. lumin, CODEN JLUMA8, ISSN 0022-2313, Vol. 60-61, pp. 688-691",
+        "ICL'93 : international conference on luminescence"
+    ],
+    "dc:date": "1994",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "4 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet écran"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude théorique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fonction diélectrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plasmon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Porteur chaud"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Semiconducteur III-V"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Semiconducteur type P"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transition interbande"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transition niveau énergie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trou"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Screening"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Theoretical study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dielectric function"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plasmons"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hot carriers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "III-V semiconductors"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "P-type conductors"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interband transitions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Energy-level transitions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Holes"
+        },
+        "001B70A45G: Echange, corrélation, réponses diélectrique et magnétique, plasmons / Exchange, correlation, dielectric and magnetic functions, plasmons",
+        "7145G:  / Exchange, correlation, dielectric and magnetic functions, plasmons"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4153463"
+}

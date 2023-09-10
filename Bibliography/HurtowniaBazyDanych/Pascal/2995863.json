@@ -1,0 +1,101 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE BENEFICIATION OF ILMENITE BY FLUORIDE ROUTES",
+    "dc:creator": [
+        "CABELDU NC",
+        "MOSS JH",
+        "WRIGHT A"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "CHEM. SOC., SPEC. PUBL.; GBR; DA. 1976 PUBL. 1977; NO 30; PP. 154-166; BIBL. 16 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ENRICHISSEMENT MINERAI"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ILMENITE!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HYDROGENE FLUORURE!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TITANE IV OXYDE!FIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TITANE IV FLUORURE!FIN!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FER II METATITANATE!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AMMONIUM HYDROGENODIFLUORURE!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCHEMA FABRICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FER III FLUORURE!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HYDROLYSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HAUTE TEMPERATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BASSE TEMPERATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FABRICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUSTRIE CHIMIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORE CONCENTRATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FLOWSHEET"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HYDROLYSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HIGH TEMPERATURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LOW TEMPERATURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL INDUSTRY"
+        },
+        "001D07: Genie chimique / Chemical engineering"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7960462751"
+}

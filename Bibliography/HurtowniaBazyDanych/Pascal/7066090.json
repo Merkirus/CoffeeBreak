@@ -1,0 +1,240 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Remotely Accessed Hardware Laboratory Infrastructure",
+    "dc:creator": [
+        "BOPPIDI, Chandrakanth",
+        "NAHAR, Nurun",
+        "AN WANG, Ju",
+        "PELTSVERGER, Svetlana"
+    ],
+    "dc:contributor": [
+        "Arabnia, Hamid R (Editor)",
+        "Clincy, Victor A (Editor)",
+        "Lu, Joan (Editor)",
+        "Internet computing. International conference (Las Vegas NV 2010-07-12)",
+        "WorldComp'2010 (Las Vegas NV 2010-07-12)"
+    ],
+    "dc:relation": "ICOMP 2010 : proceedings of the 2010 international conference on internet computing (Las Vegas NV, July 12-15, 2010)",
+    "dc:date": "2010",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "CSREA Press",
+    "dc:format": [
+        "print",
+        "6 p. ; 9 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Développement logiciel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Guide programme étude"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Habileté"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Infrastructure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interface utilisateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Internet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ordinateur personnel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Programme enseignement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Périphérique ordinateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau web"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation ordinateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système réparti"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sécurité informatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technologie information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Téléenseignement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Université"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Software development"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Curriculum guides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Skill"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infrastructure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "User interface"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Internet"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Personal computer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Educational program"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computer peripheral"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "World wide web"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrical network"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computer simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Distributed system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computer security"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information technology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Remote teaching"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "University"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desarrollo logicial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Habilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Infraestructura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interfase usuario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Internet"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Computadora personal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Programa enseñanza"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Periférico ordenador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red WWW"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red eléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simulación computadora"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema repartido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Seguridad informatica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tecnología información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Teleensenanza"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Universidad"
+        },
+        "001D00B: Formation professionnelle. Personnel. Organisation du travail / Occupational training. Personnel. Work management",
+        "001D02B04: Systèmes informatiques et systèmes répartis. Interface utilisateur / Computer systems and distributed systems. User interface",
+        "001D02B08: Simulation / Simulation",
+        "001D02B09: Génie logiciel / Software engineering"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 26104818"
+}

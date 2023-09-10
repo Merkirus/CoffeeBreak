@@ -1,0 +1,318 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Behavior of nonaqueous phase liquids in fractured porous media under two-phase flow conditions",
+    "dc:creator": [
+        "KELLER, A. A",
+        "BLUNT, M. J",
+        "ROBERTS, P. V"
+    ],
+    "dc:contributor": [
+        "CHRYSIKOPOULOS, Constantinos V (Editor)",
+        "HARMON, Thomas C (Editor)",
+        "Symposium on Environmental Models and Experiments Envisioning Tomorrow (EnviroMEET '98) (Irvine, California 1998-07-20)"
+    ],
+    "dc:relation": [
+        "Transport in porous media -- Transp. porous media, CODEN TPMEEI, ISSN 0169-3913, Vol. 38 (1-2) , pp. 189-203",
+        "Behavior and remediation of nonaqueous phase contaminants in the subsurface"
+    ],
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "Illustration ; 1 p.3/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche clastique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche ignée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche plutonique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche sédimentaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bedrock"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contamination"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Drainage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Déplacement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eau souterraine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecoulement polyphasique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Granite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grès"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Migration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu fracturé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu poreux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mécanisme écoulement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Perméabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pollution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pression capillaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau fracture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Saturation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation numérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DNAPL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Liquide non aqueux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Liquide phase non aqueuse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NAPL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "clastic rocks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "igneous rocks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "plutonic rocks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "sedimentary rocks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "bedrock"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "contamination"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "drainage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "displacements"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ground water"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "multiphase flow"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "granites"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "sandstone"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "migration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "fractured environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "porous media"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "models"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "flow mechanism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "permeability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "pollution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "capillary pressure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "fracture networks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "saturation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "digital simulation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Roca clástica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Roca ignea"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Roca granuda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Roca sedimentaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Roca firme"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contaminación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agua subterránea"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Flujo polifásico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Granito"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gres"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Migración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio poroso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mecanismo escorrentía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Permeabilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polución"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Presión capilar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red fractura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Saturación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simulación numérica"
+        },
+        "001E01N02: Hydrogéologie / Hydrogeology",
+        "001E01O04: Pollution, géologie de l'environnement / Pollution, environment geology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1285260"
+}

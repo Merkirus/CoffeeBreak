@@ -1,0 +1,300 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Risk group detection and survival function estimation for interval coded survival methods",
+    "dc:creator": [
+        "VAN BELLE, Vanya",
+        "NEVEN, Patrick",
+        "HARVEY, Vernon",
+        "VAN HUFFEL, Sabine",
+        "SUYKENS, Johan A. K",
+        "BOYD, Stephen"
+    ],
+    "dc:contributor": [
+        "SCHLEIF, Frank-Michael (Editor)",
+        "MICHELI, Alessio (Editor)",
+        "TINO, Peter (Editor)"
+    ],
+    "dc:relation": "Neurocomputing (Amsterdam) -- Neurocomputing (Amst.), ISSN 0925-2312, Vol. 112, pp. 200-210",
+    "dc:date": "2013",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "11 p. ; 37 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Cancer"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse risque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Apprentissage(intelligence artificielle)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cancer du sein"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Classification à vaste marge"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Courbe survie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Echantillon censuré"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etalonnage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fonction survie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Intelligence artificielle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle Cox"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pronostic"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prévision"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Survie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tumeur maligne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse survie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Donnée censurée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Estimation intervalle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Temps survie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cancer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Risk analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Learning (artificial intelligence)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Breast cancer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vector support machine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Survival curve"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Censored sample"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Calibration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Survival function"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Artificial intelligence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cox model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prognosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Forecasting"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Data structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Survival"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Malignant tumor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Survival analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Censored data"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interval estimation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Survival time"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Breast cancer prognosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Monotonic regression"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Survival analysis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cáncer"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis riesgo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cáncer del pecho"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Máquina ejemplo soporte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Curva sobrevivencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Muestra censurada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contraste"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Función sobrevivencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inteligencia artificial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo Cox"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pronóstico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Previsión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estructura datos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sobrevivencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tumor maligno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis de supervivencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "dato censurado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estimación por intervalos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tiempo de supervivencia"
+        },
+        "001A02H02J: Inférence linéaire, régression / Linear inference, regression",
+        "001D02B07B: Traitement des données. Listes et chaînes de caractères / Data processing. List processing. Character string processing",
+        "001D02C02: Apprentissage et systèmes adaptatifs / Learning and adaptive systems",
+        "002B20E02: Tumeurs / Tumors"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 27454437"
+}

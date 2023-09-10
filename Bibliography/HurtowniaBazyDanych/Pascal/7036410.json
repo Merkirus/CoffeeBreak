@@ -1,0 +1,137 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Physical-mathematical model of Lorentz factor for the integrated intensity of single crystal diffraction",
+    "dc:creator": [
+        "ANGHELINA, Florina Violeta",
+        "POPESCU, Ileana Nicoleta",
+        "BRATU, Vasile",
+        "ANGHELINA, Constantin C",
+        "RUSANESCU, Carmen Otilia"
+    ],
+    "dc:contributor": [
+        "MANZHOS, Sergei (Editor)",
+        "SCHMAUDER, Siegfried (Editor)",
+        "KOH, Adrian (Editor)",
+        "POH, Leong Hien (Editor)",
+        "IWCMM23 International Workshop on Computational Mechanics of Materials (23 ; Singapore 2013-10-02)"
+    ],
+    "dc:relation": [
+        "Computational materials science -- Comput. mater. sci, ISSN 0927-0256, Vol. 94, pp. 234-239",
+        "IWCMM23"
+    ],
+    "dc:date": "2014",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "6 p. ; 42 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffraction RX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Divergence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Intensité intégrée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Loi Lorentz"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle mathématique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Monocristal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Orientation préférentielle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure cristalline"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "XRD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Divergences"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Integrated intensity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lorentz law"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mathematical models"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modelling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Monocrystals"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Preferred orientation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Crystal structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lorentz factor model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Single crystal X-ray diffraction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertical divergence"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Intensidad integrada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ley Lorentz"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Orientación preferencial"
+        },
+        "001B60A10N: Diffraction sur monocristal et sur poudre / Single-crystal and powder diffraction"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 28816156"
+}

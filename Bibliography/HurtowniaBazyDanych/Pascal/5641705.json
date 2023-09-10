@@ -1,0 +1,133 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Bibliothèques contre économie : la situation actuelle en Finlande; Libraries facing economy : the Finnish situation",
+    "dc:creator": "AUREN, B",
+    "dc:contributor": [
+        "BOGAERT, S (Translator)",
+        "Pré-séminaire de Limoges (Limoges 1999-05-28)"
+    ],
+    "dc:relation": [
+        "Bulletin d'informations - Association des bibliothécaires français -- Bull. inf. - Assoc. bibl. fr, ISSN 0004-5365 (184-85) , pp. 190-198",
+        "Quels choix financiers pour développer une politique de service public de la lecture et de la documentation ? -- Which financial choices to develop a policy of public service of reading and documentation"
+    ],
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Association des bibliothécaires français",
+    "dc:format": [
+        "print",
+        "6 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Aspect économique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bibliothèque publique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bibliothèque électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Développement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Financement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Politique bibliothèque"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Economic aspect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public library"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic library"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Development"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Financing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Library policy"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aspecto económico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biblioteca pública"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biblioteca electronica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desarrollo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Financiación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Politica biblioteca"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation",
+        "001A01C02B: Bibliothèques publiques / Public libraries",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-D: Organismes documentaires / Documentation institutions"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Finlande"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Finland"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Finlandia"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1984225"
+}

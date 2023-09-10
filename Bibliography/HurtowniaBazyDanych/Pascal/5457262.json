@@ -1,0 +1,94 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Evaluation of degradation of shaped radiation pattern caused by excitation coefficient error for onboard array-fed reflector antenna",
+    "dc:creator": [
+        "NAKAZAWA, Susumu",
+        "TANAKA, Shoji",
+        "MURATA, Takao"
+    ],
+    "dc:contributor": [
+        "Antennas and Propagation Society (Organiser of meeting)",
+        "IEEE antennas and propagation society international symposium (Monterey CA 2004)",
+        "National radio science meeting (Monterey CA 2004)"
+    ],
+    "dc:relation": "IEEE antennas and propagation society symposium (June 20-25, 2004, Monterey, California) -- 02004 IEEE Antennas and Propogation [sic] Society International Symposium",
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "IEEE",
+    "dc:format": [
+        "print",
+        "4 p. ; 4 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Antenne réflecteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Antenne réseau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareillage embarqué"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diagramme rayonnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dégradation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reflector antenna"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antenna array"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "On board equipment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiation pattern"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Degradation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antena reflector"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antena red"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Equipo embarcado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diagrama radiación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Degradación"
+        },
+        "001D04B04D: Antennes / Antennas"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17807726"
+}

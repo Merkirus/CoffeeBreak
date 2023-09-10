@@ -1,0 +1,65 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "FORTSCHRITTE IN DER ANALYSE VON HARNSTOFF-FORMALDEHYD-KONDENSATEN; PROGRES REALISES DANS L'ANALYSE DES PRODUITS DE CONDENSATION UREE FORMALDEHYDE",
+    "dc:creator": [
+        "SCHINDLBAUER H",
+        "HOLZHOEFER B",
+        "SCHUSTER J"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "KUNSTSTOFFE; DEU; DA. 1979; VOL. 69; NO 3; PP. 158-162; (5 P.); ABS. ENG/FRE/SPA; BIBL. 27 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "AMINOPLASTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE ESSAI"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE MACROMOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLYMERES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AMINOPLAST"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TEST METHOD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL ANALYSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL COMPOSITION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MACROMOLECULAR CHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLYMERS"
+        },
+        "001D09: Physicochimie des polymeres / Physicochemistry of polymers"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7960294103"
+}

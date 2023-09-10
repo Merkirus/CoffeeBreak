@@ -1,0 +1,226 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Der Elbingeröder Komplex. räumliche Gliederung und stoffliche Entwicklung; The Elbingerode Complex: spatial structure and material development",
+    "dc:creator": [
+        "RUCHHOLZ, Kurt",
+        "WELLER, Helmut"
+    ],
+    "dc:contributor": "Tagung der Gesellschaft für Geologische Wissenschaften <1988, Elbingerode>. Stratigraphie, Lithologie, Tektonik und Lagerstätten ausgewählter Bereiche im Unter- und Mittelharz (1988-05-04)",
+    "dc:relation": [
+        "Zeitschrift für geologische Wissenschaften -- Z. geol. Wiss, ISSN 0303-4534, Vol. 19 (6) , pp. 655-661",
+        "Tagung der Gesellschaft für Geologische Wissenschaften <1988, Elbingerode>. Stratigraphie, Lithologie, Tektonik und Lagerstätten ausgewählter Bereiche im Unter- und Mittelharz (1988-05-04)"
+    ],
+    "dc:date": "1991",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "German",
+    "dc:publisher": "Akademie-Verlag",
+    "dc:format": [
+        "print",
+        "Geological sketch map ; 18ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Primaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche sédimentaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Atoll"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dévonien moyen"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dévonien sup"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fracture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Harz"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Manifestation volcanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Orogénie hercynienne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche carbonatée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Récif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sédimentation marine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tectonique imbriquée"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Paleozoic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "sedimentary rocks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "atolls"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Middle Devonian"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Upper Devonian"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "fractures"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Harz Mountains"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "volcanism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hercynian Orogeny"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "carbonate rocks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "reefs"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "marine sedimentation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "imbricate tectonics"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Primario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Roca sedimentaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Atolón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Devónico medio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Devónico sup"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fractura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Harz"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Manifestación volcánica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Orogenia hercínica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Roca carbonatada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arrecife"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sedimentación marina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tectónica imbricada"
+        },
+        "001E01J01: Géologie régionale / Areal geology"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Allemagne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Saxe Anhalt"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Germany"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Saxony-Anhalt"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alemania"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sajonia Anhalt"
+        }
+    ],
+    "dc:rights": [
+        "Bundesanstalt für Geowissenschaften und Rohstaffe (BGR)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6483929"
+}

@@ -1,0 +1,266 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Induktives Gasnitrieren von Titan und Titanlegierungen; Induction gas nitriding of titanium and titanium alloys",
+    "dc:creator": "GROSCH, J",
+    "dc:contributor": "Stickstoff im Randgefüge von Aluminium- und Titan-Werkstoffen. Status-Seminar (Freiberg/Sachsen 1998-04-15)",
+    "dc:relation": [
+        "HTM. Härterei-technische Mitteilungen -- HTM. Härterei-tech. Mitt, CODEN HTMMD5, ISSN 0341-101X, Vol. 53 (5)",
+        "Stickstoff im Randgefüge von Aluminium- und Titan-Werkstoffen. Status-Seminar"
+    ],
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "German",
+    "dc:publisher": "Hanser",
+    "dc:format": [
+        "print",
+        "275, 306-311 [7 p.] ; 28 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Alliage base titane"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aluminium alliage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chauffe induction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Couche nitrurée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dureté"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epaisseur couche"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microstructure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu gazeux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nitruration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résistance usure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stabilité thermique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Titane"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement thermochimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tribologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vanadium alliage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Al Ti V"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Alliage TA6V"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Alliage Ti90Al6V4"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Titanium base alloys"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aluminium alloy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Induction heating"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nitrided layer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hardness"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Layer thickness"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microstructure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gaseous medium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nitriding"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wear resistance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermal stability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Titanium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermochemical treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tribology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vanadium alloy"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aluminio aleación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Calentamiento inducción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Capa nitrurada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dureza"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Espesor capa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Microestructura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio gaseoso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nitruración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resistencia al desgaste"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estabilidad térmica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Titanio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento termoquímico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tribología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vanadio aleación"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Aluminiumlegierung"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Nitrierte Schicht"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Haerte"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Schichtdicke"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Mikrogefuege"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Nitrieren"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Verschleissfestigkeit"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Thermische Stabilitaet"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Titan"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Thermochemische Behandlung"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Tribologie"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Vanadiumlegierung"
+        },
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy",
+        "001D11C02E: Traitements thermochimiques et traitements par diffusion / Thermochemical treatment and diffusion treatment"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2421923"
+}

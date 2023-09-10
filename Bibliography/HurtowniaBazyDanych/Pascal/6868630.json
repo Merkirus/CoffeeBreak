@@ -1,0 +1,136 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Erfahrungen mit Mitomycin C; Results with the use of mitomycin C",
+    "dc:creator": [
+        "GASPAR, A. Z",
+        "ORGÜL, S",
+        "FLAMMER, J"
+    ],
+    "dc:contributor": [
+        "Schweizerische ophtalmologische Gesellschaft (Funder/Sponsor)",
+        "Schweizerische ophtalmologische Gesellschaft. Jahreskongress (86 ; Prumtrunt/Porrentryu 1993-10-07)"
+    ],
+    "dc:relation": [
+        "Klinische Monatsblätter für Augenheilkunde -- Klin. Monatsbl. Augenheilkd, CODEN KMAUAI, ISSN 0023-2165, Vol. 204 (5) , pp. 295-297",
+        "Schweizerische ophtalmologische Gesellschaft. Jahreskongress"
+    ],
+    "dc:date": "1994",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "German",
+    "dc:publisher": "Thieme",
+    "dc:format": [
+        "print",
+        "9 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Chirurgie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Antimétabolite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chimiothérapie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mitomycine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Peropératoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tonus oculaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trabéculectomie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement associé"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surgery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antimetabolic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemotherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Intraoperative"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Intraocular pressure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Trabeculectomy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Combined treatment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cirugía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antimetabólito"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Quimioterapia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Peroperatorio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tono ocular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trabeculectomía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento asociado"
+        },
+        "002B02M: Oeil / Eye"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4088924"
+}

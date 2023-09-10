@@ -1,0 +1,105 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "EXCRETION OF SULFOBROMOPHTHALEIN IN RATS WITH IODOMETHANE-INDUCED DEPLETION OF HEPATIC GLUTATHIONE.",
+    "dc:creator": [
+        "SCHULZE PJ",
+        "CZOK G",
+        "BORCK HU"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "ARCH. (NAUNYN-SCHMIEDEBERG'S) PHARMACOL.; GER.; DA. 1976; VOL. 296; NO 1; PP. 79-85; BIBL. 14 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "FOIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METABOLISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONJUGAISON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PEPTIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BILE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SECRETION EXOCRINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BROMSULFALEINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RAT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RODENTIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MAMMALIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GLUTATHION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RELATION AVEC"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIVER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METABOLISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONJUGATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PEPTIDES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BILE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXOCRINE SECRETION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SULFOBROMOPHTHALEIN SODIUM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RAT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GLUTATHIONE"
+        },
+        "002A14: Ecologie animale, vegetale et microbienne / Animal, plant and microbial ecology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7750297116"
+}

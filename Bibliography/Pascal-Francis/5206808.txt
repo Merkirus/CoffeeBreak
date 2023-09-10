@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Adaptive rejection of unknown sinusoidal disturbances in linear SISO uncertain systems</dc:title>
+  <dc:creator>XIAN, B</dc:creator>
+  <dc:creator>JALILI, N</dc:creator>
+  <dc:creator>DAWSON, D. M</dc:creator>
+  <dc:creator>FANG, Y</dc:creator>
+  <dc:contributor>American Automatic Control Council (Organiser of meeting)</dc:contributor>
+  <dc:contributor>American control conference (Anchorage AK 2002-05-08)</dc:contributor>
+  <dc:relation>Proceedings of the American Control Conference, ISSN 0743-1619, pp. 4015-4020</dc:relation>
+  <dc:relation>2002 ACC : American control conference (Anchorage AK, 8-10 May 2002)</dc:relation>
+  <dc:date>2002</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Conference Paper</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>IEEE</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>6 p. ; 16 ref</dc:format>
+  <dc:subject xml:lang="fr">Adaptation</dc:subject>
+  <dc:subject xml:lang="fr">Approximation asymptotique</dc:subject>
+  <dc:subject xml:lang="fr">Entrée ordinateur</dc:subject>
+  <dc:subject xml:lang="fr">Estimation état</dc:subject>
+  <dc:subject xml:lang="fr">Implémentation</dc:subject>
+  <dc:subject xml:lang="fr">Méthode numérique</dc:subject>
+  <dc:subject xml:lang="fr">Performance algorithme</dc:subject>
+  <dc:subject xml:lang="fr">Pistage</dc:subject>
+  <dc:subject xml:lang="fr">Rejet perturbation</dc:subject>
+  <dc:subject xml:lang="fr">Système SISO</dc:subject>
+  <dc:subject xml:lang="fr">Système incertain</dc:subject>
+  <dc:subject xml:lang="fr">Système linéaire</dc:subject>
+  <dc:subject xml:lang="fr">Système LTI</dc:subject>
+  <dc:subject xml:lang="en">Adaptation</dc:subject>
+  <dc:subject xml:lang="en">Asymptotic approximation</dc:subject>
+  <dc:subject xml:lang="en">Input</dc:subject>
+  <dc:subject xml:lang="en">State estimation</dc:subject>
+  <dc:subject xml:lang="en">Implementation</dc:subject>
+  <dc:subject xml:lang="en">Numerical method</dc:subject>
+  <dc:subject xml:lang="en">Algorithm performance</dc:subject>
+  <dc:subject xml:lang="en">Tracking</dc:subject>
+  <dc:subject xml:lang="en">Disturbance rejection</dc:subject>
+  <dc:subject xml:lang="en">SISO system</dc:subject>
+  <dc:subject xml:lang="en">Uncertain system</dc:subject>
+  <dc:subject xml:lang="en">Linear system</dc:subject>
+  <dc:subject xml:lang="en">Linear time invariant system</dc:subject>
+  <dc:subject xml:lang="es">Adaptación</dc:subject>
+  <dc:subject xml:lang="es">Aproximación asintótica</dc:subject>
+  <dc:subject xml:lang="es">Entrada ordenador</dc:subject>
+  <dc:subject xml:lang="es">Estimación estado</dc:subject>
+  <dc:subject xml:lang="es">Implementación</dc:subject>
+  <dc:subject xml:lang="es">Método numérico</dc:subject>
+  <dc:subject xml:lang="es">Resultado algoritmo</dc:subject>
+  <dc:subject xml:lang="es">Rastreo</dc:subject>
+  <dc:subject xml:lang="es">Recuazamiento pertubación</dc:subject>
+  <dc:subject xml:lang="es">Sistema SISO</dc:subject>
+  <dc:subject xml:lang="es">Sistema incierto</dc:subject>
+  <dc:subject xml:lang="es">Sistema lineal</dc:subject>
+  <dc:subject>001D02D01: Généralités / General</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 15692628</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

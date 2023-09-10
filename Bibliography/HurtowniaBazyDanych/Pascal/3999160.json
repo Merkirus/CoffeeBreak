@@ -1,0 +1,52 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A PROPOS DE QUELQUES FACTEURS QUI AFFECTENT LES ECHANGES DE CHALEUR DANS LE SYSTEME RESPIRATOIRE",
+    "dc:creator": [
+        "GEORGIEV G",
+        "LOSHCHILOVA E",
+        "MATEEVA R",
+        "VASILEV P",
+        "TODOROV B",
+        "PROKOPOV V"
+    ],
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "Bulgarian",
+    "dc:format": "PROBL. PNEVMOL. FTIZIATR.; BALG.; DA. 1974 PARU 1975; VOL. 3; PP. 75-82; ABS. RUSSE ANGL.; BIBL. 9 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "POUMON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "APPAREIL RESPIRATOIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ECHANGE THERMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LUNG"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RESPIRATORY SYSTEM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        "002A14: Ecologie animale, vegetale et microbienne / Animal, plant and microbial ecology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7750086655"
+}

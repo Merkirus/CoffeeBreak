@@ -1,0 +1,255 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Prediction of Psychosis by Mismatch Negativity",
+    "dc:creator": [
+        "BODATSCH, Mitja",
+        "RUHRMANN, Stephan",
+        "BROCKHAUS-DUMKE, Anke",
+        "WAGNER, Michael",
+        "MÜLLER, Ralf",
+        "SCHULTZE-LUTTER, Frauke",
+        "FROMMANN, Ingo",
+        "BRINKMEYER, Jürgen",
+        "GAEBEL, Wolfgang",
+        "MAIER, Wolfgang",
+        "KLOSTERKÖTTER, Joachim"
+    ],
+    "dc:relation": "Biological psychiatry (1969) -- Biol. psychiatry (1969), CODEN BIPCBF, ISSN 0006-3223, Vol. 69 (10) , pp. 959-966",
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "8 p. ; 69 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Cognition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Electrodiagnostic"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Electrophysiologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Encéphale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Perception"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système nerveux central"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Disparité stimulus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Electroencéphalographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur risque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Négativité de discordance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Potentiel évoqué auditif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prédiction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Psychose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Schizophrénie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stimulus acoustique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prodrome"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cognition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrodiagnosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrophysiology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Encephalon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Perception"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central nervous system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stimulus disparity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electroencephalography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Risk factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mismatch negativity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Auditory evoked potential"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prediction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Psychosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Schizophrenia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Acoustic stimulus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prodrome"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "At-risk mental state"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EEG"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "late initial prodromal state"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "mismatch negativity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "prediction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "schizophrenia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cognición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Electrodiagnóstico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Electrofisiología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Encéfalo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Percepción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso central"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Disparidad estímulo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Electroencefalografía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor riesgo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Potencial de disparidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Potencial evocado auditivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Predicción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Psicosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Esquizofrenia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estímulo acústico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pródromo"
+        },
+        "002B18C06A: Schizophrénie / Schizophrenia",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry",
+        "770-D03F01: Schizophrénie / Schizophrenia"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 24190004"
+}

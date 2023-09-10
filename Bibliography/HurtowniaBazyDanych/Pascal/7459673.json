@@ -1,0 +1,97 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A commentary on the history of social psychiatry and psychotherapy in twentieth-century Germany, Holland and Great Britain",
+    "dc:creator": "NEVE, Michael",
+    "dc:relation": "Medical history -- Med. hist, ISSN 0025-7273, Vol. 48 (4) , pp. 407-412",
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Professional and Scientific Publications",
+    "dc:format": [
+        "print",
+        "6 p. ; ref. et notes dissem"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Psychiatrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Psychothérapie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Psychiatry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Psychotherapy"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "PsiquiatrÍa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Psicoterapia"
+        },
+        "522-: Histoire des sciences et des techniques / History of science and technology",
+        "522-336: Sciences et techniques de la vie / Life sciences",
+        "522-489: Psychiatrie / Psychiatry"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Allemagne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Angleterre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hollande"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Siècle 20"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Germany"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "England"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Holland"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Century 20"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alemania"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inglaterra"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Siglo 20"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16267666"
+}

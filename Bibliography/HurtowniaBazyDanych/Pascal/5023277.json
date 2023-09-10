@@ -1,0 +1,166 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Fusion of symbolic knowledge and uncertain information in robotics",
+    "dc:creator": [
+        "SOSSAI, Claudio",
+        "BISON, Paolo",
+        "CHEMELLOT, Gaetano"
+    ],
+    "dc:contributor": [
+        "BLOCH, Isabelle (Editor)",
+        "HUNTER, Anthony (Editor)"
+    ],
+    "dc:relation": "International journal of intelligent systems -- Int. j. intell. syst, CODEN IJISED, ISSN 0884-8173, Vol. 16 (11) , pp. 1299-1320",
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Wiley",
+    "dc:format": [
+        "print",
+        "41 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Capteur mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Croyance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fusion donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Incertitude"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Information imparfaite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Représentation connaissances"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Robot mobile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Robotique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système incertain"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sémantique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Théorie possibilité"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measurement sensor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Belief"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Data fusion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Uncertainty"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Imperfect information"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Knowledge representation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Moving robot"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Robotics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Uncertain system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Semantics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Possibility theory"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Captador medida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Creencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fusión datos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Incertidumbre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Información imperfecta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Representación conocimientos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Robot móvil"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Robótica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema incierto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Semántica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Teoría posibilidad"
+        },
+        "001D02C02: Apprentissage et systèmes adaptatifs / Learning and adaptive systems",
+        "001D02D11: Robotique / Robotics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14089142"
+}

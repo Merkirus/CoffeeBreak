@@ -1,0 +1,113 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Number of boundary element effects on the productivity performance of an oil reservoir",
+    "dc:creator": [
+        "MOHAMAD IBRAHIM, M. N",
+        "ABDULLAH, J",
+        "MAHMUD, A. S"
+    ],
+    "dc:contributor": [
+        "Brebbia, C. A (Editor)",
+        "Dippery, R. E (Editor)",
+        "Wessex Institute of Technology (Organiser of meeting)",
+        "Kettering University (Organiser of meeting)",
+        "International Conference on Boundary Element Technology (15 ; Detroit MI 2003-05-19)"
+    ],
+    "dc:relation": [
+        "Boundary elements, pp. 259-265",
+        "Boundary element technology XV (Detroit MI, 19-21 May 2003) -- 0BETECH XV"
+    ],
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "WIT Press",
+    "dc:format": [
+        "print",
+        "7 p. ; 8 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet bord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grille"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Industrie pétrolière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode élément frontière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réservoir engineering"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Edge effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Grid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oil industry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Boundary element method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reservoir engineering"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efecto borde"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rejilla"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Industria petrolera"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método elemento frontera"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ingeniería reservorio"
+        },
+        "001B00B70P: Méthodes des intégrales frontières / Boundary-integral methods",
+        "001D06: Energie / Energy",
+        "001D06B02B5B: Caractéristiques des couches productrices. Géologie de réservoir. Fluides en place / Characteristics of producing layers. Reservoir geology. In situ fluids"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17625679"
+}

@@ -1,0 +1,57 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "OBSERVATION AND BIOLOGICAL SYSTEMS.",
+    "dc:creator": "ROSEN R",
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "BULL. MATH. BIOL.; G.B.; DA. 1977; VOL. 39; NO 6; PP. 663-678; BIBL. 13 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MODELE MATHEMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SIMULATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MODELE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENIE BIOMEDICAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MATHEMATICAL MODELS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SIMULATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MODELS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOMEDICAL ENGINEERING"
+        },
+        "002B26: Radiotherapie. Traitement instrumental. Physiotherapie. Reeducation. Readaptation, orthophonie, crenotherapie. Traitement dietetique et traitements divers (generalites) / Radiotherapy. Instrumental treatment. Physiotherapy. Reeducation. Rehabilitation, orthophony, crenotherapy. Diet therapy and various other treatments (general aspects)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7850216000"
+}

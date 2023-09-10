@@ -1,0 +1,68 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ARRHENOBLASTOME. COMMENTAIRES SUR UN CAS CLINIQUE",
+    "dc:creator": [
+        "PETRESCU T",
+        "TURCU A"
+    ],
+    "dc:date": "1975",
+    "dc:type": "Article",
+    "dc:language": "Romanian",
+    "dc:format": "OBSTETR. SI GINECOL.; ROMAN.; DA. 1975; VOL. 23; NO 4; PP. 351-356; ABS. ANGL. RUSSE; BIBL. 13 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TUMEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OVAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ARRHENOBLASTOME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VIRILISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OVARIECTOMIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FEMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRAITEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIRURGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OVAIRE PATHOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REPRODUCTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REPRODUCTION"
+        },
+        "002A29: Vertebres: reproduction / Vertebrates: reproduction"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7650185443"
+}

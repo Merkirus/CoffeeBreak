@@ -1,0 +1,143 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Semantic Search with Self-Maintaining Classes: A Case Study",
+    "dc:creator": [
+        "PATTEN, Terry",
+        "HOOKWAY, Stephen"
+    ],
+    "dc:contributor": [
+        "Arabnia, Hamid R (Editor)",
+        "Marsh, Andy (Editor)",
+        "Solo, Ashu M.G (Editor)",
+        "Semantic web & web services. International conference (Las Vegas NV 2010-07-12)",
+        "WorldComp'2010 (Las Vegas NV 2010-07-12)"
+    ],
+    "dc:relation": "SWWS 2010 : proceedings of the 2010 international conference on semantic web & web services (Las Vegas NV, July 12-15, 2010)",
+    "dc:date": "2010",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "CSREA Press",
+    "dc:format": [
+        "print",
+        "3 p. ; 3 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Arme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Autoorganisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Base de données"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Incendie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Missile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ontologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Systématique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sémantique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Subsomption"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Weapon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Self organization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Database"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fires"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Missile"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ontology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Taxonomy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Semantics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Subsumption"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Autoorganización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Base dato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Incendio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Misil"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ontología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistemática"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Semántica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Subsunción"
+        },
+        "001D02B07D: Systèmes d'information. Bases de données / Information systems. Data bases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 26080259"
+}

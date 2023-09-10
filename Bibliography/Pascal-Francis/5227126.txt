@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>An evolutionary programming algorithm for automatic engineering design</dc:title>
+  <dc:creator>LEWIS, Andrew</dc:creator>
+  <dc:creator>ABRAMSON, David</dc:creator>
+  <dc:creator>PEACHEY, Tom</dc:creator>
+  <dc:contributor>Wyrzykowski, Roman (Editor)</dc:contributor>
+  <dc:contributor>Dongarra, Jack (Editor)</dc:contributor>
+  <dc:contributor>Paprzycki, Marcin (Editor)</dc:contributor>
+  <dc:contributor>Wasniewski, Jerzy (Editor)</dc:contributor>
+  <dc:contributor>Parallel processing and applied mathematics. International conference (Czestochowa 2003-09-07)</dc:contributor>
+  <dc:relation>Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 586-594</dc:relation>
+  <dc:relation>PPAM 2003 : parallel processing and applied mathematics (Czestochowa, 7-10 September 2003, revised papers)</dc:relation>
+  <dc:date>2004</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Conference Paper</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>Springer</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>9 p. ; 14 ref</dc:format>
+  <dc:subject xml:lang="fr">Algorithme génétique</dc:subject>
+  <dc:subject xml:lang="fr">Algorithme recherche</dc:subject>
+  <dc:subject xml:lang="fr">Algorithme évolutionniste</dc:subject>
+  <dc:subject xml:lang="fr">Conception ingénierie</dc:subject>
+  <dc:subject xml:lang="fr">Criticalité autoorganisée</dc:subject>
+  <dc:subject xml:lang="fr">Programmation automatique</dc:subject>
+  <dc:subject xml:lang="fr">Système réparti</dc:subject>
+  <dc:subject xml:lang="fr">Descente gradient</dc:subject>
+  <dc:subject xml:lang="en">Genetic algorithm</dc:subject>
+  <dc:subject xml:lang="en">Search algorithm</dc:subject>
+  <dc:subject xml:lang="en">Evolutionary algorithm</dc:subject>
+  <dc:subject xml:lang="en">Engineering design</dc:subject>
+  <dc:subject xml:lang="en">Self-organized criticality</dc:subject>
+  <dc:subject xml:lang="en">Automatic programming</dc:subject>
+  <dc:subject xml:lang="en">Distributed system</dc:subject>
+  <dc:subject xml:lang="en">Gradient descent</dc:subject>
+  <dc:subject xml:lang="es">Algoritmo genético</dc:subject>
+  <dc:subject xml:lang="es">Algoritmo búsqueda</dc:subject>
+  <dc:subject xml:lang="es">Algoritmo evoluciónista</dc:subject>
+  <dc:subject xml:lang="es">Concepción ingeniería</dc:subject>
+  <dc:subject xml:lang="es">Programación automática</dc:subject>
+  <dc:subject xml:lang="es">Sistema repartido</dc:subject>
+  <dc:subject xml:lang="es">Gradient bajada</dc:subject>
+  <dc:subject>001D02B04: Systèmes informatiques et systèmes répartis. Interface utilisateur / Computer systems and distributed systems. User interface</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 15811221</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

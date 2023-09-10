@@ -1,0 +1,198 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Non-destructive Quality Inspection of Fruits Based on Multi-spectral Imaging",
+    "dc:creator": [
+        "ZHANG BAOFENG",
+        "LI XIAOHUI"
+    ],
+    "dc:contributor": [
+        "Yoshizawa, Tōru (Editor)",
+        "Wei, Ping (Editor)",
+        "Zheng, Jesse (Editor)",
+        "Zhongguo yi qi yi biao xue hui (Organiser of meeting)",
+        "Zhongguo guang xue xue hui (Organiser of meeting)",
+        "Zhongguo yi qi yi biao xue hui, Optoelectronic-Mechanic Technology and System Integration Chapter (Organiser of meeting)",
+        "SPIE (Organiser of meeting)",
+        "International Conference on Optical Instruments and Technology (Shanghai 2009)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, Vol. 7513",
+        "2009 International Conference on Optical Instruments and Technology (optoelectronic imaging and process technology) -- 0Optoelectronic imaging and process technology"
+    ],
+    "dc:date": "2009",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "75131G.1-75131G.10 ; 7 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bande spectrale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Caméra CCD"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai non destructif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Extraction caractéristique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Formation image"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fusion d'images"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fusion donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Image multiple"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode image"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rayonnement IR proche"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Source rayonnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement image"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0130C"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0760"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Imagerie spectrale"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spectral band"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CCD camera"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nondestructive testing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Feature extraction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Imaging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Image fusion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Data fusion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multiple image"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Image method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measuring methods"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Near infrared radiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiation sources"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Image processing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spectral imaging"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Banda espectral"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cámara CCD"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fusión de imagen"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fusión datos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Imagen múltiple"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método imagen"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método óptico"
+        },
+        "001B00A30C: Actes de congrès / Conference proceedings",
+        "001B00G60: Instrumentation, équipement et techniques optiques / Optical instruments, equipment and techniques"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 22982420"
+}

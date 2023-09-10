@@ -1,0 +1,101 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Immunity system",
+    "dc:creator": "STATKIEWICZ, Katarzyna Hrynkow",
+    "dc:contributor": [
+        "Sołdek, J (Editor)",
+        "Pejas, J (Editor)",
+        "Technical University of Szczecin (Organiser of meeting)",
+        "Albert-Ludwigs-University (Organiser of meeting)",
+        "Université de technology de Troyes (Organiser of meeting)",
+        "International conference on advanced computer systems (7 ; Szczecin 2000)"
+    ],
+    "dc:relation": "ACS '2000 : advanced computer systems (Szczecin, 2000)",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Instytut Informatyki Politechniki Szczecińskiej",
+    "dc:format": [
+        "print",
+        "5 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Algorithme génétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Application médicale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Neurologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système apprentissage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système biologique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Genetic algorithm"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Medical application"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immunity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neurology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Learning systems"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biological system"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Algoritmo genético"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aplicación medical"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Neurología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema biológico"
+        },
+        "001D02C06: Connexionnisme. Réseaux neuronaux / Connectionism. Neural networks"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14173330"
+}

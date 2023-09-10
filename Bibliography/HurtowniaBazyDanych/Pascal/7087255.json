@@ -1,0 +1,212 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Single Incision Versus Standard 3-Port Laparoscopic Appendectomy: A Prospective Randomized Trial",
+    "dc:creator": [
+        "PETER, Shawn D. St",
+        "ADIBE, Obinna O",
+        "HOLCOMB, George W",
+        "OSTLIE, Daniel J",
+        "JUANG, David",
+        "SHARP, Susan W",
+        "GAREY, Carissa L",
+        "LAITURI, Carrie A",
+        "MURPHY, J. Patrick",
+        "ANDREWS, Walter S",
+        "SHARP, Ronald J",
+        "SNYDER, Charles L"
+    ],
+    "dc:contributor": "Annual Meeting of the American Surgical Association (ASA) (131 ; Boca Raton, FL 2011-04-15)",
+    "dc:relation": [
+        "Annals of surgery -- Ann. surg, CODEN ANSUA5, ISSN 0003-4932, Vol. 254 (4) , pp. 586-589",
+        "Annual Meeting of the American Surgical Association (ASA) (131 ; Boca Raton, FL 2011-04-15)"
+    ],
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Lippincott Williams & Wilkins",
+    "dc:format": [
+        "print",
+        "4 p. ; 24 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Endoscopie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Appendice vermiculaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Appendicectomie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chirurgie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai clinique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etalon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude comparative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Incision"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Laparoscopie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Médecine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Norme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prospective"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Randomisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Endoscopy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vermiform appendix"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Appendectomy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surgery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Clinical trial"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Standard"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Incision"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laparoscopy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Medicine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Standards"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prospective"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Randomization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Endoscopía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Apéndice vermiforme"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Apendicectomía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cirugía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo clínico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Marco"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio comparativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Incisión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Laparoscopia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medicina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Norma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prospectiva"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aleatorización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        "002B01: Generalites / General aspects",
+        "002B24E06: Appareil digestif. Abdomen / Digestive system. Abdomen",
+        "002B25G02: Estomac, duodénum, intestin, rectum, anus / Stomach, duodenum, intestine, rectum, anus"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 24618818"
+}

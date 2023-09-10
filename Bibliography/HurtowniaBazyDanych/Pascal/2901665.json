@@ -1,0 +1,176 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SUBSTITUENT EFFECTS IN 13C NMR SPECTRA OF 6-ENDO SUBSTITUTED 9-THIABICYCLO (3.3.1) NON-2-ENES",
+    "dc:creator": [
+        "DE HANN JW",
+        "VAN DE VEN LJM",
+        "VLEMS H",
+        "SCHEFFERS SAP MME",
+        "GILLISSEN H",
+        "BUCK HM"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "TETRAHEDRON; GBR; DA. 1980; VOL. 36; NO 6; PP. 799-805; BIBL. 18 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "HETEROCYCLE SOUFRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE BICYCLIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CYCLE 1 HETEROATOME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HETEROCYCLE INSATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOLUTION CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DEPLACEMENT CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EFFET SUBSTITUANT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTRE RMN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE RMN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALCOOL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NITRILE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ESTER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AMIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "THIA-9BICYCLO(3.3.1)NONENE-2"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "THIA-9BICYCLO(3.3.1)NONENE-9CARBONITRILE-6"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "THIA-9BICYCLO(3.3.1)NONENE-9CARBOXYNONE-6ACIDE,ESTER METHYLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "THIA-9BICYCLO(3.3.1)NONENE-9CARBOXYLIQUE-6 ACIDE,AMIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "THIA-9BICYCLO(3.3.1)NONENE-9(METHYL-6)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "THIA-9BICYCLO(3.3.1)NONENE-9METHANOL-6"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARBONE 13"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE ORGANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE ATOMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE MOLECULAIRE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SULFUR HETEROCYCLE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BICYCLIC COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "UNSATURATED HETEROCYCLE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL SOLUTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL SHIFT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SUBSTITUENT EFFECT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NMR SPECTRA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NMR SPECTROMETRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ALCOHOL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NITRILE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ESTER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AMIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORGANIC COMPOUNDS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ATOMIC PHYSICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOLECULAR PHYSICS"
+        },
+        "001B30: Physique atomique et moleculaire / Atomic and molecular physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8040399313"
+}

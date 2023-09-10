@@ -1,0 +1,202 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Récidive locorégionale Traitement et pronostic de la récidive locorégionale du cancer du sein; Locoregional breast cancer recurrence: prognosis and treatment",
+    "dc:creator": [
+        "BOLLET, M. A",
+        "REYAL, F",
+        "LE TOURNEAU, C",
+        "LE SCODAN, R",
+        "KIROVA, Y. M",
+        "CAMPANA, F",
+        "DENDALE, R",
+        "FOURQUET, A"
+    ],
+    "dc:contributor": [
+        "Lesur, Anne (Editor)",
+        "Cutuli, Bruno (Editor)",
+        "Bellocq, Jean-Pierre (Editor)",
+        "Gairard, Béatrice (Editor)",
+        "Société française de sénologie et de pathologie mammaire (Organiser of meeting)",
+        "Société Française de Sénologie et de Pathologie Mammaire. Journées (32 ; Strasbourg 2010-11-03)"
+    ],
+    "dc:relation": "La femme jeune face au cancer du sein (Strasbourg, 3-5 novembre 2010) -- Young woman facing breast cancer",
+    "dc:date": "2010",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "DaTeBe",
+    "dc:format": [
+        "print",
+        "6 p. ; 25 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Cancer"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie de la glande mammaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie du sein"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Adulte jeune"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cancer du sein"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Femelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Femme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Glande mammaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pronostic"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Récidive"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tumeur maligne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Locorégional"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cancer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mammary gland diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Breast disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Young adult"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Breast cancer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Female"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Woman"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mammary gland"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prognosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Relapse"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Malignant tumor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cáncer"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Glándula mamaria patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Seno patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adulto joven"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cáncer del pecho"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hembra"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mujer"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Glándula mamaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pronóstico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Recaida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tumor maligno"
+        },
+        "002B20E02: Tumeurs / Tumors"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 23720068"
+}

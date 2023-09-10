@@ -1,0 +1,75 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ORIENTAMENTI E SPERIMENTAZIONI SULLA PRESSOCOLATA.; TENDANCES ET DEVELOPPEMENTS EN COULEE SOUS PRESSION",
+    "dc:creator": [
+        "MARCUCCI L",
+        "BERTOLINI E"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": [
+        "English",
+        "Italian"
+    ],
+    "dc:format": "ALLUMINIO; ITAL.; DA. 1976; VOL. 45; NO 5; PP. 235-245; MEME DOC. ANGL.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "COULEE SOUS PRESSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MODELE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COQUILLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MOULE FONDERIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORDINATEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EQUIPEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PRESSURE DIE CASTING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MODELS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FOUNDRY MOLD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COMPUTERS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EQUIPMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METALLURGY"
+        },
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7780012678"
+}

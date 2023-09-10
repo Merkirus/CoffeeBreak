@@ -1,0 +1,57 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DIETARY STIMULATION OF SUCRASE IN A PATIENT WITH SUCRASE-ISOMALTASE DEFICIENCY; STIMULATION DIETETIQUE DE SUCRASE CHEZ UN MALADE AVEC DEFICIT EN SUCRASE ISOMALTASE",
+    "dc:creator": [
+        "GREENE HL",
+        "STIFEL FB",
+        "HERMAN RH"
+    ],
+    "dc:date": "1972",
+    "dc:type": "Serial Issue",
+    "dc:language": "English",
+    "dc:format": "BIOCHEM. MED.; U.S.A.; DA. 1972; VOL. 6; NO 5; PP. 409-418; BIBL. 27 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MALABSORPTION HEREDITAIRE SACCHAROSE ISOMALTOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MALABSORPTION INTESTIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENFANT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REGIME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRAITEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TECHNIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PATHOLOGIE DIGESTIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GASTROENTEROLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GASTROENTEROLOGY"
+        },
+        "002B13: Gastroenterologie. Foie. Pancreas. Abdomen / Gastroenterology. Liver. Pancreas. Abdomen"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL733542805"
+}

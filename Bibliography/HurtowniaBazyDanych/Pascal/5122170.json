@@ -1,0 +1,192 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "European structural materials development for fusion applications",
+    "dc:creator": [
+        "VAN DER SCHAAF, B",
+        "EHRLICH, K",
+        "FENICI, P",
+        "TAVASSOLI, A. A",
+        "VICTORIA, M"
+    ],
+    "dc:contributor": [
+        "COOK, Ian (Editor)",
+        "NAJMABADI, Farrokh (Editor)",
+        "SEKI, Yasushi (Editor)",
+        "IAEA-TCM on Fusion Power Plant Design. Meeting (6 ; Culham 1998-03-24)"
+    ],
+    "dc:relation": [
+        "Fusion engineering and design -- Fusion eng. des, CODEN FEDEEE, ISSN 0920-3796, Vol. 48 (3-4) , pp. 499-508",
+        "Selected Proceedings of the 6th IAEA Technical Committee Meeting and Workshop on Fusion Power Plant Design and Technology"
+    ],
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Elsevier Science",
+        "Elsevier Science"
+    ],
+    "dc:format": [
+        "print",
+        "10 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Acier austénitique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Acier ferritique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Acier ferrito martensitique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chrome alliage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Irradiation neutron"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau réacteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Produit fission"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Radioactivité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réacteur fusion nucléaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Silicium carbure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Titane alliage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vanadium alliage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dispositif ITER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Austenitic steel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ferritic steel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ferritic martensitic steel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chromium alloy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neutron irradiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reactor material"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fission product"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radioactivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nuclear fusion reactor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Silicon carbide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Titanium alloy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vanadium alloy"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acero austenítico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acero ferrítico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acero ferrito martensítico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cromo aleación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Irradiación neutrón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Material reactor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Producto fisión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radioactividad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reactor fusión nuclear"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Silicio carburo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Titanio aleación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vanadio aleación"
+        },
+        "001D06: Energie / Energy",
+        "001D06D04E: Centrales nucléaires à fusion / Controled nuclear fusion plants"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1493884"
+}

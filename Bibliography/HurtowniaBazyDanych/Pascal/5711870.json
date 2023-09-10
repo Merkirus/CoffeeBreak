@@ -1,0 +1,369 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Development of highly accurate global polygonal drainage basin data",
+    "dc:creator": [
+        "MASUTOMI, Yuji",
+        "INUI, Yusuke",
+        "TAKAHASHI, Kiyoshi",
+        "MATSUOKA, Yuzuru"
+    ],
+    "dc:contributor": [
+        "YAMASHIKI, Yosuke (Editor)",
+        "TSUJIMURA, Maki (Editor)"
+    ],
+    "dc:relation": "Hydrological processes (Print) -- Hydrol. process. (Print), CODEN HYPRE3, ISSN 0885-6087, Vol. 23 (4) , pp. 572-584",
+    "dc:date": "2009",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Wiley",
+    "dc:format": [
+        "print",
+        "13 p. ; 1 p.1/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Australasie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Base de données"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bassin versant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Correction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cours eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Distribution spatiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Drainage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Débit rivière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Débit"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Erreur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Haute résolution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Jaugeage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle numérique élévation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Monde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polygone"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Précision"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rivière"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Australasia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "data bases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "drainage basins"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "corrections"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "streams"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "spatial distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "drainage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "river discharge"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "discharge"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "errors"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "high resolution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "gauging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "digital elevation models"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "models"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "global"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "polygons"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "accuracy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "rivers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "discharge gauging stations"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "drainage basins"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "global drainage basin database (GDBD)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "global polygonal drainage basin data"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "manual corrections"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ridge fencing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "stream burning"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "streamlines"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Australasia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Base dato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuenca"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Corrección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Curso agua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Distribución espacial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Caudal río"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gasto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Error"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alta resolucion"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aforo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mundo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Precisión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Río"
+        },
+        "001E01J02: Cartes géologiques, cartographie / Geologic maps, cartography",
+        "001E01N01: Hydrologie / Hydrology"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Asie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Extrême Orient"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Australie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Canada"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Corée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats Unis"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Japon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Far East"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Australia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Canada"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Korea"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Japan"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Extremo Oriente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Australia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Canada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Corea"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estados Unidos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Japón"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 21173881"
+}

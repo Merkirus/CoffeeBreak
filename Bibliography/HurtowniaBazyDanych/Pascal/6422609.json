@@ -1,0 +1,149 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Seasonal variations of gravity wave structures in OH airglow with a CCD imager at Shigaraki",
+    "dc:creator": [
+        "NAKAMURA, T",
+        "HIGASHIKAWA, A",
+        "TSUDA, T",
+        "MATSUSHITA, Y"
+    ],
+    "dc:contributor": [
+        "FRITTS, David C (Editor)",
+        "SHEPHERD, Gordon G (Editor)",
+        "TSUDA, Toshitaka (Editor)",
+        "Scientific Committee on Solar-Terrestrial Physics (SCOSTEP) ; Planetary Scale Mesopause Observing System (Funder/Sponsor)",
+        "IAMAS ; International Commission on the Middle Atmosphere (Funder/Sponsor)",
+        "Society of Geomagnetism and Earth, Planetary and Space Sciences (Funder/Sponsor)",
+        "Meteorological Society of Japan (Funder/Sponsor)",
+        "DYSMER International Symposium on Dynamics and Structure of the Mesopause Region (Kyoto 1998-03-16)"
+    ],
+    "dc:relation": [
+        "Earth, planets and space -- Earth planets space, ISSN 1343-8832, Vol. 51 (7-8) , pp. 897-906",
+        "Dynamics and Structure of the Mesopause Region (DYSMER)"
+    ],
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Terra",
+    "dc:format": [
+        "print",
+        "22 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse image"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Haute atmosphère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Imagerie CCD"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Luminescence atmosphérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Onde gravité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Radical hydroxyle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Variation saisonnière"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Image analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Upper atmosphere"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CCD imaging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Airglow"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gravity wave"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hydroxyl radicals"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Seasonal variation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis imagen"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alta atmósfera"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Imagenería CCD"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Luminiscencia atmosférica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Onda gravedad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Variación estacional"
+        },
+        "001E02H06: Luminescence atmosphérique. Aurore / Airglow. Aurora"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Asie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Japon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Japan"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Japón"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1203595"
+}

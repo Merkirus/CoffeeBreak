@@ -1,0 +1,57 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "FABRICATION AND PERFORMANCE OF CON IMPLANTED I2L DEVICES.",
+    "dc:creator": [
+        "HANSON JW",
+        "FORDEWALT JN",
+        "HUBER RJ"
+    ],
+    "dc:date": "1975",
+    "dc:type": "Conference Paper",
+    "dc:language": "English",
+    "dc:format": "IN: INT. ELECTRON DEVICES MEET.; WASHINGTON, D.C.; 1975; NEW YORK; INST. ELECTR. ELECTRON. ENG.; DA. 1975; PP. 281-283; BIBL. 3 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CIRCUIT LOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FABRICATION MICROELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IMPLANTATION ION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE FONCTIONNEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CIRCUIT LOGIQUE INTEGREE INJECTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROMAGNETISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROMAGNETISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONICS"
+        },
+        "001D03: Electronique / Electronics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7630253390"
+}

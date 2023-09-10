@@ -1,0 +1,69 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "MUTANT DE STERILITE A EFFET RETARDE DE DROSOPHILA MELANOGASTER",
+    "dc:creator": [
+        "THIERRY MIEG D",
+        "MASSON M",
+        "GANS M"
+    ],
+    "dc:date": "1972",
+    "dc:type": "Serial Issue",
+    "dc:language": "French",
+    "dc:format": "C.R. ACAD. SCI., D; FR.; DA. 1972; VOL. 275; NO 23; PP. 2751-2754; BIBL. 4REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "INSECTA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DROSOPHILA MELANOGASTER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MUTATION GRANDCHILDLESS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARACTERE LIE AU SEXE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MUTATION THERMOSENSIBLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUCTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AGENT ALKYLANT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHANE SULFONATE ETHYL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STERILITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANIMAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENETIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENETICS"
+        },
+        "002A31C02: Techniques génétiques / Genetic technics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL733632527"
+}

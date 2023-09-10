@@ -1,0 +1,210 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A method of automatic speaker recognition using cepstral features and vectorial quantization",
+    "dc:creator": "DE LARA, José Ramon",
+    "dc:contributor": "Iberoamerican Congress on Pattern Recognition (10 ; Havana 2005-11-15)",
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 146-153",
+        "Progress in pattern recognition, image analysis and applications (10th Iberoamerican Congress on Pattern Recognition, CIARP 2004) -- 0CIARP 2005"
+    ],
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "8 p. ; 9 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Base donnée répartie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cepstre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrôle accès"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Locuteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Personnalisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Quantification signal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Quantification vectorielle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Reconnaissance automatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Reconnaissance forme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Reconnaissance locuteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Reconnaissance parole"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau téléphonique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sécurité informatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Texte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement image"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Voix"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Distributed database"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cepstrum"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Access control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Speaker"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Customization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Signal quantization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vector quantization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Automatic recognition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pattern recognition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Speaker recognition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Speech recognition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Telephone network"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computer security"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Text"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Image processing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Voice"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Base repartida dato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Locutor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Personalización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuantificación señal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuantificación vectorial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reconocimiento automático"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reconocimiento patrón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reconocimiento voz"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red telefónica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Seguridad informatica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Texto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Procesamiento imagen"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Voz"
+        },
+        "001D02C03: Reconnaissance des formes. Traitement numérique des images. Géométrie algorithmique / Pattern recognition. Digital image processing. Computational geometry",
+        "001D02C04: Reconnaissance et synthèse de la parole et du son. Linguistique / Speech and sound recognition and synthesis. Linguistics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17372706"
+}

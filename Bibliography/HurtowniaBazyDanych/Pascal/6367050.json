@@ -1,0 +1,164 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Fatal primary dengue infections in Brazil",
+    "dc:creator": [
+        "NOGUEIRA, R. M. R",
+        "MIAGOSTOVICH, M. P",
+        "CUNHA, R. V",
+        "ZAGNE, S. M. O",
+        "GOMES, F. P",
+        "NICOLS, A. F",
+        "COELHO, J. C. O",
+        "SCHATZMAYR, H. G"
+    ],
+    "dc:contributor": [
+        "Royal Society of Tropical Medicine and Hygiene (Funder/Sponsor)",
+        "Royal Society of Tropical Medicine and Hygiene Meeting (London 1998-10-22)"
+    ],
+    "dc:relation": [
+        "Transactions of the Royal Society of Tropical Medicine and Hygiene -- Trans. r. soc. trop. med. hyg, CODEN TRSTAZ, ISSN 0035-9203, Vol. 93 (4)",
+        "The work of the Tropical Health and Education Trust (THET) in training for healthcare"
+    ],
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "p. 418 ; 9 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Arbovirose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Virose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dengue"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mortalité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Primoinfection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Arbovirus disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Viral disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dengue"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mortality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Primary infection"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arbovirosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Infección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Virosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dengue"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mortalidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Primoinfección"
+        },
+        "002B05C02I1A: Dengues / Dengue fevers",
+        "235: Médecine tropicale / Tropical medicine"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Sud"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Brésil"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "South America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Brazil"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del sur"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Brasil"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1917203"
+}

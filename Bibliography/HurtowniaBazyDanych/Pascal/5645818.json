@@ -1,0 +1,239 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Groupe scolaire les planches Saint-Maur (Indre). Evaluation des actions d'éducation à la santé. Année 2005-2006",
+    "dc:creator": [
+        "DE COURCEL, Nathalie",
+        "COHONNER, Céline",
+        "LECLERC, Céline",
+        "Observatoire Régional de la Santé du Centre. (O.R.S.C.). Orléans"
+    ],
+    "dc:contributor": [
+        "Caisse Primaire d'Assurance Maladie de l'Indre. (C.P.A.M.). Châteauroux (Sponsor)",
+        "Institut Régional pour la Santé de l'Indre. (I.R.S.). A Châteauroux (Sponsor)"
+    ],
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Book"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "ORS Centre",
+    "dc:format": [
+        "print",
+        "39 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Accident domestique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Corps"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Echelon régional"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecole"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Education nutritionnelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Education pour la santé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exercice physique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exposition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur risque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hygiène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Parent"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Programme sanitaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Soleil"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Household accident"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Body"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Regional scope"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "School"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nutrition education"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Health education"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Evaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Physical exercise"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Exposure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Risk factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hygiene"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Parent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sanitary program"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sun"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Accidente doméstico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuerpo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Escala regional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Escuela"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Educación nutricional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Educación sanitaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evaluación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ejercicio físico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Exposición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor riesgo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Higiene"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pariente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Programa sanitario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sol"
+        },
+        "002B30A01C: Planification. Prévention (méthodes). Intervention. Evaluation / Planification. Prevention (methods). Intervention. Evaluation"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Région Centre"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Centre Region"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Centre(Región)"
+        }
+    ],
+    "dc:rights": [
+        "Banque de données en santé publique - Ecole des hautes études en santé publique (BDSP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 19937639"
+}

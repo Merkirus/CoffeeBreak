@@ -1,0 +1,142 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Les études d'exécution. Conception et modélisation des études de gros oeuvre : les équations de la performance; Detailed design. Design and modelling for structural work engineering : performance equations",
+    "dc:creator": [
+        "DESLANDES, Claude",
+        "MARGIER, Pierre"
+    ],
+    "dc:relation": "Travaux (Paris) -- Travaux (Paris), CODEN TRAVAJ, ISSN 0041-1906 (833) , pp. 66-68",
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Science et industrie",
+    "dc:format": [
+        "print",
+        "3 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Calcul construction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conception"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation performance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gros oeuvre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Station épuration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Structural design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Performance evaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Carcassing work"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sewage treatment plant"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cálculo construcción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diseño"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evaluación prestación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conjunto de paredes maestras"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estación depuradora"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works",
+        "001D14A01: Etablissement de projets. Techniques de conception / Project management. Process of design",
+        "001D14C03: Méthodes de calcul. Tables. Abaques / Computation methods. Tables. Charts",
+        "001D14D01: Organisation des chantiers / Site organization",
+        "001D14K: Assainissement. Construction des égouts / Sewerage. Sewer construction"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ile de France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ile-de-France"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ile de France"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18210079"
+}

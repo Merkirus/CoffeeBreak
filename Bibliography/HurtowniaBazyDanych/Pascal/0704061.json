@@ -1,0 +1,82 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A SIMPLE VOLUMETRIC METHOD FOR MEASURING AIR FLOW",
+    "dc:creator": [
+        "CARRINGTON CG",
+        "MARCINOWSKI A",
+        "SANDLE WJ"
+    ],
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. PHYS. E; ISSN 0022-3735; GBR; DA. 1982; VOL. 15; NO 3; PP. 275-276; BIBL. 3 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ECOULEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DEBIT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AIR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE MESURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GAZ"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MECANIQUE FLUIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FLOW"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FLOW RATE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AIR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MEASUREMENT METHOD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FLOW"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GASES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FLUID MECHANICS"
+        },
+        "001B: Physique / Physics",
+        "001D06: Energie / Energy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL82X0289664"
+}

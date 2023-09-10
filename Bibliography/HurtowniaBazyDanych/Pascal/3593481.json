@@ -1,0 +1,68 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "BREVET 2.358.189 (A1) (77 21808). - 13 JUILLET 1977. MELANGEUR CONTINU COMPRENANT AU MOINS UNE ZONE DE MELANGE.",
+    "dc:creator": "FRENKEL C-D A.G",
+    "dc:date": "sd",
+    "dc:type": "Patent",
+    "dc:language": "French",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MELANGEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MALAXAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELASTOMERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MELANGEAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EN CONTINU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE MACROMOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLYMERES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MIXER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MIXING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELASTOMER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONTINUOUS PROCESS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MACROMOLECULAR CHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLYMERS"
+        },
+        "001D09: Physicochimie des polymeres / Physicochemistry of polymers"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7860271424"
+}

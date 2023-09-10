@@ -1,0 +1,446 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Long-term migration of metals at historical smelting sites",
+    "dc:creator": [
+        "MASKALL, J",
+        "WHITEHEAD, K",
+        "GEE, C",
+        "THORNTON, I"
+    ],
+    "dc:contributor": [
+        "FUGE, Ron (Editor)",
+        "BILLETT, Mike (Editor)",
+        "SELINUS, Olle (Editor)",
+        "International Association of Geochemistry and Cosmochemistry (Funder/Sponsor)",
+        "Society for Environmental Geochemistry and Health (Funder/Sponsor)",
+        "Environmental Geochemistry. International Symposium (3 ; KrakÓw 1994-09-12)"
+    ],
+    "dc:relation": [
+        "Applied geochemistry -- Appl. geochem, CODEN APPGEY, ISSN 0883-2927, Vol. 11 (1-2) , pp. 43-51",
+        "Environmental Geochemistry. International Symposium"
+    ],
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "Analysis ; 28 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche carbonatée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche clastique meuble"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche clastique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche sédimentaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Adsorption"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Altération météorique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Archéologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Argile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Calcaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Calcium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Capacité échange cation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contamination"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Derbyshire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Echange ion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grès"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Historique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Holocène sup"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Industrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Migration élément"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mobilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mouvement vertical"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métal lourd"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métallurgie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PH"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plasma couplé inductivement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plomb"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pollution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Profil sol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Précipitation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Scorie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectrométrie émission"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Zinc"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fusion minerai"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Impact environnemental"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Industrie métallurgique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectrométrie ICP"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "carbonate rocks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "clastic sediments"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "clastic rocks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "sedimentary rocks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "adsorption"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "weathering"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "archaeology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "clay"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "limestone"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "calcium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "cation exchange capacity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "contamination"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Derbyshire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ion exchange"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "sandstone"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "history"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "upper Holocene"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "industry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "migration of elements"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "mobility"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "vertical movements"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "heavy metals"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "metallurgy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "pH"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "inductively coupled plasma methods"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "lead"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "pollution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "soil profiles"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "precipitation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "scoria"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "soils"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "emission spectroscopy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "zinc"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Roca carbonatada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sedimento clástico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Roca clástica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Roca sedimentaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adsorción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alteración meteórica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arqueología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arcilla"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Calcáreo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Calcio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Capacidad intercambio catión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contaminación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cambio iónico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gres"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Histórica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Holoceno sup"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Industria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Migración elementos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Movilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Movimiento vertical"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metal pesado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metalurgia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "pH"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Plomo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polución"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Perfil suelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Precipitación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Escoria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Suelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Espectrometría emisión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Zinc"
+        },
+        "001E01E02: Gîtologie des métaux / Metal geology",
+        "001E01O04: Pollution, géologie de l'environnement / Pollution, environment geology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3118593"
+}

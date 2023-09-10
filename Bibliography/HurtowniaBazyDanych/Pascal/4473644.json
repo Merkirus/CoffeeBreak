@@ -1,0 +1,61 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "STRUCTURE DE LA BASE MATHEMATIQUE D'UN SYSTEME DE CONCEPTION AUTOMATIQUE DES INSTALLATIONS TECHNOLOGIQUES CHIMIQUES",
+    "dc:creator": "TELKOV YU K",
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "KHIM. PROMYSHL.; S.S.S.R.; DA. 1976; NO 12; PP. 923-926",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "GENIE CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AUTOMATISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CALCUL CONCEPTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OPTIMISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENIE CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUSTRIE CHIMIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL ENGINEERING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AUTOMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPTIMIZATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL ENGINEERING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL INDUSTRY"
+        },
+        "001D07: Genie chimique / Chemical engineering"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7760199808"
+}

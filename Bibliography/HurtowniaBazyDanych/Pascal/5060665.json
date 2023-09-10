@@ -1,0 +1,139 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Les dimensions institutionnelles du rapport entre l'Etat et le secteur coopératif dans le développement : expériences européennes",
+    "dc:creator": [
+        "VEZINA, M",
+        "COTE, D",
+        "BERNIER, L"
+    ],
+    "dc:contributor": "Ecole des Hautes Etudes Commerciales. (HEC). Centre de Gestion des Coopératives (Editor)",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Book"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "67 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CONCERTATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ECONOMIE SOCIALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RELATIONS ADMINISTRATION-ENTREPRISE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOCIETE COOPERATIVE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIALOGUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOCIAL ECONOMY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ADMINISTRATION BUSINESS RELATIONS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COOPERATIVE SOCIETY"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "CONCERTACION"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "ECONOMIA SOCIAL"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "RELACIONES ENTRE ADMINISTRACION Y EMPRESAS"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "SOCIEDAD COOPERATIVA"
+        },
+        "616-: Doge / Gestion des entreprises / Doge / Company management",
+        "616-8: Gestion publique / Public management"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CANADA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ESPAGNE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FRANCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ITALIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PORTUGAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CANADA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SPAIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FRANCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ITALY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PORTUGAL"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "CANADA"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "ESPANA"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "FRANCIA"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "ITALIA"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "PORTUGAL"
+        }
+    ],
+    "dc:rights": [
+        "Documentation en Gestion des Entreprises - Eurofidai (institut européen de données financières) (DOGE)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14322208"
+}

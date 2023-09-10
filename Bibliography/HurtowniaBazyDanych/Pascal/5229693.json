@@ -1,0 +1,85 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Identification of lactic acid bacteria: culture-dependent and culture-independent methods",
+    "dc:creator": [
+        "TEMMERMAN, Robin",
+        "HUYS, Geert",
+        "SWINGS, Jean"
+    ],
+    "dc:contributor": [
+        "Centre for Advanced Food Studies (LMC) (Funder/Sponsor)",
+        "European Federation of Food Science and Technology (EFFoST) (Funder/Sponsor)",
+        "New Functional Ingredients and Foods: Safety, Health and Convenience. Meeting (Copenhagen 2003-04-09)"
+    ],
+    "dc:relation": [
+        "Trends in food science & technology (Regular ed.) -- Trends food sci. technol. (Regul. ed.), ISSN 0924-2244, Vol. 15 (7-8) , pp. 348-359",
+        "NFIF 2003: New Functional Ingredients and Foods: Safety, Health and Convenience, Copenhagen, 9-11 April 2003. Part 2"
+    ],
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "12 p. ; 2 p.1/2"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bactérie lactique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Identification"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu sélectif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lactic acid bacteria"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Identification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Selective medium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Method"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bacteria láctica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Identificación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio selectivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método"
+        },
+        "002A35D: Microbiologie alimentaire / Food microbiology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15848820"
+}

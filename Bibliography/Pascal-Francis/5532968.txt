@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Extremum seeking control of nonlinear systems with parametric uncertainties and state constraints</dc:title>
+  <dc:creator>DEHAAN, Darryl</dc:creator>
+  <dc:creator>GUAY, Martin</dc:creator>
+  <dc:contributor>American Automatic Control Council (Organiser of meeting)</dc:contributor>
+  <dc:contributor>American Institute of Aeronautics and Astronautics (Organiser of meeting)</dc:contributor>
+  <dc:contributor>International Federation of Automatic Control (Organiser of meeting)</dc:contributor>
+  <dc:contributor>American Control Conference (22 ; Boston MA 2004)</dc:contributor>
+  <dc:relation>Proceedings of the 2004 American Control Conference ACC (June 30-July 2, 2004, Boston Massachusetts)</dc:relation>
+  <dc:date>2004</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Conference Paper</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>American Automatic Control Council</dc:publisher>
+  <dc:publisher>IEEE</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>6 p. ; 10 ref</dc:format>
+  <dc:subject xml:lang="fr">Commande non linéaire</dc:subject>
+  <dc:subject xml:lang="fr">Contrainte espace état</dc:subject>
+  <dc:subject xml:lang="fr">Fonction objectif</dc:subject>
+  <dc:subject xml:lang="fr">Fonction valeur</dc:subject>
+  <dc:subject xml:lang="fr">Méthode point intérieur</dc:subject>
+  <dc:subject xml:lang="fr">Problème extremum</dc:subject>
+  <dc:subject xml:lang="fr">Recherche extrémale</dc:subject>
+  <dc:subject xml:lang="fr">Système incertain</dc:subject>
+  <dc:subject xml:lang="fr">Système paramétrique</dc:subject>
+  <dc:subject xml:lang="fr">Valeur consigne</dc:subject>
+  <dc:subject xml:lang="fr">Classe état</dc:subject>
+  <dc:subject xml:lang="en">Non linear control</dc:subject>
+  <dc:subject xml:lang="en">State constraint</dc:subject>
+  <dc:subject xml:lang="en">Objective function</dc:subject>
+  <dc:subject xml:lang="en">Value function</dc:subject>
+  <dc:subject xml:lang="en">Interior point method</dc:subject>
+  <dc:subject xml:lang="en">Extremum problem</dc:subject>
+  <dc:subject xml:lang="en">Extreme search</dc:subject>
+  <dc:subject xml:lang="en">Uncertain system</dc:subject>
+  <dc:subject xml:lang="en">Parametric system</dc:subject>
+  <dc:subject xml:lang="en">Set point</dc:subject>
+  <dc:subject xml:lang="en">State class</dc:subject>
+  <dc:subject xml:lang="es">Control no lineal</dc:subject>
+  <dc:subject xml:lang="es">Tensión espacio estado</dc:subject>
+  <dc:subject xml:lang="es">Función objetivo</dc:subject>
+  <dc:subject xml:lang="es">Función valor</dc:subject>
+  <dc:subject xml:lang="es">Método punto interior</dc:subject>
+  <dc:subject xml:lang="es">Problema extremo</dc:subject>
+  <dc:subject xml:lang="es">Investigación extremal</dc:subject>
+  <dc:subject xml:lang="es">Sistema incierto</dc:subject>
+  <dc:subject xml:lang="es">Sistema paramétrico</dc:subject>
+  <dc:subject xml:lang="es">Valor consigna</dc:subject>
+  <dc:subject xml:lang="es">Clase estado</dc:subject>
+  <dc:subject>001D02D07: Synthèse des systèmes de commande / Control system synthesis</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 18351487</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

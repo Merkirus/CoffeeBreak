@@ -1,0 +1,238 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Research on laser fuze technology based on MEMS/MOEMS",
+    "dc:creator": [
+        "HUIMIN CHEN",
+        "PING LI",
+        "YINGWEN ZHANG",
+        "KUN LI",
+        "JIANQIANG SUN"
+    ],
+    "dc:contributor": [
+        "Han, Sen (Editor)",
+        "Zhongguo guang xue xue hui (Organiser of meeting)",
+        "Guo jia zi ran ke xue ji jin wei yuan hui (Organiser of meeting)",
+        "Society of Photo-optical Instrumentation Engineers (Organiser of meeting)",
+        "Zhongguo ke xue yuan, Institute of Optics and Electronics (Organiser of meeting)",
+        "State Key Laboratory of Optical Technology for Microfabrication (Organiser of meeting)",
+        "Sichuan Optical Society (Organiser of meeting)",
+        "Zhongguo guang xue xue hui, Committee of Optical Manufacturing Technology (Organiser of meeting)",
+        "Guo jia ke xue ji shu bu (Organiser of meeting)",
+        "Zhongguo ke xue yuan (Organiser of meeting)",
+        "International Symposium on Advanced Optical Manufacturing and Testing Technologies (3 ; Chengdu 2007)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, Vol. 6724, pp. 67240V.1-67240V.5",
+        "Design, manufacturing, and testing of micro- and nano-optical devices and systems (3rd International Symposium on Advanced Optical Manufacturing and Testing Technologies) -- 03rd International Symposium on Advanced Optical Manufacturing and Testing Technologies"
+    ],
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "9 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Application militaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Brouillage intentionnel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dispositif microoptoélectromécanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dispositif microélectromécanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dispositif optoélectronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Impulsion laser"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Laser cavité verticale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Laser semiconducteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Laser émission surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microoptique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Miniaturisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Multifonctionnalité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optique réfractive"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Photodétecteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résonateur cavité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0130C"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0710C"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4255P"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4279"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "8560G"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "8585"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "8920D"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Military application"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Jamming"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microoptoelectromechanical device"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microelectromechanical device"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optoelectronic devices"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laser pulse"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertical cavity laser"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Semiconductor lasers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface emitting lasers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Micro-optics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Miniaturization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multifunctionality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Refractive optics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photodetectors"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cavity resonators"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information processing"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aplicación militar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dispositivo microoptoelectromecánico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dispositivo microelectromecánico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Impulsión láser"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Laser cavidad vertical"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Multifuncionalidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Optica refractiva"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Procesamiento información"
+        },
+        "001B00A30C: Actes de congrès / Conference proceedings",
+        "001B00G10C: Systèmes et dispositifs micromécaniques / Micromechanical devices and systems",
+        "001B40B79: Eléments, dispositifs, et systèmes optiques / Optical elements, devices, and systems",
+        "001D03F21: Dispositifs micro- et nanoélectromécaniques (mems/nems) / Micro- and nanoelectromechanical devices (mems/nems)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20932184"
+}

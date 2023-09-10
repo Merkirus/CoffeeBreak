@@ -1,0 +1,53 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "BREVET. MACHINE A ECHARNER EN CONTINU LES PEAUX ET FEUILLES DE MATIERES SIMILAIRES",
+    "dc:creator": "INDUSTRIE MECCANICHE TRE-P S.N.C.",
+    "dc:date": "1979",
+    "dc:type": "Patent",
+    "dc:language": "French",
+    "dc:format": "; FRA; DA. 1979-10-05; FR/A1/2.416.267; DEP.79-02562/1979-01-31; PR. IT/85.511A-78/1978-02-03",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TANNERIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ECHARNAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PEAU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "APPAREILLAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUSTRIE CHIMIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TANNERY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FLESHING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SKIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL INDUSTRY"
+        },
+        "001D09: Physicochimie des polymeres / Physicochemistry of polymers"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8060026604"
+}

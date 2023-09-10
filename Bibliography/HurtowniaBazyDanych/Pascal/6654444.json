@@ -1,0 +1,135 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Design and simulation of the surface shape control system for membrane mirror",
+    "dc:creator": [
+        "GENGSHENG ZHANG",
+        "MINXUE TANG"
+    ],
+    "dc:contributor": [
+        "Wang, Yongtian (Editor)",
+        "Sheng, Yunlong (Editor)",
+        "Tatsuno, Kimio (Editor)",
+        "Zhongguo yi qi yi biao xue hui (Organiser of meeting)",
+        "Zhongguo guang xue xue hui (Organiser of meeting)",
+        "SPIE (Organiser of meeting)",
+        "Zhongguo yi qi yi biao xue hui, Optoelectronic-Mechanic Technology and System Integration Chapter (Organiser of meeting)",
+        "International Conference on Optical Instruments and Technology (Shanghai 2009)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, Vol. 7506",
+        "2009 International Conference on Optical Instruments and Technology (optical systems and modern optoelectronic instruments) -- 0Optical systems and modern optoelectronic instruments -- 1International Conference on Optical Instruments and Technology"
+    ],
+    "dc:date": "2009",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "75061O.1-75061O.8 ; 9 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Aberration optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude théorique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Front onde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Logique floue"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Miroir"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode élément fini"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polynôme Zernike"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0130C"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0760"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4215F"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical aberration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Theoretical study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wave front"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fuzzy logic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mirrors"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Finite element method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Zernike polynomials"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aberración óptica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método óptico"
+        },
+        "001B00A30C: Actes de congrès / Conference proceedings",
+        "001B00G60: Instrumentation, équipement et techniques optiques / Optical instruments, equipment and techniques",
+        "001B40B15F: Aberrations / Aberrations"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 22804276"
+}

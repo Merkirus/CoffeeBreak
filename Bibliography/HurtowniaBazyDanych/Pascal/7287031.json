@@ -1,0 +1,215 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "On the origin of electrotelluric disturbances prior to an earthquake in Kalamata, Greece",
+    "dc:creator": [
+        "GERSHENZON, N",
+        "GOKHBERG, M"
+    ],
+    "dc:contributor": [
+        "VAROTSOS, P (Editor)",
+        "KULHANEK, O (Editor)",
+        "Athens University. Solid State Section (Funder/Sponsor)",
+        "Measurements and theoretical models of the Earth's electric field variations related to earthquakes. International conference (Athens 1990-02-06)"
+    ],
+    "dc:relation": [
+        "Tectonophysics -- Tectonophysics, CODEN TCTOAM, ISSN 0040-1951, Vol. 224 (1-3) , pp. 169-174",
+        "Measurements and theoretical models of the Earth's electric field variations related to earthquakes. International conference"
+    ],
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "Russian",
+    "dc:publisher": [
+        "Elsevier Science",
+        "Elsevier Science",
+        "Elsevier Science"
+    ],
+    "dc:format": [
+        "print",
+        "Illustration ; 30 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Anomalie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Champ électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrainte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu hétérogène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode tellurique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode électromagnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Origine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phénomène précurseur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Potentiel électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Signal sismique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Séisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Séisme Kalamata 13 09 1986"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "anomalies"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "electrical field"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "stress"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "heterogeneous materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Earth-current methods"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "electromagnetic methods"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "provenance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "precursors"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electric potential"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "signals"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "earthquakes"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anomalía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Campo eléctrico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Coacción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio heterogéneo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método telúrico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método electromagnético"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Origen"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fenómeno precursor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Potencial eléctrico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Señal sísmica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sismo"
+        },
+        "001E01M03: Séismes, sismologie / Earthquakes, seismology"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe Sud"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grèce"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Southern Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Greece"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa Sur"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Grecia"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4886142"
+}

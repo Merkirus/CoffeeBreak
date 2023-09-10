@@ -1,0 +1,157 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Danazol therapy renders red cells resistant to osmotic lysis",
+    "dc:creator": [
+        "AHN, Y. S",
+        "FERNANDEZ, L. F",
+        "KIM, C. I",
+        "RAVINDRA MYLVAGANAM",
+        "TEMPLE, J. D. JR",
+        "CAYER, M. L",
+        "HARRINGTON, W. J"
+    ],
+    "dc:contributor": "American society for clinical investigation. Annual meeting (San Diego 1987)",
+    "dc:relation": [
+        "The FASEB journal -- FASEB j, CODEN FAJOEC, ISSN 0892-6638, Vol. 3 (2) , pp. 157-162",
+        "American society for clinical investigation. Annual meeting (San Diego 1987)"
+    ],
+    "dc:date": "1989",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Federation of American Societies for Experimental Biology",
+    "dc:format": [
+        "print",
+        "29 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Androgène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chimiothérapie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Danazol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Erythrocyte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hormone stéroïde sexuelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hémopathie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Membrane biologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mécanisme action"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Androgen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemotherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Danazol"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Red blood cell"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sex steroid hormone"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hemopathy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biomembrane"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mechanism of action"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Andrógeno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Quimioterapia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Danazol"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Eritrocito"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hormona esteroide sexual"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hemopatía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Membrana biológica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mecanismo acción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        "002B02O: Hormones. Glandes endocrines / Hormones. Endocrine system"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6915378"
+}

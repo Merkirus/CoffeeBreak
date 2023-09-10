@@ -1,0 +1,100 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DIE KUEHLUNG VON KERNKRAFTWERKEN, AUSGERUESTET MIT HOCHTEMPERATURREAKTOR UND HEILIUMTURBINENKREISLAUF.; COOLING OF NUCLEAR POWER PLANTS WITH HIGH TEMPERATURE REACTORS AND HELIUM TURBINE CYCLES; LE REFROIDISSEMENT DES CENTRALES NUCLEAIRES A REACTEUR HAUTE TEMPERATURE ET CYCLE TURBINE A HELIUM",
+    "dc:creator": [
+        "FOERSTER S",
+        "HEWING G"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "V.G.B. KRAFTWERKSTECH.; DTSCH.; DA. 1977; VOL. 57; NO 2; PP. 95-106; BIBL. 10 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CENTRALE NUCLEAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REACTEUR HAUTE TEMPERATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TURBINE HELIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REFROIDISSEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TOUR REFROIDISSEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHAUFFAGE URBAIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REFROIDISSEMENT VOIE SECHE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TIRAGE NATUREL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TYPE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NUCLEAR FACILITIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HIGH TEMPERATURE REACTOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HELIUM TURBINE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COOLING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COOLING TOWER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DISTRICT HEATING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DRY COOLING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NATURAL DRAFT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TYPE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY"
+        },
+        "001D06: Energie / Energy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7770350286"
+}

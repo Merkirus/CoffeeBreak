@@ -1,0 +1,99 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A new association rules mining algorithms based on directed itemsets graph",
+    "dc:creator": [
+        "LEI WEN",
+        "MINQIANG LI"
+    ],
+    "dc:contributor": [
+        "Huoyin Wang (Editor)",
+        "Qing Liu (Editor)",
+        "Yiyu Yao (Editor)",
+        "Skowron, Andrzej (Editor)",
+        "Rough sets, fuzzy sets, data mining, and granular computing. International conference (9 ; Chongqing 2003-05-26)"
+    ],
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 660-663",
+        "RSFDGrC 2003 : rough sets, fuzzy sets, data mining, and granular computing (Chingqing, 26-29 May 2003)"
+    ],
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "4 p. ; 10 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Découverte connaissance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fouille donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Graphe orienté"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système expert"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Data analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Knowledge discovery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Data mining"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Directed graph"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Expert system"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis datos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Descubrimiento conocimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Busca dato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Grafo orientado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema experto"
+        },
+        "001D02A06: Recherche information. Graphe / Information retrieval. Graph",
+        "001D02B07D: Systèmes d'information. Bases de données / Information systems. Data bases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14933843"
+}

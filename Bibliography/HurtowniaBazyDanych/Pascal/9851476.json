@@ -1,0 +1,249 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Cyclic transmembrane charge transport by pyryllum ions in a vesicle-based photocatalytic system",
+    "dc:creator": [
+        "KHAIRUTDINOV, R. F",
+        "HURST, J. K"
+    ],
+    "dc:relation": "Nature (London) -- Nature (Lond.), CODEN NATUAS, ISSN 0028-0836, Vol. 402 (6761) , pp. 509-511",
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Nature Publishing",
+    "dc:format": [
+        "print",
+        "18 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Métal transition Complexe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Accepteur électron"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cation organique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cobalt Complexe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Coordinat organique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cycle 6 chaînons"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dicétone"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Energie solaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hydrolyse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hétérocycle oxygène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Membrane"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Photocatalyse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Photosensibilisant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété transport"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rayonnement solaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Schéma réactionnel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectrométrie absorption"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vésicule"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pyrylium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transition metal Complexes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electron acceptor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Organic cation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cobalt Complexes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Organic ligand"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Six membered ring"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diketone"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Solar energy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hydrolysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oxygen heterocycle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Membrane"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photocatalysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photosensitizer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transport properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Solar radiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reaction path"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Absorption spectrometry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vesicle"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metal transición Complejo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aceptor electrón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Catión orgánico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cobalto Complejo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ligando orgánico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ciclo 6 eslabones"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dicetona"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Energía solar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hidrólisis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Heterociclo oxígeno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Membrana"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fotocatálisis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fotosensibilizante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad transporte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radiación solar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Esquema reacciones"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Espectrometría absorción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vesícula"
+        },
+        "001C01F01: Photochimie / Photochemistry",
+        "001C01J09: Membranes / Membranes"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1239572"
+}

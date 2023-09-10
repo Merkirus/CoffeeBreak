@@ -1,0 +1,230 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Super under-actuated multi-fingered mechanical hand with modular self-adaptive gear-rack mechanism",
+    "dc:creator": [
+        "WENZENG ZHANG",
+        "DEMENG CHE",
+        "HONGBIN LIU",
+        "XIANDE MA",
+        "QIANG CHEN",
+        "DONG DU",
+        "ZHENGUO SUN"
+    ],
+    "dc:contributor": "YOULUN XIONG (Editor)",
+    "dc:relation": "Industrial robot -- Ind. rob, CODEN IDRBAT, ISSN 0143-991X, Vol. 36 (3) , pp. 255-262",
+    "dc:date": "2009",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Emerald",
+    "dc:format": [
+        "print",
+        "8 p. ; 1/2 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Actionneur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bras"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Capteur mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrôle coût"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Doigt"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Engrenage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Entraînement moteur électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Préhension"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recherche et développement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Robot humanoïde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Robotique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sous actionnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Synthèse mécanisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système mécanique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Actuator"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Arm"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measurement sensor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cost control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Finger"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gear"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Motor drives"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gripping"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Research and development"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Humanoid robot"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Robotics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Underactuation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mechanism synthesis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mechanical system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Actuators"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Control systems"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mechanical systems"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Research and development"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Robotics"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Accionador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Brazo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Captador medida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Control costos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dedo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Engranaje"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prension"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Investigación desarrollo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Robot humanoide"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Robótica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Subaccionamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Síntesis mecanismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema mecánico"
+        },
+        "001D02D11: Robotique / Robotics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 21693964"
+}

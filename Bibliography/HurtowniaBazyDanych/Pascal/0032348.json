@@ -1,0 +1,81 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DETERMINATION OF TOTAL CARBON BY DRY COMBUSTION AND ITS RELATION TO FORMS OF SOIL NITROGEN AS MEASURED IN THE LABORATORY AND IN THE GREENHOUSE.",
+    "dc:creator": "BELO JAO",
+    "dc:date": "1971",
+    "dc:type": "Miscellaneous",
+    "dc:language": "English",
+    "dc:format": "DISS. ABSTR., U.S.A.; 1971(5), VOL. 31, NUM. 0011, P. 6374 A 6375",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODOLOGIE ANALYSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARBONE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CORRELATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AZOTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOCHIMIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANALYTICAL METHOD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "C"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOIL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CORRELATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "N"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOCHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        "001E01: Sciences de la terre / Earth sciences"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number GEODEBRGM71040564"
+}

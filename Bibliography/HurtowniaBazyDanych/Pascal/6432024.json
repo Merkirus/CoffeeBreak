@@ -1,0 +1,103 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Simulation of a 3.2 Tbit/s submarine system (80 x 40 Gbit/s) over 400 km with only 3 spans",
+    "dc:creator": "BIBAC, Ionut",
+    "dc:contributor": [
+        "Iancu, Ovidiu (Editor)",
+        "Manea, Adrian (Editor)",
+        "Cojoc, Dan (Editor)",
+        "International Society for Optical Engineering (Organiser of meeting)",
+        "Advanced topics in optoelectronics, microelectronics, and nanotechnologies. Conference (Bucharest 2002-11-21)"
+    ],
+    "dc:relation": [
+        "SPIE proceedings series -- SPIE proc. ser, pp. 430-435",
+        "Advanced topics in optoelectronics, microelectronics, and nanotechnologies (Bucharest, 21-23 November 2002)"
+    ],
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "6 p. ; 3 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amplificateur fibre optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Large bande"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Outil logiciel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transmission haut débit"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical fiber amplifiers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wide band"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Software tool"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Simulator"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High rate transmission"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Banda ancha"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Herramienta software"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simulador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simulación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transmisión alta caudal"
+        },
+        "001D04B02G: Transmission et modulation (techniques et équipements) / Transmission and modulation (techniques and equipments)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15851589"
+}

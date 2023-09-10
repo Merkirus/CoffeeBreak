@@ -1,0 +1,189 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Microchimerism and graft acceptance : Cardiac allografting with multiple donor histocompatibility antigen differences",
+    "dc:creator": [
+        "HARA, M. H",
+        "SHIBATA, K",
+        "AMEMIYA, H",
+        "YOKOI, Y",
+        "YAMAGUCHI, A",
+        "IWAYA, M",
+        "MASAKI, Y",
+        "KIMURA, H",
+        "MATSUZAKI, Y",
+        "ONITSUKA, T",
+        "KOGA, Y",
+        "SUZUKI, H",
+        "YAMASHITA, A",
+        "MIYAMOTO, M",
+        "LI, X. K",
+        "SUZUKI, S"
+    ],
+    "dc:contributor": [
+        "The Asian Transplantation Surgery (Funder/Sponsor)",
+        "The Fourth International Congress of the Asian Transplantation Surgery (4 ; Seoul 1995-08-27)"
+    ],
+    "dc:relation": [
+        "Transplantation proceedings -- Transplant. proc, CODEN TRPPA8, ISSN 0041-1345, Vol. 28 (3) , pp. 1293-1294",
+        "International Congress of the Asian Transplantation Surgery"
+    ],
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "10 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Chirurgie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transplantation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Coeur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Histocompatibilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homotransplantation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tolérance immune"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microchimérisme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surgery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transplantation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heart"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Histocompatibility"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Homotransplantation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rat"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immune tolerance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microchimerism"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cirugía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trasplantación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Corazón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Histocompatibilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Homotrasplante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tolerancia inmune"
+        },
+        "002B25E: Chirurgie cardiaque / Surgery of the heart"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3109579"
+}

@@ -1,0 +1,100 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "METHODOLOGY FOR A SURVEY OF U.S. LIBRARY BIBLIOGRAPHIC PRACTICES FOR A NATIONWIDE BIBLIOGRAPHIC NETWORK",
+    "dc:creator": [
+        "COSTELLO J",
+        "CORNOG M"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Conference Paper",
+    "dc:language": "English",
+    "dc:format": "NORTH AMERICAN NETWORKING. AMERICAN SOCIETY FOR INFORMATION SCIENCE. MID-YEAR MEETING. 8/1979-05-16/BANFF ALBERTA; CAN; DA. 1979; 1 P.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "RESEAU BIBLIOTHEQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BASE DONNEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIBLIOGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENQUETE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIBLIOTHEQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NORME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CATALOGAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COOPERATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETATS UNIS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCE INFORMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIBRARY NETWORK"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DATA BASES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIBLIOGRAPHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INQUIRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIBRARY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STANDARDS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CATALOGING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COOPERATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "UNITED STATES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFORMATION SCIENCE"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8030226408"
+}

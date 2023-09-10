@@ -1,0 +1,77 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SEX-RELATED DIFFERENCES IN DIURNIAL ACTIVITIES AND DEVELOPMENT OF HEPATIC MICROSOMAL 3-HYDROXY-3-METHYLGLUTARYL COENZYME A REDUCTASE AND CHOLESTEROL 7ALPHA -HYDROXYLASE",
+    "dc:creator": [
+        "CARLSON SE",
+        "MITCHELL AD",
+        "GOLDFARB S"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "BIOCHIM. BIOPHYS. ACTA; NLD; DA. 1978; VOL. 531; NO 1; PP. 115-124; BIBL. 49 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "FOIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENZYME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RYTHME BIOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIMORPHISME SEXUEL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RAT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RODENTIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REPRODUCTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIVER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENZYMES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOLOGICAL RHYTHM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SEXUAL DIMORPHISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RAT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RODENTIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REPRODUCTION"
+        },
+        "002A29: Vertebres: reproduction / Vertebrates: reproduction"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7950377210"
+}

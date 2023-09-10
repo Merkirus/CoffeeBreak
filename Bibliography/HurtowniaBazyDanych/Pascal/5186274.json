@@ -1,0 +1,225 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Humidity sensors based on mesoporous silica thin films synthesised by block copolymers",
+    "dc:creator": [
+        "BEARZOTTI, Andrea",
+        "BERTOLO, Johnny Mio",
+        "INNOCENZI, Plinio",
+        "FALCARO, Paolo",
+        "TRAVERSA, Enrico"
+    ],
+    "dc:contributor": [
+        "DI BARTOLOMEO, Elisabetta (Editor)",
+        "TRAVERSA, Enrico (Editor)",
+        "European Ceramic Society (Funder/Sponsor)",
+        "Ceramic Society of Japan (Funder/Sponsor)",
+        "American Ceramic Society (Funder/Sponsor)",
+        "Materials Research Society (Funder/Sponsor)",
+        "Electroceramics VIII_2002 - International Conference on Electronic Ceramics and their Applications (8 ; Rome 2002-08-25)"
+    ],
+    "dc:relation": [
+        "Journal of the European Ceramic Society -- J. Eur. Ceram. Soc, ISSN 0955-2219, Vol. 24 (6) , pp. 1969-1972",
+        "Electroceramics VIII '02, Rome, Italy: refereed reports"
+    ],
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "4 p. ; 11 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Autoassemblage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Calcination"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Capteur humidité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Copolymère séquencé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Couche mince"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffraction RX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dépôt immersion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fabrication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau poreux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mésoporosité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode en solution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Procédé sol gel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Précurseur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Préparation chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Silice"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Silicium Oxyde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectre IR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transformation Fourier"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "O Si"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SiO2"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Self-assembly"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Calcination"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Humidity sensors"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Block copolymer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thin films"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "XRD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dip coating"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fabrication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Porous materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mesoporosity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Growth from solution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sol-gel process"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrical properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Precursor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical preparation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Silica"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Silicon Oxides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infrared spectra"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fourier transformation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Copolímero secuencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mesoporosidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método en solución"
+        },
+        "001B00G07D: Capteurs (chimiques, optiques, électriques, de mouvement, de gaz, etc.); télédétection / Sensors (chemical, optical, electrical, movement, gas, etc.); remote sensing",
+        "001C01J08: Matériaux poreux / Porous materials",
+        "0707D:  / Sensors (chemical, optical, electrical, movement, gas, etc.); remote sensing"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15538825"
+}

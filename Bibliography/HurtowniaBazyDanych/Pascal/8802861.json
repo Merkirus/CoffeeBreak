@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Paul Dombey and the milk of human kindness",
+    "dc:creator": "MARKS, P",
+    "dc:relation": "Dickens quarterly -- Dickens q, ISSN 0742-5473, Vol. 11 (1) , pp. 14-25",
+    "dc:date": "1994",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Dickens Society",
+    "dc:format": [
+        "print",
+        "1 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Dickens (C.)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Libre entreprise"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Maternité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nourriture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Roman"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dombey and Son"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dickens (C.)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Free trade"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Motherhood"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Food"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Novel"
+        },
+        "523-: Histoire et sciences de la litterature / History and sciences of litterature",
+        "523-36: Histoire de la littérature / History of literature",
+        "523-288: Anonymes. Auteurs / Anonymous writers. Authors"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Angleterre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Siècle 19"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "England"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Century 19"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3724048"
+}

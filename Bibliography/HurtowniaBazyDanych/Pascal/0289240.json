@@ -1,0 +1,113 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DIE COMPLIANCE/VOLUMEN-BEZIEHUNG BEI GESUNDEN, LUNGEN FIBROSEN UND EMPHYSEMATIKERN; RAPPORT COMPLIANCE/VOLUME, CHEZ DES SUJETS EN BONNE SANTE, DES SUJETS PORTEURS D'UNE FIBROSE PULMONAIRE, ET DES SUJETS EMPHYSEMATEUX",
+    "dc:creator": [
+        "BUGALHO DE ALMEIDA AA",
+        "TELHADA G",
+        "ULMER WT"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "PRAX. KLIN. PNEUMOL.; ISSN 0342-7498; DEU; DA. 1980; VOL. 34; NO 12; PP. 739-745; ABS. ENG; BIBL. 15 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PNEUMOPATHIE INTERSTITIELLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EMPHYSEME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POUMON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPLIANCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CAPACITE VITALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MECANIQUE VENTILATOIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VOLUME PULMONAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EXPLORATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FONCTION RESPIRATOIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "APPAREIL RESPIRATOIRE PATHOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PNEUMOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTERSTITIAL PNEUMONITIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EMPHYSEMA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LUNG"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VITAL CAPACITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MECHANIC OF BREATHING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LUNG VOLUME"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXPLORATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LUNG FUNCTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RESPIRATORY DISEASE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PNEUMOLOGY"
+        },
+        "002B12: Cardiologie. Appareil circulatoire / Cardiology. Vascular system"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8110124376"
+}

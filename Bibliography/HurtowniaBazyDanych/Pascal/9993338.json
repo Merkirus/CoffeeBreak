@@ -1,0 +1,229 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Numerical simulation of the formation of short pitch corrugation",
+    "dc:creator": [
+        "MÜLLER, S",
+        "KNOTHE, K"
+    ],
+    "dc:relation": "Zeitschrift für angewandte Mathematik und Mechanik -- Z. angew. Math. Mech -- Applied mathematics and mechanics, CODEN ZAMMAX, ISSN 0044-2267, Vol. 80, pp. S53-S56",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Wiley-VCH",
+    "dc:format": [
+        "print",
+        "10 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bruit"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contact mécanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Formation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Influence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle linéaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mécanisme usure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mécanisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Paramètre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Roue écureuil"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation numérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tribologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Type"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Usure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dynamique transitoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gaufrage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Surface roulante"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Taux usure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Noise"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mechanical contact"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Formation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Influence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Linear model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wear mechanisms"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mechanism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Parameter"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Running-wheel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Numerical simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tribology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Type"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wear"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transient dynamics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Corrugation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rolling surface"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wear rate"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ruido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contacto mecánico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Formación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Influencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo lineal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mecanismo desgaste"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mecanismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Parámetro"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rueda traslación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simulación numérica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Superficie"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tribología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tipo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desgaste"
+        },
+        "001A02I01C: Simulation numérique / Numerical simulation",
+        "001B40F30P: Contact mécanique (frottement...) / Mechanical contact (friction...)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1392614"
+}

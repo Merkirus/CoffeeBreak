@@ -1,0 +1,60 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "PHOSPHATIDYL GLYCEROL IN LUNG SURFACTANT. I. SYNTHESIS IN RAT LUNG MICROSOMES",
+    "dc:creator": [
+        "HALLMAN M",
+        "GLUCK L"
+    ],
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "BIOCHEM. BIOPHYS. RES. COMMUNIC.; U.S.A.; DA. 1974; VOL. 60; NO 1; PP. 1-7; BIBL. 26REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PHOSPHATIDYLGLYCEROL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GLYCEROPHOSPHOLIPIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POUMON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RAT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MAMMALIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROSOME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOSYNTHESE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INHIBITION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOCHIMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOCHEMISTRY"
+        },
+        "002A02: Biochimie analytique, structurale et metabolique / Analytical, structural and metabolic biochemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7532003490"
+}

@@ -1,0 +1,229 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Laser ultrasonic testing for estimation of adhesion of Al2O3 plasma sprayed coatings",
+    "dc:creator": [
+        "ROSA, G",
+        "PSYLLAKI, P",
+        "OLTRA, R",
+        "MONTESIN, T",
+        "CODDET, C",
+        "COSTIL, S"
+    ],
+    "dc:contributor": "International Conference on Surface Modification Technologie (14 ; Paris 2000-09-11)",
+    "dc:relation": [
+        "Surface engineering -- Surf. eng, CODEN SUENET, ISSN 0267-0844, Vol. 17 (4) , pp. 332-338",
+        "International Conference on Surface Modification Technologie (14 ; Paris 2000-09-11)"
+    ],
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Maney",
+    "dc:format": [
+        "print",
+        "27 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Acier inoxydable"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Adhérence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Alumine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Céramique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dépôt projection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai non destructif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai ultrason"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Laser"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Projection plasma"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Projection à chaud"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Revêtement non métallique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement surface"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stainless steel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adhesion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Alumina"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ceramic materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spray coating"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Non destructive test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ultrasonic control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laser"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plasma spraying"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hot spraying"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Non metal coating"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface treatment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acero inoxidable"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adherencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alúmina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cerámica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Depósito proyección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo no destructivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo ultrasonido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Laser"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Proyección plasma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Proyección en caliente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Revestimiento no metálico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento superficie"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Nichtrostender Stahl"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Adhaesion"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Tonerde"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Keramik"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Spritzbeschichten"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Zerstoerungsfreie Pruefung"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Ultraschallpruefung"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Laser"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Plasmaspritzen"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Spritzen"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Nichtmetallischer Ueberzug"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Oberflaechenbehandlung"
+        },
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy",
+        "001D11C06E: Dépôt de matériaux non métalliques / Nonmetallic coatings"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14149786"
+}

@@ -1,0 +1,77 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "PREDICTION OF SULFIDE BUILDUP IN SANITARY SEWERS",
+    "dc:creator": [
+        "KIENOW KE",
+        "POMEROY RD",
+        "KIENOW KK"
+    ],
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. ENVIRON. ENG. DIV.; ISSN 0090-3914; USA; DA. 1982; VOL. 108; NO 5; PP. 941-956; BIBL. 17 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MODELE MATHEMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MODELE PREVISION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRODUCTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SULFURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RESEAU ASSAINISSEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLLUTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NUISANCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MATHEMATICAL MODEL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FORECAST MODEL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PRODUCTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SULFIDES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SEWER NETWORK"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLLUTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NUISANCES"
+        },
+        "001D16: Pollution / Pollution"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0033047"
+}

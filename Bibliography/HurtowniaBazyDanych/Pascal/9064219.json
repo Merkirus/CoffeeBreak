@@ -1,0 +1,79 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "L'économie chinoise en 1990-1991",
+    "dc:creator": [
+        "FABRE, G",
+        "LEMOINE, F"
+    ],
+    "dc:relation": "Le Courrier des pays de l'Est -- Courr. pays Est, ISSN 0590-0239 (364) , pp. 50-66",
+    "dc:date": "1991",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Documentation française",
+    "dc:format": [
+        "print",
+        "Illustration"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Aide au développement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Commerce extérieur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Economie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Indicateurs économiques"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Situation économique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Economic assistance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Foreign trade"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Economy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Economic indicators"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Economic position"
+        },
+        "531-327: Asie / Asia",
+        "531-335: Géographie humaine / Human geography"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Chine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "China"
+        }
+    ],
+    "dc:rights": [
+        "Bibliographie Géographique Internationale - Pôle de Recherche pour l'Organisation et la Diffusion de l'Information Géographique (PRODIG)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6554597"
+}

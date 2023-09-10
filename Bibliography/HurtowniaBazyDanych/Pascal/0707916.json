@@ -1,0 +1,66 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A SPECTROSCOPIC METHOD FOR DETERMINATION OF THE CROSS-TERM DIFFUSION COEFFICIENTS IN A THREE-COMPONENT LIQUID SYSTEM.",
+    "dc:creator": [
+        "MIKHAILOV MD",
+        "TRIFONOV AZ",
+        "TSENOV IA",
+        "ALADZHEM MA"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "PHYS. STATUS SOLIDI, A; ALLEM.; DA. 1976; VOL. 36; NO 1; PP. 391-396; ABS. ALLEM.; BIBL. 15 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "SYSTEME TERNAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIFFUSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MESURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CALCUL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE PHYSIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE GENERALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TERNARY SYSTEM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIFFUSION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MEASUREMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHYSICAL CHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENERAL CHEMISTRY"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7760186165"
+}

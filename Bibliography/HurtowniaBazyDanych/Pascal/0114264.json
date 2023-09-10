@@ -1,0 +1,77 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "CONTRIBUTION A L'ETUDE DU CHIMISME DES GAZ ERUPTIFS.",
+    "dc:creator": "LE GUERN F",
+    "dc:date": "1970",
+    "dc:type": "Miscellaneous",
+    "dc:language": "French",
+    "dc:format": "C.R. ACAD SCI., D; FRA; 1970(12), VOL. 271, NUM. 0025, P. 2262 A 2265",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE MAJEURS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GAZ"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VOLCAN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SILICE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETNA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ROCHES CRISTALLINES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MAJOR ELEMENT ANALYSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GAS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VOLCANO"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SILICA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CRYSTALLINE ROCKS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        "001E02F: Géophysique. Techniques, méthodes, appareillage et modèles / Geophysics. Techniques, methods, instrumentation and models"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number GEODEBRGM71070349"
+}

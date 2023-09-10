@@ -1,0 +1,251 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Lentivirus Vectors for Stably Introducing Genes into Mammary Epithelial Cells in Vivo",
+    "dc:creator": [
+        "WEN BU",
+        "LI XIN",
+        "TONEFF, Michael",
+        "LEI LI",
+        "YI LI"
+    ],
+    "dc:contributor": [
+        "LEWIS, Michael T (Editor)",
+        "PORTER, Weston W (Editor)"
+    ],
+    "dc:relation": "Journal of mammary gland biology and neoplasia -- J. mammary gland biol. neoplasia, ISSN 1083-3021, Vol. 14 (4) , pp. 401-404",
+    "dc:date": "2009",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "4 p. ; 9 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Cancer"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie de la glande mammaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie du sein"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Retroviridae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tumeur maligne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cancer du sein"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cellule épithéliale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Glande mammaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gynécologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "In vivo"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lentivirus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Obstétrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sein"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vecteur"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cancer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mammary gland diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Breast disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Retroviridae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Malignant tumor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Breast cancer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Epithelial cell"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mammary gland"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gynecology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gene"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "In vivo"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lentivirus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Obstetrics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Breast"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vector"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Breast cancer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lentivirus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mammary gland"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RCAS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Somatic cell"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TVA"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cáncer"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Glándula mamaria patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Seno patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Retroviridae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tumor maligno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cáncer del pecho"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Célula epitelial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Glándula mamaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ginecología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gen"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "In vivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lentivirus"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Obstétrico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Seno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vector"
+        },
+        "002B20E02: Tumeurs / Tumors"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 22348480"
+}

@@ -1,0 +1,61 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "PYRUVATE CARBOXYLATION IN LIVER MITOCHONDRIA OF THE DEVELOPING NEONATAL RAT",
+    "dc:creator": "SNELL K",
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "INTERNATION. J. BIOCHEM.; G.B.; DA. 1974; VOL. 5; NO 5-6; PP. 463-469; BIBL. 1P.1/2",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "FOIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METABOLISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PYRUVIQUE ACIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MITOCHONDRIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DEVELOPPEMENT POSTEMBRYONNAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NOUVEAU NE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RAT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RODENTIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MAMMALIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METABOLISME INTERMEDIAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORGANITE CELLULAIRE"
+        },
+        "002A14: Ecologie animale, vegetale et microbienne / Animal, plant and microbial ecology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7536505475"
+}

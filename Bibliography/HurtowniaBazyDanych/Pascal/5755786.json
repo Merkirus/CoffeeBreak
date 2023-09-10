@@ -1,0 +1,313 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Diversity and vertical distribution of mesozooplankton in the Arctic's Canada Basin",
+    "dc:creator": [
+        "KOSOBOKOVA, Ksenia N",
+        "HOPCROFT, Russell R"
+    ],
+    "dc:contributor": [
+        "BLUHM, B. A (Editor)",
+        "IKEN, K (Editor)",
+        "HOPCROFT, R. R (Editor)"
+    ],
+    "dc:relation": "Deep-sea research. Part 2. Topical studies in oceanography -- Deep-sea res., Part 2, Top. stud. oceanogr, ISSN 0967-0645, Vol. 57 (1-2) , pp. 96-110",
+    "dc:date": "2010",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "Russian",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "15 p. ; 1 p.3/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Arthropoda"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Crustacea"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Invertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mandibulata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ostracoda"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plancton"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Protista"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Zone polaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Biomasse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Coquille"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eau profonde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Faune crustacé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Faune ostracode"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Foraminifera"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Inventaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Profondeur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recyclage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Répartition verticale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Température"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Zooplancton"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Arthropoda"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Crustacea"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Invertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mandibulata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ostracoda"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "plankton"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Protista"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polar region"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "biomass"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "shells"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Deep water"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "crustaceans"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ostracods"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "foraminifera"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "inventory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "depth"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "recycling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertical distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "temperature"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "zooplankton"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arthropoda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Crustacea"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Invertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mandibulata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ostracoda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Plancton"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Zona polar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biomasa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Concha"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agua profunda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fauna crustáceo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fauna ostrácodo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Foraminifera"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inventario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Profundidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reconversión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Distribución vertical"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Temperatura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Zooplancton"
+        },
+        "001E01H: Géologie marine / Marine geology",
+        "001E01P02: Quaternaire marin et continental / Marine and continental quaternary",
+        "001E02B: Physique des océans / Physics of the oceans"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Océan Arctique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Région Polaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Arctique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bassin Canadien"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Arctic Ocean"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "polar regions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Arctic region"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Canada Basin"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Océano Ártico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ártico"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 22440406"
+}

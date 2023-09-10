@@ -1,0 +1,48 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ETUDE DU CHAUFFAGE D'UN PLASMA PAR POMPAGE MAGNETIQUE PAR DES CHAMPS ALTERNATIFS A ASYMETRIE AXIALE",
+    "dc:creator": [
+        "LAPSHIN VI",
+        "STEPANOV KN"
+    ],
+    "dc:date": "1975",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "FIZ. PLAZMY; S.S.S.R.; DA. 1975; VOL. 1; NO 6; PP. 970-978; BIBL. 15 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CHAUFFAGE PLASMA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHAUFFAGE POMPAGE MAGNETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHAMP MAGNETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHAMP ALTERNATIF"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PLASMA SANS COLLISION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE DES PLASMAS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PLASMA PHYSICS"
+        },
+        "001B30: Physique atomique et moleculaire / Atomic and molecular physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7630182145"
+}

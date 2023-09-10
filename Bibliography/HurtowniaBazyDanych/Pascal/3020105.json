@@ -1,0 +1,64 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE CRYSTAL STRUCTURE OF THE SILICOBORATE GARRELSITE, NABA3SI2B6O13(OH)7.",
+    "dc:creator": [
+        "GHOSE S",
+        "HORST HU"
+    ],
+    "dc:date": "1972",
+    "dc:type": "Serial Issue",
+    "dc:language": "English",
+    "dc:format": "GEOL. SOC. AMER., ABSTR. PROGRAMS; USA; 1972, VOL. 4, NUM. 0007, P. 516",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "STRUCTURE CRISTALLINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DUMORTIERITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GARRELSITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MINERALOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CRYSTAL STRUCTURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DUMORTIERITE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MINERALOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        "001E01: Sciences de la terre / Earth sciences"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALGEODEBRGM7520090554"
+}

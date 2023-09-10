@@ -1,0 +1,112 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "MILLIMETER-WAVE CW IMPATT DIODES AND OSCILLATORS",
+    "dc:creator": [
+        "MIDFORD TA",
+        "BERNICK RL"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "I.E.E.E. TRANS. MICROWAVE THEORY TECH.; USA; DA. 1979; VOL. 27; NO 5; PP. 483-492; BIBL. 21 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DIODE IMPATT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OSCILLATEUR HYPERFREQUENCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ONDE MILLIMETRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FABRICATION MICROELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE FONCTIONNEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COURANT CONTINU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OSCILLATEUR ETAT SOLIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SILICIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONCEPTION CIRCUIT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENCAPSULATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ONDE ENTRETENUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IMPATT DIODE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROWAVE OSCILLATOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MILLIMETRIC WAVE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROELECTRONIC FABRICATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPERATION STUDY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIRECT CURRENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID STATE OSCILLATOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SILICON"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CIRCUIT DESIGN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONTINUOUS WAVE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONICS"
+        },
+        "001D03: Electronique / Electronics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8030208755"
+}

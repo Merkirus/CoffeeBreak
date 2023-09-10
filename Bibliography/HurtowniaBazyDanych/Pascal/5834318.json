@@ -1,0 +1,189 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Change and the impact on serials staff",
+    "dc:creator": [
+        "SULLIVAN, G",
+        "DARLING, K",
+        "KARA, B",
+        "HARRIS, J"
+    ],
+    "dc:contributor": [
+        "SHEBLE, Mary Ann (Editor)",
+        "HOLLEY, Beth (Editor)",
+        "North American Serials Interest Group NASIG (Funder/Sponsor)",
+        "North American Serials Interest Group, Inc. NASIG. Annual Conference (10 ; Durham, NC 1995-06-01)"
+    ],
+    "dc:relation": [
+        "The Serials librarian -- Ser. libr, CODEN SELID4, ISSN 0361-526X, Vol. 28 (3-4) , pp. 297-304",
+        "Serials to the tenth power: tradition, technology, and transformation. Part II"
+    ],
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Haworth Press",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Edition électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Accès à distance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Activité professionnelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bibliothèque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bibliothécaire spécialisé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude comparative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evolution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Perspective"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Périodique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONSER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic publishing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Remote access"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Professional activity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Library"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Special librarian"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Evolution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Perspective"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Periodical"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Edición electrónica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acceso remoto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Actividad profesional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biblioteca"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bibliotecario especializado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio comparativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evolución"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Perspectiva"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Periódico"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation",
+        "001A01A04: Aspects professionnels / Professional aspects",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-B: Sciences de l'information et des bibliothèques. Etude d'ensemble / Library and information science. General aspects"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats Unis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estados Unidos"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2474689"
+}

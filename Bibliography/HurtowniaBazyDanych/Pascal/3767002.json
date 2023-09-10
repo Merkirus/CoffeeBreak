@@ -1,0 +1,137 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "L'ESTUAIRE DE LA SEINE. (2 VO UMES ET UN ATLAS).",
+    "dc:creator": "LENNIER G",
+    "dc:date": "1885",
+    "dc:type": "Book",
+    "dc:language": "French",
+    "dc:format": "IMP.DU.JOURNAL-LE.HAVRE.; 1885, P. 1 A 560",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MONOGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ESTUAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALLUVION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SEDIMENTATION ESTUAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PLAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FALAISE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SEINE MARITIME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LA-SEINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOMORPHOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FORMATION SUPERFICIELLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PEDOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BASSIN PARISIEN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FRANCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EUROPE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MONOGRAPH"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ESTUARY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ALLUVIUM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ESTUARINE SEDIMENTATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BEACH"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CLIFF"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SEINE MARITIME"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOMORPHOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SUPERFICIAL GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOIL SCIENCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        "001E01N: Hydrologie. Hydrogéologie / Hydrology. Hydrogeology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number GEODEBRGMFR1818147"
+}

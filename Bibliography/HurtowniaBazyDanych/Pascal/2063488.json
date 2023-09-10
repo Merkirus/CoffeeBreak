@@ -1,0 +1,92 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "MECHANISM OF THE GLUCOCORTICOID-INDUCED INCREASE IN GLOMERULAR FILTRATION RATE.",
+    "dc:creator": [
+        "BAYLIS C",
+        "BRENNER BM"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "AMER. J. PHYSIOL., RENAL FLUID ELECTROLYTE PHYSIOL.; U.S.A.; DA. 1978; VOL. 3; NO 2; PP. 166-170; BIBL. 14 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "METHYLPREDNISOLONE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACTIVITE BIOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FILTRATION GLOMERULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RAT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MAMMALIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RODENTIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FONCTION RENALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HORMONE STEROIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GLUCOCORTICOIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENDOCRINOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METHYLPREDNISOLONE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOLOGICAL ACTIVITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GLOMERULAR FILTRATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RAT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RENAL FUNCTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STEROID HORMONE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GLUCOCORTICOID"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENDOCRINOLOGY"
+        },
+        "002A29: Vertebres: reproduction / Vertebrates: reproduction"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7850429560"
+}

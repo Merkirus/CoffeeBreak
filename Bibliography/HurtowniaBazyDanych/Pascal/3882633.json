@@ -1,0 +1,41 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "NOTES SUR LES LARVES DE DYTISCIDAE.",
+    "dc:creator": "BERTRAND H",
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "NOUV. REV. ENTOMOL.; FR.; DA. 1976; VOL. 6; NO 1; PP. 71-78; BIBL. 14 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "LARVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MILIEU DULCAQUICOLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INSECTA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COLEOPTERA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INVERTEBRATA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DYTISCIDAE"
+        },
+        "002A14: Ecologie animale, vegetale et microbienne / Animal, plant and microbial ecology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7650218121"
+}

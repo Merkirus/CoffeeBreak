@@ -1,0 +1,62 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Algèbres différentielles et symétries de jauge pour la supergravité en dimensions d'espace-temps quatre et deux",
+    "dc:creator": "Bellon, Marc",
+    "dc:contributor": [
+        "Levy, Maurice (Advisor (for a thesis or dissertation))",
+        "Université de Paris 06 (Degree-grantor)"
+    ],
+    "dc:date": "1988",
+    "dc:type": [
+        "Text",
+        "Thesis"
+    ],
+    "dc:identifier": [
+        "NNT 88 PA06 6058",
+        "Inist-CNRS record number 133206"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "160 p. ; 31 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Supergravité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Symétrie jauge"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Supercorde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Symétrie BRST"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Supergravity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gauge symmetry"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Supergravedad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simetría galga"
+        },
+        "001B00D65: Supergravité / Supergravity"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

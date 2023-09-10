@@ -1,0 +1,303 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Analysis of tetracycline antibiotics in soil : Advances in extraction, clean-up, and quantification",
+    "dc:creator": [
+        "O'CONNOR, Seamus",
+        "AGA, Diana S"
+    ],
+    "dc:contributor": "BARCELO, Damià (Editor)",
+    "dc:relation": "TrAC. Trends in analytical chemistry (Regular ed.) -- TrAC, Trends anal. chem. (Regul. ed.), ISSN 0165-9936, Vol. 26 (6) , pp. 456-465",
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "10 p. ; 63 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse quantitative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse trace"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Antibiotique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Article synthèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chromatographie phase liquide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dégradation biologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet matrice"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Empreinte moléculaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enrichissement chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Environnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Extraction SPE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode couplée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Préparation échantillon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résidu"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectrométrie masse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure moléculaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tétracycline"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quantitative analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Trace analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antibiotic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Review"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Liquid chromatography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biodegradation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Matrix effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Molecular imprinting"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical enrichment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Solid phase extraction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Coupled method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polymer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sample preparation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Residue"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Soils"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mass spectrometry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Molecular structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tetracycline"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Clean-up"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Detection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Extraction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MIP"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Molecularly-imprinted polymer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quantification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SPE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Soil"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Solid-phase extraction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tetracycline antibiotic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Unknown identification"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis cuantitativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis huella"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antibiótico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Artículo síntesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cromatografía fase líquida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Degradación biológica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efecto matriz"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Huella molecular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enriquecimiento químico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio ambiente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Extracción SPE"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método acoplado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polímero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Preparación muestreo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resíduo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Suelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Espectrometría masa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estructura molecular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tetraciclina"
+        },
+        "001C04B02: Autres méthodes chromatographiques / Other chromatographic methods",
+        "001C04C: Méthodes spectrométriques et optiques / Spectrometric and optical methods",
+        "001D16E: Pollution globale de l'environnement / Global environmental pollution"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18929723"
+}

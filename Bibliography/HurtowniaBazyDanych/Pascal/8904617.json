@@ -1,0 +1,133 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Un outil à plusieurs fonctions découvert à Leffonds (Haute-Marne), lieu-dit La Combe aux Lièvres; A multifunction tool found in Leffonds (Haute-Marne), locality La Combe aux Lièvres",
+    "dc:creator": "AMIOT, C",
+    "dc:relation": "Préhistoire et protohistoire en Champagne Ardenne -- Préhist. protohist. Champagne Ardenne, ISSN 0184-4865 (23) , pp. 3-6",
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Association d'études préhistoriques et protohistoriques de Champagne-Ardenne",
+    "dc:format": [
+        "print",
+        "6 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Couteau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Débitage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fonction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grattoir"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Industrie lithique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Morphologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Outil"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Racloir"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Knife"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Debitage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Function"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Scraper"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lithic industry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Morphology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tool"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Side scraper"
+        },
+        "525-: Prehistoire et protohistoire / Prehistory and protohistory",
+        "525-46: Europe / Europe",
+        "525-52: Paléolithique inférieur et moyen / Lower and middle palaeolithic"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Haute-Marne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "La Combe aux Lièvres"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Leffonds"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Paléolithique inférieur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Paléolithique moyen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Haute-Marne"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lower Palaeolithic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Middle Palaeolithic"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2023586"
+}

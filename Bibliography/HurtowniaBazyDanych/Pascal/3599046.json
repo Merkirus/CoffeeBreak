@@ -1,0 +1,49 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "BREVET DISPOSITIF POUR DEPLACER UN OUTIL PAR RAPPORT A UNE PIECE A USINER.",
+    "dc:creator": "INOUE-JAPAX RESEARCH INCORPORATED",
+    "dc:date": "1978",
+    "dc:type": "Patent",
+    "dc:language": "French",
+    "dc:format": "; FRA; DA. 1978-06-30; FR/A1/2.369.052; DEP.77-32786/1977-10-28; PR. JP/130.317-76/1976-10-28",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "USINAGE ELECTROCHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MACHINE D'USINAGE ELECTROCHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMMANDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRODE OUTIL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROCHEMICAL MACHINING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONTROL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METALLURGY"
+        },
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7900000213"
+}

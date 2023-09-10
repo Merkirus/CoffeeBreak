@@ -1,0 +1,112 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "STRAHLABLENKUNG BEIM VERBINDEN UNTERSCHIEDLICHER METALLE MIT DEM ELEKTRONENSTRAHL; BEAM DEFLECTION DURING JOINING DISSIMILAR METALS WITH THE ELECTRON BEAM",
+    "dc:creator": [
+        "NEUBERT G",
+        "PINKERNELLE R"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "ZIS-MITT.; DDR; DA. 1980-01; VOL. 22; NO 1; PP. 40-45; BIBL. 4 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "SOUDAGE FAISCEAU ELECTRON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROFONDEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DEFAUT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHOIX MATERIAU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACCOSTAGE PIECE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TEMPERATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHAMP MAGNETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALLIAGE2 AL:>50 MG:3-5"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACIERNA C:0,1-0,23 CR NI"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NICHTARTGLEICHE WERKSTOFFE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MAGNETFELD"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STREUUNG"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALMG 5"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ST 38B-2"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRON BEAM WELDING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DEPTH"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DEFECT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MATERIAL SELECTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FIT UP"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TEMPERATURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MAGNETIC FIELD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METALLURGY"
+        },
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8300174578"
+}

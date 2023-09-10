@@ -1,0 +1,44 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "PROGRAMMABLAUF UND EINSATZERFAHRUNGEN BEIM AUTOMATISCHEN ERSTELLEN VON DETAILZEICHNUNGEN MIT KLEINRECHNERN; DEROULEMENT DU PROGRAMME ET EXPERIENCE ACQUISE CONCERNANT L'ETABLISSEMENT AUTOMATIQUE DES DESSINS DE DETAILS AVEC UN PETIT ORDINATEUR",
+    "dc:creator": [
+        "VOGEL FO",
+        "WESSEL HJ"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "INDUSTR.-ANZ.; DTSCH.; DA. 1976; VOL. 98; NO 10; PP. 163-166; BIBL. 2REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DESSIN INDUSTRIEL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DESSIN AUTOMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORDINATEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMMANDE NUMERIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUSTRIE MECANIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MECHANICAL ENGINEERING"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7689005579"
+}

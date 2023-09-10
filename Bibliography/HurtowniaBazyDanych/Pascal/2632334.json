@@ -1,0 +1,109 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "REPLICATION PROCESS OF THE PARVOVIRUS H-1. VI. CHARACTERIZATION OF A REPLICATION TERMINUS OF H-1. REPLICATIVE-FERM DNA.",
+    "dc:creator": "RHODE SL III",
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. VIROL.; U.S.A.; DA. 1977; VOL. 21; NO 2; PP. 694-712; BIBL. 28 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PARVOVIRUS H1"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ADN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FORME REPLICATIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REPLICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENDONUCLEASE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROPHORESE GEL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CYCLE DEVELOPPEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CULTURE CELLULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VIRUS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORIGINE ANIMALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORIGINE HUMAINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROBIOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PARVOVIRUS H1"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REPLICATIVE FORM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REPLICATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENDONUCLEASE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEL ELECTROPHORESIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIFE CYCLE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CELL CULTURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VIRUS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANIMAL ORIGIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN ORIGIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROBIOLOGY"
+        },
+        "002B05: Pathologie infectieuse / Infectious diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7750264686"
+}

@@ -1,0 +1,72 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Le Massif Central : la fin d'une idée",
+    "dc:creator": "JAMOT, C",
+    "dc:date": "1991",
+    "dc:type": [
+        "Text",
+        "Book Chapter"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Université Blaise Pascal, CERAMAC",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Concept"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enseignement de la géographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epistémologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Manuel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Concept"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Teaching of geography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Epistemology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Handbook"
+        },
+        "531-153: Europe / Europe",
+        "531-194: Auvergne. Limousin. Ensemble du Massif Central / Auvergne. Limousin. Massif Central"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Massif Central"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Massif Central"
+        }
+    ],
+    "dc:rights": [
+        "Bibliographie Géographique Internationale - Pôle de Recherche pour l'Organisation et la Diffusion de l'Information Géographique (PRODIG)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6565350"
+}

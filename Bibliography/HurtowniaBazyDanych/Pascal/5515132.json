@@ -1,0 +1,207 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "FOPSESPI for non- destructive evaluation (NDE) of composites",
+    "dc:creator": [
+        "MURUKESHAN, V. M",
+        "MALHOTRA, S. K",
+        "ASUNDI, A"
+    ],
+    "dc:contributor": [
+        "Baaklini, George Y (Editor)",
+        "Lebowitz, Carol A (Editor)",
+        "Boltz, Eric S (Editor)",
+        "International Society for Optical Engineering (Organiser of meeting)",
+        "Nondestructive evaluation of aging materials and composites. Conference (3 ; Newport Beach CA 1999-03-03)"
+    ],
+    "dc:relation": [
+        "SPIE proceedings series -- SPIE proc. ser, pp. 260-268",
+        "Nondestructive evaluation of aging materials and composites III (Newport Beach CA, 3-5 March 1999)"
+    ],
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "16 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Défaut surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Délaminage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Déphasage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai non destructif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fibre verre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interférométrie speckle électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau composite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau fibre unidirectionnelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mesure optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mesure sans contact"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plastique renforcé fibre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rupture fibre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stratifié"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface defect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Delamination"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phase shift"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Non destructive test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Glass fiber"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic speckle interferometry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Composite material"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Unidirectional fiber material"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical measurement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Non contact measurement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fibre reinforced plastics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fibre fracture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laminate"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Defecto superficie"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Delaminación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Defasaje"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo no destructivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fibra vidrio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interferometria especkle electrónica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Material compuesto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Material fibra unidireccional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medida óptica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medida sin contacto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Plástico reforzado fibra"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ruptura fibra"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estratificado"
+        },
+        "001D10A05D: Analyse et structure / Analysis and structure"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1823629"
+}

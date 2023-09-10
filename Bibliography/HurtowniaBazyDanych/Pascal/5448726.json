@@ -1,0 +1,127 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Etude du Comportement Sismique d'un Râtelier de Stockage d'Assemblages Combustibles Usés en Piscine; Seismic Behaviour Study of a Spent Fuel Storage Rack in pool",
+    "dc:creator": "Moudrik, Rachid",
+    "dc:contributor": [
+        "Gibert, R.-J (Advisor (for a thesis or dissertation))",
+        "Université d'Evry Val d'Essonne (Degree-grantor)"
+    ],
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Thesis"
+    ],
+    "dc:identifier": [
+        "NNT 96 EVRY 0034",
+        "Inist-CNRS record number 177420"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "263 p. ; 94 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse sismique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Centrale nucléaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Combustible irradié"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Combustible nucléaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Intégrité structure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Piscine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stockage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Seismic analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nuclear power plant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Irradiated nuclear fuel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nuclear fuel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Structure integrity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Swimming pool"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Storage"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis sísmico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Central nuclear"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Combustible irradiado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Combustible nuclear"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Integridad estructura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Piscina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Almacenamiento"
+        },
+        "001D06: Energie / Energy",
+        "001D06D04D: Centrales nucléaires à fission / Fission nuclear power plants"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

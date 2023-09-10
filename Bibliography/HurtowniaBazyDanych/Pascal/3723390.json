@@ -1,0 +1,90 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "EXPOSITION ACCIDENTELLE AU FROID EN PLONGEE PROFONDE",
+    "dc:creator": [
+        "BOUTELIER CH",
+        "SUSBIELLE G",
+        null,
+        "CENTRE NATIONAL POUR L'EXPLOITATION DES OCEANS/PARIS/FRA/(PATR.)"
+    ],
+    "dc:date": "1981",
+    "dc:type": "Conference Proceedings",
+    "dc:language": "French",
+    "dc:format": "; FRA; DA. 1981; CNEXO/802195; 250 P.; 30 CM",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CONGRES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PLONGEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FROID"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PREVENTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROTECTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SAUVETAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ERGONOMIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PARIS 80"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONGRESS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIVING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COLD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PREVENTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PROTECTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RESCUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ERGONOMICS"
+        },
+        "002A14: Ecologie animale, vegetale et microbienne / Animal, plant and microbial ecology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8110515837"
+}

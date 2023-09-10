@@ -1,0 +1,73 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "URETERAL DIVERTICULUM",
+    "dc:creator": "LAWHON NC",
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "SOUTH. MED. J. (BIRM.); ISSN 0038-4348; USA; DA. 1980; VOL. 73; NO 9; PP. 1283-1284; BIBL. 5 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DIVERTICULE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "URETERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "UROGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VOIE INTRAVEINEUSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VOIE URINAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PATHOLOGIE URINAIRE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIVERTICULUM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "URETER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "UROGRAPHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTRAVENOUS ADMINISTRATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "URINARY TRACT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "URINARY TRACT DISEASES"
+        },
+        "002B14: Nephrologie. Maladies des voies urinaires / Nephrology. Urinary tract diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8110185993"
+}

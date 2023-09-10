@@ -1,0 +1,84 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ULTRASONIC DOPPLER VELOCIMETER USING CROSS-BISPECTRAL ANALYSIS",
+    "dc:creator": [
+        "SATO T",
+        "SASAKI O"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "ULTRASON. IMAG.; USA; DA. 1979; VOL. 1; NO 2; PP. 144-153; BIBL. 5 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPAGATION ONDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ULTRASON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EFFET DOPPLER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE SPECTRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RAPPORT SIGNAL BRUIT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VITESSE PROPAGATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "APPAREIL MESURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACOUSTIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PROPAGATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ULTRASOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DOPPLER EFFECT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SPECTRUM ANALYSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SIGNAL-TO-NOISE RATIO"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PROPAGATION VELOCITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MEASURING INSTRUMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ACOUSTICS"
+        },
+        "001B: Physique / Physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7930461511"
+}

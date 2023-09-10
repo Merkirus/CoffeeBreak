@@ -1,0 +1,48 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ETUDE AU MICROSCOPE ELECTRONIQUE A BALAYAGE DE CELLULES NORMALES OU CANCEREUSES FIXEES ET DESHYDRATEES PAR DIFFERENTES METHODES",
+    "dc:creator": [
+        "HEINEN E",
+        "PIERARD G"
+    ],
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "BULL. ASS. ANATOMISTES; FR.; DA. 1974; VOL. 58; NO 161; PP. 323-328; ABS. ANGL.; BIBL. 3REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "FIBROBLASTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POULET"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CULTURE CELLULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROSCOPIE ELECTRONIQUE BALAYAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ULTRASTRUCTURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EMBRYON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE ETUDE"
+        },
+        "002A14: Ecologie animale, vegetale et microbienne / Animal, plant and microbial ecology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7536501049"
+}

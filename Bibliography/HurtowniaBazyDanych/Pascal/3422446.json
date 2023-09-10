@@ -1,0 +1,54 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "X-RAY CINEMATOGRAPHIC ANALYSIS OF LORDOSIS IN FEMALE RATS",
+    "dc:creator": [
+        "PFAFF DW",
+        "DIAKOW C",
+        "MONTGOMEY M",
+        "JENKIN FA JR"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. COMP. PHYSIOL. PSYCHOL.; USA; DA. 1978; VOL. 92; NO 5; PP. 937-941; BIBL. 14 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPORTEMENT SEXUEL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MAMMALIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RODENTIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REPRODUCTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SEXUAL BEHAVIOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MAMMALIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RODENTIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REPRODUCTION"
+        },
+        "002A29: Vertebres: reproduction / Vertebrates: reproduction"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7950488148"
+}

@@ -1,0 +1,109 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "BIOCHEMICAL SUPPRESSION OF TUMOR VIRUS ACTIVITY",
+    "dc:creator": [
+        "GREEN M",
+        "GERARD GF",
+        "GRANDGENETT DP",
+        "GURGO C",
+        "RANKIN AM",
+        "GREEN MR",
+        "CASSELL DM"
+    ],
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "CANCER; U.S.A.; DA. 1974; VOL. 34; NO 4 SUPPL.; PP. 1427-1438; BIBL. 16 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "VIRUS MYELOBLASTOSE AVIAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ADN NUCLEOTIDYLTRANSFERASE ARN DEPENDANTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INHIBITION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RIFAMYCINE DERIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AMINE POLYCYCLIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLYNUCLEOTIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACTIVITE BIOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANTIBIOTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANTIVIRAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INACTIVATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MECANISME ACTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VIRUS A ADN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VIRUS LEUCOSE AVIAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VIRUS A ARN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSFERASE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENZYME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANTICANCEREUX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VIRUS ONCOGENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IN VITRO"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROBIOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROBIOLOGY"
+        },
+        "002B05: Pathologie infectieuse / Infectious diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7534012620"
+}

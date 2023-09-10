@@ -1,0 +1,235 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Création d'une consultation spécialisée dans la prise en charge de traumatisme psychique au sein d'un Hôpital d'instruction des armées; A CONSULTATION SPECIALIZED IN TAKING OVER PSYCHICAL TRAUMAS INSIDE A MILITARY HOSPITAL HAS BEEN CREATED",
+    "dc:creator": [
+        "SOUPIZET, E",
+        "CAILLET, L"
+    ],
+    "dc:contributor": "Journée Psychiatrie (2009-12-09)",
+    "dc:relation": [
+        "Médecine et armées -- Méd. armées, CODEN MDARC4, ISSN 0300-4937, Vol. 39 (2) , pp. 137-141",
+        "Journée Psychiatrie (2009-12-09)"
+    ],
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "ECPAD",
+    "dc:format": [
+        "print",
+        "5 p. ; 2 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble anxieux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Armée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conduite à tenir"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet psychologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etat de stress posttraumatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hôpital"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Instruction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu militaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Militaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Médecine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé publique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stress"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traumatisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Urgence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Consultation spécialisée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prise en charge"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Consultation spécialisée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stress post-traumatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Urgence médico-psychologique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Anxiety disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Army"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Clinical management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Psychological effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Posttraumatic stress disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hospital"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Instruction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Military environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Military"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Medicine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stress"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Trauma"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Emergency"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno ansiedad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ejército"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Actitud médica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efecto psicológico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno de estrés posttraumático"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hospital"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Instrucción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio militar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Militar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medicina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud pública"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estrés"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Traumatismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Urgencia"
+        },
+        "002B01: Generalites / General aspects",
+        "002B18C08D: Etat de stress posttraumatique / Post-traumatic stress disorder",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry",
+        "770-D03H04: Etat de stress posttraumatique / Post-traumatic stress disorder"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 24046370"
+}

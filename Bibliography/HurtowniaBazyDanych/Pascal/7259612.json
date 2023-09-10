@@ -1,0 +1,123 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Identification of acute toxicity sources in produced water",
+    "dc:creator": [
+        "JOHNSEN, S",
+        "SMITH, A. T",
+        "BRENDEHAUG, J"
+    ],
+    "dc:contributor": [
+        "Society of Petroleum Engineers (Funder/Sponsor)",
+        "The Second International Conference on health, safety & environment in oil & gas exploration & production (Djakarta 1994-01-25)"
+    ],
+    "dc:relation": "The Second International Conference on health, safety & environment in oil & gas exploration & production",
+    "dc:date": "1994",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:format": [
+        "print",
+        "vol. 1, 383-390 ; 21 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé aromatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dégradation biologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phénols"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pollution eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Toxicité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eau produite"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aromatic compound"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biodegradation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phenols"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water pollution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Toxicity"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Compuesto aromático"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Degradación biológica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fenoles"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contaminación agua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Toxicidad"
+        },
+        "001D06: Energie / Energy",
+        "001D06B02H: Pollution due à la production, au transport et au traitement du pétrole et des schistes bitumineux. Pollution des eaux et des sols. Traitements. Lutte contre la pollution / Pollution caused by production, transportation and treatment of oil and oil shales. Water and soil pollution. Treatments. Pollution control"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Mer du Nord"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North Sea"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mar del Norte"
+        }
+    ],
+    "dc:rights": [
+        "Institut Français du Pétrole et des Energies Nouvelles (IFP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6401980"
+}

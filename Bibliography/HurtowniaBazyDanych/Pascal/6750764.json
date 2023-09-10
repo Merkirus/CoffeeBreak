@@ -1,0 +1,129 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Incremental Type-Checking for Type-Reflective Metaprograms",
+    "dc:creator": [
+        "WEIYU MIAO",
+        "SIEK, Jeremy"
+    ],
+    "dc:contributor": [
+        "Association for Computing Machinery (ACM) (Organiser of meeting)",
+        "Conference on Generative Programming and Component Engineering (GPCE'10) (9 ; Eindhoven 2010-10-10)"
+    ],
+    "dc:relation": [
+        "ACM SIGPLAN notices -- ACM SIGPLAN not, ISSN 1523-2867, Vol. 46 (2) , pp. 167-176",
+        "Proceedings of the 2010 Conference on GENERATIVE PROGRAMMING AND COMPONENT ENGINEERING (GPCE'10)"
+    ],
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Association for Computing Machinery",
+    "dc:format": [
+        "print",
+        "10 p. ; 20 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Lambda calcul"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métaprogrammation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Programmation générique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Typage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Type donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vérification programme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lambda calculus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metaprogramming"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Generic programming"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Typing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Data type"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Program verification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Languages"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "gradual typing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "metaprogramming"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "type reflection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "type systems"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lambda cálculo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metaprogramación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Programación genérica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tipificación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tipo dato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Verificación programa"
+        },
+        "001D02B02: Langages de programmation / Programming languages",
+        "001D02B09: Génie logiciel / Software engineering",
+        "001D02B10: Performances des systèmes informatiques. Fiabilité / Computer systems performance. Reliability"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 23969595"
+}

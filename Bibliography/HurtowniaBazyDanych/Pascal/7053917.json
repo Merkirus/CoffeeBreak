@@ -1,0 +1,302 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Quality and technological yield of PSE (pale, soft, exudative)-, acid- and normal pork",
+    "dc:creator": [
+        "KOCWIN-PODSIADLA, M",
+        "PRZYBYLSKI, W",
+        "KACZOREK, S",
+        "KRZECIO, E"
+    ],
+    "dc:contributor": "Annual Meeting of European Academy of Nutritional Sciences (Warsaw 1997-09-12)",
+    "dc:relation": [
+        "Polish journal of food and nutrition sciences -- Pol. j food nutr. sci, ISSN 1230-0322, Vol. 7 (2) , pp. 217-222",
+        "New concepts in lipid nutrition"
+    ],
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Institute of Animal Reproduction",
+        "Polish Academy of Sciences"
+    ],
+    "dc:format": [
+        "print",
+        "20 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Artiodactyla"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Produit carné"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ungulata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ATP"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Acidité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Animal à viande"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Capacité rétention eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Couleur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cuisson"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude comparative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Génotype"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métabolisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Porc"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété physicochimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Qualité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rendement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Salage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Viande exsudative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Viande porc"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "pH"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Artiodactyla"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Meat product"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ungulata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ATP"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Acidity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Meat animals"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water holding capacity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Color"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cooking"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Genotype"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metabolism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pig"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Physicochemical properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Yield"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Curing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pale soft exudative meat"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pork"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "pH"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Artiodactyla"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Producto de carne"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ungulata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "ATP"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acidez"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Animales de carne"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Capacidad retención agua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Color"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cocción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio comparativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Genotipo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metabolismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cerdo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad fisicoquímica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Calidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rendimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Saladura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carne PSE"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carne cerdo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "pH"
+        },
+        "002A35B05: Industries de la viande et des produits carnés / Meat and meat product industries",
+        "002A36C03: Vertébrés / Vertebrates"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2274375"
+}

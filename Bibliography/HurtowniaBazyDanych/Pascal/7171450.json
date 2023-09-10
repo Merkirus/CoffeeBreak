@@ -1,0 +1,194 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Apport de l'hémovigilance à la sécurité immunologique des transfusions sanguines : bilan après 3 ans; Contribution of haemovigilance to immunological safety of blood transfusions : assessment after 3 years",
+    "dc:creator": [
+        "ROUGER, P",
+        "HERGON, E"
+    ],
+    "dc:contributor": "Congrès national de sécurité transfusionnelle et d'hémovigilance (2 ; Bordeaux 1997-11-06)",
+    "dc:relation": [
+        "Transfusion clinique et biologique (Paris) -- Transfus. clin. biol. (Paris), ISSN 1246-7820, Vol. 5 (3) , pp. 219-224",
+        "Congrès national de sécurité transfusionnelle et d'hémovigilance"
+    ],
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "9 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Assurance qualité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Constituant sang"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Groupe sanguin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunohématologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Organisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prévention"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sang"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système ABO(H)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sécurité transfusionnelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transfusion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hémovigilance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quality assurance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Blood product"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Blood group"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immunohematology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Organization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prevention"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Blood"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ABO(H)-System"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transfusion safety"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transfusion"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aseguración calidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Constituyente sanguíneo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Grupo sanguíneo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunohematología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Organización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prevención"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sangre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema ABO(H)"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Seguridad de la transfusión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transfusión"
+        },
+        "002B27D01: Sang. Succédanés du sang et du plasma. Constituants du sang. Cellules sanguines. Groupage sanguin. Plasmaphérèse. Aphérèse / Blood. Blood and plasma substitutes. Blood products. Blood cells. Blood typing. Plasmapheresis. Apheresis"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francia"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2300755"
+}

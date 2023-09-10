@@ -1,0 +1,280 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A randomized, 12-week, double-blind, placebo-controlled study comparing formoterol dry powder inhaler with albuterol metered-dose inhaler",
+    "dc:creator": [
+        "BENSCH, George",
+        "LAPIDUS, Robert J",
+        "LEVINE, Bernard E",
+        "LUMRY, William",
+        "YEGEN, Omit",
+        "KISELEV, Pavel",
+        "DELLA CIOPPA, Giovanni"
+    ],
+    "dc:contributor": [
+        "American College of Allergy, Asthma & Immunology (Funder/Sponsor)",
+        "American College of Allergy, Asthma & Immunology. Annual meeting (Seattle 2000-11-03)"
+    ],
+    "dc:relation": [
+        "Annals of allergy, asthma, & immunology -- Ann. allergy asthma immunol, ISSN 1081-1206, Vol. 86 (1) , pp. 19-27",
+        "American College of Allergy, Asthma & Immunology. Annual meeting"
+    ],
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "American College of Allergy, Asthma, & Immunology",
+    "dc:format": [
+        "print",
+        "24 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil respiratoire pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bronchopneumopathie obstructive"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunopathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Agoniste"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Allergie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Antiasthmatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Asthme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aérosol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bronchodilatateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chimiothérapie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Efficacité traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude comparative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude double insu"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Formotérol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Inhalation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Randomisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Récepteur β2-adrénergique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stimulant β-adrénergique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Respiratory disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Obstructive pulmonary disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immunopathology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Agonist"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Allergy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antiasthma agent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asthma"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aerosols"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bronchodilator"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemotherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment efficiency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Double blind study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Formoterol"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inhalation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Randomization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "β2-Adrenergic receptor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "β-Adrenergic receptor agonist"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato respiratorio patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Broncopneumopatía obstructiva"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunopatología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agonista"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alergia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agente antiasma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aerosol"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Broncodilatador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Quimioterapia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Eficacia tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio comparativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio doble ciego"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Formoterol"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inhalación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aleatorización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Receptor β2-adrenérgico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estimulante β-adrenérgico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        "002B02J: Histamine et antagonistes. Allergie / Histamine and antagonists. Allergy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 877853"
+}

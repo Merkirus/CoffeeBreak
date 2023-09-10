@@ -1,0 +1,65 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "APPROXIMATION METHODS AND ALTERNATIVE PROBLEMS.",
+    "dc:creator": "REDDIEN GW",
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. MATH. ANAL. APPL.; U.S.A.; DA. 1977; VOL. 60; NO 1; PP. 139-149; BIBL. 9 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "EQUATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EQUATION OPERATEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EQUATION NON LINEAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROBLEME 2 POINTS LIMITES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE NUMERIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATHEMATIQUES APPLIQUEES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EQUATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPERATOR EQUATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NON LINEAR EQUATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TWO POINTS BOUNDARY PROBLEM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NUMERICAL ANALYSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "APPLIED MATHEMATICS"
+        },
+        "001A02: Mathematiques / Mathematics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7830016418"
+}

@@ -1,0 +1,45 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DIE FRAKTIONIERTE BESTIMMUNG DER N-AZETYLNEURAMIN-SAEURE",
+    "dc:creator": "KUNSTMANN FW",
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "DTSCH. GESUNDHEITSWES.; ISSN 0012-0219; DDR; DA. 1980; VOL. 35; NO 42; PP. 1685-1688; ABS. RUS/ENG; BIBL. 9 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DOSAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATERIEL BIOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NEURAMINIQUE ACIDE(N-ACETYL)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOCHIMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANALYTICAL DETERMINATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOLOGICAL MATERIAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOCHEMISTRY"
+        },
+        "002A02: Biochimie analytique, structurale et metabolique / Analytical, structural and metabolic biochemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8110171609"
+}

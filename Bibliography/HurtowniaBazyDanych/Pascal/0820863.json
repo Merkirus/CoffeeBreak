@@ -1,0 +1,68 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "AN ENERGY-CROP GROWTH VARIABLE AND TEMPERATURE FUNCTION FOR PREDICTING CORN GROWTH AND DEVELOPMENT: PLANTING TO SILKING",
+    "dc:creator": [
+        "COELHO DT",
+        "DALE RF"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "AGRON. J.; USA; DA. 1980; VOL. 72; NO 3; PP. 503-510; BIBL. 30 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CROISSANCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TEMPERATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HUMIDITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CULTURE CEREALIERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MAIS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AGRONOMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GROWTH"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TEMPERATURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMIDITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CORN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AGRONOMY"
+        },
+        "002A32: Agronomie. Sciences du sol et productions vegetales / Agronomy. Soil science and plant productions"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALAGROLINEINRA8010482691"
+}

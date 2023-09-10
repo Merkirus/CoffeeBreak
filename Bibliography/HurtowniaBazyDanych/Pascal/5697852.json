@@ -1,0 +1,370 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A 20-year Landsat water clarity census of Minnesota's 10,000 lakes",
+    "dc:creator": [
+        "OLMANSON, Leif G",
+        "BAUER, Marvin E",
+        "BREZONIK, Patrick L"
+    ],
+    "dc:contributor": [
+        "GOETZ, S. J (Editor)",
+        "GARDINER, N (Editor)",
+        "VIERS, J. H (Editor)"
+    ],
+    "dc:relation": "Remote sensing of environment -- Remote sens. environ, CODEN RSEEA7, ISSN 0034-4257, Vol. 112 (11) , pp. 4086-4097",
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "12 p. ; 1/2 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aire superficielle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Base de données"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Echelon régional"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etat trophique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fiabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Imagerie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Intervalle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LANDSAT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lac"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mesure répétée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Moyenne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Profondeur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Précision"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Qualité eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recensement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thematic Mapper"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transparence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Télédétection spatiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Utilisation terrain"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Variation géographique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Clareté eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETM+"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecorégion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Radiomètre Thematic Mapper Plus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Radiomètre Thematic Mapper"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface area"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "data bases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Regional scope"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Trophic status"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "reliability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "imagery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interval"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Landsat"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "lakes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Repeated measurement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Average"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "depth"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "accuracy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "water quality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Census"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thematic Mapper"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transparency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Space remote sensing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "land use"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Geographical variation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ecoregion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Landsat"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Minnesota"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Regional"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Remote sensing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Secchi depth transparency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Trophic-state index"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water clarity trends"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water clarity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water quality"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Area superficial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Base dato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Escala regional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estado trófico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fiabilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Imaginería"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Intervalo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lago"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medida repetida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Promedio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Profundidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Precisión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Calidad agua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Censo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transparencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Teledetección espacial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Utilización terreno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Variación geográfica"
+        },
+        "001E01M04: Géophysique appliquée / Applied geophysics",
+        "001E01N01: Hydrologie / Hydrology",
+        "002A14A03: Télédétection, cartes de végétation / Teledetection and vegetation maps"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats Unis"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Minnesota"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Minnesota"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estados Unidos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Minesota"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20824266"
+}

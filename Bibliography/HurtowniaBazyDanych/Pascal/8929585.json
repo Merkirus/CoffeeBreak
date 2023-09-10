@@ -1,0 +1,46 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Benefits of knowing who, where, and when in multi-talker listening",
+    "dc:creator": [
+        "KITTERICK, Pádraig T",
+        "BAILEY, Peter J",
+        "SUMMERFIELD, A. Quentin"
+    ],
+    "dc:relation": "The Journal of the Acoustical Society of America -- J. Acoust. Soc. Am, CODEN JASMAN, ISSN 0001-4966, Vol. 127 (4) , pp. 2498-2508",
+    "dc:date": "2010",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Acoustical Society of America",
+        "American Institute of Physics"
+    ],
+    "dc:format": [
+        "print",
+        "11 p. ; 3/4 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Audition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hearing"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Audición"
+        },
+        "002A26E04: Audition / Audition",
+        "770-B: Psychologie. Psychophysiologie / Psychology. Psychophysiology",
+        "770-B05D: Audition / Audition"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 22649394"
+}

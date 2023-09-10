@@ -1,0 +1,143 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Geographical distribution of neotropical Leishmania of the subgenus Leishmania analysed by ribosomal oligonucleotide probes",
+    "dc:creator": [
+        "ULIANA, S. R. B",
+        "ISHIKAWA, E",
+        "STEMPLIUK, V. A",
+        "DE SOUZA, A",
+        "SHAW, J. J",
+        "FLOETER-WINTER, L. M"
+    ],
+    "dc:relation": "Transactions of the Royal Society of Tropical Medicine and Hygiene -- Trans. r. soc. trop. med. hyg, CODEN TRSTAZ, ISSN 0035-9203, Vol. 94 (3) , pp. 261-264",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "13 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Kinetoplastida"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Protozoa"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epidémiologie moléculaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Leishmania"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Répartition géographique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Typage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Kinetoplastida"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Protozoa"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Molecular epidemiology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Leishmania"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Geographic distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Typing"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Kinetoplastida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Protozoa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Epidemiología molecular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Leishmania"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Distribución geográfica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tipificación"
+        },
+        "002B05E02B3: Leishmaniose / Leshmaniasis",
+        "235: Médecine tropicale / Tropical medicine"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique Centrale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Sud"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "South America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America central"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del sur"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1410794"
+}

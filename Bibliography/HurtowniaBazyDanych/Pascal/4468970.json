@@ -1,0 +1,58 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "STABILITE DE LA TETRAVALENCE DU AM, CM ET TB EN SOLUTIONS AQUEUSES",
+    "dc:creator": [
+        "SAPRYKIN AS",
+        "SHILOV VP",
+        "SPITSYN VI",
+        "KROT NN"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "DOKL. AKAD. NAUK S.S.S.R.; S.S.S.R.; DA. 1976; VOL. 226; NO 4; PP. 853-856; BIBL. 13 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CURIUM IV TUNGSTOPHOSPHATE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TERBIUM IV TUNGSTOPHOSPHATE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AMERICIUM IV TUNGSTOPHOSPHATE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HETEROPOLYSEL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TUNGSTOPHOSPHATE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PREPARATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTRE VISIBLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE MINERALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INORGANIC CHEMISTRY"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7617023605"
+}

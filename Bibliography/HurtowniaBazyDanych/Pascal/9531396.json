@@ -1,0 +1,220 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Fluorimetry : A useful tool in cosmetics research",
+    "dc:creator": [
+        "GODDARD, E. D",
+        "WINNIK, F. M"
+    ],
+    "dc:relation": "Cosmetics and toiletries -- Cosmet. toiletries, CODEN CTOIDG, ISSN 0361-4387, Vol. 114 (11) , pp. 63-82",
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Allured",
+    "dc:format": [
+        "print",
+        "15 p. ; 43 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Agent surface cationique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Agent surface polymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ammonium quaternaire polymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cellulose dérivé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cheveu"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cosmétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Formulation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Marquage fluorescent"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode étude"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polyélectrolyte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Produit capillaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Produit conditionneur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Shampooing"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectrométrie fluorescence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectrométrie émission"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cationic surfactant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surfactant polymer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quaternary ammonium polymer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cellulose derivatives"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hair (head)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cosmetic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Formulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fluorescent labelling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Investigation method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polyelectrolyte"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hair product"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Conditioning product"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Shampoo"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fluorescence spectrometry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Emission spectrometry"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agente superficie catiónico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agente superficie polímero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Amonio cuaternario polímero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Celulosa derivado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cabello"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cosmético"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Formulación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Marcación fluorescente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método estudio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polielectrolito"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Producto capilar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Producto acondicionador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad superficie"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Champú"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Espectrometría fluorescencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Espectrometría emisión"
+        },
+        "001D08D02: Produits d'hygiène / Cosmetics, toiletries"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1220323"
+}

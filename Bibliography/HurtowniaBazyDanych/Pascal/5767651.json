@@ -1,0 +1,52 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Polymer Libraries",
+    "dc:contributor": [
+        "MEIER, Michael A. R (Editor)",
+        "WEBSTER, Dean C (Editor)"
+    ],
+    "dc:relation": "Advances in polymer science (Print) -- Adv. polym. sci. (Print) -- Fortschritte der Hochpolymeren-Forschung (1965), ISSN 0065-3195, Vol. 225",
+    "dc:date": "2010",
+    "dc:type": [
+        "Text",
+        "Serial Issue"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "157 p. ; dissem"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Chimiothèque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polymère"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical compound library"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polymer"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Quimioteca"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polímero"
+        },
+        "001D09A: Généralités / General"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 22832522"
+}

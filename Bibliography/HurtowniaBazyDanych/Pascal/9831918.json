@@ -1,0 +1,73 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Bézier representation of epitrochoids and hypotrochoids",
+    "dc:creator": "SANCHEZ-REYES, J",
+    "dc:relation": "Computer-aided design -- Comput.-aided des, CODEN CAIDA5, ISSN 0010-4485, Vol. 31 (12) , pp. 747-750",
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "10 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Conception assistée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Courbe Bézier"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trigonométrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epitrochoid"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hypotrochoid"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polynôme irrationnel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computer aided design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bézier curve"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Trigonometry"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Concepción asistida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Curva Bézier"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trigonometría"
+        },
+        "001D02B11: Conception assistée / Computer aided design"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1194787"
+}

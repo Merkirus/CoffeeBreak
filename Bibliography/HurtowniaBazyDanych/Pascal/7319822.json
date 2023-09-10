@@ -1,0 +1,249 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Superimposed Variscan, Caledonian and Proterozoic features inferred from deep seismic profiles recorded between southern Ireland, southwestern Britain and western France; Particularités protérozoïques, calédoniennes et varisques superposées déduites des profils sismiques profonds enregistrés entre l'Irlande, le sud-ouest de l'Angleterre et l'ouest de la France",
+    "dc:creator": [
+        "BOIS, C",
+        "LEFORT, J.-P",
+        "LE GALL, B",
+        "SIBUET, J.-C",
+        "GARIEL, O",
+        "PINET, B",
+        "CAZES, M"
+    ],
+    "dc:contributor": "International IGCP conference project 233 : terranes in the Variscan belt of France and Western Europe (Montpellier 1988-08)",
+    "dc:relation": [
+        "Tectonophysics -- Tectonophysics, CODEN TCTOAM, ISSN 0040-1951, Vol. 177 (1-3) , pp. 15-37",
+        "Terranes in the Variscan blet of Europe and circum-Atlantic Paleozoic orogens : selected papers, Montpellier, France, August 1988"
+    ],
+    "dc:date": "1990",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Elsevier Science",
+        "Elsevier Science",
+        "Elsevier Science"
+    ],
+    "dc:format": [
+        "print",
+        "Illustration ; 2 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Océan Atlantique Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Océan Atlantique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Atlantique Nord Est"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chevauchement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Collision plaque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Manche Mer"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mohorovicic"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ophiolite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Orogénie cadomienne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Orogénie calédonienne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Orogénie hercynienne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Protoatlantique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sismique réflexion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sondage sismique profond"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Subduction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Suture tectonique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Zone cisaillement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Applatissement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rampe tectonique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Atlantic Ocean"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North Atlantic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "European Atlantic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thrust fault"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plate collision"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "English Channel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mohorovicic discontinuity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ophiolite"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cadomian Orogeny"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Caledonian Orogeny"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hercynian Orogeny"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Iapetus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reflection methods"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Deep seismic sounding"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Subduction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Suture zones"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Shear zones"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Océano Atlántico Norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Océano Atlántico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Atlántico Nordeste"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Imbricación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Choque placas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mancha (Canal)"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mohorovicic"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ofiolita"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Orogenia cadomiana"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Orogenia caledoniana"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Orogenia hercínica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Protoatlántico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método reflexión sísmica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sondeo sísmico profundo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Subducción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Zona cizalla"
+        },
+        "001E01M04: Géophysique appliquée / Applied geophysics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6864231"
+}

@@ -1,0 +1,64 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "MISE AU POINT D'UNE METHODE DE RELAXATION ULTRARAPIDE: RECHERCHES BIOLOGIQUES.",
+    "dc:creator": [
+        "JOUSSOT DUBIEN J",
+        "REISS C"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Report",
+    "dc:language": "French",
+    "dc:format": "DGRST-7270496; FR.; DA. 1976; PP. 1-11; (RAPP. FINAL, ACTION COMPLEMENTAIRE COORDONNEE: INTERACTIONS MOL. BIOL.)",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MECANISME REACTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PARAMETRE CINETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE SAUT TEMPERATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE ABSORPTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LASER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE ETUDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TECHNIQUE RAPIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REACTION BIOCHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RAPPORT ACTIVITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOPHYSIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOPHYSICS"
+        },
+        "002A02: Biochimie analytique, structurale et metabolique / Analytical, structural and metabolic biochemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7650243663"
+}

@@ -1,0 +1,68 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "GROUND-WATER LEVELS IN THE UNITED STATES, 1964-68. SOUTHEASTERN STATES.",
+    "dc:date": "1971",
+    "dc:type": "Miscellaneous",
+    "dc:language": "English",
+    "dc:format": "GEOL. SURV. U.S.A., WAT. SUPPLY PAPER; USA; 1971, NUM. 1978",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "SURFACE PIEZOMETRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INVENTAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CATALOGUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GULF COAST ETATS UNIS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HYDROLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HYDROSTATIC LEVEL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INVENTORY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "USA GULF COAST LOWER MISSISSIPPI"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HYDROLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        "001E01N: Hydrologie. Hydrogéologie / Hydrology. Hydrogeology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number GEODEBRGM722261851"
+}

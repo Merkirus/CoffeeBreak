@@ -1,0 +1,312 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Regional world(s): advancing the geography of regions",
+    "dc:contributor": [
+        "JONES, M (Editor)",
+        "PAASI, A (Editor)"
+    ],
+    "dc:relation": "Regional studies -- Reg. stud, ISSN 0034-3404, Vol. 47 (1) , pp. 6-127",
+    "dc:date": "2013",
+    "dc:type": [
+        "Text",
+        "Serial Issue"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Cambridge University Press",
+    "dc:format": [
+        "print",
+        "122 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Coopération transfrontalière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Décentralisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Economie régionale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gouvernance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Industrie automobile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Industrie créative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Institution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Localité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Région"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Régionalisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Régionalisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Territoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Droit du travail"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Trans-border cooperation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Decentralization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Regional economy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Governance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Car industry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Creative industry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Institution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Locality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Region"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Regionalization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Regionalism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Territory"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cooperación transfrontalera"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Descentralización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Economía regional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gobernancía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Industria del automóvil"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Industria creativa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Institución"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Localidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Región"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Regionalización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Regionalismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Territorio"
+        },
+        "531-: Bgi / Prodig / Bgi / Prodig",
+        "531-97: Géographie humaine / Human geography",
+        "531-132: Economie et planification régionales / Regional economy and planning"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Barents mer"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Canada"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "England"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Espagne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats-Unis"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Galicia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Great Lakes"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ontario"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Royaume-Uni"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vascongadas"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Wales"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Barents Sea"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Canada"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "England"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States of America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Galicia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Great Lakes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ontario"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United Kingdom"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Basque Country"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wales"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mar de Barents"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Canada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inglaterra"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "España"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estados Unidos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Grandes Lagos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reino Unido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gales"
+        }
+    ],
+    "dc:rights": [
+        "Bibliographie Géographique Internationale - Pôle de Recherche pour l'Organisation et la Diffusion de l'Information Géographique (PRODIG)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 26722693"
+}

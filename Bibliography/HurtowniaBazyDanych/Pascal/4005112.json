@@ -1,0 +1,79 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ACTIVITE DE L'OXYGENE DANS LE CUIVRE FONDU",
+    "dc:creator": [
+        "SUDAVTSOVA VS",
+        "KUZ'MENKO NI",
+        "BATALIN GI",
+        "ANOSHIN VA",
+        "ILYUSHENKO VM"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "UKRAIN. KHIM. ZH.; UKR; DA. 1979; VOL. 45; NO 4; PP. 306-310; BIBL. 6 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ACTIVITE THERMODYNAMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPRIETE THERMODYNAMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE ELECTROCHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CUIVRE!SUB"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METAL FONDU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OXYGENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE GENERALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE PHYSIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THERMODYNAMIC ACTIVITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THERMODYNAMIC PROPERTIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROCHEMICAL METHOD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OXYGEN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENERAL CHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHYSICAL CHEMISTRY"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7960322000"
+}

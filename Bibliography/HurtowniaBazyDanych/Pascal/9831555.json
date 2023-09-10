@@ -1,0 +1,237 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Bronchial hyperresponsiveness and airway inflammation markers in nonasthmatics with allergic rhinitis",
+    "dc:creator": [
+        "POLOSA, R",
+        "CIAMARRA, I",
+        "MANGANO, G",
+        "PROSPERINI, G",
+        "PISTORIO, M. P",
+        "VANCHERI, C",
+        "CRIMI, N"
+    ],
+    "dc:relation": "The European respiratory journal -- Eur. respir. j, ISSN 0903-1936, Vol. 15 (1) , pp. 30-35",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Maney",
+    "dc:format": [
+        "print",
+        "33 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunopathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nez pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORL pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Allergie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Association morbide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bronche"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Expectoration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exploration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hyperréactivité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Inflammation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Marqueur biologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathogénie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Physiopathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rhinite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Test provocation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Voie respiratoire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immunopathology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nose disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENT disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Allergy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Concomitant disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bronchus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sputum"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Exploration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hyperreactivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inflammation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biological marker"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pathogenesis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pathophysiology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rhinitis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Provocation test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Respiratory tract"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunopatología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nariz patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "ORL patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alergia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asociación morbosa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bronquio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Expectoración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Exploración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hiperreactividad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inflamación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Marcador biológico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Patogenia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fisiopatología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rinitis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prueba provocación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vía respiratoria"
+        },
+        "002B06C02: Allergies respiratoires et orl / Respiratory and ent allergic diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1238515"
+}

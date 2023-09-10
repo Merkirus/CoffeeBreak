@@ -1,0 +1,78 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Management des risques dans les projets industriels. Elaboration et mise en oeuvre d'une méthode; Industrial project risk management development and implementation of a method",
+    "dc:creator": "ABDUL AZIZ, R",
+    "dc:contributor": [
+        "AKOKA, J (Advisor (for a thesis or dissertation))",
+        "Université de Paris 09. UFR Sciences des Organisations (Degree-grantor)"
+    ],
+    "dc:date": "1997",
+    "dc:type": [
+        "Text",
+        "Thesis"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "226 p. ; 166 réf"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "GESTION DE PROJET"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GESTION DU RISQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PROJECT MANAGEMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RISK MANAGEMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METHODOLOGY"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "GESTION DE PROYECTO"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "GESTION DEL RIESGO"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "METODOLOGIA"
+        },
+        "616-: Doge / Gestion des entreprises / Doge / Company management",
+        "616-1: Politique générale de l'entreprise / Business policy"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "GENERAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENERAL"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "GENERAL"
+        }
+    ],
+    "dc:rights": [
+        "Documentation en Gestion des Entreprises - Eurofidai (institut européen de données financières) (DOGE)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6290462"
+}

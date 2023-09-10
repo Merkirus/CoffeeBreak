@@ -1,0 +1,104 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SUPER-FINE-GRAIN MICROALLOYED STEEL PLATE; TOLES FORTES A GRAIN ULTRAFIN EN ACIER MICROALLIE",
+    "dc:creator": [
+        "GONDOH H",
+        "YAMAMOTO S",
+        "NAKAYAMA M",
+        "NAKASUGI H",
+        "MATSUDA H"
+    ],
+    "dc:date": "sd",
+    "dc:type": "Conference Paper",
+    "dc:language": "English",
+    "dc:format": "IN: MICRO-ALLOYING 75. INT. SYMP.; WASHINGTON, D.C.; 1975; NEW YORK; MICRO-ALLOYING; DA. S.D.; VOL. 3; PP. 67-72; BIBL. 3 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PIPELINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACIER A DISPERSOIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOUDAGE LONGITUDINAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RESILIENCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSITION DUCTILE FRAGILE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TREMPE ET REVENU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHAUFFAGE INDUCTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GROSSEUR GRAIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ZONE THERMIQUEMENT AFFECTEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARACTERISTIQUE MECANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATERIAU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "APPLICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSPORT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TOLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOUDAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METALLURGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WELDING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY"
+        },
+        "001D06: Energie / Energy",
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALSOUDAGE7674013297"
+}

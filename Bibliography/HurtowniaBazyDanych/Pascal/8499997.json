@@ -1,0 +1,87 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Synthetische Betrachtung japanischer Prädikat-Argument-Strukturen in der Computerpraxis; Overall observations on japanese predicate-argument-structures in computer praxis",
+    "dc:creator": "LOOSLI-NIKI, T",
+    "dc:relation": "Asiatische Studien -- Asiat. Stud -- Etudes asiatiques, ISSN 0004-4717, Vol. 48 (1) , pp. 386-402",
+    "dc:date": "1994",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "German",
+    "dc:publisher": [
+        "Lang",
+        "Lang",
+        "Lang"
+    ],
+    "dc:format": [
+        "print",
+        "22 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse automatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Argument"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Japonais"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Linguistique appliquée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Linguistique informatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phrase complexe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prédicat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement automatique des langues naturelles"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Automatic analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Argument"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Applied linguistics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computational linguistics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Predicate"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Natural language processing"
+        },
+        "524-: Sciences du langage / Linguistics",
+        "524-68: Linguistique appliquée / Applied linguistics",
+        "524-78: Linguistique informatique / Computational linguistics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3282330"
+}

@@ -1,0 +1,291 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Diagnostic accuracy of Pleural fluid polymorphonuclear elastase in the differentiation between pyogenic bacterial infectious and non-infectious Pleural effusions",
+    "dc:creator": [
+        "ALEGRE, J",
+        "SURINACH, J. M",
+        "VARELA, E",
+        "ARMADANS, L",
+        "MARTI, R",
+        "SEGURA, R",
+        "ALEMAN, C",
+        "FALCO, V",
+        "FERNANDEZ DE SEVILLA, T"
+    ],
+    "dc:relation": "Respiration (Basel) -- Respiration (Basel), CODEN RESPBD, ISSN 0025-7931, Vol. 67 (4) , pp. 426-432",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Karger",
+        "Karger",
+        "Karger"
+    ],
+    "dc:format": [
+        "print",
+        "26 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil respiratoire pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enzyme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Glycosidases"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hydrolases"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "O-Glycosidases"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Peptidases"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plèvre pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Serine endopeptidases"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bactériose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diagnostic différentiel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diagnostic"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etiologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exploration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Leukocyte elastase"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Liquide pleural"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lysozyme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Marqueur biologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pleurésie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pyogène"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Respiratory disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Enzyme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Glycosidases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hydrolases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "O-Glycosidases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Peptidases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pleural disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Serine endopeptidases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bacteriosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Differential diagnostic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diagnosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Etiology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Exploration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Leukocyte elastase"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pleural fluid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lysozyme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biological marker"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pleurisy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pyogenic"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato respiratorio patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enzima"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Glycosidases"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hydrolases"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Infección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "O-Glycosidases"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Peptidases"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pleura patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Serine endopeptidases"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bacteriosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diagnóstico diferencial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diagnóstico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Etiología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Exploración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Leukocyte elastase"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Líquido pleural"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lysozyme"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Marcador biológico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pleuresía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Piógeno"
+        },
+        "002B05B02E: Bactérioses de l'appareil respiratoire / Bacterial diseases of the respiratory system"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1444376"
+}

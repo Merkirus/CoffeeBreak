@@ -1,0 +1,73 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE USE OF CHEMICAL ADDITIVE AT CONSOLIDATED EDISON TO CONTROL GAS TURBINE EMISSIONS; UTILISATION DES ADDITIFS CHIMIQUES A LA CONSOLIDATED EDISON POUR REDUIRE LES EMISSIONS DES TURBINES A GAZ",
+    "dc:creator": [
+        "MARX SD",
+        "KLEIN RW"
+    ],
+    "dc:date": "1975",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "COMBUSTION; U.S.A.; DA. 1975; VOL. 47; NO 5; PP. 24-26",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "COMBUSTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PREVENTION POLLUTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TURBINE GAZ"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FUMEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ADDITIF"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLLUTION ATMOSPHERIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETATS UNIS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NUISANCES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLLUTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NUISANCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLLUTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY"
+        },
+        "001D06: Energie / Energy",
+        "001D16: Pollution / Pollution"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7688504178"
+}

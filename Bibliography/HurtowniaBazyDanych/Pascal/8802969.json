@@ -1,0 +1,66 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Philip Henry and London",
+    "dc:creator": "NUTTALL, G. F",
+    "dc:relation": "Journal of the United Reformed Church History Society -- J.United Reform. Church Hist. Soc, ISSN 0049-5433, Vol. 5 (5) , pp. 259-266",
+    "dc:date": "1994",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "United Reformed Church History Society",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Dissidence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ministre du culte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Restauration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Henry (P.)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dissent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Minister (of religion)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Restoration"
+        },
+        "527-: Histoire et sciences des religions / History and sciences of religions",
+        "527-865: Christianisme / Christianity",
+        "527-1235: Biographies / Biographies"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Angleterre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "1665-1696"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "England"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3734578"
+}

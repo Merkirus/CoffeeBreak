@@ -1,0 +1,271 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Quantifying random measurement errors in voluntary observing Ships' meteorological observations",
+    "dc:creator": [
+        "KENT, Elizabeth C",
+        "BERRY, David I"
+    ],
+    "dc:contributor": [
+        "GULEV, Sergey (Editor)",
+        "CLIMAR-II Workshop on Advances in Marine Climatology (Brussels 2003-11)"
+    ],
+    "dc:relation": [
+        "International journal of climatology -- Int. j. climatol, ISSN 0899-8418, Vol. 25 (7) , pp. 843-856",
+        "Advances in marine climatology"
+    ],
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Wiley",
+    "dc:format": [
+        "print",
+        "14 p. ; 1 p.1/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Assurance qualité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Donnée observation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Erreur aléatoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Erreur mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Erreur échantillonnage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Estimation erreur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Humidité atmosphérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Marine marchande"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métadonnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Météorologie maritime"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Observation météorologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Observation océanographique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Observation par navire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pression réduite niveau mer"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Température atmosphérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Température surface marine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vitesse vent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quality assurance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Observation data"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Random error"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measurement error"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sampling error"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Error estimation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Atmospheric humidity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Merchant marine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metadata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Marine meteorology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Meteorological observation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oceanographic survey"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ship observation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sea level pressure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Atmospheric temperature"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sea surface temperature"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wind velocity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ICOADS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SST"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "air temperature"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "humidity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "pressure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "random error"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ship"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "wind"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aseguración calidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dato observación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Error aleatorio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Error medida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Error muestreo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estimación error"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Humedad atmosférica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Marina mercante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metadatos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Meteorología marítima"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Observación meteorológica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Observación oceanográfica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Observación por nave"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Presión reducida al nivel mar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Temperatura atmosférica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Temperature superficie marina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Velocidad viento"
+        },
+        "001E02D16: Divers / Other topics in atmospheric geophysics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16938425"
+}

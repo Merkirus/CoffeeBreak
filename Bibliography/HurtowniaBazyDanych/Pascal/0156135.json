@@ -1,0 +1,77 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "NOTE SUR LE TREMBLEMENT DE TERRE DE BREST.",
+    "dc:creator": "AZEMA",
+    "dc:date": "1909",
+    "dc:type": "Miscellaneous",
+    "dc:language": "French",
+    "dc:format": "BULL. SOC. SCI. NAT. OUEST- FR; FRA; 1909, VOL. 9, P. 223 A 226",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "SEISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "5-08-1909"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FINISTERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BREST"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOPHYSIQUE INTERNE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MASSIF ARMORICAIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FRANCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EUROPE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTHQUAKE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FINISTERE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTERNAL GEOPHYSICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        "001E01L: Tectonique. Géologie structurale. Tectonique des plaques / Tectonics. Structural geology. Plate tectonics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number GEODEBRGMFR1471898"
+}

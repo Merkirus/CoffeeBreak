@@ -1,0 +1,56 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ACCIDENTAL POISONING IN CHILDREN: THE SICK FAMILY; EMPOISONNEMENT ACCIDENTEL CHEZ LES ENFANTS: LA FAMILLE MALADE",
+    "dc:creator": [
+        "JULYAN M",
+        "KUZEMKO JA"
+    ],
+    "dc:date": "1975",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "PRACTITIONER; G.B.; DA. 1975; VOL. 214; NO 1284; PP. 813-815; BIBL. 2REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "INTOXICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENFANT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACCIDENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTOXICATION MEDICAMENTEUSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MEDICAMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE GENERALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TOXICOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TOXICOLOGY"
+        },
+        "002B02: Pharmacologie. Traitements medicamenteux / Pharmacology. Drug treatments"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7533022542"
+}

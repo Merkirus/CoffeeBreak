@@ -1,0 +1,81 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "LOCATION OF A PLATINUM BINDING SITE IN THE STRUCTURE OF YEAST PHENYLALANINE TRANSFER RNA",
+    "dc:creator": [
+        "RHODES D",
+        "PIPER PW",
+        "CLARK BFC"
+    ],
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. MOLEC. BIOL.; G.B.; DA. 1974; VOL. 89; NO 3; PP. 469-475; H.T. 2; BIBL. 17REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ARN TRANSFERT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ARNT PHENYLALANINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SITE FIXATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE FINGERPRINT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MARQUAGE RADIOISOTOPIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CRISTALLOGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACIDE NUCLEIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTERACTION MOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LEVURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROORGANISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PLATINE DERIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE RADIOCHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOCHIMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOCHEMISTRY"
+        },
+        "002A02: Biochimie analytique, structurale et metabolique / Analytical, structural and metabolic biochemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7532002995"
+}

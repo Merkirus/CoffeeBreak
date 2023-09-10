@@ -1,0 +1,105 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A PHENYLALANINE TRNA GENE FROM NEUROSPORA CRASSA: CONSERVATION OF SECONDARY STRUCTURE INVOLVING AN INTERVENING SEQUENCE",
+    "dc:creator": [
+        "SELKER E",
+        "YANOFSKY C"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "NUCLEIC ACIDS RES.; GBR; DA. 1980; VOL. 8; NO 5; PP. 1033-1042; BIBL. 31 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "GENE STRUCTURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ARN TRANSFERT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SEQUENCE NUCLEOTIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTRON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NEUROSPORA CRASSA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STRUCTURE SECONDAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FUNGI"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STRUCTURE MOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ARNT PHENYLALANINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORGANISATION GENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOCHIMIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROBIOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STRUCTURE GENE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTERVENING SEQUENCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NEUROSPORA CRASSA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SECONDARY STRUCTURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FUNGI"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOLECULAR STRUCTURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENE ORGANIZATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOCHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROBIOLOGY"
+        },
+        "002A02: Biochimie analytique, structurale et metabolique / Analytical, structural and metabolic biochemistry",
+        "002B05: Pathologie infectieuse / Infectious diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8050387376"
+}

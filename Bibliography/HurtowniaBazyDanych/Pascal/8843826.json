@@ -1,0 +1,93 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Montagne. Comment prévenir les risques naturels ?",
+    "dc:creator": "DEQUÈANT, J",
+    "dc:relation": "Le Moniteur des travaux publics et du bâtiment -- Monit. trav. publics bâtim, CODEN MTPUAS, ISSN 0026-9700 (4841)",
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Groupe Moniteur",
+    "dc:format": [
+        "print",
+        "p. 21"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Aménagement rural"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Montagne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Office national des forêts (ONF)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Protection civile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prévention"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Risque naturel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Service de restauration des terrains de montagne"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rural planning"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mountain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Office national des forêts (ONF)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Civil Protection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prevention"
+        },
+        "528-: Science administrative / Administrative science",
+        "528-37: Structure administrative / Administrative structures",
+        "528-140: Aménagement touristique (dont littoral) et des loisirs / Tourist development (seashore) and leisure"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        }
+    ],
+    "dc:rights": [
+        "Centre d'Etude et de Recherche en Sciences Administratives (CERSA)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 5983133"
+}

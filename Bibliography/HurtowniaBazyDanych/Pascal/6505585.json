@@ -1,0 +1,256 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Treatment with sildenafil citrate in renal transplant patients with erectile dysfunction",
+    "dc:creator": [
+        "PRIETO CASTRO, R. M",
+        "ANGLADA CURADO, F. J",
+        "REGUEIRO LOPEZ, J. C",
+        "LEVA VALLEJO, M. E",
+        "MOLINA SANCHEZ, J",
+        "SACEDA LOPEZ, J. L",
+        "REQUENA TAPIA, M. J"
+    ],
+    "dc:contributor": [
+        "Urological Research Society (Funder/Sponsor)",
+        "Urological Research Society Annual Scientific Meeting (London 2001-01-05)"
+    ],
+    "dc:relation": [
+        "BJU international (Papier) -- BJU int. (Print), ISSN 1464-4096, Vol. 88 (3) , pp. 241-243",
+        "Urological Research Society Annual Scientific Meeting"
+    ],
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Blackwell",
+    "dc:format": [
+        "print",
+        "13 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil génital mâle pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil urinaire pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chimiothérapie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chirurgie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Erection pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rein pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transplantation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Adulte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Complication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homotransplantation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Impuissance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Insuffisance rénale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mâle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Postopératoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rein"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sildénafil"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Male genital diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Urinary system disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemotherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surgery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Erection disorders"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Kidney disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transplantation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adult"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Complication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Homotransplantation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Impotence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Renal failure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Male"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Postoperative"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Kidney"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sildenafil"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato genital macho patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato urinario patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Quimioterapia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cirugía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Erección patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Riñón patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trasplantación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adulto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Complicación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Homotrasplante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Impotencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Insuficiencia renal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Macho"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Postoperatorio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Riñón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sildenafilo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        "002B02K: Peau, ongle, cheveu, phanère / Skin, nail, hair, dermoskeleton"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1143782"
+}

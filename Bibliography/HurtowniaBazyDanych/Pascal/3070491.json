@@ -1,0 +1,48 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE EFFECTS SIMULTANEOUS DISRUPTIVE AND STABILISING SELECTION",
+    "dc:creator": [
+        "DICKINSON H",
+        "ANTONOVICS J"
+    ],
+    "dc:date": "1972",
+    "dc:type": "Serial Issue",
+    "dc:language": "English",
+    "dc:format": "HEREDITY; G.B.; DA. 1972; VOL. 29; NO 3; PP. 363-365; BIBL. 10 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE MATHEMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENETIQUE POPULATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MODELE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SELECTION STABILISATRICE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SELECTION DIVERSIFIANTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENETIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENETICS"
+        },
+        "002A31C02: Techniques génétiques / Genetic technics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL733632886"
+}

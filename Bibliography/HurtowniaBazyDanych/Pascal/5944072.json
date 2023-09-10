@@ -1,0 +1,286 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Making It Work for Everyone: HTML5 and CSS Level 3 for Responsive, Accessible Design on Your Library's Web Site",
+    "dc:creator": "BAKER, Stewart C",
+    "dc:contributor": [
+        "RUNDELS, Jennifer (Editor)",
+        "RENIRIE, Rebecca (Editor)",
+        "Distance Library Service Conference (16 ; Denver, Colorado 2014-04-23)"
+    ],
+    "dc:relation": [
+        "Journal of library & information services in distance learning, ISSN 1533-290X, Vol. 8 (3-4) , pp. 118-136",
+        "The Sixteenth Distance Library Service Conference Proceedings: Part 1"
+    ],
+    "dc:date": "2014",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Taylor & Francis",
+    "dc:format": [
+        "print",
+        "19 p. ; 1 p.3/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Accessibilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Article"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bibliothèque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bibliothéconomie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Communication scientifique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conception"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contexte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Esthétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lecteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mise à jour"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Outil"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Philosophie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Revue bibliographique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau web"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Site Web"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Travail"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Utilisabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Utilisateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Utilisation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Accessibility"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Article"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Library"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Librarianship"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Scientific communication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Context"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aesthetics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reader"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Updating"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tool"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Philosophy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bibliographic review"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "World wide web"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Web site"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Technique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Work"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Usability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "User"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Use"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Web accessibility"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Web design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "libraries and people with disabilities"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Accesibilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Artículo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biblioteca"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biblioteconomía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Comunicación científica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diseño"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contexto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estética"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lector"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Actualización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Herramienta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Filosofía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Revista bibliográfica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red WWW"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sitio Web"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Técnica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trabajo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Usabilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Usuario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Uso"
+        },
+        "001A01B: Gestion des services d'information / Information service management",
+        "790-C: Gestion des services d'information / Information service management"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 29124270"
+}

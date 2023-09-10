@@ -1,0 +1,53 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "TRANSMISSION OF A PARTIALLY COHERENT SIGNAL THROUGH AN OPEN LINE AND AN OPEN RESONATOR.",
+    "dc:creator": "KVASIL B",
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "ACTA TECH. C.S.A.V.; CESKOSL.; DA. 1974; VOL. 19; NO 6; PP. 633-646; BIBL. 5 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "COHERENCE OPTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPAGATION ONDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ONDE ELECTROMAGNETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RESONATEUR OPTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RESONATEUR OUVERT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LASER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COHERENCE PARTIELLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OPTIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPTICS"
+        },
+        "001B: Physique / Physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7530073639"
+}

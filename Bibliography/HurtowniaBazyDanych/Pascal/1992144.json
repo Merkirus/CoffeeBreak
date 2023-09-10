@@ -1,0 +1,143 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "LIQUID-LIQUID EXTRACTION OF METAL IONS WITH SULFONAMIDE CHELATING AGENTS",
+    "dc:creator": [
+        "IDE S",
+        "YOSHIDA T",
+        "MATSUNO S",
+        "TAKAGI M",
+        "UENO K"
+    ],
+    "dc:date": "1983",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "ANALYTICA CHIMICA ACTA; ISSN 0003-2670; NLD; DA. 1983; VOL. 149; PP. 235-252; BIBL. 26 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "EXTRACTION LIQUIDE LIQUIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AGENT EXTRACTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SEPARATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SULFONAMIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METAL TRANSITION ION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ZINC II ION!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COBALT II ION!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CUIVRE II ION!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CADMIUM II ION!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PLOMB II ION!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MERCURE II ION!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METAL DIVALENT ION!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "QUINOLEINE(OCTANESULFONYLAMINO-8)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHENYLENEDIAMINE-1,2(N,N'-DIOCTANESULFONYL)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NAPHTALENEDIAMINE-1,8(N,N'-DIOCTANESULFONYL)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OCTANESULFONIQUE ACIDE,HYDROXY-2P PHENYLAMIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE MINERALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIQUID LIQUID EXTRACTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXTRACTION AGENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SEPARATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SULFONAMIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TRANSITION METAL IONS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ZINC II IONS!ENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COBALT II IONS!ENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COPPER II IONS!ENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CADMIUM II IONS!ENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LEAD II IONS!ENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MERCURY II IONS!ENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIVALENT METAL IONS!ENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INORGANIC CHEMISTRY"
+        },
+        "001C03: Chimie organique / Organic chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0305578"
+}

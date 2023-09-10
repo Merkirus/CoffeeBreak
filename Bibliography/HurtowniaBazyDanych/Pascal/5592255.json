@@ -1,0 +1,204 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "GaAs/AlAs quantum wells for selective terahertz sensing : study by differential surface photovoltage spectroscopy",
+    "dc:creator": [
+        "KAVALIAUSKAS, Julius",
+        "CECHAVICIUS, Bronislovas",
+        "KRIVAITE, Gene",
+        "SELIUTA, Dalius",
+        "VALUSIS, Gintaras",
+        "SHERLIKER, Ben",
+        "HALSALL, Matthew",
+        "HARRISON, Paul",
+        "KHANNA, Suraj",
+        "LINFIELD, Edmund"
+    ],
+    "dc:contributor": [
+        "Ašmontas, Steponas (Editor)",
+        "Gradauskas, Jonas (Editor)",
+        "Puslaidininkių fizikos institutas (Organiser of meeting)",
+        "Society of Photo-optical Instrumentation Engineers, Baltic Chapter (Organiser of meeting)",
+        "Society of photo-optical instrumentation engineers (Organiser of meeting)",
+        "Advanced optical materials, technologies, and devices (2006)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, pp. 65960F.1-65960F.7",
+        "Advanced optical materials, technologies, and devices (27-30 August 2006, Vilnius, Lithuania)"
+    ],
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "14 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Aluminium arséniure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Domaine fréquence THz"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Détecteur rayonnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet température"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Elargissement raie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exciton"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Largeur raie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau capteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Profil raie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Puits quantique multiple"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rugosité interface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Semiconducteur III-V"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sous bande"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transition électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0757K"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "7135"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Al As"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AlAs"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "As Ga"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GaAs"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aluminium arsenides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THz range"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiation detectors"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Temperature effects"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Line broadening"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Excitons"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Line widths"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sensor materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Line shape"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multiple quantum well"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interface roughness"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "III-V semiconductors"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Subband"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic transition"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pozo cuántico múltiple"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Subbanda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transición electrónica"
+        },
+        "001B00G57K: Bolomètres; récepteurs et détecteurs en infrarouge, onde submillimétrique, hyperfréquence et radiofréquence / Bolometer; infrared, submillimeter wave, microwave and radiowave receivers and detectors",
+        "001B70A35: Excitons et phénomènes associés / Excitons and related phenomena"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18937620"
+}

@@ -1,0 +1,266 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Exposure to severe urban air pollution influences cognitive outcomes, brain volume and systemic inflammation in clinically healthy children",
+    "dc:creator": [
+        "CALDERON-GARCIDUENAS, Lilian",
+        "EAGLE, Randall",
+        "BRYANT, Christopher",
+        "GONZALEZ-GONZALEZ, Luis Oscar",
+        "MEDINA-CORTINA, Humberto",
+        "D'ANGIULLI, Amedeo",
+        "MORA-TISCARENO, Antonieta",
+        "STYNER, Martin",
+        "GOMEZ-GARZA, Gilberto",
+        "HONGTU ZHU",
+        "JEWELLS, Valerie",
+        "TORRES-JARDON, Ricardo",
+        "ROMERO, Lina",
+        "MONROY-ACOSTA, Maria E"
+    ],
+    "dc:relation": "Brain and cognition (Print) -- Brain cogn. (Print), CODEN BRCOEI, ISSN 0278-2626, Vol. 77 (3) , pp. 345-355",
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "11 p. ; 1 p.1/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Cognition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Environnement social"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système nerveux central"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Encéphale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enfant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exposition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hyperintensité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Imagerie RMN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Inflammation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu urbain"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Morphométrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pollution air"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé et environnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Substance blanche"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Volumétrie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cognition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Social environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central nervous system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Encephalon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Child"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Exposure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hyperintensity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nuclear magnetic resonance imaging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inflammation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Urban environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Morphometry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Air pollution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Health and environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "White matter"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Volumetric analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Air pollution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Brain MRI"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Children"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cognition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Particulate matter"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Systemic inflammation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "White matter hyperintensities"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "White matter volume"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cognición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contexto social"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso central"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Encéfalo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Niño"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Exposición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hyperintensidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Imaginería RMN"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inflamación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio urbano"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Morfometría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contaminación aire"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud y medio ambiente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Substancia blanca"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Volumetría"
+        },
+        "002B18D08: Troubles mentaux organiques. Neuropsychologie / Organic mental disorders. Neuropsychology",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry",
+        "770-D04H: Troubles mentaux organiques. Neuropsychologie / Organic mental disorders. Neuropsychology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 25267357"
+}

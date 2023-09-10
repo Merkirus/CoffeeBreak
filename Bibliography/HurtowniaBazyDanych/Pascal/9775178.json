@@ -1,0 +1,141 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "La diversification des publications dans les services d'archives en France : 1986-1998; Diversification of publications in archive services in France: 1986-1998",
+    "dc:creator": [
+        "BECHU, Philippe",
+        "GALLAND, Bruno"
+    ],
+    "dc:relation": "Gazette des archives -- Gaz. arch, ISSN 0016-5522 (192) , pp. 171-187",
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Association des archivistes français",
+    "dc:format": [
+        "print",
+        "17 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Archive"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Archives"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Culture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diversification"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Edition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Education"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Publication primaire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Archive"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Archives"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Culture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diversification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Publishing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Education"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Primary publication"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Archivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Archivos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cultivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diversificación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Edición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Educación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Publicación primaria"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation",
+        "001A01C01: Archives. Musées / Archives. Museums",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-D: Organismes documentaires / Documentation institutions"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francia"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14684291"
+}

@@ -1,0 +1,164 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Chiral HPLC versus chiral SFC : evaluation of long-term stability and selectivity of Chiralcel OD using various eluents",
+    "dc:creator": [
+        "LYNAM, K. G",
+        "NICOLAS, E. C"
+    ],
+    "dc:contributor": [
+        "RILEY, CHRISTOPHER M (Editor)",
+        "FELL, ANTHONY F (Editor)",
+        "JEFFERIES, TERRY M (Editor)",
+        "KRAL, MARTHA A (Editor)",
+        "SMITH, GEOFFREY (Editor)",
+        "WILSON, TERRY D (Editor)",
+        "PBA'93 : International symposium on pharmaceutical and biomedical analysis (4 ; Baltimore MD 1993-04-18)"
+    ],
+    "dc:relation": [
+        "Journal of pharmaceutical and biomedical analysis -- J. pharm. biomed. anal, CODEN JPBADA, ISSN 0731-7085, Vol. 11 (11-12) , pp. 1197-1206",
+        "PBA'93 : International symposium on pharmaceutical and biomedical analysis"
+    ],
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "11 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse quantitative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chromatographie HPLC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chromatographie SFC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé chiral"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude comparative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Long terme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode étude"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phase stationnaire chirale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sélectivité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Colonne Chiralcel OD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quantitative analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HPLC chromatography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Supercritical fluid chromatography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chiral compound"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Long term"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Investigation method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chiral stationary phase"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Selectivity"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis cuantitativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cromatografía HPLC"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cromatografia fluido supercritico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Compuesto quiral"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio comparativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Largo plazo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método estudio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fase estacionaria quiral"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estabilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Selectividad"
+        },
+        "002B02A02: Méthodes de contrôle / Analysis"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3871109"
+}

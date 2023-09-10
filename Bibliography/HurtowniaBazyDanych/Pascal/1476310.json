@@ -1,0 +1,57 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "EMANATION-THERMAL CHARACTERISTICS OF BA-SALTS OF SOME AROMATIC ACIDS IN THE TEMPERATURE RANGE BETWEEN 298 AND 373 K.",
+    "dc:creator": [
+        "BALEK V",
+        "KROUPA J",
+        "PRACHAR M"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "RADIOCHEM. RADIOANAL. LETTERS; SWITZ.; DA. 1977; VOL. 28; NO 4; PP. 279-288; BIBL. 3 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PYROLYSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BARYUM COMPOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE THERMIQUE GAZEUSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BARYUM SEL ORGANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE MINERALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PYROLYSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BARIUM COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GAS THERMAL ANALYSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INORGANIC CHEMISTRY"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7760259949"
+}

@@ -1,0 +1,107 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Introduction aux Autobiographies : Autobiographies; Introduction to autobiographies",
+    "dc:creator": "BRUNEL, Pierre",
+    "dc:relation": "Revue de littérature comparée (Paris) -- Rev. litt. comp. (Paris), ISSN 0035-1466, Vol. 82 (1) , pp. 7-22",
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Klincksieck",
+    "dc:format": [
+        "print",
+        "16 p. ; 57 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Autobiographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Autofiction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Christie (A.)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dante"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Doubrovsky (S.)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude générique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fiction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Genette (G.)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rousseau (J. J.)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Récit"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Autobiography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Autofiction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Christie (A.)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dante"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Doubrovsky (S.)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Generic study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fiction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Genette (G.)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rousseau (J. J.)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Narrative"
+        },
+        "523-: Histoire et sciences de la litterature / History and sciences of litterature",
+        "523-5: Sciences de la littérature / Sciences of litterature",
+        "523-20P: Biographie. Autobiographie / Biography. Autobiography"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20435265"
+}

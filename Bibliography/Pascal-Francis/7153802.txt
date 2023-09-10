@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Ultrasonic wave propagation in dry and brine-saturated sandstones as a function of effective stress: laboratory measuremnts and modelling</dc:title>
+  <dc:creator>TAO, G</dc:creator>
+  <dc:creator>KING, M. S</dc:creator>
+  <dc:creator>NABI-BIDHENDI, M</dc:creator>
+  <dc:contributor>EAEG meeting (54 ; Paris 1992-06)</dc:contributor>
+  <dc:relation>Geophysical prospecting -- Geophys. prospect, CODEN GPPRAR, ISSN 0016-8025, Vol. 43 (3) , pp. 299-327</dc:relation>
+  <dc:relation>EAEG meeting (54 ; Paris 1992-06)</dc:relation>
+  <dc:date>1995</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Conference Paper</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>Blackwell</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>Illustration ; 2 p. 1/2</dc:format>
+  <dc:subject xml:lang="fr">Roche chimique</dc:subject>
+  <dc:subject xml:lang="fr">Roche clastique</dc:subject>
+  <dc:subject xml:lang="fr">Roche sédimentaire</dc:subject>
+  <dc:subject xml:lang="fr">Atténuation onde</dc:subject>
+  <dc:subject xml:lang="fr">Conductivité électrique</dc:subject>
+  <dc:subject xml:lang="fr">Contrainte</dc:subject>
+  <dc:subject xml:lang="fr">Correction</dc:subject>
+  <dc:subject xml:lang="fr">Diffraction</dc:subject>
+  <dc:subject xml:lang="fr">Facteur Q</dc:subject>
+  <dc:subject xml:lang="fr">Fréquence</dc:subject>
+  <dc:subject xml:lang="fr">Grès</dc:subject>
+  <dc:subject xml:lang="fr">Méthode ultrason</dc:subject>
+  <dc:subject xml:lang="fr">Onde P</dc:subject>
+  <dc:subject xml:lang="fr">Onde S</dc:subject>
+  <dc:subject xml:lang="fr">Onde polarisée</dc:subject>
+  <dc:subject xml:lang="fr">Onde sismique</dc:subject>
+  <dc:subject xml:lang="fr">Perméabilité</dc:subject>
+  <dc:subject xml:lang="fr">Propagation onde</dc:subject>
+  <dc:subject xml:lang="fr">Propriété roche magasin</dc:subject>
+  <dc:subject xml:lang="fr">Saturation</dc:subject>
+  <dc:subject xml:lang="fr">Saumure</dc:subject>
+  <dc:subject xml:lang="fr">Simulation numérique</dc:subject>
+  <dc:subject xml:lang="fr">Vitesse</dc:subject>
+  <dc:subject xml:lang="en">chemically precipitated rocks</dc:subject>
+  <dc:subject xml:lang="en">clastic rocks</dc:subject>
+  <dc:subject xml:lang="en">sedimentary rocks</dc:subject>
+  <dc:subject xml:lang="en">Wave attenuation</dc:subject>
+  <dc:subject xml:lang="en">electrical conductivity</dc:subject>
+  <dc:subject xml:lang="en">stress</dc:subject>
+  <dc:subject xml:lang="en">corrections</dc:subject>
+  <dc:subject xml:lang="en">diffraction</dc:subject>
+  <dc:subject xml:lang="en">Q</dc:subject>
+  <dc:subject xml:lang="en">frequency</dc:subject>
+  <dc:subject xml:lang="en">sandstone</dc:subject>
+  <dc:subject xml:lang="en">ultrasonic methods</dc:subject>
+  <dc:subject xml:lang="en">P-waves</dc:subject>
+  <dc:subject xml:lang="en">S-waves</dc:subject>
+  <dc:subject xml:lang="en">Polarized wave</dc:subject>
+  <dc:subject xml:lang="en">elastic waves</dc:subject>
+  <dc:subject xml:lang="en">permeability</dc:subject>
+  <dc:subject xml:lang="en">Wave propagation</dc:subject>
+  <dc:subject xml:lang="en">reservoir properties</dc:subject>
+  <dc:subject xml:lang="en">saturation</dc:subject>
+  <dc:subject xml:lang="en">brines</dc:subject>
+  <dc:subject xml:lang="en">digital simulation</dc:subject>
+  <dc:subject xml:lang="en">velocity</dc:subject>
+  <dc:subject xml:lang="es">Roca química</dc:subject>
+  <dc:subject xml:lang="es">Roca clástica</dc:subject>
+  <dc:subject xml:lang="es">Roca sedimentaria</dc:subject>
+  <dc:subject xml:lang="es">Atenuación onda</dc:subject>
+  <dc:subject xml:lang="es">Conductividad eléctrica</dc:subject>
+  <dc:subject xml:lang="es">Coacción</dc:subject>
+  <dc:subject xml:lang="es">Corrección</dc:subject>
+  <dc:subject xml:lang="es">Difracción</dc:subject>
+  <dc:subject xml:lang="es">Factor Q</dc:subject>
+  <dc:subject xml:lang="es">Frecuencia</dc:subject>
+  <dc:subject xml:lang="es">Gres</dc:subject>
+  <dc:subject xml:lang="es">Ultrasonido</dc:subject>
+  <dc:subject xml:lang="es">Onda P</dc:subject>
+  <dc:subject xml:lang="es">Onda S</dc:subject>
+  <dc:subject xml:lang="es">Onda polarizada</dc:subject>
+  <dc:subject xml:lang="es">Onda sísmica</dc:subject>
+  <dc:subject xml:lang="es">Permeabilidad</dc:subject>
+  <dc:subject xml:lang="es">Propagación onda</dc:subject>
+  <dc:subject xml:lang="es">Propiedad roca almacen</dc:subject>
+  <dc:subject xml:lang="es">Saturación</dc:subject>
+  <dc:subject xml:lang="es">Salmuera</dc:subject>
+  <dc:subject xml:lang="es">Simulación numérica</dc:subject>
+  <dc:subject xml:lang="es">Velocidad</dc:subject>
+  <dc:subject>001D06: Energie / Energy</dc:subject>
+  <dc:subject>001D06B02B2B: Prospection géologique. Méthodes sismiques et autres méthodes. Exploration dans les sondages. Diagraphies / Geophysical prospecting. Seismic methods and other methods. Exploration in boreholes. Well logging</dc:subject>
+  <dc:subject>001E01M04: Géophysique appliquée / Applied geophysics</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 3492980</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

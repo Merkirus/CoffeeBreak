@@ -1,0 +1,52 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ACTION DES CHLORURES DE POTASSIUM ET DE CALCIUM SUR L'ACTIVITE ANTICHOLINESTERASIQUE DES ESTERS DES ACIDES DIPHENYLPHOSPHINIQUE ET DIPHENYLTHIOPHOSPHINIQUE",
+    "dc:creator": [
+        "BRESTKIN AP",
+        "SHATAEVA GA"
+    ],
+    "dc:date": "1975",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "IZVEST. AKAD. NAUK S.S.S.R., SER. KHIM.; S.S.S.R.; DA. 1975; NO 6; PP. 1337-1341; BIBL. 10 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ANTICHOLINESTERASIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TOXICITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTERACTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORGANOPHOSPHORE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POTASSIUM CHLORURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CALCIUM CHLORURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TOXICOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TOXICOLOGY"
+        },
+        "002B02: Pharmacologie. Traitements medicamenteux / Pharmacology. Drug treatments"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7650075587"
+}

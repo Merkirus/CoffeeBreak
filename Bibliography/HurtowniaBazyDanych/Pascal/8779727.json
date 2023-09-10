@@ -1,0 +1,98 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Review of Aegean prehistory. II: The prepalatial bronze age of the southern and central Greek mainland",
+    "dc:creator": "BUTTER, J. B",
+    "dc:relation": "American journal of archaeology -- Am. j. archaeol, ISSN 0002-9114, Vol. 97 (4) , pp. 745-797",
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Archaeological Institute of America",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Chronologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Final"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mode de publication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chronology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Late"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Type of publication"
+        },
+        "525-: Prehistoire et protohistoire / Prehistory and protohistory",
+        "525-46: Europe / Europe",
+        "525-122N: Bronze / Bronze Age"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grèce"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ancien"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bronze"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Helladique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Moyen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Greece"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Early"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bronze"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Helladic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Middle"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4290669"
+}

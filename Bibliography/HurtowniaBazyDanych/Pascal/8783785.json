@@ -1,0 +1,55 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Ethnos and religion",
+    "dc:creator": "TAKAHASHI, W",
+    "dc:relation": "Shūkyō kenkyū (Tokyo. 1939) -- Shūkyō kenkyū (Tokyo. 1939) -- Journal of religious studies (Tokyo. 1939), ISSN 0387-3293, Vol. 67 (296) , pp. 1-27",
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "Japanese",
+    "dc:publisher": "Nihon Shūkyō Gakkai",
+    "dc:format": [
+        "print",
+        "64 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Anthropologie religieuse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Religion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sociologie de la religion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Groupe ethnique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Religious anthropology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Religion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sociology of religion"
+        },
+        "527-: Histoire et sciences des religions / History and sciences of religions",
+        "527-1: Sciences des religions / Studies in religion",
+        "527-2B: Généralités. Histoire des religions. Anthropologie religieuse / General subjects. History of religions. Religious anthropology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4295695"
+}

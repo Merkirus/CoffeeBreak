@@ -1,0 +1,65 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ON THE MK SPECTRAL CLASSIFICATION OF METAL-POOR LATE-TYPE STARS",
+    "dc:creator": "FOY R",
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "ASTR. AND ASTROPHYS.; DEU; DA. 1979; VOL. 78; NO 1; PP. 25-28; BIBL. 18 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ETOILE PAUVRE EN METAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETOILE TYPE AVANCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CLASSIFICATION SPECTRALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETOILE FROIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MODELE ATMOSPHERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ASTRONOMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METAL POOR STAR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LATE TYPE STAR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SPECTRAL CLASSIFICATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COOL STAR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ATMOSPHERE MODEL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ASTRONOMY"
+        },
+        "001E03: Astronomie / Astronomy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8030103505"
+}

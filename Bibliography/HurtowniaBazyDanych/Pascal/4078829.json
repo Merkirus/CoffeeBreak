@@ -1,0 +1,77 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "CONDITIONS D'OPTIMALITE POUR UNE CLASSE DE SYSTEMES A PARAMETRES REPARTIS",
+    "dc:creator": "SROCHKO VA",
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "SIBIR. MAT. ZH.; S.S.S.R.; DA. 1976; VOL. 17; NO 5; PP. 1108-1115; BIBL. 14 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "COMMANDE OPTIMALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CRITERE OPTIMALITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRINCIPE MAXIMUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROBLEME GOURSAT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROBLEME DARBOUX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SYSTEME GOURSAT-DARBOUX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AUTOMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATHEMATIQUES APPLIQUEES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPTIMAL CONTROL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPTIMALITY CRITERION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MAXIMUM PRINCIPLE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GOURSAT PROBLEM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DARBOUX PROBLEM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONTROL THEORY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "APPLIED MATHEMATICS"
+        },
+        "001A02: Mathematiques / Mathematics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7730236704"
+}

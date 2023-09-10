@@ -1,0 +1,92 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "TRANSMISSION CHARACTERISTICS AND A DESIGN METHOD OF TRANSMISSION-LINE LOW-PASS FILTERS WITH MULTIPLE PAIRS OF COINCIDENT ZEROS AND MULTIPLE PAIRS OF COINCIDENT POLES",
+    "dc:creator": [
+        "HURUYA J",
+        "SATO R"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "IEEE TRANS. MICROWAVE THEORY TECH.; ISSN 0018-9480; USA; DA. 1980; VOL. 28; NO 8; PP. 865-874; BIBL. 13 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "FILTRE HYPERFREQUENCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FILTRE PASSE BAS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONCEPTION CIRCUIT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARACTERISTIQUE FONCTIONNEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FILTRE BUTTERWORTH"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LIGNE TRANSMISSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REPONSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ZERO"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROWAVE FILTER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LOW-PASS FILTERS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CIRCUIT DESIGN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PERFORMANCE CHARACTERISTIC"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BUTTERWORTH FILTER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TRANSMISSION LINE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RESPONSE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ZERO"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONICS"
+        },
+        "001D03: Electronique / Electronics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8130151353"
+}

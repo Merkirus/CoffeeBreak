@@ -1,0 +1,112 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A report of the National Hyghway R & T Partnership initiative; Un rapport du programme de partenariat recherche-technologie sur les routes nationales",
+    "dc:creator": [
+        "MCCONACHY, J",
+        "SPICHER, R.E"
+    ],
+    "dc:relation": "Public roads -- Public roads, CODEN PUROAQ, ISSN 0033-3735, Vol. 65 (4) , pp. 2-5",
+    "dc:date": "2002",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "US Department of Transportation",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Construction routière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recherche développement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau routier"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transport routier"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Road construction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Research and development"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Road network"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Road transportation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Construcción carretera"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Investigación desarrollo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red carretera"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transporte por carretera"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works",
+        "001D14O01: Généralités. Tracé / General. Plotting"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats Unis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estados Unidos"
+        }
+    ],
+    "dc:rights": [
+        "Ecole Nationale des Ponts et Chaussées (ENPC)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14294368"
+}

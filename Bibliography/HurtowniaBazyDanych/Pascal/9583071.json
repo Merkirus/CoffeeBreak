@@ -1,0 +1,140 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Maybe the customer is not the key!",
+    "dc:creator": "ALLOCK, S",
+    "dc:relation": "Information development -- Inf. dev, CODEN INDEE8, ISSN 0266-6669, Vol. 11 (1) , pp. 15-16",
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Bowker-Saur",
+    "dc:format": [
+        "print",
+        "1 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bibliothéconomie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bibliothécaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Demande information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude critique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Expérience personnelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Relation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Service utilisateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Utilisateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Orienté client"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Utilisateur final"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Librarianship"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Librarian"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Call for information"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Critical study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Personal experience"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Relation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "User service"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "User"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Customer oriented"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "End user"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biblioteconomía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bibliotecario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Solicitud información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio crítico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Experiencia personal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Relación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Servicio usuario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Usuario"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation",
+        "001A01B02C: Gestion des services aux utilisateurs / User service management",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-C: Gestion des services d'information / Information service management"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3509949"
+}

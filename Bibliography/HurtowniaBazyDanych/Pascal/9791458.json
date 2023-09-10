@@ -1,0 +1,68 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Les concepts et définitions principales des langages d'indexation; Indexing languages: main concepts and definitions",
+    "dc:creator": "AGAFONOV, V. N",
+    "dc:relation": "Naučno-tehničeskaâ informaciâ - Vsesoûznyj institut naučnoj i tehničeskoj informacii. Seriâ 2. Informacionnye processy i sistemy -- Naučno-teh. inf. - Vses. inst. naučn. teh. inf., Ser. 2, CODEN NIPSBP, ISSN 0548-0027 (11) , pp. 1-6",
+    "dc:date": "1985",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "Russian",
+    "dc:publisher": "VINITI",
+    "dc:format": [
+        "print",
+        "16 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Formalisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Indexation coordonnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Indexation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Langage documentaire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Formalization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Coordinate indexing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Indexing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information language"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Indizacion"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lenguaje documental"
+        },
+        "001A01E: Traitement et recherche de l'information / Information processing and retrieval",
+        "001A01E01B: Terminologie. Lexiques. Thésaurus / Terminology. Lexicons. Thesaurus",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-E: Sources d'information spécialisée / Specialized information sources"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 8775070"
+}

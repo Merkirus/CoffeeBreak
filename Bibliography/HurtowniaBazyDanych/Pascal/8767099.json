@@ -1,0 +1,83 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Le Brésil développe un super-ordinateur et un super-conducteur",
+    "dc:relation": "Bulletin Chambre de Commerce Suisse-Brésilienne (292) , pp. 3-4",
+    "dc:date": "1992",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Energie électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Informatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recherche scientifique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technologie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electric power"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computer science"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Scientific research"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Technology"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Energía eléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Informática"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Investigación científica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tecnología"
+        },
+        "533-10: Generalités / General topics",
+        "533-15: Recherche. Innovation / Research. Innovation"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Brésil"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Brazil"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Brasil"
+        }
+    ],
+    "dc:rights": [
+        "Réseau Amérique Latine (AMLAT)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6517987"
+}

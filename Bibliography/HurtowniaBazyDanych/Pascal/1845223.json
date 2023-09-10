@@ -1,0 +1,37 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "INFLUENCE OF SURFACE ROUGHNESS AND WORK-HARDENED LAYERS ON THE CONTACT BETWEEN A ROUGH AND A FLAT SURFACE.; INFLUENCE DE LA RUGOSITE DE SURFACE ET DES COUCHES DURCIES PAR ECROUISSAGE SUR LE CONTACT ENTRE UNE SURFACE PLATE ET UNE SURFACE RUGUEUSE",
+    "dc:creator": "HISAKADO T",
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "WEAR; NETHERL.; DA. 1976; VOL. 37; NO 1; PP. 41-51; BIBL. 5 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "SURFACE RUGUEUSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ECROUISSAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONTACT MECANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MECANIQUE SOLIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID MECHANICS"
+        },
+        "001B: Physique / Physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7630215956"
+}

@@ -1,0 +1,141 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Effect of tungsten chemical vapor deposition nucleation step on via performance",
+    "dc:creator": [
+        "ULMER, L",
+        "GEORGES, L",
+        "VELER, J. C",
+        "MORAND, Y",
+        "BAKLI, M",
+        "FERRIER, V",
+        "LERME, M",
+        "PERROUD, L",
+        "MOREL, T"
+    ],
+    "dc:contributor": [
+        "GESSNER, T (Editor)",
+        "TORRES, J (Editor)",
+        "CREAN, G (Editor)",
+        "European Materials Research Society (Funder/Sponsor)",
+        "E-MRS Spring Meeting Conference. Symposium J (Strasbourg 1996-06-04)"
+    ],
+    "dc:relation": [
+        "Microelectronic engineering -- Microelectron. eng, CODEN MIENEF, ISSN 0167-9317, Vol. 33 (1-4) , pp. 121-127",
+        "Advanced materials for interconnections"
+    ],
+    "dc:date": "1997",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "10 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Circuit intégré"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dépôt chimique phase vapeur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fabrication microélectronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interconnexion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métallisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nucléation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tungstène"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Integrated circuit"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical vapor deposition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microelectronic fabrication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interconnection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metallizing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nucleation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrical properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tungsten"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Circuito integrado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Depósito químico fase vapor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fabricación microeléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interconexión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metalización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nucleación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad eléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Wolframio"
+        },
+        "001D03F17: Fabrication microélectronique (technologie des matériaux et des surfaces) / Microelectronic fabrication (materials and surfaces technology)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2618523"
+}

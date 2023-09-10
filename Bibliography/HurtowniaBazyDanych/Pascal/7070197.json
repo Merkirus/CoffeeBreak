@@ -1,0 +1,179 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Retrenchment, and the Generation of Fault Trees for Static, Dynamic and Cyclic Systems",
+    "dc:creator": [
+        "BANACH, Richard",
+        "BOZZANO, Marco"
+    ],
+    "dc:contributor": [
+        "Gorski, Janusz (Editor)",
+        "International Conference on Computer Safety, Reliability, and Security (25 ; Gdansk 2006)"
+    ],
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 127-141",
+        "Computer safety, reliability, and security (25th International conference, SAFECOMP 2006, Gdansk, Poland, September 27-29, 2006) -- 0SAFECOMP 2006"
+    ],
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Springer",
+        "Springer",
+        "Springer"
+    ],
+    "dc:format": [
+        "print",
+        "15 p. ; 30 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Abstraction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Arbre défaut"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Charge travail"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Maintenance logiciel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode formelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phénomène transitoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réponse transitoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système construction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système cyclique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système dynamique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système temporisé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vue multiple"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Abstraction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fault tree"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Workload"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Software maintenance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Formal method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transients"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transient response"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Construction system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cyclic system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dynamical system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Timed system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multiple view"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Abstracción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arbol defecto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carga trabajo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método formal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fenómeno transitorio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Respuesta transitoria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema construcción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema cíclico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema dinámico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema temporizado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vista múltiple"
+        },
+        "001D02: Informatique; automatique theorique; systemes / Computer science; control theory; systems"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20395155"
+}

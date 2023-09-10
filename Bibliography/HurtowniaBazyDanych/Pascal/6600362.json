@@ -1,0 +1,159 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Applications of Time-Frequency Analysis for Aging Aircraft Component Diagnostics and Prognostics",
+    "dc:creator": [
+        "CHO, Kwangik",
+        "COATS, David",
+        "ABRAMS, John",
+        "GOODMAN, Nicholas",
+        "SHIN, Yong-June",
+        "BAYOUMI, Abdel E"
+    ],
+    "dc:contributor": [
+        "Luk, Franklin (Editor)",
+        "Society of photo-optical instrumentation engineers (Organiser of meeting)",
+        "Advanced signal processing algorithms, architectures, and implementation (18 ; San Diego CA 2008)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, Vol. 7074, pp. 70740Y.1-70740Y.10",
+        "Advanced signal processing algorithms, architectures, and implementations XVIII (10-11 August 2008, San Diego CA)"
+    ],
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "12 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Aide diagnostic"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse fréquence temps"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aéronef"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Information mutuelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Localisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mesure information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode domaine temps fréquence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technique diagnostic"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Théorie information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement signal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vieillissement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0130C"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0705K"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diagnostic aid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Time-frequency analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aircraft"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mutual information"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Localization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information measure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Time frequency domain method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diagnostic techniques"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information theory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Signal processing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aging"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ayuda diagnóstica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Información mutual"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Localización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medida información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método dominio tiempo frecuencia"
+        },
+        "001B00A30C: Actes de congrès / Conference proceedings",
+        "001B00G05K: Analyse de données: algorithmes et implémentations; gestion de données / Data analysis: algorithms and implementation; data management",
+        "001D04A03: Théorie de l'information / Information theory",
+        "001D04A05D: Divers / Miscellaneous"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 21214909"
+}

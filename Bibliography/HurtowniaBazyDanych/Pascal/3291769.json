@@ -1,0 +1,73 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "TRACHEO-OESOPHAGEAL FISTULA CAUSED BY CUFFED TRACHEAL TUBES",
+    "dc:creator": [
+        "BUGGE ASPERHEIM B",
+        "BIRKELAND S",
+        "SOTREN G"
+    ],
+    "dc:date": "1981",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "SCAND. J. THORAC. CARDIOVASC. SURG.; ISSN 0036-5580; SWE; DA. 1981; VOL. 15; NO 3; PP. 315-319; BIBL. 14 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "INTUBATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRACHEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRACHEOTOMIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FISTULE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OESOTRACHEAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SONDE BALLONNET"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPLICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REANIMATION RESPIRATOIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REANIMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTUBATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTENSIVE CARE MEDICINE"
+        },
+        "002B27: Anesthesie. Reanimation. Transfusion. Therapie cellulaire et therapie genique / Anesthesia. Intensive care medicine. Transfusions. Cell therapy and gene therapy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL82X0035629"
+}

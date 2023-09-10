@@ -1,0 +1,129 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A general-purpose, geochemical reservoir simulator",
+    "dc:creator": [
+        "LIU, X",
+        "ORTOLEVA, P"
+    ],
+    "dc:contributor": [
+        "Society of Petroleum Engineers (Funder/Sponsor)",
+        "SPE annual technical conference (Denver Co 1996-10-06)"
+    ],
+    "dc:relation": "1996 SPE annual technical conference and exhibition : Denver CO, 6-9 October 1996: S Reservoir engineering",
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPE",
+    "dc:format": [
+        "print",
+        "24 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Acidification"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Champ pétrole"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecoulement milieu poreux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Géochimie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Injection eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phénomène transport"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Récupération assistée"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Acidification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oil field"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Porous medium flow"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Geochemistry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water injection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transport process"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Enhanced recovery"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acidificación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Campo petróleo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Flujo medio poroso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Geoquímica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inyección agua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fenómeno transporte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Recuperación asistida"
+        },
+        "001D06: Energie / Energy",
+        "001D06B02B5G: Méthodes de récupération assistée du pétrole / Enhanced oil recovery methods"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6270304"
+}

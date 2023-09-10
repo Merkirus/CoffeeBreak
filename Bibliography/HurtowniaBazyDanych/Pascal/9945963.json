@@ -1,0 +1,283 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Fresh whole blood and immunoglobulin permit coronary artery bypass graft surgery in patients with idiopathic thrombocytopenic purpura",
+    "dc:creator": [
+        "KONER, Ozge",
+        "CETIN, Gurkan",
+        "KARAOGLU, Kamil",
+        "SEREN, Sinan",
+        "BAKAY, Cihat"
+    ],
+    "dc:relation": "Journal of cardiothoracic and vascular anesthesia -- J. cardiothoracic vasc. anesth, ISSN 1053-0770, Vol. 15 (4) , pp. 483-484",
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "14 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil circulatoire pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Capillaire sanguin pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cardiopathie coronaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chimiothérapie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chirurgie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Peau pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vaisseau sanguin pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Adulte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Angor instable"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aortocoronaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Association morbide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dérivation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude cas"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur risque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunoglobuline"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Purpura"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sang frais"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thrombopénie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transfusion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cardiovascular disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Capillary vessel disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Coronary heart disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemotherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surgery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Skin disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vascular disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adult"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Variant angina"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aortocoronary"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Concomitant disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bypass"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Case study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Risk factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immunoglobulins"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Purpura"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fresh blood"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thrombocytopenia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transfusion"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato circulatorio patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Capilar sanguíneo patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cardiopatía coronaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Quimioterapia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cirugía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Piel patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vaso sanguíneo patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adulto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Angina inestable"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aortocoronaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asociación morbosa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Derivación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio caso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor riesgo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunoglobulina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Púrpura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sangre fresca"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trombopenia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transfusión"
+        },
+        "002B25E: Chirurgie cardiaque / Surgery of the heart"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1122599"
+}

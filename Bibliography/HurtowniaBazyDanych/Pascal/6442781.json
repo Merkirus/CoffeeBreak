@@ -1,0 +1,115 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Spin fluctuation in RCo2 compounds",
+    "dc:creator": [
+        "GARCIA, F",
+        "SOARES, M. R",
+        "TAKEUCHI, A. Y"
+    ],
+    "dc:contributor": [
+        "REZENDE, S. M (Editor)",
+        "MISSELL, F. P (Editor)",
+        "RECHENBERG, H. R (Editor)",
+        "DOS SANTOS, R. R (Editor)",
+        "MACEDO, W. A. A (Editor)",
+        "NOVAK, M. A (Editor)",
+        "ORTIZ, W. A (Editor)",
+        "PIRES, A. S. T (Editor)",
+        "Sociedade Brasileira de Física (Funder/Sponsor)",
+        "Universidade Federal de Pernambuco (Funder/Sponsor)",
+        "Universidade de São Paulo (Funder/Sponsor)",
+        "Centro Brasileiro de Pesquisas Físicas (Funder/Sponsor)",
+        "Universidade Federal do Rio de Janeiro (Funder/Sponsor)",
+        "Universidade Federal Fluminense (Funder/Sponsor)",
+        "International Union for Pure and Applied Physics (Funder/Sponsor)",
+        "ICM 2000 International Conference on Magnetism (15 ; Recife 2000-08-06)"
+    ],
+    "dc:relation": [
+        "Journal of magnetism and magnetic materials -- J. magn. magn. mater, CODEN JMMMDC, ISSN 0304-8853, Vol. 226-30, pp. 1197-1199",
+        "Proceedings of the International Conference on Magnetism (Part II)"
+    ],
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "8 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Aimantation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cobalt alliage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conductivité électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Erbium alliage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fluctuation spin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Holmium alliage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nickel alliage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Terbium alliage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cobalt alloys"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrical conductivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Erbium alloys"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spin fluctuations"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Holmium alloys"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nickel alloys"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Terbium alloys"
+        },
+        "001B70E60E: Courbes d'aimantation, inversion d'aimantation, hystérésis, effet barkhausen et phénomènes associés / Magnetization curves, magnetization reversal, hysteresis, barkhausen and related effects",
+        "7560E:  / Magnetization curves, hysteresis, Barkhausen and related effects"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1090909"
+}

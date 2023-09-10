@@ -1,0 +1,169 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Experiences with fiber optic bragg grating sensors in civil engineering",
+    "dc:creator": [
+        "BROWNJOHN, J. M. W",
+        "MOYO, P",
+        "WANG, Y",
+        "TJIN, S. C",
+        "LIM, T. K"
+    ],
+    "dc:contributor": [
+        "Fook Siong Chau (Editor)",
+        "Chenggen Quan (Editor)",
+        "International Society for Optical Engineering (Organiser of meeting)",
+        "International conference on experimental mechanics (2 ; Singapore 2000-11-29)"
+    ],
+    "dc:relation": [
+        "SPIE proceedings series -- SPIE proc. ser, pp. 241-247",
+        "Experimental mechanics (Singapore, 29 November - 1 December 2000)"
+    ],
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "6 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Capteur fibre optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Construction béton"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Génie civil"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Intégrité structure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Jauge contrainte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mesure déformation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mesure température"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mesure vibration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Monitorage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau Bragg"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement signal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fiber optic sensors"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Concrete construction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Civil engineering"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Structure integrity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Resistance strain gauge"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Deformation measurement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Temperature measurement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vibration measurement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Monitoring"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bragg grating"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Signal processing"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Construcción de hormigon"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ingeniería civil"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Integridad estructura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gauge tensión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medición deformación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medida temperatura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Monitoreo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rejilla Bragg"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Procesamiento señal"
+        },
+        "001B40F30R: Méthodes de mesure et d'essai / Measurement and testing methods",
+        "001B80A70: Essais sur les matériaux / Materials testing",
+        "001D14: Batiment. Travaux publics / Buildings. Public works",
+        "001D14A09: Mesures. Techniques expérimentales / Measurements. Technique of testing",
+        "4680:  / Measurement methods and techniques in continuum mechanics of solids",
+        "8170F:  / Nondestructive testing: optical methods"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14044791"
+}

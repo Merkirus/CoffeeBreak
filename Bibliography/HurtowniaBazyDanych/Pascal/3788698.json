@@ -1,0 +1,112 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "LA MYCORHIZATION DU CHATAIGNIER",
+    "dc:creator": [
+        "VALJALO J",
+        "DELMAS J"
+    ],
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "C.R. SEANCES ACAD. AGR. FR.; ISSN 0151-1335; FRA; DA. 1982; VOL. 68; NO 15; PP. 1147-1152; BIBL. 5 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CASTANEA SATIVA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MYCORHIZE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FUNGI"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PLANTE FRUITIERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SYMBIOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HEBELOMA CYLINDROSPORUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AGRONOMIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FAGACEAE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DICOTYLEDONES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANGIOSPERMAE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPERMATOPHYTA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "THALLOPHYTA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CASTANEA SATIVA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MYCORRHIZA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FUNGI"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FRUIT CROP"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SYMBIOSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AGRONOMY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FAGACEAE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DICOTYLEDONES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANGIOSPERMAE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SPERMATOPHYTA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THALLOPHYTA"
+        },
+        "002A32: Agronomie. Sciences du sol et productions vegetales / Agronomy. Soil science and plant productions"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALAGROLINEINRA83X0115706"
+}

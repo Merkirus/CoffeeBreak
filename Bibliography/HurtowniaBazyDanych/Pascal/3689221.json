@@ -1,0 +1,85 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ETUDE COMPAREE, PAR DIFFUSION CENTRALE DES RAYONS X ET DES NEUTRONS, DES PHENOMENES DE PRECIPITATION DANS DIVERS ALLIAGES",
+    "dc:creator": [
+        "GRAF R",
+        "RAYNAL JM",
+        "BERNOLE M"
+    ],
+    "dc:date": "1973",
+    "dc:type": "Report",
+    "dc:language": "French",
+    "dc:format": "DGRST-7173074; FR.; DA. 1973; PP. 1-15; H.T. 2; BIBL. 7 REF.; (RAPP. FINAL, ACTION CONCERTEE: METALL.)",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ALUMINIUM 50-100"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MAGNESIUM 01-10"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ZINC 00-01"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CUIVRE 01-10"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRECIPITATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TREMPE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VIEILLISSEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ZONE GUINIER PRESTON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROSCOPIE ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIFFUSION NEUTRON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ZINC 20-50"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIFFUSION RAYONNEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MONOCRISTAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIFFUSION X"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METALLURGY"
+        },
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7374012273"
+}

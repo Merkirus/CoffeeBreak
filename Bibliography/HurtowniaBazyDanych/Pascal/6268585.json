@@ -1,0 +1,65 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Proceedings: Parts I, II/4th International conference on fluid properties and phase equilibria for chemical progress design, Helsingor, May 11-16, 1986",
+    "dc:creator": [
+        "RENON, H",
+        "Thomas B. Thriges Fond",
+        "Ministry of Education",
+        "Exxon Research and Engineering",
+        "Chevron Research"
+    ],
+    "dc:contributor": "International conference on fluid properties and phase equilibria for chemical process design. 4",
+    "dc:relation": "Fluid phase equilibria -- Fluid phase equilib, CODEN FPEQDT, ISSN 0378-3812",
+    "dc:date": "1986",
+    "dc:type": [
+        "Text",
+        "Conference Proceedings"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "607 p., 391 p ; dissem"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Congrès"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Equilibre phase"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Génie chimique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Congress"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phase equilibrium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical engineering"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Congreso"
+        },
+        "001C01C: Equilibres de phases / Phase equilibria",
+        "001C01C01: Généralités / General",
+        "001C01C02: Equilibres liquide-vapeur / Liquid-vapor equilibria",
+        "001C01C03: Equilibres liquide-liquide / Liquid-liquid equilibria",
+        "001C01C04: Equilibres liquide-solide / Liquid-solid equilibria",
+        "001C01C05: Autres (incluant équilibres liquide-liquide-vapeur) / Others (including liquid-liquid-vapor equilibria)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 8792222"
+}

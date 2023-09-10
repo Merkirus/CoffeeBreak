@@ -1,0 +1,153 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "On the coarse-graining of hydrologic processes with increasing scales",
+    "dc:creator": "KAVVAS, M. L",
+    "dc:contributor": [
+        "BECKER, Alfred (Editor)",
+        "BLÖSCHL, Günter (Editor)",
+        "HALL, Alan (Editor)"
+    ],
+    "dc:relation": "Journal of hydrology (Amsterdam) -- J. Hydrol. (Amst.), CODEN JHYDA7, ISSN 0022-1694, Vol. 217 (3-4) , pp. 191-202",
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "Illustration ; 33 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bassin versant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eau surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fraction grossière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fréquence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hétérogénéité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode mathématique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transport fluviatile"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "drainage basins"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "surface water"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "coarse-grained materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "frequency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "heterogeneity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "mathematical methods"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "stream transport"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuenca"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agua superficie"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fracción gruesa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Frecuencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Heterogeneidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método matemático"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transporte fluvial"
+        },
+        "001E01N01: Hydrologie / Hydrology",
+        "001E01P02: Quaternaire marin et continental / Marine and continental quaternary"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats Unis"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Californie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "California"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estados Unidos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "California"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1760267"
+}

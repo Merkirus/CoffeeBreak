@@ -1,0 +1,274 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Population balance modelling of fluidized bed melt granulation : An overview",
+    "dc:creator": [
+        "TAN, H. S",
+        "GOLDSCHMIDT, M. J. V",
+        "BOEREFIJN, R",
+        "HOUNSLOW, M. J",
+        "SALMAN, A. D",
+        "KUIPERS, J. A. M"
+    ],
+    "dc:contributor": [
+        "BIGGS, Simon (Editor)",
+        "DODDS, John (Editor)",
+        "World Congress of Chemical Engineering (7 ; Glasgow 2005-07-10)"
+    ],
+    "dc:relation": [
+        "Chemical engineering research & design -- Chem. eng. res. des, CODEN CERDEE, ISSN 0263-8762, Vol. 83 (7) , pp. 871-880",
+        "7th World Congress of Chemical Engineering"
+    ],
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institution of Chemical Engineers",
+    "dc:format": [
+        "print",
+        "10 p. ; 10 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Agrégation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cinétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Collision particule"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Condition opératoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Constante vitesse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Distribution dimension particule"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecoulement granulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Energie cinétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Equilibre population"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Extrait"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fluidisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fonction fragmentation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Granulation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Granulé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lit fluidisé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Théorie cinétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traceur"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aggregation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Kinetics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Particle collision"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Operating conditions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rate constant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Particle size distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Granular flow"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Kinetic energy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Population balance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Extract"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fluidization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Breakage function"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Granulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Granule"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fluidized bed"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Kinetic theory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tracers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "discrete element model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "fluidized bed"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "granulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "kinetics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "population balance"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agregación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cinética"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Colisión partícula"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Condición operatoria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Constante velocidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Distribución dimensión partícula"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Energía cinética"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Equilibrio poblacional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Extracto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fluidización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "función fragmentación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Granulación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Granulado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lecho fluidizado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Teoría cinética"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trazador"
+        },
+        "001D07F: Fluidisation / Fluidization",
+        "001D07Q04: Frittage, agglomération, granulation / Sintering, pelletization, granulation",
+        "001D07Q07: Divers / Miscellaneous"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16955165"
+}

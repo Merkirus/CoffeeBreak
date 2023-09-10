@@ -1,0 +1,170 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "CALCUL DES PROPRIETES RADIATIVES DE SURFACES MACRORUGUEUSES PAR LA METHODE DE MONTE CARLO: CONFRONTATION AVEC LES EMISSIVITES MONOCHROMATIQUES DIRECTIONNELLES MESUREES POUR DES ACIERS INOXYDABLES; RADIATIVE PROPERTY CALCULATION OF MACRO-RUGOSE SURFACES BY MONTE CARLO METHOD: COMPARISON WITH DIRECTIONAL MONOCHROMATIC EMISSIVITIES MEASURED FROM STAINLESS STEELS",
+    "dc:creator": "TRAN N'GUYEN HIEP",
+    "dc:date": "1981",
+    "dc:type": "Thesis",
+    "dc:language": "French",
+    "dc:format": "; FRA; DA. 1981; 195 P.; 30 CM; BIBL. DISSEM.; TH. DOCT.-ING.: THERM./CHATENAY-MALABRY, EC. CENT. ARTS MANUF./1981",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ACIER INOXYDABLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPRIETE THERMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EMISSIVITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE THEORIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MODELE MATHEMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RUGOSITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SURFACE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE EXPERIMENTALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RAYONNEMENT THERMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPRIETE RADIATIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SURFACE RUGUEUSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CALCUL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE MONTE CARLO"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MESURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE COMPARATIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACIERA CR NI"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACIER 304L"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACIER 316"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STAINLESS STEEL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THERMAL PROPERTIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EMISSIVITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THEORETICAL STUDY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MATHEMATICAL MODEL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ROUGHNESS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SURFACE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXPERIMENTAL STUDY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEAT RADIATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RADIATIVE PROPERTIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ROUGH SURFACE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STONE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MONTE CARLO METHOD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STAINLESS STEEL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MEASUREMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COMPARATIVE STUDY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METALLURGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY"
+        },
+        "001D06: Energie / Energy",
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8200024010"
+}

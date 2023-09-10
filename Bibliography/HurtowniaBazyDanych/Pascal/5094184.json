@@ -1,0 +1,61 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Baptists and public life",
+    "dc:contributor": "JOHNSON, Robert E (Author of introductory parts)",
+    "dc:relation": "American Baptist quarterly -- Am. Baptist q, ISSN 0745-3698, Vol. 21 (4)",
+    "dc:date": "2002",
+    "dc:type": [
+        "Text",
+        "Serial Issue"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "American Baptist Historical Society",
+    "dc:format": [
+        "print",
+        "118 p. ; ref. et notes dissem"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Baptiste"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eglise-Etat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Histoire religieuse"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Baptist"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Church-State"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Religious history"
+        },
+        "527-: Histoire et sciences des religions / History and sciences of religions",
+        "527-865: Christianisme / Christianity",
+        "527-1331: Eglise et Etat / Church and state"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats-Unis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States of America"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14656395"
+}

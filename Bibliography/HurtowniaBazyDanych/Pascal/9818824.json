@@ -1,0 +1,227 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "An outbreak of Legionella micdadei pneumonia in transplant patients : Evaluation, molecular epidemiology, and control",
+    "dc:creator": [
+        "KNIRSCH, C. A",
+        "JAKOB, K",
+        "SCHOONMAKER, D",
+        "KIEHLBAUCH, J. A",
+        "WONG, S. J",
+        "DELLA-LATTA, P",
+        "WHITTIER, S",
+        "LAYTON, M",
+        "SCULLY, B"
+    ],
+    "dc:relation": "The American journal of medicine -- Am. j. med, CODEN AJMEAZ, ISSN 0002-9343, Vol. 108 (4) , pp. 290-295",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "38 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil respiratoire pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bactérie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chirurgie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Legionellaceae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Biologie clinique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dépistage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epidémiologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etiologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur risque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Infection nosocomiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pneumonie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pullulation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tatlockia micdadei"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transplantation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Respiratory disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bacteria"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surgery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Legionellaceae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Clinical biology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Medical screening"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Epidemiology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Etiology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Evaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Risk factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nosocomial infection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pneumonia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Outbreak"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tatlockia micdadei"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transplantation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato respiratorio patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bacteria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cirugía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Legionellaceae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biología clínica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Descubrimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Epidemiología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Etiología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evaluación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor riesgo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Infección nosocomial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Neumonía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pululación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tatlockia micdadei"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trasplantación"
+        },
+        "002B11D: Appareil respiratoire : syndromes et maladies diverses / Respiratory system : syndromes and miscellaneous diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1300573"
+}

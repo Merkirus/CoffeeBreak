@@ -1,0 +1,160 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Innovation takes CCBs from liabilities to assets",
+    "dc:creator": "CHAMBERS, A",
+    "dc:relation": "Power engineering (Barrington, IL.) -- Power eng. (Barringt. IL.), CODEN POENAI, ISSN 0032-5961, Vol. 104 (3) , pp. 46-50",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "PennWell",
+    "dc:format": [
+        "print",
+        "3 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Boue résiduaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cendre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Centrale thermique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Charbon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Désulfuration gaz combustion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résidu combustion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réutilisation déchet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Scorie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sewage sludge"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ash"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermal power plant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Coal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Combustion gas desulfurization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Combustion residue"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Waste reuse"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Slag"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lodo residual"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ceniza"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Central térmica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carbón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desulfuración gas combustión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resíduo combustión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reutilización desperdicios"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Escoria"
+        },
+        "001D06: Energie / Energy",
+        "001D06D04C: Centrales thermiques / Thermal power plants"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats Unis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estados Unidos"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1323987"
+}

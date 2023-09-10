@@ -1,0 +1,226 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Complications of systemic corticosteroid therapy for problematic hemangioma",
+    "dc:creator": [
+        "BOON, L. M",
+        "MACDONALD, D. M",
+        "MULLIKEN, J. B"
+    ],
+    "dc:contributor": "Biennial Meeting of the International Society for the Study of Vascular Anomalies (Berlin 1998-06)",
+    "dc:relation": [
+        "Plastic and reconstructive surgery (1963) -- Plast. reconstr. surg. (1963), ISSN 0032-1052, Vol. 104 (6) , pp. 1616-1623",
+        "Biennial Meeting of the International Society for the Study of Vascular Anomalies (Berlin 1998-06)"
+    ],
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Lippincott Williams & Wilkins",
+    "dc:format": [
+        "print",
+        "34 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil circulatoire pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vaisseau sanguin pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Angiome"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chimiothérapie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Complication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Congénital"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Corticostéroïde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Court terme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enfant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enquête"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Long terme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rétrospective"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Toxicité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Voie générale"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cardiovascular disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vascular disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Angioma"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemotherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Complication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Congenital"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Corticosteroid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Short term"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Child"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Survey"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Long term"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Retrospective"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Toxicity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Systemic route"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato circulatorio patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vaso sanguíneo patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Angioma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Quimioterapia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Complicación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Congénito"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Corticoesteroide"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Corto plazo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Niño"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Encuesta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Largo plazo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Retrospectiva"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Toxicidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vía general"
+        },
+        "002B02U10: Divers (allergie médicamenteuse, mutagènes, tératogènes...) / Miscellaneous (drug allergy, mutagens, teratogens...)",
+        "002B12B03: Maladies vasculaires des membres. Pathologie de la veine cave. Maladies vasculaires diverses / Diseases of the peripheral vessels. Diseases of the vena cava. Miscellaneous"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1998801"
+}

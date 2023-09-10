@@ -1,0 +1,250 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A study on fabrication of sulfonated poly(ether ether ketone)-based membrane-electrode assemblies for polymer electrolyte membrane fuel cells",
+    "dc:creator": [
+        "PARK, Jin-Soo",
+        "KRISHNAN, Palanichamy",
+        "PARK, Seok-Hee",
+        "PARK, Gu-Gon",
+        "YANG, Tae-Hyun",
+        "LEE, Won-Yong",
+        "KIM, Chang-Soo"
+    ],
+    "dc:contributor": [
+        "CROCE, F (Editor)",
+        "MOSELEY, P. T (Editor)",
+        "International Conference on Polymer Batteries - Fuel Cells (PBFC 2007) (3 ; Rome 2005-06-13)"
+    ],
+    "dc:relation": [
+        "Journal of power sources -- J. power sources, CODEN JPSODZ, ISSN 0378-7753, Vol. 178 (2) , pp. 642-650",
+        "3rd International Conference on Polymer Batteries - Fuel Cells (PBFC 2007)"
+    ],
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Sequoia",
+    "dc:format": [
+        "print",
+        "9 p. ; 25 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Calorimétrie différentielle balayage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Caractéristique courant tension"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Catalyseur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conductivité protonique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cétone polymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Electrolyte polymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fabrication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ionomère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Liant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Membrane"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Performance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pile combustible"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Porosité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété physique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété électrochimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectrométrie IR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Differential scanning calorimetry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Voltage current curve"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Catalyst"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Proton conductivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ketone polymer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polymer electrolytes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Manufacturing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ionomer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Binders"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Membrane"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Performance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fuel cell"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Porosity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Physical properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrochemical properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infrared spectrometry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Catalyst electrode"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Membrane-electrode assembly"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polymer electrolyte membrane fuel cell"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Porosity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sulfonated poly(ether ether ketone) membrane"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis calorimétrico barrido exploración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Característica corriente tensión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Catalizador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conductividad protónica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cetona polímero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fabricación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ionómero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ligante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Membrana"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rendimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pila combustión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Porosidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad física"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad electroquímica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Espectrometría IR"
+        },
+        "001D06: Energie / Energy",
+        "001D06D03E: Piles à combustible / Fuel cells"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20344542"
+}

@@ -1,0 +1,53 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DETERMINATION OF PORE SIZE DISTRIBUTION BY SUCTION POROSIMETRY",
+    "dc:creator": "FAGERLUND G",
+    "dc:date": "1973",
+    "dc:type": "Serial Issue",
+    "dc:language": "English",
+    "dc:format": "MATER. ET CONSTR.; FR.; DA. 1973; VOL. 6; NO 33; PP. 191-201; ABS. FR.; BIBL. 29 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "POROSIMETRIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POROSIMETRIE SUCCION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POROSITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE ETUDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TYPE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE PHYSIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE GENERALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHYSICAL CHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENERAL CHEMISTRY"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7317036903"
+}

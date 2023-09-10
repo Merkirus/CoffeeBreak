@@ -1,0 +1,214 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Evaluation of a Spray-Dried CuO/MgAl2O4 Oxygen Carrier for the Chemical Looping with Oxygen Uncoupling Process",
+    "dc:creator": [
+        "ADANEZ-RUBIO, Iñaki",
+        "GAYAN, Pilar",
+        "ABAD, Alberto",
+        "DE DIEGO, Luis F",
+        "GARCIA-LABIANO, Francisco",
+        "ADANEZ, Juan"
+    ],
+    "dc:contributor": "International Conference on Petroleum Phase Behavior and Fouling (12 ; London 2011-07-10)",
+    "dc:relation": [
+        "Energy & fuels -- Energy fuels, CODEN ENFUEM, ISSN 0887-0624, Vol. 26 (MAIJUN) , pp. 3069-3081",
+        "International Conference on Petroleum Phase Behavior and Fouling (12 ; London 2011-07-10)"
+    ],
+    "dc:date": "2012",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "American Chemical Society",
+    "dc:format": [
+        "print",
+        "13 p. ; 32 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Agglomération"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Attrition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Combustible solide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Condition opératoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dioxyde de carbone"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecoulement gaz solide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet concentration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet oxygène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fluidisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Haute température"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Séchage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thermogravimétrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transporteur oxygène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Combustion en boucle chimique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Agglomeration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Attrition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Solid fuel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Operating conditions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Carbon dioxide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gas solid flow"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Concentration effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oxygen effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Evaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fluidization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High temperature"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Drying"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermogravimetry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oxygen carrier"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical looping combustion"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aglomeración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Atrición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Combustible sólido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Condición operatoria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carbono dióxido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Flujo gas sólido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efecto concentración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efecto oxígeno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evaluación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fluidización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alta temperatura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Secado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Termogravimetría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transportador oxígeno"
+        },
+        "001D06: Energie / Energy",
+        "001D06B: Combustibles / Fuels",
+        "001D06D: Energie. Utilisation thermique des combustibles / Energy. Thermal use of fuels"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 26094652"
+}

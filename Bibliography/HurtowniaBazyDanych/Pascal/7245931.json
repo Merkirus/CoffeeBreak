@@ -1,0 +1,103 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Experimental characterization of novel materials for nonlinear optics represented by iodoform complexes",
+    "dc:creator": [
+        "KOHLER, D",
+        "ENDERLE, T",
+        "STAEHELIN, M",
+        "ZSCHOKKE, I"
+    ],
+    "dc:contributor": [
+        "INOKUCHI, Hiroa (Editor)",
+        "MITANI, Tadaoki (Editor)",
+        "KOTANI, Masahiro (Editor)",
+        "International conference on unconventional photoactive solids (5 ; Okasaki 1991-10-13)"
+    ],
+    "dc:relation": [
+        "Molecular crystals and liquid crystals (1991) -- Mol. cryst. liq. crist. (1991), ISSN 1056-8816, Vol. 216-8, pp. 13-18",
+        "International conference on unconventional photoactive solids"
+    ],
+    "dc:date": "1992",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Gordon and Breach",
+        "Gordon and Breach",
+        "Gordon and Breach"
+    ],
+    "dc:format": [
+        "print",
+        "8 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Complexe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Iodoforme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau organique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optique non linéaire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Complexes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Iodoform"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical material"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Organic material"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Non linear optics"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Complejo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Iodoformo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Material óptico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Material orgánico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Optica no lineal"
+        },
+        "001B40B65: Optique non linéaire / Nonlinear optics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4609105"
+}

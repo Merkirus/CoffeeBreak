@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Security Enhancement Mechanism for Ad-Hoc OLSR Protocol</dc:title>
+  <dc:creator>DOH, Inshil</dc:creator>
+  <dc:creator>CHAE, Kijoon</dc:creator>
+  <dc:creator>KIM, Howon</dc:creator>
+  <dc:creator>CHUNG, Kyoil</dc:creator>
+  <dc:contributor>International Conference on Information Networking (Sendai 2006)</dc:contributor>
+  <dc:relation>Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 317-326</dc:relation>
+  <dc:relation>Information networking (advances in data communications and wireless networks) -- 0ICOIN 2006</dc:relation>
+  <dc:date>2006</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Conference Paper</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>Springer</dc:publisher>
+  <dc:publisher>Springer</dc:publisher>
+  <dc:publisher>Springer</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>10 p. ; 16 ref</dc:format>
+  <dc:subject xml:lang="fr">Authentification message</dc:subject>
+  <dc:subject xml:lang="fr">Routage</dc:subject>
+  <dc:subject xml:lang="fr">Réseau sans fil</dc:subject>
+  <dc:subject xml:lang="fr">Service proactif</dc:subject>
+  <dc:subject xml:lang="fr">Signature électronique</dc:subject>
+  <dc:subject xml:lang="fr">Système réparti</dc:subject>
+  <dc:subject xml:lang="fr">Vulnérabilité</dc:subject>
+  <dc:subject xml:lang="en">Message authentication</dc:subject>
+  <dc:subject xml:lang="en">Routing</dc:subject>
+  <dc:subject xml:lang="en">Wireless network</dc:subject>
+  <dc:subject xml:lang="en">Proactive service</dc:subject>
+  <dc:subject xml:lang="en">Digital signature</dc:subject>
+  <dc:subject xml:lang="en">Distributed system</dc:subject>
+  <dc:subject xml:lang="en">Vulnerability</dc:subject>
+  <dc:subject xml:lang="es">Enrutamiento</dc:subject>
+  <dc:subject xml:lang="es">Red sin hilo</dc:subject>
+  <dc:subject xml:lang="es">Sevicio proactivo</dc:subject>
+  <dc:subject xml:lang="es">Firma numérica</dc:subject>
+  <dc:subject xml:lang="es">Sistema repartido</dc:subject>
+  <dc:subject xml:lang="es">Vulnerabilidad</dc:subject>
+  <dc:subject>001D02B04: Systèmes informatiques et systèmes répartis. Interface utilisateur / Computer systems and distributed systems. User interface</dc:subject>
+  <dc:subject>001D02B07C: Gestion des mémoires et des fichiers (y compris la protection et la sécurité des fichiers) / Memory and file management (including protection and security)</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 20014383</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

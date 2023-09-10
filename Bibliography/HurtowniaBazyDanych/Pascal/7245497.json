@@ -1,0 +1,128 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Exclusive economic zone: international training course in managing energy and nonenergy mineral resources",
+    "dc:creator": [
+        "PADAN, J. W",
+        "MILOSAVICH, M. A",
+        "MIDDLETON, R. W"
+    ],
+    "dc:contributor": "25th Annual Offshore Technology Conference (Houston TX 1993-05-03)",
+    "dc:relation": "Geology, earth sciences & environment",
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:format": [
+        "print",
+        "vol. 1, 127-136"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude cas"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exploitation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Formation professionnelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gestion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Industrie énergie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Minéral"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Case study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Exploitation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Occupational training"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Energy industry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Minerals"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio caso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Explotación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Formación profesional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gestión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Industria energética"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mineral"
+        },
+        "001D06: Energie / Energy",
+        "001D06A02: Personnel. Formation professionnelle. Organisation du travail. Contrôle. Sécurité. Accidents. Maladies professionnelles / Staff. Occupational work. Work management. Control. Safety. Accidents. Professional diseases"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hongrie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hungary"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hungría"
+        }
+    ],
+    "dc:rights": [
+        "Institut Français du Pétrole et des Energies Nouvelles (IFP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6403555"
+}

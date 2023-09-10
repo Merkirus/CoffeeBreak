@@ -1,0 +1,60 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SALTING-IN OF ALCOHOLS BY SYMMETRICAL TETRA-ALKYLAMMONIUM BROMIDES",
+    "dc:creator": [
+        "AVEYARD R",
+        "HESELDEN R"
+    ],
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. CHEM. SOC., FARADAY TRANS., 1; G.B.; DA. 1974; VOL. 70; NO 11; PP. 1953-1964; BIBL. 37 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ALCANOL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AMMONIUM QUATERNAIRE COMPOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOLUTION AQUEUSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSFERT CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EFFET SEL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STRUCTURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE PHYSIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE GENERALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHYSICAL CHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENERAL CHEMISTRY"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7517005637"
+}

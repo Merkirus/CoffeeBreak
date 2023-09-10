@@ -1,0 +1,74 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DERIVATION OF ALL FIGURES FORMED BY THE INTERSECTION OF GENERALIZED POLYGONS.; METHODE POUR TROUVER TOUTES LES FIGURES FORMEES PAR L'INTERSECTION DE POLYGONES GENERALISES",
+    "dc:creator": "YAMIN M",
+    "dc:date": "1975",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "BELL SYST. TECH. J.; U.S.A.; DA. 1975; VOL. 51; NO 7; PP. 1595-1610",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "FABRICATION MICROELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MASQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONCEPTION ASSISTEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROGRAMME ORDINATEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FIGURE INTERSECTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLYGONE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROMAGNETISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INFORMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATHEMATIQUES APPLIQUEES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROMAGNETISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COMPUTER SCIENCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "APPLIED MATHEMATICS"
+        },
+        "001A02: Mathematiques / Mathematics",
+        "001D03: Electronique / Electronics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7630132299"
+}

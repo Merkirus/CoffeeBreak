@@ -1,0 +1,81 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "CATALOGUE OF FORAMINIFERA. SUPPLEMENT FOR 1976. ADDITIONS AND CORRECTIONS.",
+    "dc:creator": [
+        "SAITO T",
+        "HILLMAN NS",
+        "JANAL MJ"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Serial Issue",
+    "dc:language": "English",
+    "dc:format": "CATALOGUE FORAMINIF. ELLIS MESSINA; U.S.A.; DA. 1976; SUPPL. 1; PP. (940P.); 406 ILL.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MONOGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FORAMINIFERA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CATALOGUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PALEONTOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROTOZOA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MONOGRAPHS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FORAMINIFERA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CATALOGS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PALEONTOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PROTOZOA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PROTISTA"
+        },
+        "001E01Q: Paléontologie / Paleontology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALGEODEBRGM7720213527"
+}

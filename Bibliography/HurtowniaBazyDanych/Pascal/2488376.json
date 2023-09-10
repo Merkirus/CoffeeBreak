@@ -1,0 +1,50 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "PROCEEDINGS/NEUTRINO '82, INTERNATIONAL CONFERENCE, BALATONFUERED, JUNE 14-19, 1982",
+    "dc:creator": [
+        "FRENKEL A ED",
+        "JENIK L ED",
+        null,
+        "EUROPEAN PHYSICAL SOCIETY HUNGARIAN ACADEMY OF SCIENCES, CENTRAL RESEARCH INSTITUTE FOR PHYSICS/HUN ROLAND EOETVOES PHYSICAL SOCIETY/HUN"
+    ],
+    "dc:date": "1982",
+    "dc:type": "Conference Proceedings",
+    "dc:language": "English",
+    "dc:format": "NEUTRINO '82. INTERNATIONAL CONFERENCE/1982-06-14/BALATONFUEREF; HUN; BUDAPEST: KFKI; DA. 1982; 3 VOL.; 24 CM; ISBN 963-371-958-5",
+    "dc:subject": [
+        {
+            "@xml:lang": "en",
+            "#text": "EXOCRINE PANCREAS INSUFFICIENCY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTESTINAL MALABSORPTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CYANOCOBALAMIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ETIOPATHOGENESIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COMPLICATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VITAMIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        "001B20: Physique nucleaire / Nuclear physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0300424"
+}

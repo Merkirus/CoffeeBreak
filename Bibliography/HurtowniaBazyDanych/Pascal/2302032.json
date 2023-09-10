@@ -1,0 +1,57 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "OPTICAL FIBER COMMUNICATIONS LINK DESIGN.",
+    "dc:creator": "WITTKE JP",
+    "dc:date": "1975",
+    "dc:type": "Conference Paper",
+    "dc:language": "English",
+    "dc:format": "IN: GUIDED OPT. COMMUN. SEMIN.; SAN DIEGO, CALIF.; 1975; PALOS VERDES ESTATES; SOC. PHOTO-OPT. INSTRUM. ENG.; DA. 1975; PP. 58-67; BIBL. 19 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "GUIDE ONDE OPTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FIBRE OPTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TELECOMMUNICATION OPTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RAPPORT SIGNAL BRUIT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OPTIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPTICAL WAVEGUIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPTICAL FIBER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPTICAL TELECOMMUNICATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SIGNAL-TO-NOISE RATIO"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPTICS"
+        },
+        "001B: Physique / Physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7730224271"
+}

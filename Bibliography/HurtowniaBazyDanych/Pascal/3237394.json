@@ -1,0 +1,85 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE USE OF WIDE-LINE (14N) NITROGEN NMR AS A PROBE IN MODEL MEMBRANES",
+    "dc:creator": [
+        "SIMINOVITCH DJ",
+        "RANCE M",
+        "JEFFREY KR"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "F.E.B.S. LETTERS; NLD; DA. 1980; VOL. 112; NO 1; PP. 79-82; BIBL. 22 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ETAT DISPERSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE RMN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSITION PHASE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TEMPERATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHOSPHOLIPIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHOSPHATIDYLCHOLINE(DI-O-PALMITOYL)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MOMENT QUADRIPOLAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AZOTE 14"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOPHYSIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DISPERSED STATE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NMR SPECTROMETRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHASE TRANSITIONS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TEMPERATURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHOSPHOLIPID"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "QUADRUPOLE MOMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOPHYSICS"
+        },
+        "002A02: Biochimie analytique, structurale et metabolique / Analytical, structural and metabolic biochemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8110007254"
+}

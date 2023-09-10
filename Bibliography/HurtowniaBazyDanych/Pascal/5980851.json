@@ -1,0 +1,87 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Maîtrise de la qualité dimensionnelle: une faille dans votre assurance qualité; Control of dimensional quality: a failure in our quality assurance",
+    "dc:creator": [
+        "BOULANGER, J",
+        "BOMBARDELLI, L",
+        "PRIEL, M"
+    ],
+    "dc:contributor": "MOQUARD, E",
+    "dc:relation": "Revue pratique de contrôle industriel (1984) -- Rev. prat. contrôle ind. (1984), CODEN RCOIAP, ISSN 0766-5210, Vol. 34 (192) , pp. 29-33",
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Ampère",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Assurance qualité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrôle dimensionnel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etat surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Normalisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Norme ISO"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quality assurance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dimensional control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface conditions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Standardization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ISO standard"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aseguración calidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Control dimensional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estado superficie"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Normalización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Norma ISO"
+        },
+        "001D12C01: Généralités / General"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3512388"
+}

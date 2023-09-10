@@ -1,0 +1,91 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "LES POSSIBILITES DE L'EMPLOI DE L'ACIDE GAMMA -AMINOBUTYRIQUE POUR LE TRAITEMENT DES INTOXICATIONS CHRONIQUES PAR LES XANTHOGENATES",
+    "dc:creator": [
+        "NAZARETYAN RA",
+        "BABAYAN EH A",
+        "SARUKHANYAN ZH G",
+        "MARTIROSYAN AS",
+        "DARBINYAN GV"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "GIG. TRUDA PROF. ZABOLEV.; SUN; DA. 1980; NO 5; PP. 32-35; ABS. ENG; BIBL. 35 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "INTOXICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHRONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BUTYRIQUE ACIDE GAMMA -AMINO"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIOTHERAPIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PREVENTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRAITEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANIMAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "XANTHINE DERIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TOXICOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POISONING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHRONIC"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMOTHERAPY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PREVENTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TREATMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANIMAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "XANTHINE DERIVATIVES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TOXICOLOGY"
+        },
+        "002B02: Pharmacologie. Traitements medicamenteux / Pharmacology. Drug treatments"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8110009785"
+}

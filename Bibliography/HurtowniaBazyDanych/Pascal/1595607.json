@@ -1,0 +1,101 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "FINE CONTROL OF THE CONVERSION OF PYRUVATE (PHOSPHOENOLPYRUVATE) TO OXALOACETATE IN VARIOUS SPECIES.",
+    "dc:creator": "SCRUTTON MC",
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "F.E.B.S. LETTERS; NETHERL.; DA. 1978; VOL. 89; NO 1; PP. 1-9; BIBL. 1 P. 1/2",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PYRUVATE CARBOXYLASE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHOSPHOPYRUVATE CARBOXYLASE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REGULATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ARTICLE SYNTHESE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANIMAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FUNGI"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BACTERIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CYCLE TRICARBOXYLIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOSYNTHESE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENZYME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OXALOACETATE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOCHIMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PYRUVATE CARBOXYLASE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REGULATION(CONTROL)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REVIEW"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANIMAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BACTERIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "KREBS CYCLE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOSYNTHESIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENZYMES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOCHEMISTRY"
+        },
+        "002A02: Biochimie analytique, structurale et metabolique / Analytical, structural and metabolic biochemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7850433587"
+}

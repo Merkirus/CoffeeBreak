@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Transmission in the vicinity of the Dirac point in hexagonal photonic crystals",
+    "dc:creator": [
+        "DIEM, Marcus",
+        "KOSCHNY, Thomas",
+        "SOUKOULIS, C. M"
+    ],
+    "dc:contributor": [
+        "SOUKOULIS, Costas (Editor)",
+        "KAFESAKI, Maria (Editor)",
+        "International Conference on Electrical Transport and Optical Properties of Inhomogeneous Media (ETOPIM) (8 ; Rethymnon, Crete 2009-06-07)"
+    ],
+    "dc:relation": [
+        "Physica. B, Condensed matter -- Physica, B Condens. matter, ISSN 0921-4526, Vol. 405 (14) , pp. 2990-2995",
+        "Proceedings of the Eighth International Conference on Electrical Transport and Optical Properties of Inhomogeneous Media: ETOPIM-8, Rethymnon, Crete, Greece, 7-12 June 2009"
+    ],
+    "dc:date": "2010",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "6 p. ; 36 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Cristal photonique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur transmission"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matrice diffusion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4270Q"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photonic crystals"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transmittance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Scattering matrix"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dirac point"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photonic crystals"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Scaling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transmittance"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor transmisión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Matriz difusión"
+        },
+        "001B40B70Q: Matériaux à bande interdite photonique interdite / Photonic bandgap materials"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 22963384"
+}

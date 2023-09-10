@@ -1,0 +1,60 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ALCOOL ET GROSSESSE...: ALCOOL ET ENFANT",
+    "dc:creator": [
+        "VEDRINE MF",
+        "PLAT P"
+    ],
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "MED. INFANT.; ISSN 0025-6773; FRA; DA. 1982; VOL. 89; NO 2; PP. 253-262; BIBL. 51 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ALCOOLISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GESTATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SYNDROME ALCOOLIQUE FOETAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TOXICOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ALCOHOLISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PREGNANCY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FETAL ALCOHOL SYNDROME"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TOXICOLOGY"
+        },
+        "002B02: Pharmacologie. Traitements medicamenteux / Pharmacology. Drug treatments"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL82X0319965"
+}

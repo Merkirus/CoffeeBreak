@@ -1,0 +1,92 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Ruimelijke modellering van de relatie tussen fysische landschapskenmerken en het Mesolithisch nederzettingspatroon in de Antwerse Noorderkempen; Modelé spatial de la relation entre caractéristiques naturelles du paysage et le schéma d'implantation mésolithique dans la Campine septentrionale anversoise",
+    "dc:creator": "VANACKER, V",
+    "dc:relation": "De Aardrijkskunde (3) , pp. 33-41",
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "Dutch, Flemish",
+    "dc:format": [
+        "print",
+        "Illustration ; 17 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse spatiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Archéologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode de Monte Carlo"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système d'information géographique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spatial analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Archaeology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Monte Carlo analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Geographical information system"
+        },
+        "531-: Bgi / Prodig / Bgi / Prodig",
+        "531-153: Europe / Europe",
+        "531-235: Géographie physique / Physical geography"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Antwerpen"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Belgique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vlaanderen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antwerpen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Belgium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Flanders"
+        }
+    ],
+    "dc:rights": [
+        "Bibliographie Géographique Internationale - Pôle de Recherche pour l'Organisation et la Diffusion de l'Information Géographique (PRODIG)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6204674"
+}

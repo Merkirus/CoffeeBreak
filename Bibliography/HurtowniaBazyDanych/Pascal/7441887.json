@@ -1,0 +1,50 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Lutherische Impulse für das Europa der Zukunft; Lutheran impulses for the Europa of the future",
+    "dc:creator": "LAPP, Michael",
+    "dc:relation": "Luther -- Luther, ISSN 0340-6210, Vol. 72 (3) , pp. 157-161",
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "German",
+    "dc:publisher": "Vandenhoeck & Ruprecht",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "La Réforme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Luther (M.)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "The Reformation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Luther (M.)"
+        },
+        "527-: Histoire et sciences des religions / History and sciences of religions",
+        "527-865: Christianisme / Christianity",
+        "527-1335: Fondements / Foundations"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 13449622"
+}

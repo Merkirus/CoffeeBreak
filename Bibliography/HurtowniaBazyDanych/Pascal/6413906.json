@@ -1,0 +1,151 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Revisiting the B-factor variation in a-SiC:H deposited by HWCVD",
+    "dc:creator": [
+        "SWAIN, Bibhu P",
+        "PATIL, Samadhan B",
+        "KUMBHAR, Alka",
+        "DUSANE, R. O"
+    ],
+    "dc:contributor": [
+        "SCHROPP, R. E. I (Editor)",
+        "SCHUBERT, M. B (Editor)",
+        "International Conference on Cat-CVD (Hot-Wire CVD) Process (2 ; Denver, Colorado 2002-09-10)"
+    ],
+    "dc:relation": [
+        "Thin solid films -- Thin solid films, CODEN THSFAP, ISSN 0040-6090, Vol. 430 (1-2) , pp. 186-188",
+        "Proceedings of the Second International Conference on Cat-CVD (Hot Wire CVD) Process, Denver, Colorado, USA, September 10-13, 2002"
+    ],
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "3 p. ; 20 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bande interdite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dépôt chimique phase vapeur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fil chaud"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau amorphe hydrogéné"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Procédé dépôt"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Relation fabrication propriété"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Silicium carbure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectre Raman"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectre absorption"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "C Si"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "a-SiC:H"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Energy gap"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CVD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hot wire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Amorphous hydrogenated material"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Deposition process"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fabrication property relation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Silicon carbides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Raman spectra"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Absorption spectra"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "B-parameter"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hot-wire chemical vapour deposition (HWCVD)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tauc plot"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hilo caliente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Procedimiento revestimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Relación fabricación propiedad"
+        },
+        "001B70H66J: Semiconducteurs amorphes ; verres / Amorphous semiconductors; glasses",
+        "7866J:  / Amorphous semiconductors; glasses; nanocrystalline materials"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14811251"
+}

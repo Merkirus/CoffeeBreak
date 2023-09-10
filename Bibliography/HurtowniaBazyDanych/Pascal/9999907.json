@@ -1,0 +1,184 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Ozone production efficiency and loss of NOx in power plant plumes : Photochemical model and interpretation of measurements in Tennessee : Southern Oxidants Study Nashville/Middle Tennessee Ozone Study. Part 2",
+    "dc:creator": "SILLMAN, S",
+    "dc:relation": "Journal of geophysical research -- J. geophys. res, ISSN 0148-0227, Vol. 105 (D7) , pp. 9189-9202",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "American Geophysical Union",
+    "dc:format": [
+        "print",
+        "43 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Azote oxyde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Centrale(production énergie)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Donnée observation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude comparative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle 2 dimensions"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle Lagrange"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ozone"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Photochimie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Soufre dioxyde"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nitrogen oxide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Power plant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Observation data"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Two dimensional model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lagrangian model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ozone"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photochemistry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sulfur dioxide"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nitrógeno óxido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Central eléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dato observación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio comparativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo 2 dimensiones"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo Lagrange"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ozono"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fotoquímica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dióxido sulfúrico"
+        },
+        "001D16C02: Etude de la physicochimie des polluants: propriétés, effets, réactions, transport et distribution / Pollutants physicochemistry study: properties, effects, reactions, transport and distribution",
+        "001E02D04: Composition et réactions chimiques. Interactions et processus ioniques / Chemical composition and interactions. Ionic interactions and processes"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats Unis"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tennessee"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tennessee"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estados Unidos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tennessee"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1335153"
+}

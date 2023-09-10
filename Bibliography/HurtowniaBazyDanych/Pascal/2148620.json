@@ -1,0 +1,61 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "MULTIPLE SCLEROSIS: URINARY AMINE MEASUREMENT FOR ORTHOMOLECULAR DIAGNOSIS; SCLEROSE EN PLAQUES: DOSAGE DES AMINES URINAIRES POUR LE DIAGNOSTIC ORTHOMOLECULAIRE",
+    "dc:creator": [
+        "ROBINSON AB",
+        "WESTALL FC",
+        "ELLISON GW"
+    ],
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "LIFE SCI.; G.B.; DA. 1974; VOL. 14; NO 9; PP. 1747-1753; BIBL. 9REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "SCLEROSE EN PLAQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AMINOACIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "URINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OBSERVATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EXPLORATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TECHNIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RESULTAT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NEUROLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NEUROLOGY"
+        },
+        "002B17: Neurologie / Neurology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7535600901"
+}

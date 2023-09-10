@@ -1,0 +1,94 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "IMPACTION OF VOLATILE LIQUID DROPLETS ONTO A HOT LIQUID SURFACE.",
+    "dc:creator": [
+        "WALDRAM KL",
+        "FAUSKE HK",
+        "BANKOFF SG"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "CANAD. J. CHEM. ENGNG; CANADA; DA. 1976; VOL. 54; NO 5; PP. 456-458; BIBL. 10 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPRIETE THERMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHANGEMENT ETAT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VAPORISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE EXPERIMENTALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VAPORISATION EXPLOSIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GOUTTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTERFACE LIQUIDE LIQUIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HAUTE TEMPERATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MECANIQUE FLUIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THERMAL PROPERTIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHANGE OF STATE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VAPORIZATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXPERIMENTAL STUDY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIQUID LIQUID INTERFACE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HIGH TEMPERATURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FLUID MECHANICS"
+        },
+        "001B: Physique / Physics",
+        "001D06: Energie / Energy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7770199928"
+}

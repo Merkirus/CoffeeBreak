@@ -1,0 +1,72 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Arrêtés des 16 et 17 janvier 1992 portant organisation de l'administration centrale du ministère de l'éducation nationale",
+    "dc:creator": "Ministère de l'éducation nationale",
+    "dc:relation": "Journal Officiel de la République Française. Lois et Décrets, Arrêtés, Circulaires, Avis, Communications, Informations et Annonces, Vol. 124 (16) , pp. 923-925",
+    "dc:date": "1992",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Administration centrale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Education nationale (ministère)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enseignement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Textes législatifs et réglementaires"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central Administration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Education (Ministry of)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Teaching"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Legislative Texts and Statutory Instruments"
+        },
+        "528-37: Structure administrative / Administrative structures",
+        "528-197: Problèmes administratifs / Administrative problems"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6563229"
+}

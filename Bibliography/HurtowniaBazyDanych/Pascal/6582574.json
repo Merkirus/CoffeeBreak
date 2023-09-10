@@ -1,0 +1,249 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Advanced maternal age as a sole indication for genetic amniocentesis; risk-benefit analysis based on a large database reflecting the current common practice",
+    "dc:creator": [
+        "BORNSTEIN, Eran",
+        "LENCHNER, Erez",
+        "DONNENFELD, Alan",
+        "BARNHARD, Yoni",
+        "SEUBERT, David",
+        "DIVON, Michael Y"
+    ],
+    "dc:contributor": "Meeting of the New York Perinatal Society (31 ; New York 2008-05-19)",
+    "dc:relation": [
+        "Journal of perinatal medicine -- J. perinat. med, CODEN JPEMAO, ISSN 0300-5577, Vol. 37 (2) , pp. 99-102",
+        "Meeting of the New York Perinatal Society (31 ; New York 2008-05-19)"
+    ],
+    "dc:date": "2009",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "De Gruyter",
+    "dc:format": [
+        "print",
+        "4 p. ; 18 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Aberration chromosomique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aneuploïdie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Age mère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amniocentèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Base de données"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chromosome G21"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diagnostic prénatal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Génétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Indication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Néonatologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plante pied"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pratique professionnelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stade avancé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Syndrome de Down"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trisomie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse bénéfice risque"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chromosomal aberration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aneuploidy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Maternal age"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Amniocentesis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Database"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chromosome G21"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prenatal diagnosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Genetics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Indication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neonatology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Foot sole"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Professional practice"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Advanced stage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Down syndrome"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Trisomy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Benefit risk analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Advanced maternal age"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Down's syndrome"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "amniocentesis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "prenatal diagnosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "trisomy 21"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aberración cromosómica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aneuploidía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Edad madre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Amniocentesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Base dato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cromosoma G21"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diagnóstico prenatal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Genética"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Indicación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Neonatología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Planta pie"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Práctica profesional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estadio avanzado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mongolismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trisomía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis beneficio riesgo"
+        },
+        "002B20G: Accouchement. Postpartum. Lactation / Delivery. Postpartum. Lactation",
+        "002B23B: Aberrations chromosomiques / Chromosome aberrations"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 21153054"
+}

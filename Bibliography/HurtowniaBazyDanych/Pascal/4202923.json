@@ -1,0 +1,65 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ETUDE EXPERIMENTALE DU CHAMP DES EMBRUNS EN DESSUS DES VAGUES DE VENT",
+    "dc:creator": "BORTKOVSKIJ RS",
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "TRUDY GLAVN. GEOFIZ. OBS. A.I. VOEJKOVA, LENINGRAD; S.S.S.R.; DA. 1977; NO 398; PP. 34-40; BIBL. 12 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "EMBRUN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GOUTTELETTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTRE DIMENSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VAGUE VENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SURFACE MARINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METEOROLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SPRAY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DROPLET"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIMENSION SPECTRUM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WIND WAVE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SEA SURFACE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METEOROLOGY"
+        },
+        "001E02F: Géophysique. Techniques, méthodes, appareillage et modèles / Geophysics. Techniques, methods, instrumentation and models"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7830333400"
+}

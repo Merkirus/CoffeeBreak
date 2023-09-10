@@ -1,0 +1,104 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "INTERET DE LA MINI-INFORMATIQUE DANS UN SERVICE DE CARDIOLOGIE",
+    "dc:creator": [
+        "VIROT P",
+        "BLANC P",
+        "DOUMEIX JJ",
+        "CUISINIER Y",
+        "ROUSSANNE A",
+        "DELHOUME B",
+        "BERTON D",
+        "CASKAR P",
+        "BENSAID J",
+        "BLANC G"
+    ],
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "REV. MED. LIMOUSIN; ISSN 50422X; FRA; DA. 1982; VOL. 13; NO 1; PP. 43-46; BIBL. 7 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CARDIOPATHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EXPLORATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRAITEMENT INFORMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GESTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARDIOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INFORMATIQUE BIOMEDICALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PATHOLOGIE CARDIOVASCULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARDIOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INFORMATIQUE BIOMEDICALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEART DISEASE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXPLORATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COMPUTERIZED PROCESSING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MANAGEMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CARDIOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOMEDICAL EDP"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CARDIOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOMEDICAL COMPUTER APPLICATIONS"
+        },
+        "002B12: Cardiologie. Appareil circulatoire / Cardiology. Vascular system"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL82X0336752"
+}

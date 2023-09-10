@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Discrete mesoscopic modeling for the simulation of woven-fabric reinforcement forming</dc:title>
+  <dc:creator>JAUFFRES, David</dc:creator>
+  <dc:creator>SHERWOOD, James A</dc:creator>
+  <dc:creator>MORRIS, Corey D</dc:creator>
+  <dc:creator>CHEN, Julie</dc:creator>
+  <dc:contributor>BOISSE, Philippe (Editor)</dc:contributor>
+  <dc:contributor>CHINESTA, Francisco (Editor)</dc:contributor>
+  <dc:relation>International journal of material forming -- Int. j. mater. form, ISSN 1960-6206, Vol. 3</dc:relation>
+  <dc:date>2010</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Article</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>Springer</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>S1205-S1216 ; 27 ref</dc:format>
+  <dc:subject xml:lang="fr">Cisaillage</dc:subject>
+  <dc:subject xml:lang="fr">Construction à ossature</dc:subject>
+  <dc:subject xml:lang="fr">Emboutissage</dc:subject>
+  <dc:subject xml:lang="fr">Essai cisaillement</dc:subject>
+  <dc:subject xml:lang="fr">Essai traction</dc:subject>
+  <dc:subject xml:lang="fr">Etude expérimentale</dc:subject>
+  <dc:subject xml:lang="fr">Formage</dc:subject>
+  <dc:subject xml:lang="fr">Image numérique</dc:subject>
+  <dc:subject xml:lang="fr">Matériau composite</dc:subject>
+  <dc:subject xml:lang="fr">Membrane</dc:subject>
+  <dc:subject xml:lang="fr">Modélisation</dc:subject>
+  <dc:subject xml:lang="fr">Mésoéchelle</dc:subject>
+  <dc:subject xml:lang="fr">Méthode élément fini</dc:subject>
+  <dc:subject xml:lang="fr">Poutre treillis</dc:subject>
+  <dc:subject xml:lang="fr">Tissu textile</dc:subject>
+  <dc:subject xml:lang="fr">Tissu tressé</dc:subject>
+  <dc:subject xml:lang="fr">Toile</dc:subject>
+  <dc:subject xml:lang="fr">Traitement image</dc:subject>
+  <dc:subject xml:lang="en">Shearing</dc:subject>
+  <dc:subject xml:lang="en">Frame construction</dc:subject>
+  <dc:subject xml:lang="en">Deep drawing</dc:subject>
+  <dc:subject xml:lang="en">Shear test</dc:subject>
+  <dc:subject xml:lang="en">Tension test</dc:subject>
+  <dc:subject xml:lang="en">Experimental study</dc:subject>
+  <dc:subject xml:lang="en">Forming</dc:subject>
+  <dc:subject xml:lang="en">Digital image</dc:subject>
+  <dc:subject xml:lang="en">Composite material</dc:subject>
+  <dc:subject xml:lang="en">Membrane</dc:subject>
+  <dc:subject xml:lang="en">Modeling</dc:subject>
+  <dc:subject xml:lang="en">Mesoscale</dc:subject>
+  <dc:subject xml:lang="en">Finite element method</dc:subject>
+  <dc:subject xml:lang="en">Truss beam</dc:subject>
+  <dc:subject xml:lang="en">Woven material</dc:subject>
+  <dc:subject xml:lang="en">Braided fabric</dc:subject>
+  <dc:subject xml:lang="en">Fabric</dc:subject>
+  <dc:subject xml:lang="en">Image processing</dc:subject>
+  <dc:subject xml:lang="en">Composite forming</dc:subject>
+  <dc:subject xml:lang="en">Finite element</dc:subject>
+  <dc:subject xml:lang="en">Woven-fabric reinforcement</dc:subject>
+  <dc:subject xml:lang="es">Cizalladura</dc:subject>
+  <dc:subject xml:lang="es">Construcción esquelética</dc:subject>
+  <dc:subject xml:lang="es">Estampado</dc:subject>
+  <dc:subject xml:lang="es">Ensayo cortante</dc:subject>
+  <dc:subject xml:lang="es">Ensayo tracción</dc:subject>
+  <dc:subject xml:lang="es">Estudio experimental</dc:subject>
+  <dc:subject xml:lang="es">Conformado</dc:subject>
+  <dc:subject xml:lang="es">Imagen numérica</dc:subject>
+  <dc:subject xml:lang="es">Material compuesto</dc:subject>
+  <dc:subject xml:lang="es">Membrana</dc:subject>
+  <dc:subject xml:lang="es">Modelización</dc:subject>
+  <dc:subject xml:lang="es">Mesoescala</dc:subject>
+  <dc:subject xml:lang="es">Método elemento finito</dc:subject>
+  <dc:subject xml:lang="es">Viga celosía</dc:subject>
+  <dc:subject xml:lang="es">Tela textil</dc:subject>
+  <dc:subject xml:lang="es">Tela trenzado</dc:subject>
+  <dc:subject xml:lang="es">Tela</dc:subject>
+  <dc:subject xml:lang="es">Procesamiento imagen</dc:subject>
+  <dc:subject xml:lang="de">Schneiden</dc:subject>
+  <dc:subject xml:lang="de">Tiefziehen</dc:subject>
+  <dc:subject xml:lang="de">Scherpruefung</dc:subject>
+  <dc:subject xml:lang="de">Zugversuch</dc:subject>
+  <dc:subject xml:lang="de">Experimentelle Untersuchung</dc:subject>
+  <dc:subject xml:lang="de">Umformen</dc:subject>
+  <dc:subject xml:lang="de">Verbundwerkstoff</dc:subject>
+  <dc:subject xml:lang="de">Membran</dc:subject>
+  <dc:subject xml:lang="de">Finite Element Methode</dc:subject>
+  <dc:subject xml:lang="de">Fachwerktraeger</dc:subject>
+  <dc:subject xml:lang="de">Bildverarbeitung</dc:subject>
+  <dc:subject>001B40F30: Mécanique des structures et des milieux continus / Structural and continuum mechanics</dc:subject>
+  <dc:subject>001D10A06H: Matériaux composites / Composites</dc:subject>
+  <dc:subject>001D11: Metaux. Metallurgie / Metals. Metallurgy</dc:subject>
+  <dc:subject>001D11C04E: Emboutissage / Deep drawing</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 23281316</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

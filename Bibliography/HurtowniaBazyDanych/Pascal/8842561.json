@@ -1,0 +1,117 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Le système statistique public français",
+    "dc:contributor": [
+        "MOTHE, A (Reporter/Secretary)",
+        "ALLAIN, J (Reporter/Secretary)"
+    ],
+    "dc:relation": "Problèmes économiques (Paris) -- Probl. écon. (Paris), ISSN 0032-9304 (2470) , pp. 1-6",
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Documentation française",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Effectif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude comparée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Institut national de la statistique et des études économiques (INSEE)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ministère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Personnel de l'administration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rapport"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Secteur public"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technologie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Staff Effectives"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative Study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Institut national de la statistique et des études économiques (INSEE)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ministry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Personnel of Administration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Report"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public Sector"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Statistics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Technology"
+        },
+        "528-: Science administrative / Administrative science",
+        "528-24: Méthodes de la science administrative / Methods of administrative science",
+        "528-31: Statistiques / Statistics"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        }
+    ],
+    "dc:rights": [
+        "Centre d'Etude et de Recherche en Sciences Administratives (CERSA)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6315989"
+}

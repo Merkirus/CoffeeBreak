@@ -1,0 +1,45 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "BEHAVIOUR OF LIKE DISLOCATIONS NEAR AN INTERFACE",
+    "dc:creator": "GILRA NK",
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "PHYS. STATUS SOLIDI, A; ALLEM.; DA. 1976; VOL. 34; NO 1; PP. 79-83; ABS. ALLEM.; BIBL. 7 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DISLOCATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTERFACE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MODELE MATHEMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTERACTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STRUCTURE DISLOCATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METALLURGY"
+        },
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7674016368"
+}

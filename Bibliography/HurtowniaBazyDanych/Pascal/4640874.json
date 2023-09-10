@@ -1,0 +1,85 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "REACTIA DE HEAMGLUTINARE PASIVA IN SERODIAGNOSTICUL SIFILISULUI; TEST D'HEMAGLUTINATION PASSIVE POUR LE DIAGNOSTIC DE LA SYPHILIS",
+    "dc:creator": [
+        "GEORGESCU M",
+        "IONESCU D",
+        "DUMITRIU S"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "Romanian",
+    "dc:format": "BACTERIOL. VIRUSOL. PARAZITOL. EPIDEMIOL.; ROM; DA. 1979; VOL. 24; NO 2; PP. 109-113; ABS. ENG/RUS; BIBL. 20 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "SYPHILIS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TEST HEMAGGLUTINATION PASSIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIAGNOSTIC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BACTERIOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INFECTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE IMMUNOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROBIOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SYPHILIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PASSIVE HEMAGGLUTINATION TEST"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIAGNOSTIC"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BACTERIOSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFECTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IMMUNOLOGICAL METHOD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROBIOLOGY"
+        },
+        "002B05: Pathologie infectieuse / Infectious diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8050204488"
+}

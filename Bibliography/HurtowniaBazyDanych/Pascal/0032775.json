@@ -1,0 +1,109 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DEVONIAN REEF AND SHELF ENVIRONMENTS OF THE EASTERN RHEINISCHES SCHIEFERGEBIRGE.",
+    "dc:date": "sd",
+    "dc:type": "Miscellaneous",
+    "dc:language": "English",
+    "dc:format": "IN: INT. SYMP. FOSSIL ALGAE; ERLANGEN; 1975.; ERLANGEN UNIV. ERLANGEN-NUERNBERG,1975, P. 7 A 53",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "EXCURSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DEVONIEN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MILIEU RECIFAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FAUNE SPECIFIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PALEOGEOGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MASSIF SCHISTEUX RHENAN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STRATIGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PALEONTOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRIMAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALLEMAGNE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EUROPE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXCURSION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DEVONIAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REEF ENVIRONMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SPECIFIC FAUNA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PALAEOGEOGRAPHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RHENISH MASSIF"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STRATIGRAPHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PALEONTOLOGY"
+        },
+        "001E01I: Stratigraphie / Stratigraphy",
+        "001E01Q: Paléontologie / Paleontology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALGEODEBRGM7620280009"
+}

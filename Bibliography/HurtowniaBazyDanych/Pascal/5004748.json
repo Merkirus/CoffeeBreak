@@ -1,0 +1,274 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Consommation de viande et élevage dans la vallée des Baux de l'Age du Fer au Moyen Age d'après les vestiges osseux; Meat Consumption and Husbandry in the Baux Valley from the Iron Age to the Middle Ages According to the Bone Remains",
+    "dc:creator": "COLUMEAU, Philippe",
+    "dc:contributor": [
+        "LEVEAU, Philippe (Editor)",
+        "SAQUET, Jean-Paul (Editor)",
+        "Groupe d'Etudes Historiques et Archéologiques de Mouriès (Funder/Sponsor)",
+        "Colloque marquant le dixième anniversiare du Groupe d'Etudes Historiques et Archéologiques de Mouriès (Mouriès 1996-05-11)"
+    ],
+    "dc:relation": [
+        "Travaux du Centre Camille Jullian -- Trav. cent. Camille Jullian, ISSN 1144-6803 (26) , pp. 347-357",
+        "Milieu et sociétés dans la Vallée des Baux, colloque de Mouriès"
+    ],
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Université de Provence, Service des publications",
+    "dc:format": [
+        "print",
+        "11 p. ; 1 p.1/2"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Archéozoologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Boeuf"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Boucherie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chronologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Climatologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Economie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Elevage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evolution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Faune"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grotte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Habitat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interprétation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mouton"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Oppidum"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Os"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Site archéologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Squelette"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Viande"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Consommation alimentaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Haut Moyen Age"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Moyen Age"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vallée des Baux"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Archaeozoology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ox"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Butchery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chronology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Climatology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Economy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Breeding"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Evolution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fauna"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cave"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Settlement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interpretation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sheep"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oppidum"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bone"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Archaeological site"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Skeleton"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Meat"
+        },
+        "526-: Art et archeologie / Art and archaeology",
+        "526-1: Généralités / Generalities",
+        "526-26: Faune / Fauna"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bouches-du-Rhône"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grotte des Baumes"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "La Fourbine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Le Paradou"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mouriès"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Oppidum des Caisses"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Saint-Martin-de-Crau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tours de Castillon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Age du Fer"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gallo-romain"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "La Tène"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bouches-du-Rhône"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Iron age"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gallo-roman"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "La Tene"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 13996896"
+}

@@ -1,0 +1,219 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Cross-sectional imaging of building elements by new non-linear tomosynthesis techniques using imaging plates and 60Co radiation",
+    "dc:creator": [
+        "EWERT, U",
+        "BARANOV, V. A",
+        "BORCHARDT, K"
+    ],
+    "dc:contributor": [
+        "WIGGENHAUSER, H (Editor)",
+        "International Symposium on Non-Destructive Testing in Civil Engineering (NDT-CE) (Berlin 1995-09)"
+    ],
+    "dc:relation": [
+        "NDT & E international -- NDT E int, ISSN 0963-8695, Vol. 30 (4) , pp. 243-248",
+        "International Symposium on Non-Destructive Testing in Civil Engineering (NDT-CE)"
+    ],
+    "dc:date": "1997",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "Russian",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "11 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareillage essai"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Béton armé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet non linéaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mesure position"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle 3 dimensions"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Radiographie RX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Reconstruction image"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tomographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement image"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement numérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transformation Hough"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transformation Radon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Statistical analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Testing equipment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reinforced concrete"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Non linear effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Position measurement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Three dimensional model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measurement method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "X ray radiography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Image reconstruction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tomography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Image processing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Digital processing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hough transformation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radon transformation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis estadístico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato ensayo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hormigón armado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efecto no lineal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medición posición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo 3 dimensiones"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método medida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radiografía RX"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reconstrucción imagen"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tomografía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Procesamiento imagen"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento numérico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transformación Hough"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transformación Radon"
+        },
+        "001B00G85: Instrumentation et techniques x et γ / X- and γ-ray instruments and techniques",
+        "001D14: Batiment. Travaux publics / Buildings. Public works",
+        "001D14A09: Mesures. Techniques expérimentales / Measurements. Technique of testing",
+        "0785:  / X- and γ-ray instruments and techniques"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2786995"
+}

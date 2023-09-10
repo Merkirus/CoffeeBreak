@@ -1,0 +1,96 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Local item dependence for items across tests connected by common stimuli",
+    "dc:creator": [
+        "WANG, Wen-Chung",
+        "CHENG, Ying-Yao",
+        "WILSON, Mark"
+    ],
+    "dc:relation": "Educational and psychological measurement -- Educ. psychol. meas, CODEN EPMEAJ, ISSN 0013-1644, Vol. 65 (1) , pp. 5-27",
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Sage",
+        "Sage",
+        "Sage"
+    ],
+    "dc:format": [
+        "print",
+        "23 p. ; 2 p.1/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle Rasch"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Psychométrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Théorie item réponse"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Statistical analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rasch model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Psychometrics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Item response theory"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis estadístico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo Rasch"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Psicometría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Teoría item respuesta"
+        },
+        "002A26B02: Psychométrie / Psychometrics",
+        "002A26B03: Statistique. Mathématiques / Statistics. Mathematics",
+        "770-: Psychologie. Psychanalyse. Psychiatrie / Psychology. Psychoanalysis. Psychiatry",
+        "770-B: Psychologie. Psychophysiologie / Psychology. Psychophysiology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16404962"
+}

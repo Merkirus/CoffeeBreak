@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Building bilingual dictionaries from parallel Web documents</dc:title>
+  <dc:creator>MCEWAN, Craig J. A</dc:creator>
+  <dc:creator>OUNIS, Iadh</dc:creator>
+  <dc:creator>RUTHVEN, Ian</dc:creator>
+  <dc:contributor>Crestani, Fabio (Editor)</dc:contributor>
+  <dc:contributor>Girolami, Mark (Editor)</dc:contributor>
+  <dc:contributor>van Rijsbergen, Cornelis Joost (Editor)</dc:contributor>
+  <dc:contributor>BCS-IRSG European colloquium on IR research (24 ; Glasgow 2002-03-25)</dc:contributor>
+  <dc:relation>Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, Vol. 2291, pp. 303-323</dc:relation>
+  <dc:relation>Advances in information retrieval (Glasgow, 25-27 March 2002)</dc:relation>
+  <dc:date>2002</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Conference Paper</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>Springer</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>18 ref</dc:format>
+  <dc:subject xml:lang="fr">Bilingue</dc:subject>
+  <dc:subject xml:lang="fr">Dictionnaire</dc:subject>
+  <dc:subject xml:lang="fr">Disponibilité</dc:subject>
+  <dc:subject xml:lang="fr">Evaluation système</dc:subject>
+  <dc:subject xml:lang="fr">Internet</dc:subject>
+  <dc:subject xml:lang="fr">Multilinguisme</dc:subject>
+  <dc:subject xml:lang="fr">Recherche information</dc:subject>
+  <dc:subject xml:lang="fr">Réseau web</dc:subject>
+  <dc:subject xml:lang="fr">Structure thesaurus</dc:subject>
+  <dc:subject xml:lang="fr">Système automatique</dc:subject>
+  <dc:subject xml:lang="fr">Traduction automatique</dc:subject>
+  <dc:subject xml:lang="en">Bilingual</dc:subject>
+  <dc:subject xml:lang="en">Dictionaries</dc:subject>
+  <dc:subject xml:lang="en">Availability</dc:subject>
+  <dc:subject xml:lang="en">System evaluation</dc:subject>
+  <dc:subject xml:lang="en">Internet</dc:subject>
+  <dc:subject xml:lang="en">Multilingualism</dc:subject>
+  <dc:subject xml:lang="en">Information retrieval</dc:subject>
+  <dc:subject xml:lang="en">World wide web</dc:subject>
+  <dc:subject xml:lang="en">Thesaurus structure</dc:subject>
+  <dc:subject xml:lang="en">Automatic system</dc:subject>
+  <dc:subject xml:lang="en">Automatic translation</dc:subject>
+  <dc:subject xml:lang="es">Bilingue</dc:subject>
+  <dc:subject xml:lang="es">Diccionario</dc:subject>
+  <dc:subject xml:lang="es">Disponibilidad</dc:subject>
+  <dc:subject xml:lang="es">Evaluación sistema</dc:subject>
+  <dc:subject xml:lang="es">Internet</dc:subject>
+  <dc:subject xml:lang="es">Multilinguismo</dc:subject>
+  <dc:subject xml:lang="es">Recuperación información</dc:subject>
+  <dc:subject xml:lang="es">Red WWW</dc:subject>
+  <dc:subject xml:lang="es">Estrúctura tesauro</dc:subject>
+  <dc:subject xml:lang="es">Sistema automático</dc:subject>
+  <dc:subject xml:lang="es">Traducción automática</dc:subject>
+  <dc:subject>001A01: Sciences de l'information. Documentation / Information science. Documentation</dc:subject>
+  <dc:subject>001A01F03: Systèmes de recherche d'information / Information retrieval systems</dc:subject>
+  <dc:subject>001D04B03: Réseaux téléinformatiques. Rnis / Teleprocessing networks. Isdn</dc:subject>
+  <dc:subject>790-: Sciences de l'information et de la communication / Information and communication sciences</dc:subject>
+  <dc:subject>790-G: Système de recherche documentaire. Système de gestion documentaire et d'information / Information retrieval systems. Information and document management system</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 14054546</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

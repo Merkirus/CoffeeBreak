@@ -1,0 +1,332 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Evaluation of wounds as a factor to infection of cabbage by ascospores of Sclerotinia sclerotiorum",
+    "dc:creator": [
+        "HUDYNCIA, J",
+        "SHEW, H. D",
+        "CODY, B. R",
+        "CUBETA, M. A"
+    ],
+    "dc:relation": "Plant disease -- Plant dis, CODEN PLDIDE, ISSN 0191-2917, Vol. 84 (3) , pp. 316-320",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "American Phytopathological Society",
+    "dc:format": [
+        "print",
+        "35 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Angiospermae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ascomycetes"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cruciferae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dicotyledones"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fungi"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phytopathogène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plante légumière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spermatophyta"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thallophyta"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ascospore"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Brassica oleracea var. capitata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Densité population"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Développement maladie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epidémiologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai en champ"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Meurtrissure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plaie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Répartition spatiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sclerotinia sclerotiorum"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spore"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Angiospermae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ascomycetes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cruciferae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dicotyledones"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fungi"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plant pathogen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vegetable crop"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spermatophyta"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thallophyta"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ascospore"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Brassica oleracea var. capitata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Population density"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Disease development"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Epidemiology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Field experiment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bruise"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wound"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spatial distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sclerotinia sclerotiorum"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spores"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Angiospermae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ascomycetes"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cruciferae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dicotyledones"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fungi"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fitopatógeno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Planta leguminosa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Spermatophyta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Thallophyta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ascospora"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Brassica oleracea var. capitata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Densidad población"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desarrollo enfermedad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Epidemiología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo en campo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Infección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Magulladura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Herida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Distribución espacial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sclerotinia sclerotiorum"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Espora"
+        },
+        "002A34G04: Pathologie, épidémiologie, relations hôte-agent. Dégâts, importance économique / Pathology, epidemiology, host-fungus relationships. Damages, economic importance"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats Unis"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Caroline du Nord"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North Carolina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estados Unidos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carolina del norte"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1340971"
+}

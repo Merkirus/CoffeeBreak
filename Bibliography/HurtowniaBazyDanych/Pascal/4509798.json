@@ -1,0 +1,100 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "TECHNIQUE DE DETERMINATION IN VIVO DES PROPRIETES MECANIQUES DE L'ENCEPHALE",
+    "dc:creator": [
+        "ITKIS ML",
+        "MCHEDLISHVILI GI"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "MEKH. KOMPOZ. MATER.; SUN; DA. 1979; NO 6; PP. 1094-1099; BIBL. 12 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPRIETE MECANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENCEPHALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STRESS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALGORITHME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRAITEMENT INFORMATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LAPIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOMECANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LAGOMORPHA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MAMMALIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INFORMATIQUE BIOMEDICALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MECHANICAL PROPERTIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BRAIN (VERTEBRATA)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STRESS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ALGORITHMS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFORMATION PROCESSING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RABBIT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOMECHANICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LAGOMORPHA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MAMMALIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOMEDICAL COMPUTER APPLICATIONS"
+        },
+        "002B26: Radiotherapie. Traitement instrumental. Physiotherapie. Reeducation. Readaptation, orthophonie, crenotherapie. Traitement dietetique et traitements divers (generalites) / Radiotherapy. Instrumental treatment. Physiotherapy. Reeducation. Rehabilitation, orthophony, crenotherapy. Diet therapy and various other treatments (general aspects)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8050285414"
+}

@@ -1,0 +1,52 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DEVELOPMENT OF POWDERY MILDEW (ERYSIPHE POLYGONI) ON SUSCEPTIBLE AND RESISTANT RACES OF OENOTHERA BIENNIS",
+    "dc:creator": [
+        "DICKEY JL",
+        "LEVY M"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "AM. J. BOT.; ISSN 0002-9122; USA; DA. 1979; VOL. 66; NO 9; PP. 1114-1117; BIBL. 13 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ERYSIPHE POLYGONI"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OENOTHERA BIENNIS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHAMPIGNON PHYTOPATHOGENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CULTURE ORNEMENTALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AGRONOMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ERYSIPHE POLYGONI"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OENOTHERA BIENNIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AGRONOMY"
+        },
+        "002A32: Agronomie. Sciences du sol et productions vegetales / Agronomy. Soil science and plant productions"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALAGROLINEINRA8010086683"
+}

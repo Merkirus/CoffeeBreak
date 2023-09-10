@@ -1,0 +1,86 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ACCELERATION DU PROCESSUS DE VULCANISATION DES CAOUTCHOUCS BUTADIENENITRILE PAR LE N-HYDROXY-1-TRICHLORETHYL-2,2,2-METHACRYLAMIDE",
+    "dc:creator": [
+        "SOTSKAYA IM",
+        "CHEKANOVA AA",
+        "ZAKHAROV ND",
+        "SIBEJKINA LA"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "IZVEST. VYSSH. UCHEBN. ZAVED., KHIM. KHIM. TEKHNOL.; S.S.S.R.; DA. 1977; VOL. 20; NO 6; PP. 949-950; BIBL. 4 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "VULCANISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VULCANISANT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACCELERATEUR REACTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CAOUTCHOUC NITRILE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VIEILLISSEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHACRYLIQUE ACIDE,AMIDE DERIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE MACROMOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLYMERES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VULCANIZATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CURATIVE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REACTION ACCELERATOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NITRILE RUBBER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AGEING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MACROMOLECULAR CHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLYMERS"
+        },
+        "001D09: Physicochimie des polymeres / Physicochemistry of polymers"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7860052875"
+}

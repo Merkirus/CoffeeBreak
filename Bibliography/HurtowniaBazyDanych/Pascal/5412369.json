@@ -1,0 +1,174 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Adaptive switching control and synchronization of a class of nonlinear systems",
+    "dc:creator": [
+        "JING YAO",
+        "GUAN, Zhi-Hong",
+        "HILL, David J"
+    ],
+    "dc:contributor": [
+        "IEEE Control systems society (Organiser of meeting)",
+        "IEEE Conference on Decision and Control (43 ; Nassau 2004-12-14)"
+    ],
+    "dc:relation": "2004 43rd IEEE Conference on Decision and Control (proceedings) -- 0CDC 2004",
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "IEEE",
+    "dc:format": [
+        "print",
+        "Vol 2, 2065-2070 ; 24 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Chaos"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Commande adaptative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Commande multimodèle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Commande non linéaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Faisabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fonction Lyapunov"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode Lyapunov"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stabilisation globale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Synchronisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système adaptatif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système non linéaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Théorie commande"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chaos"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adaptive control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multimodel control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Non linear control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Feasibility"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lyapunov function"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lyapunov method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Global stabilization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Synchronization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adaptive system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Non linear system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Control theory"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Caos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Control adaptativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Control multimodelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Control no lineal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Practicabilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Función Lyapunov"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método Lyapunov"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estabilización global"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sincronización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema adaptativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema no lineal"
+        },
+        "001D02D04: Systèmes adaptatifs / Adaptative systems",
+        "001D02D07: Synthèse des systèmes de commande / Control system synthesis"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17498334"
+}

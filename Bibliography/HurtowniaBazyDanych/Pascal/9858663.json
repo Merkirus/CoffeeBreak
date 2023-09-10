@@ -1,0 +1,259 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Diagnostic radiation oncology : Malignant cystosarcoma phylloides",
+    "dc:creator": [
+        "EICH, P. D",
+        "DIEDERICH, S",
+        "EICH, H. T",
+        "MICKE, O",
+        "WAGNER, W"
+    ],
+    "dc:relation": "Strahlentherapie und Onkologie -- Strahlenther. Onkol -- Journal of radiation oncology. Biology . Physics, CODEN STONE4, ISSN 0179-7158, Vol. 176 (4) , pp. 192-195",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "21 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Adénopathie maligne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Glande mammaire pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Imagerie médicale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Radiodiagnostic"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tumeur maligne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Adulte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Anatomopathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude cas"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Femelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ganglion lymphatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Glande mammaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métastase"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Radiosensibilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Radiothérapie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Récidive"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tomodensitométrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tumeur phyllode"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Malignant lymphadenopathy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mammary gland diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Medical imagery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiodiagnosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Malignant tumor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adult"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pathology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Case study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Female"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lymph node"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mammary gland"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metastasis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiosensitivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiotherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Relapse"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computerized axial tomography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phyllode tumor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adenopatía maligna"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Glándula mamaria patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Imageneria medical"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radiodiagnóstico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tumor maligno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adulto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anatomía patológica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio caso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hembra"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ganglio linfático"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Glándula mamaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metástasis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radiosensibilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radioterapia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Recaida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tomodensitometría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tumor filoides"
+        },
+        "002B04H02A: Radiothérapie et radiosensibilisant / Radiation therapy and radiosensitizing agent"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1325566"
+}

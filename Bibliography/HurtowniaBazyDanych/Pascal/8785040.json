@@ -1,0 +1,81 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Aménagement du territoire: Le Languedoc-Roussillon réclame le droit à la différence",
+    "dc:relation": "Vie publique -- Vie publique, ISSN 0049-6294 (244) , pp. 40-41",
+    "dc:date": "1994",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Editions Sorman",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Aménagement rural"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aménagement régional"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grande agglomération"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Région"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rural Management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Regional Management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Large Conurbation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Region"
+        },
+        "528-: Science administrative / Administrative science",
+        "528-37: Structure administrative / Administrative structures",
+        "528-138: Aménagement régional / Regional management"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Languedoc-Roussillon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Languedoc-Roussillon"
+        }
+    ],
+    "dc:rights": [
+        "Centre d'Etude et de Recherche en Sciences Administratives (CERSA)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6441650"
+}

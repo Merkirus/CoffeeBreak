@@ -1,0 +1,102 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SYNTHETIC AGGREGATE FROM INCINERATOR RESIDUES.",
+    "dc:creator": "BLANK HR",
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "PROC. AMER. SOC. CIV. ENGRS, J. ENGNG MECH. DIV.; U.S.A.; DA. 1976; VOL. 102; NO 1; PP. 31-41; BIBL. 4 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "GRANULAT ARTIFICIEL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GRANULAT LEGER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DECHET"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DECHET URBAIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRAITEMENT THERMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RECUPERATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GRANULAT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INCINERATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENIE CIVIL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NUISANCES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLLUTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ARTIFICIAL AGGREGATE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIGHTWEIGHT AGGREGATE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "URBAN WASTE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEAT TREATMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RECOVERY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AGGREGATE(MATERIALS)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INCINERATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CIVIL ENGINEERING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NUISANCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLLUTION"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works",
+        "001D16: Pollution / Pollution"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7780303930"
+}

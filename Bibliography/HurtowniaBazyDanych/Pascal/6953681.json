@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Laboratory systems integration : robotics and automation",
+    "dc:creator": "FELDER, R. A",
+    "dc:contributor": "ATB 90 (Milan 1990-11-26)",
+    "dc:relation": [
+        "Annales de biologie clinique (Paris) -- Ann. biol. clin. (Paris), CODEN ABCLAI, ISSN 0003-3898, Vol. 49 (5) , pp. 298-300",
+        "ATB 90 (Milan 1990-11-26)"
+    ],
+    "dc:date": "1991",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Libbey-Eurotext",
+    "dc:format": [
+        "print",
+        "4 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil automatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareillage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Assistance ordinateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Automatisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Robotique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Automatic instrument"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Instrumentation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computer aid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Automation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Robotics"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato automático"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Instrumentación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asistencia ordenador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Automatización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Robótica"
+        },
+        "002B28: Informatique, statistique et modelisations biomedicales / Computerized, statistical medical data processing and models in biomedicine"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 5528250"
+}

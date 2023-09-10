@@ -1,0 +1,86 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Competing with environment-friendly construction practices",
+    "dc:creator": "NGOWI, A.B",
+    "dc:relation": "Cost engineering (Morgantown, W. Va.) -- Cost eng. (Morgant. W. Va.), ISSN 0274-9696, Vol. 42 (5) , pp. 28-33",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Association for the Advancement of Cost Engineering",
+    "dc:format": [
+        "print",
+        "22 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Carbone dioxyde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chantier construction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Emission polluant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lutte antipollution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Protection environnement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Carbon dioxide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Building site"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pollutant emission"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pollution control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Environmental protection"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carbono dióxido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Obra"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Emisión contaminante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lucha anticontaminación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Protección medio ambiente"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works",
+        "001D14D06: Divers / Miscellaneous"
+    ],
+    "dc:rights": [
+        "Institut Français du Pétrole et des Energies Nouvelles (IFP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6198488"
+}

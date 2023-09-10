@@ -1,0 +1,63 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ALKALOIDS FROM SENECIO PROCERUS L., VAR. PROCERUS STOJ. STEF. ET KIT.",
+    "dc:creator": [
+        "JOVCEVA RJ",
+        "BOEVA A",
+        "POTESILOVA H",
+        "KLASEK A",
+        "SANTAVY F"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "COLLECT. CZECHOSL. CHEM. COMMUNIC.; CSK; DA. 1978; VOL. 43; NO 9; PP. 2312-2314; BIBL. 8 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ALCALOIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ISOLEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VEGETAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSITAE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SENECIO PROCERUS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOCHIMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ALKALOID"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VEGETALS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COMPOSITAE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOCHEMISTRY"
+        },
+        "002A02: Biochimie analytique, structurale et metabolique / Analytical, structural and metabolic biochemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7950141857"
+}

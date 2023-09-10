@@ -1,0 +1,98 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "GENETIC CONTROL ON NITROGEN ASSIMILATION IN BACTERIA",
+    "dc:creator": "MAGASANIK B",
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "ANNUAL REVIEW OF GENETICS; ISSN 0066-4197; USA; DA. 1982; VOL. 16; PP. 135-168; BIBL. 85 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ARTICLE SYNTHESE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BACTERIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METABOLISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AZOTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REGULATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GLUTAMINE SYNTHETASE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DETERMINISME GENETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENZYME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROBIOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REVIEW"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BACTERIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METABOLISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NITROGEN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REGULATION(CONTROL)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GLUTAMINE SYNTHETASE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INHERITANCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENZYME"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENETICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROBIOLOGY"
+        },
+        "002A31C02: Techniques génétiques / Genetic technics",
+        "002B05: Pathologie infectieuse / Infectious diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0233129"
+}

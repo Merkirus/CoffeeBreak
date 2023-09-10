@@ -1,0 +1,140 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Chaos and Bifurcation in a New Class of Simple Hopfield Neural Network",
+    "dc:creator": [
+        "YAN HUANG",
+        "YANG, Xiao-Song"
+    ],
+    "dc:contributor": "International Symposium on Neural Networks (3 ; Chengdu 2006)",
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 316-321",
+        "Advances in neural networks (Part I-III : ISNN 2006 : Third International Symposium on Neural Networks, Chengdu, China, May 28-June 1, 2006 : proceedings) -- 0ISNN 2006"
+    ],
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Springer",
+        "Springer"
+    ],
+    "dc:format": [
+        "print",
+        "6 p. ; 16 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Affichage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Attracteur chaotique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bifurcation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chaos"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exposant Lyapunov"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle Hopfield"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Orbite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau neuronal Hopfield"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau neuronal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Display"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chaotic attractor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bifurcation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chaos"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lyapunov exponent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hopfield model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Orbit"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hopfield neural nets"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neural network"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Visualización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Atractor caótico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bifurcación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Caos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Exponente Lyapunov"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo Hopfield"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Orbita"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red neuronal"
+        },
+        "001D02B04: Systèmes informatiques et systèmes répartis. Interface utilisateur / Computer systems and distributed systems. User interface",
+        "001D02C06: Connexionnisme. Réseaux neuronaux / Connectionism. Neural networks"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 19952621"
+}

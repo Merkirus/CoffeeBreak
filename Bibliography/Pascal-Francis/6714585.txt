@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Flood forecasting by Coupling Cluster method and Artificial Neural Networks</dc:title>
+  <dc:creator>YIN XIONGRUI</dc:creator>
+  <dc:creator>XIA JUN</dc:creator>
+  <dc:creator>ZHANG XIANG</dc:creator>
+  <dc:contributor>Giesen, Nick van de (Editor)</dc:contributor>
+  <dc:contributor>International Association of Hydrological Sciences (Organiser of meeting)</dc:contributor>
+  <dc:contributor>International Union of Geodesy and Geophysics. General Assembly (Perugia 2007)</dc:contributor>
+  <dc:relation>IAHS-AISH publication -- IAHS-AISH publ, CODEN IAPUEP, ISSN 0144-7815, pp. 228-235</dc:relation>
+  <dc:relation>Changes in water resources systems (methodologies to maintain water security and ensure integrated management)</dc:relation>
+  <dc:date>2007</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Conference Paper</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>IAHS Press</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>8 p. ; 1/4 p</dc:format>
+  <dc:subject xml:lang="fr">Asie</dc:subject>
+  <dc:subject xml:lang="fr">Analyse groupe</dc:subject>
+  <dc:subject xml:lang="fr">Bassin versant</dc:subject>
+  <dc:subject xml:lang="fr">Contrôle</dc:subject>
+  <dc:subject xml:lang="fr">Couplage</dc:subject>
+  <dc:subject xml:lang="fr">Crue</dc:subject>
+  <dc:subject xml:lang="fr">Ecoulement cours eau</dc:subject>
+  <dc:subject xml:lang="fr">Gestion ressource eau</dc:subject>
+  <dc:subject xml:lang="fr">Historique</dc:subject>
+  <dc:subject xml:lang="fr">Hydrogramme</dc:subject>
+  <dc:subject xml:lang="fr">Logique floue</dc:subject>
+  <dc:subject xml:lang="fr">Mécanisme</dc:subject>
+  <dc:subject xml:lang="fr">Méthodologie</dc:subject>
+  <dc:subject xml:lang="fr">Pluie</dc:subject>
+  <dc:subject xml:lang="fr">Précipitation atmosphérique</dc:subject>
+  <dc:subject xml:lang="fr">Prévision</dc:subject>
+  <dc:subject xml:lang="fr">Ruissellement</dc:subject>
+  <dc:subject xml:lang="fr">Réseau neuronal</dc:subject>
+  <dc:subject xml:lang="fr">Réservoir</dc:subject>
+  <dc:subject xml:lang="fr">Segmentation</dc:subject>
+  <dc:subject xml:lang="fr">Simulation</dc:subject>
+  <dc:coverage xml:lang="fr">Chine</dc:coverage>
+  <dc:coverage xml:lang="fr">Extrême Orient</dc:coverage>
+  <dc:coverage xml:lang="fr">Hunan</dc:coverage>
+  <dc:subject xml:lang="en">Asia</dc:subject>
+  <dc:subject xml:lang="en">cluster analysis</dc:subject>
+  <dc:subject xml:lang="en">drainage basins</dc:subject>
+  <dc:subject xml:lang="en">controls</dc:subject>
+  <dc:subject xml:lang="en">coupling</dc:subject>
+  <dc:subject xml:lang="en">floods</dc:subject>
+  <dc:subject xml:lang="en">streamflow</dc:subject>
+  <dc:subject xml:lang="en">water resource management</dc:subject>
+  <dc:subject xml:lang="en">history</dc:subject>
+  <dc:subject xml:lang="en">hydrographs</dc:subject>
+  <dc:subject xml:lang="en">fuzzy logic</dc:subject>
+  <dc:subject xml:lang="en">mechanism</dc:subject>
+  <dc:subject xml:lang="en">methodology</dc:subject>
+  <dc:subject xml:lang="en">rainfall</dc:subject>
+  <dc:subject xml:lang="en">atmospheric precipitation</dc:subject>
+  <dc:subject xml:lang="en">prediction</dc:subject>
+  <dc:subject xml:lang="en">runoff</dc:subject>
+  <dc:subject xml:lang="en">neural networks</dc:subject>
+  <dc:subject xml:lang="en">reservoirs</dc:subject>
+  <dc:subject xml:lang="en">segmentation</dc:subject>
+  <dc:subject xml:lang="en">simulation</dc:subject>
+  <dc:coverage xml:lang="en">China</dc:coverage>
+  <dc:coverage xml:lang="en">Far East</dc:coverage>
+  <dc:coverage xml:lang="en">Hunan China</dc:coverage>
+  <dc:subject xml:lang="es">Asia</dc:subject>
+  <dc:subject xml:lang="es">Análisis grupo</dc:subject>
+  <dc:subject xml:lang="es">Cuenca</dc:subject>
+  <dc:subject xml:lang="es">Crecida</dc:subject>
+  <dc:subject xml:lang="es">Gestión recurso agua</dc:subject>
+  <dc:subject xml:lang="es">Histórica</dc:subject>
+  <dc:subject xml:lang="es">Hidrograma</dc:subject>
+  <dc:subject xml:lang="es">Metodología</dc:subject>
+  <dc:subject xml:lang="es">Lluvia</dc:subject>
+  <dc:subject xml:lang="es">Precipitación atmosférica</dc:subject>
+  <dc:subject xml:lang="es">Previsión</dc:subject>
+  <dc:subject xml:lang="es">Brillo</dc:subject>
+  <dc:subject xml:lang="es">Red neuronal</dc:subject>
+  <dc:subject xml:lang="es">Simulación</dc:subject>
+  <dc:coverage xml:lang="es">China</dc:coverage>
+  <dc:coverage xml:lang="es">Extremo Oriente</dc:coverage>
+  <dc:subject>001E01N01: Hydrologie / Hydrology</dc:subject>
+  <dc:subject>001E01O02: Risques naturels: prévisions, dommages, etc / Natural hazards: prediction, damages, etc</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 19224615</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

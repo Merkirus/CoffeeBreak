@@ -1,0 +1,138 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Les retraites en 2003",
+    "dc:creator": [
+        "DELOFFRE, A",
+        "Ministère de la Solidarité de la Santé et de la Protection Sociale. Direction de la Recherche des Etudes de l'Evaluation et des Statistiques. (D.R.E.E.S.). Paris"
+    ],
+    "dc:relation": "Solidarité santé. Etudes statistiques -- Solidar. santé, Etud. stat, ISSN 0764-4493 (4) , pp. 55-66",
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "La Documentation française",
+    "dc:format": [
+        "print",
+        "12 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Donnée statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evolution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthodologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Personne âgée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Politique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Retraite"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Statistical data"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Evolution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Methodology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Elderly"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Policy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Retirement"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dato estadístico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evolución"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metodología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anciano"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Política"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Jubilación"
+        },
+        "002B30A11: Divers / Miscellaneous"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francia"
+        }
+    ],
+    "dc:rights": [
+        "Banque de données en santé publique - Ecole des hautes études en santé publique (BDSP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16761973"
+}

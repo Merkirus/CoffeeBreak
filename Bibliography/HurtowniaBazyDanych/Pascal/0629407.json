@@ -1,0 +1,64 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A LARGE SHELL NEBULA IN NGC 55",
+    "dc:creator": [
+        "GRAHAM JA",
+        "LAWRIE DG"
+    ],
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "ASTROPHYS. J.; ISSN 0004-637X; USA; DA. 1982; VOL. 253; NO 2; PART. 2; PP. 73-75; BIBL. 8 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "GALAXIES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATIERE INTERSTELLAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NEBULEUSE GAZEUSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DETECTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OBSERVATION OPTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NGC 0055"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GALAXIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTERSTELLAR MATTER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GASEOUS NEBULA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DETECTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPTICAL OBSERVATION"
+        },
+        "001E03: Astronomie / Astronomy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL82X0274979"
+}

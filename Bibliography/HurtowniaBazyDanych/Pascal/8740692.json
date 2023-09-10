@@ -1,0 +1,46 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "What is Life? : a Habermas Critique",
+    "dc:creator": "ROSENTHAL, J",
+    "dc:relation": "Social science information -- Soc. Sci. inf -- Information sur les sciences sociales, ISSN 0539-0184, Vol. 31 (7) , pp. 5-42",
+    "dc:date": "1992",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Sage",
+        "Sage",
+        "Sage"
+    ],
+    "dc:format": [
+        "print",
+        "Illustration ; 12 réf"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse de système"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Communication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Critique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HABERMAS, J"
+        },
+        "521-1: Histoire, théorie et méthodologie / History, theory and methodology",
+        "521-8A: Théorie / Theory"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6136028"
+}

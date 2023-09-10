@@ -1,0 +1,66 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Photoelectric observations of two major flares on UV Ceti in October 1983",
+    "dc:creator": [
+        "ORCHISTON, W",
+        "BEMBRICK, C",
+        "PARK, J",
+        "POPPLETON, B"
+    ],
+    "dc:relation": "Information bulletin on variable stars -- Inf. bull. var. stars, CODEN IBVSDL, ISSN 0374-0676 (2785)",
+    "dc:date": "1985",
+    "dc:type": [
+        "Text",
+        "Serial Issue"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Konkoly Observatory",
+    "dc:format": [
+        "print",
+        "7 p. ; 20 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Dispositif photoélectrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eruption stellaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etoile variable type UV Ceti"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Observation photométrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "UV Cet"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photoelectric cell"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stellar flare"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "UV Ceti star"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photometric observation"
+        },
+        "001E03C30N: Etoiles éruptives (étoiles uv ceti, rs canum venaticorum, fu orionis, r coronae borealis, etc.) / Flare stars (uv ceti, rs canum venaticorum, fu orionis, r coronae borealis variables, etc.)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 9266471"
+}

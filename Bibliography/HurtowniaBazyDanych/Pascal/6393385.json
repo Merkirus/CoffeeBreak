@@ -1,0 +1,165 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Pulsed laser deposition of nanocomposite thin films for photonic applications",
+    "dc:creator": [
+        "AFONSO, C. N",
+        "SOLIS, J",
+        "SERNA, R",
+        "GONZALO, J",
+        "BALLESTEROS, J. M",
+        "DE SANDE, J. C. G"
+    ],
+    "dc:contributor": [
+        "Dubowski, Jan J (Editor)",
+        "Helvajian, Henry (Editor)",
+        "Kreutz, Ernst W (Editor)",
+        "Sugioka, Koji (Editor)",
+        "US Air Force Office of Scientific Research (Organiser of meeting)",
+        "International Society for Optical Engineering (Organiser of meeting)",
+        "Laser applications in microelectronic and optoelectronic manufacturing. Conference (4 ; San Jose CA 1999-01-25)"
+    ],
+    "dc:relation": [
+        "SPIE proceedings series -- SPIE proc. ser, pp. 453-464",
+        "Laser applications in microelectronic and optoelectronic and optoelectronic manufacturing IV (San Jose CA, 25-27 January 1999)"
+    ],
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "46 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Couche mince"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dépôt laser"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Laser pulsé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nanocomposite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nanocristal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optique non linéaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résultat expérimental"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Susceptibilité optique non linéaire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thin film"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laser deposition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pulsed laser"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nanocomposite"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nanocrystal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Non linear optics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental result"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Non linear optical susceptibility"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Capa fina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Depósito laser"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Láser pulsado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nanocompuesto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nanocristal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Optica no lineal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad óptica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resultado experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Susceptibilidad óptica no lineal"
+        },
+        "001B40B62C: Applications industrielles / Industrial applications",
+        "001D03F17: Fabrication microélectronique (technologie des matériaux et des surfaces) / Microelectronic fabrication (materials and surfaces technology)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1169967"
+}

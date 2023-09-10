@@ -1,0 +1,239 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The central amygdala is involved in conditioning but not in retention of active and passive shock avoidance in male rats",
+    "dc:creator": [
+        "ROOZENDAAL, B",
+        "KOOLHAAS, J. M",
+        "BOHUS, B"
+    ],
+    "dc:relation": "Behavioral and neural biology -- Behav. neural biol, CODEN BNBIDY, ISSN 0163-1047, Vol. 59 (2) , pp. 143-149",
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Academic Press",
+    "dc:format": [
+        "print",
+        "1 p. 1/2"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Apprentissage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conditionnement instrumental"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Encéphale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lésion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mémoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Noyau amygdalien"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Noyau gris central"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Processus acquisition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stimulus acoustique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stimulus électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système nerveux central"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rat Wistar"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Learning"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Operant conditioning"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Brain (vertebrata)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Avoidance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lesion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Memory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Amygdaloid nucleus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Basal ganglion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Acquisition process"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rat"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Acoustic stimulus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrical stimulus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central nervous system"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aprendizaje"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Condicionamiento instrumental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Encéfalo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evitación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lesión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Memoria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Núcleo amigdalino"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Núcleo basal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Proceso adquisición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estímulo acústico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estímulo eléctrico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso central"
+        },
+        "002A26C04: Corrélats anatomiques du comportement / Anatomical correlates of behavior",
+        "770-: Psychologie. Psychanalyse. Psychiatrie / Psychology. Psychoanalysis. Psychiatry",
+        "770-B: Psychologie. Psychophysiologie / Psychology. Psychophysiology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4649045"
+}

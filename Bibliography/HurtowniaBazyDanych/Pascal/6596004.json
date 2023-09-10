@@ -1,0 +1,189 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Angular dependence of neutron depolarization in hard-magnetic materials",
+    "dc:creator": [
+        "BADUREK, G",
+        "RIEDLER, P",
+        "GRÖSSINGER, R"
+    ],
+    "dc:contributor": [
+        "TROC, ROBERT (Editor)",
+        "MORKOWSKI, J (Editor)",
+        "SZYMCZAK, H (Editor)",
+        "International Union of Pure and Applied Physics (Funder/Sponsor)",
+        "ICM'94 : international conference on magnetism (Warsaw 1994-08-22)"
+    ],
+    "dc:relation": [
+        "Journal of magnetism and magnetic materials -- J. magn. magn. mater, CODEN JMMMDC, ISSN 0304-8853, Vol. 140-44 (2) , pp. 1069-1070",
+        "ICM'94 : international conference on magnetism"
+    ],
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "6 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Lanthanide alliage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métal transition alliage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Alliage ternaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Anisotropie magnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cycle hystérésis"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffusion neutron"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Domaine magnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ferromagnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hystérésis magnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau fritté"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau magnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété magnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Variation angulaire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rare earth alloys"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transition element alloys"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ternary alloys"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetic anisotropy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hysteresis loop"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neutron scattering"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetic domain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ferromagnetic materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetic hysteresis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sintered materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetic materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetic properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Angular variation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ciclo histéresis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Difusión neutrón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dominio magnético"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Material ferromagnético"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Histérisis magnética"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Variación angular"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Neutronenstreuung"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Magnetische Domaene"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Magnetische Hysteresis"
+        },
+        "001B70E50B: Fer et ses alliages / Fe and its alloys",
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy",
+        "7550B:  / Fe and its alloys"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3460705"
+}

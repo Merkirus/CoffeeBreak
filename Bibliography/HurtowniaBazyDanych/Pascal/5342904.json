@@ -1,0 +1,187 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Identification of the pharmaceuticals for human use contaminating the italian aquatic environment",
+    "dc:creator": [
+        "ZUCCATO, Ettore",
+        "CASTIGLIONI, Sara",
+        "FANELLI, Roberto"
+    ],
+    "dc:contributor": [
+        "ANDREOZZI, Roberto (Editor)",
+        "LYBERATOS, Gerasimos (Editor)"
+    ],
+    "dc:relation": "Journal of hazardous materials -- J. hazard. mater, CODEN JHMAD9, ISSN 0304-3894, Vol. 122 (3) , pp. 205-209",
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "5 p. ; 14 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Contamination"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cours eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eau surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Identification"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu aquatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Médicament"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polluant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pollution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Station épuration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Surveillance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Contamination"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stream"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface water"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Identification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aquatic environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Drug"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pollutant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pollution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sewage treatment plant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surveillance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pharmaceuticals"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "River"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STP"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface water"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contaminación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Curso agua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agua superficie"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Identificación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio acuático"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medicamento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contaminante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polución"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estación depuradora"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vigilancia"
+        },
+        "001D16A04C: Eaux continentales superficielles / Continental surface waters",
+        "001D16A05A: Procédés généraux d'épuration / General purification processes",
+        "001D16A06: Ouvrages d'assainissement: égoûts, stations d'épuration, émissaires, . / Sewerage works: sewers, sewage treatment plants, outfalls, ."
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16941278"
+}

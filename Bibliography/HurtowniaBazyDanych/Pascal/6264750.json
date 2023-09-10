@@ -1,0 +1,147 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Contribution à l'étude scientifique de la région de banc d'Arguin (littoral mauritanien : 2120'/1920' ln) : peuplements avifaunistiques; Contribution to the scientific study of Banc d'Arguin (Mauritanian E Coast): Avifauna setlement",
+    "dc:creator": "MAHE, Erik",
+    "dc:contributor": "Montpellier 2 (Degree-grantor)",
+    "dc:date": "1985",
+    "dc:type": [
+        "Text",
+        "Thesis"
+    ],
+    "dc:identifier": [
+        "NNT 1783",
+        "Inist-CNRS record number 8695177"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "767 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Afrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aves"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Banc d'Arguin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Biogéographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Inventaire faunistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mauritanie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu marin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu terrestre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Zone aride"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Zone côtière"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Africa"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aves"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biogeography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Faunal survey"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mauritania"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Marine environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Terrestrial environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Arid region"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Coastal zone"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Africa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aves"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biogeografia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inventario fauna"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mauritania"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio marino"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio terrestre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Zona arida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Zona costera"
+        },
+        "002A14B04E: Ecosystèmes marins / Sea water ecosystems"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

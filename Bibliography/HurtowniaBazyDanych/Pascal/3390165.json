@@ -1,0 +1,106 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "VIBRATIONAL SPECTRA OF 2- AND 3-FURONITRILE.",
+    "dc:creator": [
+        "VOLKA K",
+        "ADAMEK P",
+        "STIBOR I",
+        "KSANDR Z"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "SPECTROCHIM. ACTA, A; G.B.; DA. 1976; VOL. 32; NO 2; PP. 397-401; BIBL. 11 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "HETEROCYCLE OXYGENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE MONOCYCLIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CYCLE 1 HETEROATOME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NITRILE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE VIBRATIONNELLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROFIL RAIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETAT GAZEUX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DEPOLARISATION RAYONNEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DEPLACEMENT SPECTRAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EFFET ISOTOPIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTRE IR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTRE RAMAN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE IR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE RAMAN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FURONITRILE-2"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FURONITRILE-3"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HETEROCYCLE INSATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE ATOMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE MOLECULAIRE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ATOMIC PHYSICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOLECULAR PHYSICS"
+        },
+        "001B30: Physique atomique et moleculaire / Atomic and molecular physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7640175932"
+}

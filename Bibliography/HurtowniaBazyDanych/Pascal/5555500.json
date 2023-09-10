@@ -1,0 +1,252 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Understanding metaphors : Is the right hemisphere uniquely involved?",
+    "dc:creator": [
+        "KACINIK, Natalie A",
+        "CHIARELLO, Christine"
+    ],
+    "dc:contributor": "GIORA, Rachel (Editor)",
+    "dc:relation": "Brain and language (Print) -- Brain lang. (Print), CODEN BRLGAZ, ISSN 0093-934X, Vol. 100 (2) , pp. 188-207",
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "20 p. ; 2 p.1/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Encéphale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système nerveux central"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ambiguité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cognition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Compréhension verbale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Décision lexicale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet amorçage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hémisphère cérébral"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Langage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Latéralité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métaphore"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phrase"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spécialisation hémisphérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sémantique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hémisphère droit"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Encephalon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central nervous system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ambiguity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cognition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Verbal comprehension"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lexical decision"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Priming effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cerebral hemisphere"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Language"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laterality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metaphor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sentence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hemispheric specialization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Semantics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Right hemisphere"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cerebral hemispheres"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Figurative language"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Language laterality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lexical decision"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metaphors"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Priming"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Semantic ambiguity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sentence comprehension"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Encéfalo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso central"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ambiguedad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cognición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Comprensión verbal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Decisión léxica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efecto priming"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hemisferio cerebral"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lenguaje"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lateralidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metáfora"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Frase"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Especialización hemisférica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Semántica"
+        },
+        "002A26C04: Corrélats anatomiques du comportement / Anatomical correlates of behavior",
+        "002A26I06: Divers / Miscellaneous",
+        "770-: Psychologie. Psychanalyse. Psychiatrie / Psychology. Psychoanalysis. Psychiatry",
+        "770-B: Psychologie. Psychophysiologie / Psychology. Psychophysiology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18569114"
+}

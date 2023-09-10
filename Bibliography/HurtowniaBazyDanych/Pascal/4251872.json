@@ -1,0 +1,106 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "INFLUENCE DE L'ORDRE MAGNETIQUE SUR LA CONDUCTIVITE EN HYPERFREQUENCES DE EUO",
+    "dc:creator": [
+        "SOLIN NI",
+        "SAMOKHVALOV AA",
+        "GIZHEVSKIJ BA",
+        "MAGAT OL"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "FIZ. TVERD. TELA; SUN; DA. 1978; VOL. 20; NO 10; PP. 2896-2900; BIBL. 16 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CONDUCTIVITE ELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HYPERFREQUENCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORDRE MAGNETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FERROMAGNETISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IMPURETE MAGNETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NIVEAU FERMI"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSITION MAGNETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BASSE TEMPERATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TEMPERATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OXYDE EUROPIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE SOLIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRICAL CONDUCTIVITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROWAVE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MAGNETIC ORDER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FERROMAGNETISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MAGNETIC IMPURITIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FERMI LEVEL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MAGNETIC TRANSITION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LOW TEMPERATURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TEMPERATURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID PHYSICS"
+        },
+        "001B60: Etat condense: structure, proprietes mecaniques et thermiques / Condensed matter: structure, mechanical and thermal properties"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7930230339"
+}

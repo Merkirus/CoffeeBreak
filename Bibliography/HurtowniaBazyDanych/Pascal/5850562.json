@@ -1,0 +1,255 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Colonization, pathogenicity, host susceptibility, and therapeutics for Staphylococcus aureus: what is the clinical relevance?",
+    "dc:creator": [
+        "TONG, Steven Y. C",
+        "CHEN, Luke F",
+        "FOWLER, Vance G"
+    ],
+    "dc:contributor": [
+        "DATTA, Sandip (Editor)",
+        "MYLES, Ian A (Editor)"
+    ],
+    "dc:relation": "Seminars in immunopathology (Print) -- Semin. immunopathol. (Print), ISSN 1863-2297, Vol. 34 (2) , pp. 185-200",
+    "dc:date": "2012",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "16 p. ; 164 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bactérie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dérivé de la pénicilline"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Micrococcaceae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Micrococcales"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "β-Lactamines"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Colonisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epidémiologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunopathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méticilline"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathogénie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pertinence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pouvoir pathogène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sensibilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Staphylococcus aureus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Souche résistante méticilline"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bacteria"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Penicillin derivatives"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Micrococcaceae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Micrococcales"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "β-Lactams"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Colonization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Epidemiology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immunology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immunopathology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Meticillin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pathogenesis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Relevance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pathogenicity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sensitivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Staphylococcus aureus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Epidemiology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MRSA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Methicillin-resistant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pathogenesis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Staphylococcus aureus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bacteria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Penicilinas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Micrococcaceae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Micrococcales"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "β-Lactams"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Colonización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Epidemiología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunopatología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Meticilina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Patogenia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pertinencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Poder patógeno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sensibilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Staphylococcus aureus"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        "002A06: Immunologie fondamentale / Fundamental immunology",
+        "002B06: Immunopathologie / Immunopathology",
+        "002B07: Sarcoidoses. Granulomatoses d'etiologie indeterminee. Maladies du tissu conjonctif. Maladies du tissu elastique. Vascularites / Sarcoidosis. Granulomatous diseases of unproved etiology. Connective tissue diseases. Elastic tissue diseases. Vasculitis"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 25603789"
+}

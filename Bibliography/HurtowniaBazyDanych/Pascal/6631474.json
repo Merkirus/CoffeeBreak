@@ -1,0 +1,179 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Communication and Networking in a Regional Organisation",
+    "dc:creator": [
+        "MOHAN, C. V",
+        "PHILLIPS, M. J",
+        "CORSIN, F"
+    ],
+    "dc:contributor": [
+        "DODET, Betty (Editor)",
+        "World Organisation for Animal Health (OIE) (Organiser of meeting)",
+        "OIE global conference on aquatic animal health (Bergen 2006-10-09)"
+    ],
+    "dc:relation": [
+        "Developments in biologicals -- Dev. biol, ISSN 1424-6074, Vol. 129, pp. 73-79",
+        "The OIE global conference on aquatic animal health"
+    ],
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Karger",
+        "Karger",
+        "Karger"
+    ],
+    "dc:format": [
+        "print",
+        "7 p. ; 8 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Aquiculture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Expertise"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Organisation internationale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réglementation technique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau communication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé animale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aquaculture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Expertise"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "International organization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Technical code"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Communication network"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Animal health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Technique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asia Regional Technical Guidelines"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Network of Aquaculture Centres in Asia-Pacific (NACA)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "aquatic animal health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "intergovernmental organisation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acuicultura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Peritaje"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Organización internacional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reglamentación técnica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red de comunicación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sanidad animal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Técnica"
+        },
+        "002A36B01: Généralités / General aspects"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Asie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thaïlande"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thailand"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tailandia"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20041098"
+}

@@ -1,0 +1,116 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "HETEROGENEOUS MODEL OF DRUG RELEASE FROM POLYMERIC MATRIX",
+    "dc:creator": [
+        "CHANDRASEKARAN SK",
+        "HILLMAN R"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. PHARM. SCI.; ISSN 0022-3549; USA; DA. 1980; VOL. 69; NO 11; PP. 1311-1313; BIBL. 9 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MEDICAMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LIBERATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRINCIPE ACTIF"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATRICE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLYMERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CINETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOLUBILITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MODELE MATHEMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETHYLENE DERIVE POLYMERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DISPERSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SALICYLIQUE ACIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CELLULOSE(ETHYL)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHARMACOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DRUG"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RELEASE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ACTIVE INGREDIENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLYMER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "KINETICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLUBILITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MATHEMATICAL MODELS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ETHYLENE DERIVATIVE POLYMER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DISPERSION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CELLULOSE(ETHYL)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHARMACOLOGY"
+        },
+        "002B02: Pharmacologie. Traitements medicamenteux / Pharmacology. Drug treatments"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8110280351"
+}

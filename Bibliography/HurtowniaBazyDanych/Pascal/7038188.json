@@ -1,0 +1,258 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Plasmonic effects in In(Ga)N",
+    "dc:creator": [
+        "IVANOV, Sergey V",
+        "SHUBINA, Tatiana V",
+        "TOROPOV, Alexey A"
+    ],
+    "dc:contributor": [
+        "Chyi, Jen-Inn (Editor)",
+        "SPIE (Organiser of meeting)",
+        "Gallium nitride materials and devices (06 ; San Francisco CA 2011)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, Vol. 7939",
+        "Gallium nitride materials and devices VI (24-27 January 2011, San Francisco, California, United States) -- 0Gallium nitride materials and devices 6 -- 1Gallium nitride materials and devices six"
+    ],
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "Russian",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "79390Q.1-79390Q.10 ; 43 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé III-V"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Caractéristique optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Champ électromagnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé ternaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Corps forme arbitraire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Couplage onde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Domaine fréquence THz"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epitaxie jet moléculaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exciton"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur accroissement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microscopie optique champ proche"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nanocomposite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nanoparticule"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nitrure d'indium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nitrure de gallium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Onde surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Or"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plasmon surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plasmonique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polariton"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété thermodynamique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résolution temporelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "8107"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "8115H"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "InGaN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "InN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "III-V compound"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical characteristic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electromagnetic fields"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ternary compounds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Arbitrary shape body"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wave coupling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THz range"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Molecular beam epitaxy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Excitons"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Enhancement factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Near-field scanning optical microscopy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nanocomposites"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nanoparticles"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Indium nitride"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gallium nitride"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface waves"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gold"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface plasmons"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plasmonics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polaritons"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermodynamic properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Time resolution"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Compuesto III-V"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Característica óptica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuerpo forma arbitraria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acoplamiento onda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor incremento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Indio nitruro"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Galio nitruro"
+        },
+        "001B80A07Z: Divers / Other topics in nanoscale materials and structures",
+        "001B80A15H: Epitaxie par faisceaux chimiques, ioniques, atomiques et moléculaires / Molecular, atomic, ion, and chemical beam epitaxy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 24455567"
+}

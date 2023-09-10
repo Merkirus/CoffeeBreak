@@ -1,0 +1,113 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Séminaire Tramil 2 : recherches scientifiques et usage populaire des plantes médicinales dans la Carai|be, rapport partie scientifique",
+    "dc:creator": [
+        "WENIGER, B",
+        "ROBINEAU, L"
+    ],
+    "dc:contributor": "Séminaire Tramil 2 : recherches scientifiques et usage populaire des plantes médicinales dans la Carai|be, rapport partie scientifique (1986-11)",
+    "dc:date": "1986",
+    "dc:type": [
+        "Text",
+        "Conference Proceedings"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "254 p. ; 27 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Classification"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plante médicinale"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Classification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Medicinal plant"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Clasificación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Planta medicinal"
+        },
+        "002B30A11: Divers / Miscellaneous"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique Centrale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Antilles"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Haiti"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "République Dominicaine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "West Indies"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Haiti"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dominican Republic"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America central"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antillas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Haiti"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "República Dominicana"
+        }
+    ],
+    "dc:rights": [
+        "Banque de données en santé publique - Ecole des hautes études en santé publique (BDSP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6418749"
+}

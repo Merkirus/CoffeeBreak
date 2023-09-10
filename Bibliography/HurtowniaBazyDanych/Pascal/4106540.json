@@ -1,0 +1,66 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DETERMINATION DE LA FORCE DE L'OSCILLATEUR DU CENTRE V3 DANS LES CRISTAUX KCL IRRADIES",
+    "dc:creator": [
+        "RAUKHVARGER A EH",
+        "TILIKS YU E",
+        "DZELME YU R",
+        "BUGAENKO LT"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "LATV. P.S.R. ZINAT. AKAD. VEST., FIZ. TEH. ZINAT. SER.; SUN; DA. 1978; NO 3; PP. 56-60; ABS. ANGL.; BIBL. 5 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ABSORPTION OPTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CENTRE COLORE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CENTRE V"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IRRADIATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHLORURE POTASSIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE SOLIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPTICAL ABSORPTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COLOR CENTERS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "V CENTER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IRRADIATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID PHYSICS"
+        },
+        "001B60: Etat condense: structure, proprietes mecaniques et thermiques / Condensed matter: structure, mechanical and thermal properties"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7930017236"
+}

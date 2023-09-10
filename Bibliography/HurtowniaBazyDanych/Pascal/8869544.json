@@ -1,0 +1,88 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Die anglikanische Ordinationsliturgie der Kirche von England; The Anglican Liturgy of Ordination of the Church of England",
+    "dc:creator": "FEULNER, H.-J",
+    "dc:relation": "Liturgisches Jahrbuch -- Liturg. Jahrb, ISSN 0024-5100, Vol. 47 (1) , pp. 23-40",
+    "dc:date": "1997",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "German",
+    "dc:publisher": "Aschendorffsche Verlagsbuchhandlung",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Diacre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evêque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Histoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Liturgie anglicane"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ordination anglicane"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prêtre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rituel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Deacon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bishop"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "History"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Anglican liturgy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Anglican ordination"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Priest"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ritual"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Structure"
+        },
+        "527-: Histoire et sciences des religions / History and sciences of religions",
+        "527-865: Christianisme / Christianity",
+        "527-1365: Culte et liturgie / Cult and liturgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2467544"
+}

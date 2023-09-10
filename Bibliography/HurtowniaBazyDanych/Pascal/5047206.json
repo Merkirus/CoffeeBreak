@@ -1,0 +1,54 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SUR LA K-THEORIE DES CATEGORIES HERMITIENNES; ON THE K-THEORY OF HERMITIAN CATEGORIES",
+    "dc:creator": "Hornbostel, Jens",
+    "dc:contributor": [
+        "Karoubi, Max (Advisor (for a thesis or dissertation))",
+        "Université de Paris 07 (Degree-grantor)"
+    ],
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Thesis"
+    ],
+    "dc:identifier": [
+        "NNT 01 PA07 7032",
+        "Inist-CNRS record number 14197668"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "76 p. ; 78 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Forme quadratique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "K théorie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quadratic form"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "K theory"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Forma cuadrática"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "K teoría"
+        },
+        "001A02C10: K-théorie / K-theory"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

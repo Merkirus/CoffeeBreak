@@ -1,0 +1,193 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A transistor model for numerical computation of forward-bias second-breakdown boundary",
+    "dc:creator": "JOVANOVIC, M. M",
+    "dc:contributor": "1990 power electronics specialists conference (San Antonio TX 1990-06-11)",
+    "dc:relation": [
+        "IEEE transactions on power electronics -- IEEE trans. power electron, CODEN ITPEE8, ISSN 0885-8993, Vol. 6 (2) , pp. 199-207",
+        "1990 power electronics specialists conference (San Antonio TX 1990-06-11)"
+    ],
+    "dc:date": "1991",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institute of Electrical and Electronics Engineers",
+    "dc:format": [
+        "print",
+        "9 p. ; 17 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amorçage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Champ température"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Condition aux limites"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Constituant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Densité courant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Distribution densité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Défaillance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Electronique puissance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur géométrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle 2 dimensions"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Secondaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation numérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transistor puissance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BU326"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polarisation directe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Breakdown"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Temperature distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Boundary condition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Constituent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Current density"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Density distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Failures"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Power electronics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Geometrical factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Two dimensional model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Secondary"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Digital simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Power transistor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cebamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Campo temperatura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Condiciones límites"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Constituyente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Densidad corriente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Distribución densidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fallo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Electrónica potencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor geométrico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo 2 dimensiones"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Secundario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simulación numérica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transistor potencia"
+        },
+        "001D05H: Electronique de puissance, alimentations électriques / Power electronics, power supplies"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 19578968"
+}

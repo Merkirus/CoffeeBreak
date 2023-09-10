@@ -1,0 +1,184 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Catalytic removal of phenol from aqueous phase using oxygen or air as oxidant",
+    "dc:creator": [
+        "FORTUNY, A",
+        "FERRER, C",
+        "BENGOA, C",
+        "FONT, J",
+        "FABREGAT, A"
+    ],
+    "dc:contributor": [
+        "FOUILLOUX, P (Editor)",
+        "CNRS Rhône-Poulenc (Funder/Sponsor)",
+        "Event of EFCHE. European symposium (549 ; Lyon 1994-12-07)"
+    ],
+    "dc:relation": [
+        "Catalysis today -- Catal. today, CODEN CATTEA, ISSN 0920-5861, Vol. 24 (1-2) , pp. 79-83",
+        "Catalysis in multiphase reactors"
+    ],
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "13 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Air"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé benzénique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eau usée industrielle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet température"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epuration eau usée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Oxydation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Oxygène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phénol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réacteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réaction catalytique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Solution aqueuse"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Air"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Benzenic compound"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Industrial waste water"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Temperature effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Waste water purification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oxidation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oxygen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phenol"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reactor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Catalytic reaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aqueous solution"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aire"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Compuesto bencénico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agua servida industrial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efecto temperatura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Depuración aguas servidas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Oxidación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Oxígeno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fenol"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reactor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reacción catalítica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Solución acuosa"
+        },
+        "001C01A03B: Réactions catalytiques / Catalytic reactions",
+        "001D16A05B: Eaux usées industrielles / Industrial wastewaters"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3566629"
+}

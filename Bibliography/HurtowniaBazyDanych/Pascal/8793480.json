@@ -1,0 +1,75 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Prevrednovanje Jana Husa od Katoličke crkve; Re-evaluation of the person of Jan Hus; Re-Evaluation of the Person of Jan Hus",
+    "dc:creator": "DLAPKA, V",
+    "dc:relation": "Obnovljeni život -- Obnov. život, ISSN 0351-3947, Vol. 50 (2) , pp. 215-222",
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "Czech",
+    "dc:publisher": "Filosofsko-teološki institut Družbe Isusove",
+    "dc:format": [
+        "print",
+        "4 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Concile de Constance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Condamnation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Histoire religieuse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Jean Hus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recherche scientifique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réforme ecclésiastique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Council of Constance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Condemnation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Religious history"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "John Hus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Scientific research"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ecclesiastical Reform"
+        },
+        "527-: Histoire et sciences des religions / History and sciences of religions",
+        "527-865: Christianisme / Christianity",
+        "527-1081: Doctrine et exégèse / Doctrine and exegesis"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3736220"
+}

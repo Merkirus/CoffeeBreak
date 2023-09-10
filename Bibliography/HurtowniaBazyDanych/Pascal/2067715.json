@@ -1,0 +1,73 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "MEDLINE DEMAND PROFILES: AN ANALYSIS OF REQUESTS FOR CLINICAL AND RESEARCH INFORMATION.",
+    "dc:creator": [
+        "GREENBERG B",
+        "BREEDLOVE R",
+        "BERGER W"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "BULL. MED. LIBRARY ASS.; U.S.A.; DA. 1977; VOL. 65; NO 1; PP. 22-30; BIBL. 9 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "RECHERCHE DOCUMENTAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RECHERCHE AUTOMATISEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EVALUATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE STATISTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MEDECINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETATS UNIS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MEDLINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCE INFORMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DOCUMENT RETRIEVAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STATISTICAL ANALYSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MEDICINE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "UNITED STATES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFORMATION SCIENCE"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7730281525"
+}

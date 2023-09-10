@@ -1,0 +1,44 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "UNE NECROSE DE LA FEVEROLE, UNE MALADIE NOUVELLE D'ORIGINE VIRALE EN ROUMANIE",
+    "dc:creator": [
+        "PLOAIE PG",
+        "PETRE Z"
+    ],
+    "dc:date": "1972",
+    "dc:type": "Serial Issue",
+    "dc:language": "Romanian",
+    "dc:format": "STUD. CERC. BIOL., SER. BOT.; ROMAN.; DA. 1972; VOL. 24; NO 5; PP. 427-432; H.T. 3; ABS. ANGL.; BIBL. 15REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "VIROSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VEGETAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FEVEROLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ROUMANIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROBIOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROBIOLOGY"
+        },
+        "002B05: Pathologie infectieuse / Infectious diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7334015701"
+}

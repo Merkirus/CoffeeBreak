@@ -1,0 +1,206 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Raman and infrared spectra and ab initio calculations for the determination of the conformational stability for fluorocarbonyl and acetyl isocyanate",
+    "dc:creator": [
+        "KRUTULES, K. A",
+        "SULLIVAN, J. F",
+        "GUIRGIS, G. A",
+        "PHAN, H",
+        "DURIG, J. R"
+    ],
+    "dc:contributor": [
+        "BARNES, A. J (Editor)",
+        "ORVILLE-THOMAS, W. J (Editor)",
+        "KELLNER, R (Editor)",
+        "TAGA, K (Editor)",
+        "LANDVOIGT, B. W (Editor)",
+        "EUCMOS XXI: European congress on molecular spectroscopy (21 ; Vienna 1992-08-23)"
+    ],
+    "dc:relation": [
+        "Journal of molecular structure -- J. mol. struct, ISSN 0022-2860, Vol. 293, pp. 23-26",
+        "Molecular spectroscopy and molecular structure 1992. II"
+    ],
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "8 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Barrière énergie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé organique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conformation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etat gazeux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etat liquide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etat solide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude théorique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Isocyanate"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode LCAO MO"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode ab initio"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectre IR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectre Raman"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Acétique acide isocyanate"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Formique acide(isocyanato) fluorure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Energy barrier"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Organic compounds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Conformation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gaseous state"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Liquid state"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Solid state"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Theoretical study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Isocyanates"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LCAO MO method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ab initio method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infrared spectrum"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Raman spectrum"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Barrera energía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Compuesto orgánico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conformación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estado gaseoso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estado líquido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estado sólido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio teórico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Isocianato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método LCAO MO"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método ab initio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Espectro IR"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Espectro Raman"
+        },
+        "001B30C15H: Isomérie de rotation, barrières de rotation interne et d'inversion, dynamique conformationnelle / Barrier heights (internal rotation, inversion, rotational isomerism, conformational dynamics)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4705793"
+}

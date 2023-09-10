@@ -1,0 +1,97 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "BIOLOGICAL EFFECTS IN SOIL AND ON FOREST VEGETATION.",
+    "dc:creator": "TAMM CO",
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "AMBIO; SWED.; DA. 1976; VOL. 5; NO 5-6; PP. 235-238; BIBL. 23 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "POLLUTION SOL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VEGETAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONTAMINATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRECIPITATION ATMOSPHERIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SUEDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NORVEGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ZONE FORESTIERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NUISANCES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLLUTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOIL POLLUTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VEGETALS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONTAMINATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ACIDS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ATMOSPHERIC PRECIPITATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SWEDEN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NORWAY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FOREST ZONE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NUISANCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLLUTION"
+        },
+        "001D16: Pollution / Pollution"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7760218402"
+}

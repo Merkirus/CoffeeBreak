@@ -1,0 +1,277 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Antibacterial activity of DLC and Ag-DLC films produced by PECVD technique",
+    "dc:creator": [
+        "MARCIANO, F. R",
+        "BONETTI, L. F",
+        "SANTOS, L. V",
+        "DA-SILVA, N. S",
+        "CORAT, E. J",
+        "TRAVA-AIROLDI, V. J"
+    ],
+    "dc:contributor": [
+        "ROBERTSON, John (Editor)",
+        "KAWARADA, Hiroshi (Editor)",
+        "KOHN, Erhard (Editor)",
+        "HAMERS, Robert (Editor)",
+        "European Conference on Diamond, Diamond-Like Materials, Carbon Nanotubes, Nitrides and Silicon Carbide (19 ; Sitges 2008-09-07)"
+    ],
+    "dc:relation": [
+        "Diamond and related materials -- Diam. relat. mater, ISSN 0925-9635, Vol. 18 (5-8) , pp. 1010-1014",
+        "Proceedings of Diamond 2008, the 19th European Conference on Diamond, Diamond-Like Materials, Carbon Nanotubes, Nitrides and Silicon Carbide"
+    ],
+    "dc:date": "2009",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "5 p. ; 57 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Acier inoxydable 316L"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Addition carbone"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Antibactérien"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Application médicale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Argent"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Biomatériau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Carbone adamantin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrainte compression"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Couche intermédiaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Couche mince"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Croissance film"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dureté"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epaisseur couche"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Escherichia coli"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microstructure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode PECVD"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nanomatériau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nanoparticule"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Procédé dépôt"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété mécanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Revêtement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Silicium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectrométrie Raman"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "6855J"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "8105U"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "8107"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "8115G"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Si"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Substrat acier inoxydable"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stainless steel-316L"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Carbon additions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Germicides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Medical application"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Silver"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biomedical materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diamond-like carbon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Compressive stress"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interlayers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thin films"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Film growth"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hardness"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Layer thickness"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Escherichia coli"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microstructure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PECVD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nanostructured materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nanoparticles"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Deposition process"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mechanical properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Coatings"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Silicon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Raman spectroscopy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antibacterial activity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diamond-like carbon"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aplicación medical"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tensión compresión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Espesor capa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Procedimiento revestimiento"
+        },
+        "001B60H55J: Structure et morphologie; épaisseur / Structure and morphology; thickness",
+        "001B80A05T: Fullerènes et matériaux apparentés; diamants, graphite / Fullerenes and related materials; diamonds, graphite",
+        "001B80A07Z: Divers / Other topics in nanoscale materials and structures",
+        "001B80A15G: Dépôt chimique en phase vapeur (incluant le cvd activé par plasma, mocvd, etc.) / Chemical vapor deposition (including plasma-enhanced cvd, mocvd, etc.)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 21853796"
+}

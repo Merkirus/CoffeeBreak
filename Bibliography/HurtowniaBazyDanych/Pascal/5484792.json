@@ -1,0 +1,177 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Charge and spin manipulation in a few-electron double dot",
+    "dc:creator": [
+        "PETTA, J. R",
+        "JOHNSON, A. C",
+        "TAYLOR, J. M",
+        "YACOBY, A",
+        "LUKIN, M. D",
+        "MARCUS, C. M",
+        "HANSON, M. P",
+        "GOSSARD, A. C"
+    ],
+    "dc:contributor": [
+        "LILLY, Mike P (Editor)",
+        "PAN, W (Editor)",
+        "DU, R.-R (Editor)",
+        "SIMMONS, Jerry A (Editor)",
+        "Sandia National Laboratories (Organiser of meeting)",
+        "EP2DS International Conference on Electronic Properties of Two-Dimensional Systems (16 ; Albuquerque, NM 2005-07-10)"
+    ],
+    "dc:relation": [
+        "Physica. E, low-dimentional systems and nanostructures -- Physica ( E) low-dimens. syst. nanostrut, ISSN 1386-9477, Vol. 34 (1-2) , pp. 42-46",
+        "Proceedings of the 16th International Conference on Electronic Properties of Two-Dimensional Systems (EP2DS-16) held in Albuquerque, NM, USA, 10-15 July 2005"
+    ],
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "5 p. ; 26 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Champ faible"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etat charge"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etat dégénéré"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hyperfréquence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interaction hyperfine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ordinateur quantique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Oscillation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Point quantique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Relaxation spin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Temps relaxation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transition singulet triplet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0367L"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bit quantique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Low field"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Charge states"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Degenerate state"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microwave radiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hyperfine interactions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quantum computer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oscillations"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quantum dots"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spin relaxation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Relaxation time"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Singlet triplet transition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quantum bit"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "03.67.Mn; 72.25.Rb; 85.35.Gv"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Charge qubit; Spin qubit; Rabi oscillation; Coherent manipulation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Campo débil"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estado degenerado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Relajación spin"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transición de singlete a triplete"
+        },
+        "001B00C67L: Calcul quantique / Quantum computation"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18070967"
+}

@@ -1,0 +1,265 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Predicting lewy body pathology in a community-based sample with clinical diagnosis of Alzheimer's disease",
+    "dc:creator": [
+        "TSUANG, Debby",
+        "SIMPSON, Kate",
+        "LEVERENZ, James B",
+        "LARSON, Eric B",
+        "PESKIND, Elaine",
+        "KUKULL, Walter",
+        "BOWEN, James B",
+        "MCCORMICK, Wayne",
+        "TERI, Linda",
+        "MONTINE, Thomas",
+        "THOMPSON, Mary Lou"
+    ],
+    "dc:relation": "Journal of geriatric psychiatry and neurology -- J. geriatr. psychiatry neurol, ISSN 0891-9887, Vol. 19 (4) , pp. 195-201",
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Decker",
+    "dc:format": [
+        "print",
+        "7 p. ; 35 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Encéphale pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Maladie dégénérative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système nerveux central pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système nerveux pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Anatomopathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Communauté"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Corps Lewy"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diagnostic"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Démence Alzheimer"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Démence sénile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur prédictif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gériatrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gérontologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Isolat clinique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Personne âgée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prédiction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cerebral disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Degenerative disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central nervous system disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nervous system diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Anatomic pathology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Community"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lewy body"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diagnosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Alzheimer disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Senile dementia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Predictive factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Geriatrics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gerontology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Clinical isolate"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Elderly"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prediction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Alzheimer's disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lewy bodies"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "clinical-neuropathological"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "dementia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "prediction"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Encéfalo patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enfermedad degenerativa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervosio central patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anatomía patológica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Comunidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuerpo Lewy"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diagnóstico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Demencia Alzheimer"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Demencia senil"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor predictivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Geriatría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gerontología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aislado clinico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anciano"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Predicción"
+        },
+        "002B17G: Maladies dégénératives et hérédodégénératives du système nerveux. Leucodystrophies. Maladies à prions / Degenerative and inherited degenerative diseases of the nervous system. Leukodystrophies. Prion diseases",
+        "002B18C13: Troubles mentaux organiques. Neuropsychologie / Organic mental disorders. Neuropsychology",
+        "002B18E: Gériatrie / Geriatrics",
+        "770-: Psychologie. Psychanalyse. Psychiatrie / Psychology. Psychoanalysis. Psychiatry",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18287587"
+}

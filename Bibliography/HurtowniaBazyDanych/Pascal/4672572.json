@@ -1,0 +1,228 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Hyperthermic, supersaturated humidification in the treatment of xerostomia",
+    "dc:creator": [
+        "CRISWELL, Mark A",
+        "SINHA, Christopher K"
+    ],
+    "dc:contributor": "The Triological Society Southern Section Meeting (Marcos Island, FL 2001-01-11)",
+    "dc:relation": [
+        "The Laryngoscope -- Laryngoscope, CODEN LARYA8, ISSN 0023-852X, Vol. 111 (6) , pp. 992-996",
+        "The Triological Society Southern Section Meeting (Marcos Island, FL 2001-01-11)"
+    ],
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Wiley-Blackwell",
+    "dc:format": [
+        "print",
+        "20 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Cavité buccale pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Glande salivaire pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORL pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stomatologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tumeur maligne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Carcinome épidermoïde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cavité buccale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Complication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Glande salivaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Humidification"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lésion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Radiothérapie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Saturation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tête cou"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Xérostomie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oral cavity disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Salivary gland disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENT disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stomatology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Malignant tumor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Squamous cell carcinoma"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oral cavity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Complication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Salivary gland"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Humidification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lesion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiotherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Saturation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Head and neck"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cavidad bucal patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Glándula salival patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "ORL patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estomatología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tumor maligno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carcinoma epidermoide"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cavidad bucal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Complicación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Glándula salival"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Humidificación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lesión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radioterapia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Saturación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cabeza cuello"
+        },
+        "002B10B02: Maladies non tumorales / Non tumoral diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1040608"
+}

@@ -1,0 +1,102 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Novye vozmožnosti analiza faktorov èrozii počv s ispol'zovaniem gis-tehnologij; Nouvelles possibilités d'analyse des facteurs d'érosion des sols en utilisant les technologies GIS",
+    "dc:creator": [
+        "ERMOLAEV, O.P",
+        "SAVEL'EV, A.A"
+    ],
+    "dc:relation": "Geomorfologiâ (Moskva) -- Geomorfologiâ (Mosk.) -- Geomorphology, ISSN 0435-4281 (4) , pp. 46-56",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "Russian",
+    "dc:publisher": "Nauka",
+    "dc:format": [
+        "print",
+        "11 p. ; 13 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Base de données"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bassin-versant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Corrélation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Erosion des sols"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Indicateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Relief"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système d'information géographique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Statistical analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Data base"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Watershed"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Correlation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Soil erosion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Indicator"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Relief"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Geographical information system"
+        },
+        "531-: Bgi / Prodig / Bgi / Prodig",
+        "531-1: Généralités / General",
+        "531-8A: Systèmes d'information géographique / Geographic information systems"
+    ],
+    "dc:rights": [
+        "Bibliographie Géographique Internationale - Pôle de Recherche pour l'Organisation et la Diffusion de l'Information Géographique (PRODIG)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15243813"
+}

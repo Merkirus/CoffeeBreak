@@ -1,0 +1,41 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE USE OF SIMPLE THREE-DIMENSIONAL ACOUSTIC FINITE ELEMENTS FOR DETERMINING THE NATURAL MODES AND FREQUENCIES OF COMPLEX SHAPED ENCLOSURES; L'UTILISATION D'ELEMENTS FINIS ACOUSTIQUES TRIDIMENSIONNELS SIMPLES POUR DETERMINER LES MODES ET FREQUENCES NATURELS DE VOLUMES CLOS DE FORME COMPLEXE",
+    "dc:creator": "CRAGGS A",
+    "dc:date": "1972",
+    "dc:type": "Serial Issue",
+    "dc:language": "English",
+    "dc:format": "J. SOUND VIBRAT.; G.B.; DA. 1972; VOL. 23; NO 3; PP. 331-339; BIBL. 7 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MESURE BRUIT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACOUSTIQUE ARCHITECTURALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NUISANCES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLLUTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NUISANCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLLUTION"
+        },
+        "001D16: Pollution / Pollution"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7388501979"
+}

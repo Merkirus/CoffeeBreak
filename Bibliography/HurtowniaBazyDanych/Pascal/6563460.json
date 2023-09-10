@@ -1,0 +1,138 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A data base for polymer chromatography : Dependence of interaction parameters on mobile phase composition",
+    "dc:creator": [
+        "TRATHNIGG, Bernd",
+        "MUHAMMAD IMRAN MALIK",
+        "JAMELNIK, Otto",
+        "NGUYEN VIET CUONG"
+    ],
+    "dc:contributor": [
+        "SCHOENMAKERS, Peter (Editor)",
+        "SMITS, Robert (Editor)",
+        "SCM-3 : International Symposium on the Separation and Characterization of Natural and Synthetic Macromolecules (3 ; Amsterdam 2007-01-31)"
+    ],
+    "dc:relation": [
+        "Analytica chimica acta -- Anal. chim. acta, CODEN ACACAM, ISSN 0003-2670, Vol. 604 (1) , pp. 39-44",
+        "SCM-3 2007: papers presented at the 3rd International Symposium on the Separation and Characterization of Natural and Synthetic Macromolecules, Amsterdam, The Netherlands, 31 January-2 February 2007"
+    ],
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "6 p. ; 12 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Chromatographie adsorption"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chromatographie gel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chromatographie phase liquide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composition phase"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dimension pore"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Paramètre interaction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phase mobile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polymère"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adsorption chromatography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gel permeation chromatography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Liquid chromatography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phase composition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pore size"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interaction parameter"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mobile phase"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polymer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polymers,Liquid chromatography,Adsorption,Interaction parameter,Pore surface,Prediction"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cromatografía adsorción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cromatografía gel"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cromatografía fase líquida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Composición fase"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dimensión poro"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Parámetro interacción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fase móvil"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polímero"
+        },
+        "001C04B02: Autres méthodes chromatographiques / Other chromatographic methods"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 19869748"
+}

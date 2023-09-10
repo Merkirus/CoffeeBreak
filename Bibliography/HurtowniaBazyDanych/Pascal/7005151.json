@@ -1,0 +1,198 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "NiMnGa nanostructures produced by electron beam lithography and Ar-ion etching",
+    "dc:creator": [
+        "AUERNHAMMER, D",
+        "SCHMITT, M",
+        "OHTSUKA, M",
+        "KOHL, M"
+    ],
+    "dc:contributor": [
+        "KOHL, M (Editor)",
+        "CHERNENKO, V. A (Editor)",
+        "BESSEGHINI, S (Editor)",
+        "Shape Memory Materials for Smart Systems. International symposium (Warsaw 2007-09-17)"
+    ],
+    "dc:relation": [
+        "The European physical journal. Special topics, Vol. 158, pp. 249-254",
+        "E-MRS Fall Meeting 2007"
+    ],
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "EDP Sciences",
+        "Springer"
+    ],
+    "dc:format": [
+        "print",
+        "6 p. ; 5 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Actionneur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Calorimétrie différentielle balayage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conductivité électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Couche mince"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epaisseur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gallium alliage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gravure faisceau ionique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gravure sèche"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lithographie faisceau électron"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Manganèse alliage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Miniaturisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métal transition alliage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nanostructure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nickel alliage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phénomène critique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pulvérisation cathodique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement thermique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transformation martensitique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0707"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Actuators"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Differential scanning calorimetry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrical conductivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thin films"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thickness"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gallium alloys"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ion beam etching"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dry etching"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electron beam lithography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Manganese alloys"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Miniaturization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transition element alloys"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nanostructures"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nickel alloys"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Critical phenomena"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cathode sputtering"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heat treatments"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Martensitic transformations"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Grabado haz iónico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Grabado seco"
+        },
+        "001B00G07: Techniques et équipements généraux / General equipment and techniques"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20410781"
+}

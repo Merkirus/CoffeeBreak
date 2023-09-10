@@ -1,0 +1,140 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "IEE professional magazines and networks",
+    "dc:creator": "JACKSON, Paul",
+    "dc:relation": "Learned publishing -- Learn. publ, ISSN 0953-1513, Vol. 17 (4) , pp. 281-289",
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "ALPSP",
+    "dc:format": [
+        "print",
+        "8 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffusion information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Changement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Communication scientifique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Editeur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Edition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Electronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Electrotechnique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Littérature scientifique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IEE (Institution of Electrical Engineers)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information dissemination"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Change"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Scientific communication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Publisher"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Publishing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrical engineering"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Scientific literature"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information network"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Difusión información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cambio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Comunicación científica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Editor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Edición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Electrónica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Electrotecnia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Literatura científica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red información"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation",
+        "001A01H04: Diffusion de l'information (archives ouvertes, open access,...) et fourniture de documents / Information dissemination (open archives, open access,...) and document delivery",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-I: Edition, diffusion et reproduction de l'information / Information publishing, dissemination and reproduction"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16260498"
+}

@@ -1,0 +1,98 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "MULTIPLICATION A L'ECHELLE INDUSTRIELLE DU VIRUS DE LA GRANULOSE DE LA TORDEUSE DU MELEZE",
+    "dc:creator": "MARTOURET D",
+    "dc:date": "1974",
+    "dc:type": "Report",
+    "dc:language": "French",
+    "dc:format": "DGRST-6901780; FR.; DA. 1974; PP. 1-15; H.T. 6; BIBL. 2 P.; (RAPP. FINAL, ACTION CONCERTEE: EQUILIBRE LUTTE BIOL.)",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ZEIRAPHERA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VIRUS GRANULOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENTOMOPATHOGENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LUTTE BIOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CYCLE DEVELOPPEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BACILLUS THURINGIENSIS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INSECTA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BACTERIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IN VIVO"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "APPLICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRODUCTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ZEIRAPHERA DINIANA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GRANULOSE VIRUS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INSECTE DEPREDATEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VIRUS ENTOMOPATHOGENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BACTERIE ENTOMAPATHOGENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROBIOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AGRONOMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROBIOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AGRONOMY"
+        },
+        "002A35: Industries agroalimentaires / Food industries",
+        "002B05: Pathologie infectieuse / Infectious diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7534008130"
+}

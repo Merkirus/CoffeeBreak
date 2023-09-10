@@ -1,0 +1,95 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "UNTERSUCHUNGEN UEBER IN BETON EINGELASSENE SCHERBOLZEN AUS BETONSTAHL; RECHERCHE SUR LES CONNECTEURS DE CISAILLEMENT EN ACIER A BETON ENFONCES DANS LE BETON",
+    "dc:creator": [
+        "PASCHEN H",
+        "SCHOENHOFF T"
+    ],
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": [
+        "English",
+        "German"
+    ],
+    "dc:format": "BETONWERK FERTIGTEIL-TECH.; ISSN 0373-4331; DEU; DA. 1982; VOL. 48; NO 4; PP. 203-214; ABS. ENG/FRE; BIBL. 15 REF.; IDEM ENG",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CONSTRUCTION PREFABRIQUEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONSTRUCTION BETON ARME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "JOINT CONSTRUCTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONNECTEUR CISAILLEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ESSAI CHARGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHARGE TRANSVERSALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CAPACITE PORTANTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CISAILLEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENIE CIVIL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PREFABRICATED CONSTRUCTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REINFORCED CONCRETE CONSTRUCTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONSTRUCTION JOINT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SHEAR CONNECTOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LOADING TEST"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TRANSVERSE LOAD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LOADBEARING CAPACITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SHEAR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CIVIL ENGINEERING"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALBTP82X0219796"
+}

@@ -1,0 +1,205 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Computer modelling of the chemical speciation of lanthanide and actinide elements in the human gastrointestinal tract",
+    "dc:creator": [
+        "WEBB, L. M",
+        "TAYLOR, D. M",
+        "WILLIAMS, D. R"
+    ],
+    "dc:contributor": [
+        "LANDER, G. H (Editor)",
+        "European Commision ; Joint Research Center (JRC) ; Institute for Transuranium Elements (ITU) (Funder/Sponsor)",
+        "Actinides-97 (Baden-Baden 1997-09-21)"
+    ],
+    "dc:relation": [
+        "Journal of alloys and compounds -- J. alloys compd, ISSN 0925-8388, Vol. 271-73, pp. 112-115",
+        "Actinides-97"
+    ],
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "4 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Actinide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse quantitative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil digestif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Assistance ordinateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Distribution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Intestin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lanthanide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Liquide biologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Liquide pancréatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Radioisotope"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spéciation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Actinide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quantitative analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Digestive system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computer aid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bile"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gut"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lanthanide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biological fluid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pancreatic juice"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radioisotope"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Speciation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Actínido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis cuantitativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato digestivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asistencia ordenador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bilis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Distribución"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Intestino"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lantánido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Líquido biológico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Jugo pancreático"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radionúclido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Especiación"
+        },
+        "002A08F02: Rayonnements ionisants / Ionizing radiations"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1604569"
+}

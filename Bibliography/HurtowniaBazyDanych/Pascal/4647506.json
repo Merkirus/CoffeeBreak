@@ -1,0 +1,105 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "NAUCHNYE KOMMUNIKATSII I INFORMATIKA.; LES COMMUNICATIONS SCIENTIFIQUES ET LA SCIENCE DE L'INFORMATION",
+    "dc:creator": [
+        "MIKHAJLOV AI",
+        "CHERNYJ AI",
+        "GILYAREVSKIJ RS"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Book",
+    "dc:language": "Russian",
+    "dc:format": "MOSKVA; NAUKA; DA. 1976; PP. (481P.); ABS. ANGL.; BIBL. DISSEM.; 1 VOL., 2 FASC",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ORGANISATION INFORMATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMMUNICATION INFORMATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRAITEMENT INFORMATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCE INFORMATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SYSTEME INFORMATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AUTOMATISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EVOLUTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PREVISION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIFFUSION INFORMATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCE INFORMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFORMATION ORGANIZATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFORMATION COMMUNICATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFORMATION PROCESSING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFORMATION SCIENCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFORMATION SYSTEM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AUTOMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EVOLUTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FORECASTING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PREDICTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFORMATION DISSEMINATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFORMATION SCIENCE"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7730346544"
+}

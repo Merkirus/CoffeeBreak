@@ -1,0 +1,69 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ETUDES EXPERIMENTALES DES PANNEAUX AVEC OSSATURE A ARETES EN BOIS DE SECTION PLEINE",
+    "dc:creator": [
+        "ZAPOL M YU",
+        "TURKOVSKIJ SB",
+        "DMITRIEV VP"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "IZVEST. VYSSH. UCHEBN. ZAVED., STROITEL. ARKHIT.; S.S.S.R.; DA. 1977; NO 4; PP. 23-25",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "EQUIPEMENT PUBLIC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PLANCHER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONSTRUCTION BOIS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ISOLANT THERMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PANNEAU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENIE CIVIL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PUBLIC FACILITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FLOOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WOOD CONSTRUCTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THERMAL INSULATING MATERIAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PANEL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CIVIL ENGINEERING"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7780394006"
+}

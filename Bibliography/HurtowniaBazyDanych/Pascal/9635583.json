@@ -1,0 +1,242 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Progressive supravenous granulomatous nodular eruption in a human immunodeficiency virus-positive intravenous drug user treated with highly active antiretroviral therapy",
+    "dc:creator": [
+        "FERNANDEZ-CASADO, A",
+        "MARTIN-EZQUERRA, G",
+        "YEBENES, M",
+        "PLANA, F",
+        "ELVIRA-BETANZOS, J. J",
+        "HERRERO-GONZALEZ, J. E",
+        "MARINOSO, M. L",
+        "PUJOL, R. M"
+    ],
+    "dc:relation": "British journal of dermatology (1951) -- Br. j. dermatol. (1951), CODEN BJDEAZ, ISSN 0007-0963, Vol. 158 (1) , pp. 145-149",
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Blackwell",
+        "Blackwell",
+        "Blackwell"
+    ],
+    "dc:format": [
+        "print",
+        "5 p. ; 24 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunodéficit"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunopathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Virose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Antiviral"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Corps étranger"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dermatologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Granulome"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunorestauration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Progressif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SIDA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Toxicomanie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Voie intraveineuse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Protocole HAART"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immune deficiency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immunopathology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Viral disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antiviral"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Foreign body"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dermatology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Granuloma"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immune reconstitution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Progressive"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AIDS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Drug addiction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Intravenous administration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "foreign body"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "granulomas"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "immune restoration syndrome"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "supravenous"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunodeficiencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunopatología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Infección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Virosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antiviral"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuerpo extraño"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dermatología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Granuloma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunorestauración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Progresivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "SIDA"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Toxicomanía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vía intravenosa"
+        },
+        "002B05C02D: Viroses du tissu lymphoïde et du sang. Sida / Viral diseases of the lymphoid tissue and the blood. Aids",
+        "002B08: Dermatologie / Dermatology",
+        "002B18C05A: Toxicomanie / Drug addiction",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry",
+        "770-D03E01: Toxicomanie / Drug addiction"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 19984533"
+}

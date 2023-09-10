@@ -1,0 +1,178 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Managing soil-borne crop diseases using precision agriculture in Australia",
+    "dc:creator": [
+        "HEAP, J. W",
+        "MCKAY, A. C"
+    ],
+    "dc:relation": "Crop & pasture science (Print), ISSN 1836-0947, Vol. 60 (9) , pp. 824-833",
+    "dc:date": "2009",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "CSIRO Publishing",
+    "dc:format": [
+        "print",
+        "10 p. ; 1/4 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Agriculture de précision"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aménagement sol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Inoculum"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Maladie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Répartition spatiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Utilisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Zone"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gestion des maladies"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sciences végétales"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Precision agriculture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Soil management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inoculum"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spatial distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Use"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Zone"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Disease management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plant sciences"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "disease inoculum"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "disease management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "spatial distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "zones"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agricultura precisión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acondicionamiento suelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inóculum"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enfermedad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Distribución espacial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Uso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Zona"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gestión de la enfermedad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ciencia vegetal"
+        },
+        "002A32C04A: Généralités. Systèmes et modes de culture / Generalities. Cropping systems and patterns"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Océanie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Australie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oceania"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Australia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Oceania"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Australia"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 22047249"
+}

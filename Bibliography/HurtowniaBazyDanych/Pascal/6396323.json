@@ -1,0 +1,114 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Quarkonia correlators and spectral functions from lattice QCD",
+    "dc:creator": "PETRECZKY, Péter",
+    "dc:contributor": [
+        "BARISH, Kenneth (Editor)",
+        "HUAN ZHONG HUANG (Editor)",
+        "KAPUSTA, Joseph (Editor)",
+        "ODYNIEC, Grazyna (Editor)",
+        "RAFELSKI, Johann (Editor)",
+        "WHITTEN, Charles A (Editor)",
+        "SQM2006 - International conference on strangeness in quark matter (Los Angeles, CA 2006-03-26)"
+    ],
+    "dc:relation": [
+        "Journal of physics. G. Nuclear and particle physics (Print) -- J. phys., G, Nucl. part. phys. (Print), CODEN JPGPED, ISSN 0954-3899, Vol. 32 (12)",
+        "SQM2006 - International conference on strangeness in quark matter, Los Angeles, 26-31 March 2006"
+    ],
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institute of Physics",
+    "dc:format": [
+        "print",
+        "S293-S300 ; 24 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Corrélateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fonction spectrale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Haute température"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Physique mathématique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Physique nucléaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plasma quark gluon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Quarkonium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Théorie effective quark lourd"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Théorie sur réseau"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Correlators"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spectral functions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High temperature"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mathematical physics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nuclear physics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quark-gluon plasma"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quarkonium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heavy quark effective theory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lattice theory"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alta temperatura"
+        },
+        "001B10: Physique des particules elementaires et champs / The physics of elementary particles and fields",
+        "001B20: Physique nucleaire / Nuclear physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18340457"
+}

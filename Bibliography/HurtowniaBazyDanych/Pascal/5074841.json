@@ -1,0 +1,93 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "An integrated programming environment for teaching the object-oriented programming paradigm",
+    "dc:creator": [
+        "XINOGALOS, Stelios",
+        "SATRATZEMI, Maya"
+    ],
+    "dc:contributor": [
+        "Shafazand, Hassan (Editor)",
+        "A Min Tjoa (Editor)",
+        "EurAsian conference on information and communication technology (1 ; Shiraz 2002-10-29)"
+    ],
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 544-551",
+        "EurAsia - ICT 2002 : information and communication technology (Shiraz, 29-31 october 2002)"
+    ],
+    "dc:date": "2002",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "8 p. ; 9 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Détection erreur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enseignement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Environnement programmation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Langage programmation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Programmation orientée objet"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Error detection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Teaching"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Programming environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Programming language"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Object oriented programming"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Detección error"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enseñanza"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio ambiente programación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lenguaje programación"
+        },
+        "001D02A07: Théorie programmation / Programming theory",
+        "001D02B06: Bureautique, téléinformatique / Office automation, teleprocessing"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14477628"
+}

@@ -1,0 +1,76 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ACUTE LEUKEMIA DURING PREGNANCY",
+    "dc:creator": [
+        "TAYLOR G",
+        "BLOM J"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "SOUTH. MED. J. (BIRM.); ISSN 0038-4348; USA; DA. 1980; VOL. 73; NO 10; PP. 1314-1315; BIBL. 22 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "LEUCEMIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AIGU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GESTATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIOTHERAPIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HEMOPATHIE MALIGNE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HEMATOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LEUKEMIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ACUTE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PREGNANCY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMOTHERAPY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MALIGNANT HEMOPATHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEMATOLOGY"
+        },
+        "002B19: Hemopathies / Hematologic and hematopoietic diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8110188102"
+}

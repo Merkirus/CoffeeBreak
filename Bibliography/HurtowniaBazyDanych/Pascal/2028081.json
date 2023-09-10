@@ -1,0 +1,40 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "MAINE YANKEE ATOMIC POWER STATION",
+    "dc:date": "1972",
+    "dc:type": "Report",
+    "dc:language": "English",
+    "dc:format": "DOCKET-50309-60, DOCKET-50309-61; U.S.A.; DA. 1972; PP. (244 P.); MICROFICHE",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "REACTEUR MAINE YANKEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETATS UNIS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REACTEUR EAU PRESSURISEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SITE NUCLEAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "WISCASSET"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE GENERALE"
+        },
+        "001D16: Pollution / Pollution"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7315002582"
+}

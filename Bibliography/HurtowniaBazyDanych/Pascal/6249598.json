@@ -1,0 +1,37 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "On opening the number one bottleneck in online service-data entry",
+    "dc:creator": "EAGLE, M",
+    "dc:contributor": "National online meeting. 8 (New York 1987-05-05)",
+    "dc:relation": "National online meeting. 8",
+    "dc:date": "1987",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Learned Information",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Saisie donnée"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Data acquisition"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Toma de datos"
+        },
+        "001A01G02: Technologies de l'information: supports, équipements / Information technologies: storage media, equipment",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-A: Généralités / General aspects"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 8279754"
+}

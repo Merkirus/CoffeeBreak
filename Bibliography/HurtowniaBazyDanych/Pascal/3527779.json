@@ -1,0 +1,157 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ADENOME CORTICO-SURRENALIEN",
+    "dc:creator": [
+        "DUSSEAULT RG",
+        "BARRAL V",
+        "FONTAINE A"
+    ],
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "VIE MED. CAN. FR. (QUE.); ISSN 0315-5153; CAN; DA. 1982; VOL. 11; NO 10; PP. 504-510; 4 P.; ABS. ENG; BIBL. 5 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TUMEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CORTICOSURRENALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ADENOME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OSTEOPATHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SECONDAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EXPLORATION RADIOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HYDROCORTISONE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GLUCOCORTICOIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ECHOGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EXPLORATION ULTRASON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HORMONE STEROIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TUMEUR BENIGNE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CORTICOSURRENALE PATHOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SURRENALE PATHOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENDOCRINOPATHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENDOCRINOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TUMOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ADRENAL CORTEX"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ADENOMA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BONE DISEASE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SECONDARY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RADIOLOGIC INVESTIGATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CORTISOL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GLUCOCORTICOID"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ECHOGRAPHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ULTRASONIC INVESTIGATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STEROID HORMONE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BENIGN NEOPLASM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ADRENAL CORTEX PATHOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ADRENAL PATHOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENDOCRINOPATHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENDOCRINOLOGY"
+        },
+        "002A29: Vertebres: reproduction / Vertebrates: reproduction"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0106318"
+}

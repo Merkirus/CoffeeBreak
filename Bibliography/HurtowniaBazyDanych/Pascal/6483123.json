@@ -1,0 +1,102 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The magnetic transmission X-ray microscopy project at BESSY II",
+    "dc:creator": [
+        "EIMÜLLER, T",
+        "NIEMANN, B",
+        "GUTTMANN, P",
+        "FISCHER, P",
+        "ENGLISCH, U",
+        "VATTER, R",
+        "WOLTER, C",
+        "SEIFFERT, S",
+        "SCHMAHL, G",
+        "SCHÜTZ, G"
+    ],
+    "dc:contributor": [
+        "SUSINI, J (Editor)",
+        "JOYEUX, D (Editor)",
+        "POLACK, F (Editor)",
+        "Synchroton SOLEIL (Funder/Sponsor)",
+        "Laboratoire d'utilisation du rayonnement électromagnétique (LURE) (Funder/Sponsor)",
+        "Institut d'optique théorique et appliquée (IOTA-CNRS) ; Laboratoire Charles Fabry (Funder/Sponsor)",
+        "The European Synchroton Radiation Facility (ESRF) (Funder/Sponsor)",
+        "X-Ray Microscopy Conference (7 ; Grenoble 2002-07-28)"
+    ],
+    "dc:relation": [
+        "Journal de physique. IV -- J. phys., IV, ISSN 1155-4339, Vol. 104, pp. 91-94",
+        "X-Ray Microscopy 2002: 7th International Conference on X-Ray Microscopy, ESRF, Grenoble, France, July 28 - August 2, 2002"
+    ],
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "EDP sciences",
+    "dc:format": [
+        "print",
+        "4 p. ; 8 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Dichroïsme circulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Imagerie RX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microscope transmission"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microscopie RX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rayonnement ondulateur"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Circular dichroism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "X-ray imaging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transmission microscope"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "X-ray microscopy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ondulator radiation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Microscopio transmisión"
+        },
+        "001B00G85T: Microscopes x / X-ray microscopes",
+        "0785T:  / X-ray microscopes"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14697055"
+}

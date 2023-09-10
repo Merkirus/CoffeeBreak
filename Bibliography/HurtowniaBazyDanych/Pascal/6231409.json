@@ -1,0 +1,350 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "INTELEC 93 : 15ème conférence internationale sur l'énergie dans les télécommunications (Paris, 27-30 septembre 1993)",
+    "dc:contributor": [
+        "IEEE, Power Electronics Society (Organiser of meeting)",
+        "Société des électriciens et des électroniciens (Organiser of meeting)",
+        "Société des électriciens et des électroniciens (Organiser of meeting)",
+        "International telecommunications energy conference (15 ; paris 1993-09-27)",
+        "Conférence internationale sur l'énergie dans les télécommunications (15 ; Paris 1993-09-27)"
+    ],
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Conference Proceedings"
+    ],
+    "dc:language": [
+        "English",
+        "French"
+    ],
+    "dc:format": [
+        "print",
+        "XL, 487 ; 470 p ; 2"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Accumulateur électrochimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Alimentation ininterrompue"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Alimentation électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Batterie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cellule solaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conception système"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Congrès"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Convertisseur statique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Electronique puissance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Equipement électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exploitation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fiabilité système"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Groupe électrogène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Génie climatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Générateur photovoltaïque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Perturbation électromagnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Protection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Qualité service"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Supervision"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système contrôle commande"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Télécommunication optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Télécommunication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Septembre 1993"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Secondary cell"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Uninteruptible power supply"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Power supply"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Battery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Solar cell"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "System design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Congress"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Static convertor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Power electronics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrical equipment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Exploitation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "System reliability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Generating set"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Environmental engineering"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photovoltaic generator"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electromagnetic disturbance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Protection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Service quality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Supervision"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Monitoring control system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical telecommunication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Telecommunication"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acumulador electroquímico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alimentación ininterrumpida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alimentación eléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Batería"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Célula solar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Concepción sistema"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Congreso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Convertidor estático"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Electrónica potencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Equipo eléctrico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Explotación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fiabilidad sistema"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Grupo electrógeno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ingeniería climática"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Generador fotovoltaico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Perturbación electromagnética"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Protección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Calidad servicio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Supervisión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema control mando"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Telecomunicación óptica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Telecomunicación"
+        },
+        "001D05H: Electronique de puissance, alimentations électriques / Power electronics, power supplies"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ile de France"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Paris"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ile-de-France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Paris"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ile de France"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "París"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 77406"
+}

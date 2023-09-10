@@ -1,0 +1,52 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "MOEGLICHKEITEN DER ENTSAEUERUNG VON TRINKWASSER; POSSIBILITES DE DESACIDIFICATION DE L'EAU POTABLE",
+    "dc:creator": [
+        "KOHLER HG",
+        "JAGER H"
+    ],
+    "dc:date": "1973",
+    "dc:type": "Serial Issue",
+    "dc:language": "German",
+    "dc:format": "GAS-U. WASSERFACH, WASSER ABWASSER; DTSCH.; DA. 1973; VOL. 114; NO 2; PP. 76-82; BIBL. 5 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TRAITEMENT EAU POTABLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NEUTRALISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AERATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NUISANCES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLLUTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NUISANCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLLUTION"
+        },
+        "001D16: Pollution / Pollution"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7388503273"
+}

@@ -1,0 +1,118 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Green machining of alumina",
+    "dc:creator": [
+        "MAIER, H. R",
+        "MICHAELI, N"
+    ],
+    "dc:contributor": [
+        "Bortzmeyer, D (Editor)",
+        "Boussuge, M (Editor)",
+        "Mocellin, A (Editor)",
+        "Raveau, B (Editor)",
+        "Thevenot, F (Editor)",
+        "Baxter, J (Editor)",
+        "Cot, L (Editor)",
+        "Fordham, R (Editor)",
+        "Gabis, V (Editor)",
+        "Hellot, Y (Editor)",
+        "Lefebvre, M (Editor)",
+        "Le Doussal, H (Editor)",
+        "Chartier, Th (Editor)",
+        "Le Sech, A (Editor)",
+        "Naslain, R (Editor)",
+        "Sevagen, A (Editor)",
+        "Fantozzi, G (Editor)",
+        "Lozes, G (Editor)",
+        "Rousset, A (Editor)",
+        "Abelard, P (Editor)",
+        "Autissier, A (Editor)",
+        "Bouquillon, A (Editor)",
+        "Haussonne, J.M (Editor)",
+        "Groupe français de la céramique (Organiser of meeting)",
+        "ECERS : European Ceramic Society. Conference (5 ; Versailles 1997-06-22)"
+    ],
+    "dc:relation": [
+        "Key engineering materials -- Key eng. mater, ISSN 1013-9826, pp. 436-439",
+        "Euro ceramics V : extended abstracts of the 5th conference and exhibition of the European Ceramics Society (Versailles, June 22-26, 1997)"
+    ],
+    "dc:date": "1997",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Trans Tech Publications",
+    "dc:format": [
+        "print",
+        "4 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Alumine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Compactage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Céramique oxyde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fabrication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Usinage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Alumina"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Compaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oxide ceramics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Manufacturing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Machining"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alúmina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Compactación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cerámica óxido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fabricación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mecanizado"
+        },
+        "001D08B04C1: Etudes générales / General studies"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2034571"
+}

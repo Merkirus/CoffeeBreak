@@ -1,0 +1,121 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Design and comparison of multi- and hyper- spectral imaging systems",
+    "dc:creator": [
+        "ROSARIO, Pareja-Illeras",
+        "JOSE, Diaz-Caro",
+        "CARMEN, Blanco-Bartolomé",
+        "RODRIGO, Linares-Herrero",
+        "JOAQUIN, Ramos-Marin",
+        "SERGIO, Ortiz"
+    ],
+    "dc:contributor": [
+        "Driggers, Ronald G (Editor)",
+        "Huckridge, David A (Editor)",
+        "Society of photo-optical instrumentation engineers (Organiser of meeting)",
+        "Electro-optical and infrared systems. Conference (Bruges 2005)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, pp. 59870Q.1-59870Q.12",
+        "Electro-optical and infrared systems (technology and applications II)"
+    ],
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "15 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Cristal liquide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etalonnage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Filtre accordable"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mesure automatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rayonnement visible"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résolution spectrale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sous bande"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technique optique grande vitesse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4270D"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Liquid crystals"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Calibration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tunable filter"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Automatic measurement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Visible radiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spectral resolution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Subband"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High-speed optical techniques"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Filtro sintonizable"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medición automática"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Subbanda"
+        },
+        "001B40B70D: Cristaux liquides / Liquid crystals"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18115789"
+}

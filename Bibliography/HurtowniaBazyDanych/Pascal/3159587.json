@@ -1,0 +1,107 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE PHOTOCHEMICAL SYNTHESIS OF NOVEL HETEROCYCLIC COMPOUNDS FROM S-TRIAZOLO (4,3-B) PYRIDAZINE, III.",
+    "dc:creator": [
+        "BRADSHAW JS",
+        "TUELLER JE",
+        "BAXTER SL",
+        "MAAS GE",
+        "CARLOCK JT"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. HETEROCYCL. CHEM.; U.S.A.; DA. 1977; VOL. 14; NO 3; PP. 411-414; BIBL. 6 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "HETEROCYCLE AZOTE ANGULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE BICYCLIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE TRICYCLIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE TETRACYCLIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REACTION PHOTOCHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHOTOLYSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRIAZOLOPYRIDAZINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CYCLOOCTAPYRROLOTRIAZOLE(HEXAHYDRO METHYLENE)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHANOTRIAZOLOINDOLE(CYANOMETHYL TETRAHYDRO)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPIRO (CYCLOHEXANE-1:5P-PYRROLO (1,2-A)-5-TRIAZOLE)(DIHYDRO-6P,7P METHYLENE-7P)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CYCLOPENTAPYRROLOTRIAZOLE(CYANOMETHYL ETHOXYCARBONYL METHYL HEXAHYDRO)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE GENERALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE PHYSIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANGULAR NITROGEN HETEROCYCLE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BICYCLIC COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TRICYCLIC COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TETRACYCLIC COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHOTOCHEMICAL REACTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHOTOLYSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENERAL CHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHYSICAL CHEMISTRY"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7860037733"
+}

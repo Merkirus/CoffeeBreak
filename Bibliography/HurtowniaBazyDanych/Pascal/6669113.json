@@ -1,0 +1,233 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Do palatal lift prostheses stimulate velopharyngeal neuromuscular activity ?",
+    "dc:creator": [
+        "WITT, P. D",
+        "ROZELLE, A. A",
+        "MARSH, J. L",
+        "MARTY-GRAMES, L",
+        "MUNTZ, H. R",
+        "GAY, W. D",
+        "PILGRAM, T. K"
+    ],
+    "dc:contributor": "Symposium on craniofacial evolution, development, and syndromes (1995-04-25)",
+    "dc:relation": [
+        "The Cleft palate-craniofacial journal -- Cleft palate craniofac. j, ISSN 1055-6656, Vol. 32 (6) , pp. 469-475",
+        "Symposium on craniofacial evolution, development, and syndromes"
+    ],
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "American Cleft Palate-Craniofacial Association",
+    "dc:format": [
+        "print",
+        "35 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ORL pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pharynx pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble communication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Articulation parole"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Endoscopie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Incompétence vélopharyngée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nez"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Palais"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pharynx"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phonation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prothèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résultat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transmission neuromusculaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Voile palais"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble parole"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENT disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pharynx disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Communication disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Articulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Endoscopy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Velopharyngeal insufficiency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nose"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Palate"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pharynx"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phonation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prosthesis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Result"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neuromuscular transmission"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Palatine velum"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "ORL patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Faringe patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno comunicación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Articulación palabra"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Endoscopía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Incompetencia velofaríngea"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nariz"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Paladar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Faringe"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fonación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prótesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resultado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transmisión neuromuscular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Velo paladar"
+        },
+        "002B10B02: Maladies non tumorales / Non tumoral diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2923525"
+}

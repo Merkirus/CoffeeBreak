@@ -1,0 +1,72 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "LA HAUTE PRESSION EN SOURDINE. LES POMPES A ENGRENAGES INTERNES QT.",
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "REV. GEN. TRANSM.; FR.; DA. 1978; NO 73; PP. 41-43 (2P.)",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "POMPE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POMPE ENGRENAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POMPE HYDRAULIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENGRENAGE INTERIEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HAUTE PRESSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BRUIT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUSTRIE MECANIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PUMP"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEAR PUMP"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HYDRAULIC PUMP"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTERNAL GEAR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HIGH PRESSURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NOISE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MECHANICAL ENGINEERING"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7880325068"
+}

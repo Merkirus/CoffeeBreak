@@ -1,0 +1,53 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "FUELLMENGENKONTROLLE BEI FERTIGPACKUNGEN MIT FARBEN UND LACKEN. I; CONTROLE DE REMPLISSAGE EN USINE DANS LE CAS DES PEINTURES ET VERNIS",
+    "dc:creator": "BAUMGARTEN D",
+    "dc:date": "1981",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "VERFACK.-RUNDSCH.; ISSN 0042-4307; DEU; DA. 1981; VOL. 32; NO 2; PP. 100-105; 4 P.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MESURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PESAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EMBALLAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUSTRIE PEINTURE VERNIS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUSTRIE MECANIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MEASUREMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WEIGHING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PAINT AND VARNISH INDUSTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MECHANICAL ENGINEERING"
+        },
+        "001D12: Genie mecanique. Construction mecanique / Mechanical engineering. Machine design"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8130225106"
+}

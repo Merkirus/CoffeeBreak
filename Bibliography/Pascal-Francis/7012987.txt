@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Off-loading application controlled data prefetching in numerical codes for multi-core processors</dc:title>
+  <dc:creator>WEIDENDORFER, J</dc:creator>
+  <dc:creator>TRINITIS, C</dc:creator>
+  <dc:contributor>BADER, Michael (Editor)</dc:contributor>
+  <dc:contributor>BUNGARTZ, Hans-Joachim (Editor)</dc:contributor>
+  <dc:contributor>RÜDE, Ulrich (Editor)</dc:contributor>
+  <dc:contributor>Arbeitsgemeinschaft Simulation (ASIM) (Organiser of meeting)</dc:contributor>
+  <dc:contributor>Federation of European Simulation Societies (EUROSIM) (Organiser of meeting)</dc:contributor>
+  <dc:contributor>Symposium on Simulation Technique. Minisymposium on Implementation aspects in scientific computing (19 ; Hannover 2006-09-12)</dc:contributor>
+  <dc:relation>International journal of computational science and engineering (Print), ISSN 1742-7185, Vol. 4 (1) , pp. 22-28</dc:relation>
+  <dc:relation>Implementation Aspects in Scientific Computing</dc:relation>
+  <dc:date>2008</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Conference Paper</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>Inderscience Publishers</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>7 p. ; 1/4 p</dc:format>
+  <dc:subject xml:lang="fr">Accès mémoire</dc:subject>
+  <dc:subject xml:lang="fr">Antémémoire</dc:subject>
+  <dc:subject xml:lang="fr">Calcul réparti</dc:subject>
+  <dc:subject xml:lang="fr">Charge travail</dc:subject>
+  <dc:subject xml:lang="fr">Compilateur</dc:subject>
+  <dc:subject xml:lang="fr">Gestion mémoire</dc:subject>
+  <dc:subject xml:lang="fr">Haute performance</dc:subject>
+  <dc:subject xml:lang="fr">Localité</dc:subject>
+  <dc:subject xml:lang="fr">Multiprocesseur</dc:subject>
+  <dc:subject xml:lang="fr">Multitraitement</dc:subject>
+  <dc:subject xml:lang="fr">Processeur multicoeur</dc:subject>
+  <dc:subject xml:lang="fr">Préchargement donnée</dc:subject>
+  <dc:subject xml:lang="en">Storage access</dc:subject>
+  <dc:subject xml:lang="en">Cache memory</dc:subject>
+  <dc:subject xml:lang="en">Distributed computing</dc:subject>
+  <dc:subject xml:lang="en">Workload</dc:subject>
+  <dc:subject xml:lang="en">Compiler</dc:subject>
+  <dc:subject xml:lang="en">Storage management</dc:subject>
+  <dc:subject xml:lang="en">High performance</dc:subject>
+  <dc:subject xml:lang="en">Locality</dc:subject>
+  <dc:subject xml:lang="en">Multiprocessor</dc:subject>
+  <dc:subject xml:lang="en">Multiprocessing</dc:subject>
+  <dc:subject xml:lang="en">Multicore processor</dc:subject>
+  <dc:subject xml:lang="en">Prefetching</dc:subject>
+  <dc:subject xml:lang="en">cache optimisation</dc:subject>
+  <dc:subject xml:lang="en">chip multiprocessing</dc:subject>
+  <dc:subject xml:lang="en">multi-core</dc:subject>
+  <dc:subject xml:lang="en">prefetching</dc:subject>
+  <dc:subject xml:lang="es">Acceso memoria</dc:subject>
+  <dc:subject xml:lang="es">Antememoria</dc:subject>
+  <dc:subject xml:lang="es">Cálculo repartido</dc:subject>
+  <dc:subject xml:lang="es">Carga trabajo</dc:subject>
+  <dc:subject xml:lang="es">Compilador</dc:subject>
+  <dc:subject xml:lang="es">Gestión memoria</dc:subject>
+  <dc:subject xml:lang="es">Alto rendimiento</dc:subject>
+  <dc:subject xml:lang="es">Multiprocesador</dc:subject>
+  <dc:subject xml:lang="es">Multitratamiento</dc:subject>
+  <dc:subject xml:lang="es">Procesador MultiNúcleo</dc:subject>
+  <dc:subject xml:lang="es">Precargamento dato</dc:subject>
+  <dc:subject>001D02B04: Systèmes informatiques et systèmes répartis. Interface utilisateur / Computer systems and distributed systems. User interface</dc:subject>
+  <dc:subject>001D02B07C: Gestion des mémoires et des fichiers (y compris la protection et la sécurité des fichiers) / Memory and file management (including protection and security)</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 21025402</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

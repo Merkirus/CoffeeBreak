@@ -1,0 +1,254 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Observations of mesospheric ice particles from the ALWIN radar and SOFIE",
+    "dc:creator": [
+        "HERVIG, Mark E",
+        "RAPP, Markus",
+        "LATTECK, Ralph",
+        "GORDLEY, Larry L"
+    ],
+    "dc:contributor": [
+        "GUMBEL, Jörg (Editor)",
+        "KARLSSON, Bodil (Editor)",
+        "MORRIS, Ray J (Editor)",
+        "STEGMAN, Jacek (Editor)",
+        "VON SAVIGNY, Christian (Editor)"
+    ],
+    "dc:relation": "Journal of atmospheric and solar-terrestrial physics -- J. atmos. solar-terr. phys, ISSN 1364-6826, Vol. 73 (14-15) , pp. 2176-2183",
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "8 p. ; 3/4 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Dimension particule"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude comparative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eté"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Glace"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mésopause"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mésosphère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nuage mésosphérique polaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nuage nocturne lumineux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Observation par fusée sonde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Observation par satellite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Observation radar"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Occultation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Télédétection spatiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vent"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Indicateur"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Particle size"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Summer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ice"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mesopause"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mesosphere"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polar mesospheric cloud"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Noctilucent cloud"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rocket observation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Satellite observation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radar observation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Occultation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Space remote sensing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "winds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Proxy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ALWIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mesosphere"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Noctilucent cloud"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PMC"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PMSE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOFIE/AIM"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dimensión partícula"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio comparativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Verano"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hielo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mesopausa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mesosfera"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nube mesosférica polar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nube noctilucente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Observación por cohete-sonda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Observación por satélite"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Observación radar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ocultación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Teledetección espacial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Viento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Indicador"
+        },
+        "001E02I: Ionosphère / Physics of the ionosphere",
+        "001E02J: Magnétosphère / Physics of the magnetosphere"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 24574936"
+}

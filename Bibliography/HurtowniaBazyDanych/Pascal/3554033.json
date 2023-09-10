@@ -1,0 +1,60 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "BREVET 2.119.636 (B) (7146191). A 22 DECEMBRE 1971. CATALYSEUR DE CRAQUAGE CONTENANT DES ZEOLITES METALLIFERES",
+    "dc:creator": "GRACE AND CO. (W. R.)",
+    "dc:date": "sd",
+    "dc:type": "Patent",
+    "dc:language": "French",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "RAFFINAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CATALYSEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NICKEL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MAGNESIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MELANGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CRAQUAGE CATALYTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDICE OCTANE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ESSENCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ZEOLITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY"
+        },
+        "001D06: Energie / Energy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7373011068"
+}

@@ -1,0 +1,57 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE BRITISH LIBRARY AND AACR2",
+    "dc:creator": "BUTCHER J",
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "VINE; GBR; DA. 1979; NO 28; PP. 8-9",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "BIBLIOTHEQUE NATIONALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REGLE CATALOGAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ROYAUME UNI"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AACR2"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BRITISH LIBRARY"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCE INFORMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NATIONAL LIBRARY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CATALOGING RULE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "UNITED KINGDOM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFORMATION SCIENCE"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7930472907"
+}

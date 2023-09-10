@@ -1,0 +1,157 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Traitement plasma de films polyimide en vue de l'amélioration des propriétés d'adhésion; Plasma processing of polyimide films to improve adhesion properties",
+    "dc:creator": [
+        "TURBAN, Guy",
+        "KOGOMA, Masuhiro",
+        "RHOUNNA, Abdeljahil",
+        "CARDINAUD, Christophe",
+        "Université de Nantes, Laboratoire de physique corpusculaire"
+    ],
+    "dc:contributor": "FRT (Funder/Sponsor)",
+    "dc:date": "1986",
+    "dc:type": [
+        "Text",
+        "Report"
+    ],
+    "dc:identifier": [
+        "REPORTNUMBER FRT - 84 E 1427",
+        "Inist-CNRS record number 7593933"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "pagination mult ; 27 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Adhérence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareillage essai"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cuivre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai torsion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Film"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Imide polymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Irradiation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mouillabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Kapton H"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adhesion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Testing equipment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Copper"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Torsion test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Film"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polyimide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Irradiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wettability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface treatment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adherencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato ensayo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cobre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo torsion"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Película"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Imida polímero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Irradiación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Remojabilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estructura superficie"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento superficie"
+        },
+        "001D10A05A5: Propriétés de surface / Surface properties"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

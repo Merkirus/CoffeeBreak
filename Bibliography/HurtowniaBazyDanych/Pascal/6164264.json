@@ -1,0 +1,125 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Le médicament à l'hôpital",
+    "dc:relation": "L'HOPITAL A PARIS (107)",
+    "dc:date": "1989",
+    "dc:type": [
+        "Text",
+        "Serial Issue"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "73 p. ; 24 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Antibiotique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dépense"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Economie santé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hôpital"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Médicament"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recherche"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Assistance publique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antibiotic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Expenditure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Health economy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hospital"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Drug"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Research"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antibiótico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gasto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Economía salud"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hospital"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medicamento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Investigación"
+        },
+        "002B30A11: Divers / Miscellaneous"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francia"
+        }
+    ],
+    "dc:rights": [
+        "Banque de données en santé publique - Ecole des hautes études en santé publique (BDSP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6425967"
+}

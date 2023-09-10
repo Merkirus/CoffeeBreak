@@ -1,0 +1,52 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Recent advances in the management of atrial fibrillation. Proceedings of the second CREATE Annual Advisory Meeting. Berlin",
+    "dc:contributor": [
+        "FERNANDEZ-AVILES, Francisco (Editor)",
+        "CREATE Annual Advisory Meeting (2 ; Berlin 2007-10-05)"
+    ],
+    "dc:relation": "European heart journal supplements -- Eur. heart j. suppl, ISSN 1520-765X, Vol. 10 (H)",
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Conference Proceedings"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Oxford University Press",
+    "dc:format": [
+        "print",
+        "80 p. ; dissem"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil circulatoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cardiologie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Circulatory system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cardiology"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato circulatorio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cardiología"
+        },
+        "002B12: Cardiologie. Appareil circulatoire / Cardiology. Vascular system"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20610353"
+}

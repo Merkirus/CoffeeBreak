@@ -1,0 +1,131 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "MOMENTS DIPOLAIRES ET ASSOCIATION DES SELS DE TRI-N-OCTYLAMMONIUM EN SOLUTIONS",
+    "dc:creator": [
+        "SINITYSYN NM",
+        "BUSLAEVA TM",
+        "KARTSEV GN",
+        "IGNAT'EVA SI",
+        "EGOROVA NV"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "TEOR. EKSPER. KHIM., U.S.S.R.; S.S.S.R.; DA. 1978; VOL. 14; NO 3; PP. 384-391; BIBL. 22 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "AMMONIUM QUATERNAIRE COMPOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOLUTION CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE ALIPHATIQUE SATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METAL TRANSITION COMPOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPLEXE METALLIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ASSOCIATION MOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MOMENT DIPOLAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE EXPERIMENTALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AMMONIUM(TRIOCTYL) CHLORURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AMMONIUM(TRIOCTYL) BROMURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AMMONIUM(TRIOCTYL) NITRATE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AMMONIUM(TRIOCTYL) PERCHLORATE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METAL TRANSITION COMPLEXE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE ORGANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE MINERAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE MOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE ATOMIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "QUATERNARY AMMONIUM COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL SOLUTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SATURATED ALIPHATIC COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOLECULAR ASSOCIATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIPOLE MOMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXPERIMENTAL STUDY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORGANIC COMPOUNDS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INORGANIC COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOLECULAR PHYSICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ATOMIC PHYSICS"
+        },
+        "001B30: Physique atomique et moleculaire / Atomic and molecular physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7840451040"
+}

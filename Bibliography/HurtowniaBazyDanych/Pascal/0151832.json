@@ -1,0 +1,78 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "MESURE DES VARIATIONS RAPIDES DES PARAMETRES THERMIQUES DES GAZ ERUPTIFS.",
+    "dc:creator": [
+        "TAZIEFF H",
+        "BOULAY JL",
+        "GARAND M",
+        "MAULARD J"
+    ],
+    "dc:date": "1968",
+    "dc:type": "Miscellaneous",
+    "dc:language": "French",
+    "dc:format": "C.R. ACAD. SCI., A-B, FR; FRA; 1968(11), VOL. 267, NUM. 0022, P. 1253 A 1256",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TEMPERATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FLUX GEOTHERMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GAZ"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ERUPTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ROCHES CRISTALLINES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TEMPERATURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEAT FLOW"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GAS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ERUPTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CRYSTALLINE ROCKS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        "001E02F: Géophysique. Techniques, méthodes, appareillage et modèles / Geophysics. Techniques, methods, instrumentation and models"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number GEODEBRGM6807027651"
+}

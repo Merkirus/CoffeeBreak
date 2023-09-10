@@ -1,0 +1,174 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "MODÉLISATION 3D DE LA DIFFRACTION DES ONDES SISMIQUES PAR DES TOPOGRAPHIES : MÉTHODE D'ÉCHANTILLONNAGE DE L'ESPACE DES NOMBRES D'ONDES ET DES ÉQUATIONS INTÉGRALES AUX FRONTIÈRES; SIMULATION IN 3D OF DIFFRACTION OF SEISMIC WAVES BY TOPOGRAPHIES : DISCRETE WAVENUMBER BOUNDARY INTEGRAL EQUATION METHOD",
+    "dc:creator": "Durand, Sylvette",
+    "dc:contributor": [
+        "Virieux, Jean (Advisor (for a thesis or dissertation))",
+        "Université de Nice (Degree-grantor)"
+    ],
+    "dc:date": "1997",
+    "dc:type": [
+        "Text",
+        "Thesis"
+    ],
+    "dc:identifier": [
+        "NNT 97 NICE 5101",
+        "Inist-CNRS record number 187045"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "109 p. ; 98 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amplification onde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amplitude"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffraction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet site"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fonction Green"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fréquence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle 3 dimensions"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mouvement sol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Onde sismique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propagation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Risque sismique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Topographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DWBIEM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nombre onde"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "wave amplification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "amplitude"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "diffraction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "site effects"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Green function"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "frequency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "three-dimensional models"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ground motion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "seismic waves"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "propagation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "seismic risk"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "topography"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Amplitud"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Difracción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Función Green"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Frecuencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo 3 dimensiones"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Movimiento suelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Onda sísmica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propagación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Riesgo sísmico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Topografía"
+        },
+        "001E01M03: Séismes, sismologie / Earthquakes, seismology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

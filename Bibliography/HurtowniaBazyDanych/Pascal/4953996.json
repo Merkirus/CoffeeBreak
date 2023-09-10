@@ -1,0 +1,230 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Hemoglobin switching and modulation: genes, cells, and signals",
+    "dc:creator": "MILLER, Jeffery L",
+    "dc:contributor": "MOHANDAS, Narla (Editor)",
+    "dc:relation": "Current opinion in hematology -- Curr. opin. hematol, CODEN COHEF4, ISSN 1065-6251, Vol. 9 (2) , pp. 87-92",
+    "dc:date": "2002",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Lippincott Williams and Wilkins",
+    "dc:format": [
+        "print",
+        "63 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Anémie hémolytique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Génétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hémopathie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Article synthèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cellule souche"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Commutation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Erythrocyte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Erythropoïèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Globine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hémoglobine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hémoglobinopathie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modulation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathogénie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Régulation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transduction signal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hemolytic anemia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Genetics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hemopathy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Review"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stem cell"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Switching"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Red blood cell"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Erythropoiesis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Globin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gene"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hemoglobin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hemoglobinopathy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pathogenesis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Regulation(control)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Signal transduction"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anemia hemolítica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Genética"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hemopatía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Artículo síntesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Célula primitiva"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conmutación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Eritrocito"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Eritropoyesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Globina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gen"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hemoglobina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hemoglobinopatía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modulación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Patogenia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Regulación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transducción señal"
+        },
+        "002B19A01: Anémies. Hémoglobinopathies / Anemias. Hemoglobinopathies"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 13523353"
+}

@@ -1,0 +1,84 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "L'ISOMERISATION PHOTOCHIMIQUE DES PROVITAMINES D LORS DE L'IRRADIATION PAR DES LAMPES POUR TRAITEMENT D'ERYTHEME",
+    "dc:creator": [
+        "YAKHIMOVICH RI",
+        "VENDT VP"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "KHIMIKO-FARM. ZH.; SUN; DA. 1980; VOL. 14; NO 2; PP. 93-97; BIBL. 28 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "VITAMINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ISOMERISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RAYONNEMENT UV"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STEROIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REACTION PHOTOCHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ERGOSTEROL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHOLESTADIENE-5,7OL-3BETA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE PHYSIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE GENERALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VITAMIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ISOMERIZATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ULTRAVIOLET RADIATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STEROID"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHOTOCHEMICAL REACTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHYSICAL CHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENERAL CHEMISTRY"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8060376995"
+}

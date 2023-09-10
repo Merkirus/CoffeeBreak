@@ -1,0 +1,162 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "On-chip near-field terahertz detection based on a two-dimensional electron gas",
+    "dc:creator": [
+        "KAWANO, Y",
+        "ISHIBASHI, K"
+    ],
+    "dc:contributor": [
+        "KATSUMOTO, Shingo (Editor)",
+        "KONO, Kimitoshi (Editor)",
+        "TARUCHA, Seigo (Editor)",
+        "Conference on Modulated Semiconductor Structures (MSS-14) (14 ; Kobe 2009-07-19)",
+        "International Conference on Electronic Properties of Two-Dimensional Systems (EP2DS-18) (18 ; Kobe 2009-07-19)"
+    ],
+    "dc:relation": [
+        "Physica. E, low-dimentional systems and nanostructures -- Physica ( E) low-dimens. syst. nanostrut, ISSN 1386-9477, Vol. 42 (4) , pp. 1188-1191",
+        "Proceedings of the 18th International Conference on Electronic Properties of Two-Dimensional Systems (EP2DS-18)"
+    ],
+    "dc:date": "2010",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "4 p. ; 15 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Aluminium Gallium Arséniure Mixte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Arséniure de gallium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Champ électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Distribution champ"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Domaine fréquence THz"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Emission rayonnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Formation image"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gaz électron 2 dimensions"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hétérostructure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode élément fini"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AlGaAs"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GaAs"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aluminium Gallium Arsenides Mixed"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gallium arsenides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electric fields"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Field distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THz range"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiation emission"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Imaging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Two-dimensional electron gas"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heterostructures"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measuring methods"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Finite element method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Carbon nanotube"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Near-field imaging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Terahertz"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Two-dimensional electron gas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mixto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Distribución campo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Emisión radiación"
+        },
+        "001B70C63: Transport électronique dans les multicouches, nanomatériaux et nanostructures / Electronic transport in multilayers, nanoscale materials and structures"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 22628282"
+}

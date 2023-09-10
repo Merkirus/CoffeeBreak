@@ -1,0 +1,260 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Role of environmental factors in immunity and infectious disease risk",
+    "dc:creator": [
+        "PIERSON, Duane L",
+        "MEHTA, Satish K",
+        "BRUCE, Rebekah J",
+        "OTT, C. Mark"
+    ],
+    "dc:contributor": "YERKES, Kirk L (Editor)",
+    "dc:relation": "SAE transactions -- SAE transact, ISSN 0096-736X, Vol. 114 (1) , pp. 26-33",
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Society of Automotive Engineers",
+    "dc:format": [
+        "print",
+        "8 p. ; 40 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Activité microbienne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Antimicrobien"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aérospatiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contaminant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contamination"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DNA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Distribution eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dosage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet environnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet milieu"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Maladie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Monitorage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réaction chaîne polymérase"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Solution aqueuse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Station spatiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système immunitaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vol"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microbial activity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antimicrobial agent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aerospace"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Contaminant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Contamination"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DNA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Assay"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Environmental effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Medium effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Monitoring"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polymerase chain reaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aqueous solution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Space station"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immune system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Flight"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Actividad microbiana"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antimicrobiano"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aeroespacial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contaminante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contaminación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "DNA"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Distribución agua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dosificación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efecto medio ambiente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efecto medio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enfermedad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Monitoreo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reacción cadena polimerasa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Solución acuosa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estación espacial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema inmunitario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vuelo"
+        },
+        "001D: Sciences appliquees / Applied sciences",
+        "002B29C02: Transports. Aérospatiale. Plongée. Altitude / Transports. Aerospace. Diving. Altitude"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17554512"
+}

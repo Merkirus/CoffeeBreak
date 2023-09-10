@@ -1,0 +1,157 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Zoonotic illness : determining risks and measuring effects : association between current animal exposure and a history of illness in a well characterised rural population in the UK",
+    "dc:creator": [
+        "THOMAS, D. R",
+        "SALMON, R. L",
+        "KENCH, S. M",
+        "MEADOWS, D",
+        "COLEMAN, T. J",
+        "MORGAN-CAPNER, P",
+        "MORGAN, K. L"
+    ],
+    "dc:relation": "Journal of epidemiology and community health (1979) -- J. epidemiol. community health (1979), ISSN 0143-005X, Vol. 48 (2) , pp. 151-155",
+    "dc:date": "1994",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "BMJ",
+    "dc:format": [
+        "print",
+        "13 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Agriculture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exposition professionnelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur risque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu rural"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé publique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transmission animal homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Zoonose"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Agriculture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Occupational exposure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Risk factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rural environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transmission from animal to man"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Zoonosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agricultura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Exposición profesional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor riesgo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio rural"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud pública"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transmisión animal hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Zoonosis"
+        },
+        "002B30: Sante publique. Hygiene-medecine du travail / Public health. Hygiene-occupational medicine",
+        "002B30A01: Généralités / General aspects",
+        "002B30A01A2: Analyse. Etat de santé / Analysis. Health state"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Royaume Uni"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United Kingdom"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reino Unido"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4056805"
+}

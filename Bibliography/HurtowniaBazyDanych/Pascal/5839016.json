@@ -1,0 +1,140 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Hybrid integration onto silicon motherboards with planar silica waveguides",
+    "dc:creator": [
+        "JONES, C. A",
+        "COOPER, K"
+    ],
+    "dc:contributor": [
+        "SYMS, Richard R. A (Author of introductory parts)",
+        "PAL, Bishnu P (Author of introductory parts)"
+    ],
+    "dc:relation": "IEE proceedings. Optoelectronics -- IEE proc., Optoelectron, ISSN 1350-2433, Vol. 143 (5) , pp. 316-321",
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institution of Electrical Engineers",
+    "dc:format": [
+        "print",
+        "29 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Fabrication microélectronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Guide onde optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Guide onde plan"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interconnexion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optique intégrée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optoélectronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Silice"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Silicium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technologie planaire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microelectronic fabrication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical waveguide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Planar waveguide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interconnection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Integrated optics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optoelectronics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Silica"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Silicon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Planar technology"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fabricación microeléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Guía onda óptica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Guía onda plano"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interconexión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Optica integrada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Optoelectrónica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sílice"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Silicio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tecnología planar"
+        },
+        "001D03G02C1: Optique intégrée. Fibres et guides d'onde optiques / Integrated optics. Optical fibers and wave guides"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2513987"
+}

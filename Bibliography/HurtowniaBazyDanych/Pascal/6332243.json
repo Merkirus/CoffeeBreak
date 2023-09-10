@@ -1,0 +1,81 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Experimentelle Untersuchungen zum Ablauf von Staubexplosionen in einer druckentlasteten Versuchs-Silozelle; Experimental studies on the course of dust explosions in a pressure release experimental silo cell",
+    "dc:creator": [
+        "HÖCHST, S",
+        "LEUCKEL, W",
+        "EIBL, J"
+    ],
+    "dc:contributor": "Jahrestreffen der Verfahrens-Ingenieure. Vortrag (Wien 1992-10-02)",
+    "dc:relation": [
+        "Chemieingenieurtechnik -- Chemieingenieurtechnik, CODEN CITEAH, ISSN 0009-286X, Vol. 65 (12) , pp. 1488-1490",
+        "Jahrestreffen der Verfahrens-Ingenieure. Vortrag (Wien 1992-10-02)"
+    ],
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "German",
+    "dc:publisher": "Wiley-VCH",
+    "dc:format": [
+        "print",
+        "4 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Explosion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Poussière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réservoir sous pression"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sécurité"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Explosions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dust"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pressurized tank"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Safety"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Explosión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polvo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tanque bajo presión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Seguridad"
+        },
+        "001D07W: Sécurité / Safety"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3820220"
+}

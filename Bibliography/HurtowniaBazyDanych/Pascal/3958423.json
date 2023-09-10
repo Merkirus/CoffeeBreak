@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SUR LES MECANISMES D'USURE DU CAOUTCHOUC PAR FROTTEMENT DE GLISSEMENT.",
+    "dc:creator": [
+        "BARQUINS M",
+        "ROUGIER P",
+        "COURTEL R"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "C.R. ACAD. SCI., B; FR.; DA. 1976; VOL. 283; NO 13; PP. 355-357; H.T. 2; ABS. ANGL.; BIBL. 6 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MECANISME REACTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "USURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FROTTEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CAOUTCHOUC NATUREL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VULCANISAT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PNEUMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PLAQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE MACROMOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLYMERES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REACTION MECHANISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WEAR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FRICTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NATURAL RUBBER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VULCANIZATE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PLATES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MACROMOLECULAR CHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLYMERS"
+        },
+        "001D09: Physicochimie des polymeres / Physicochemistry of polymers"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7760203040"
+}

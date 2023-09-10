@@ -1,0 +1,257 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Application of a novel type Barkhausen noise sensor to continuous fatigue monitoring",
+    "dc:creator": [
+        "LINDGREN, M",
+        "LEPISTÖ, T"
+    ],
+    "dc:relation": "NDT & E international -- NDT E int, ISSN 0963-8695, Vol. 33 (6) , pp. 423-428",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "14 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Acier doux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Acier haute résistance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amorçage fissure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Capteur mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrainte compression"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrainte traction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet Barkhausen"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Emission acoustique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai cyclique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai flexion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fatigue"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Monitorage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode non destructive"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propagation fissure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résistance matériau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Valeur efficace"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mild steel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High strength steel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Crack initiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measurement sensor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Compressive stress"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tensile stress"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Barkhausen effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Acoustic emission"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cyclic test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bending test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fatigue"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Monitoring"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Non destructive method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Crack propagation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Strength of materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Root mean square value"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acero dulce"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acero alta resistencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Iniciación grieta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Captador medida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tensión compresión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tensión traccíon"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efecto Barkhausen"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Emisión acústica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo cíclico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo flexion"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fatiga"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Monitoreo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método no destructivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propagación fisura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resistencia material"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Valor eficaz"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Hochfester Stahl"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Risseinleitung"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Messwertaufnehmer"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Druckspannung"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Zugspannung"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Barkhausen Effekt"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Schallemission"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Ermuedung"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Rissausbreitung"
+        },
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy",
+        "001D11H02B: Mesure des propriétés. Etude des structures / Measurement of properties and materials state"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1399861"
+}

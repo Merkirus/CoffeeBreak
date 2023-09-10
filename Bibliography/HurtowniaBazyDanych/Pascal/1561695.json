@@ -1,0 +1,53 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "EXTENDING THE USEFULNESS OF THERMOMECHANICAL PULP.",
+    "dc:creator": "CHARTERS MT",
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "A.P.P.I.T.A.; AUSTRAL.; DA. 1977; VOL. 31; NO 1; PP. 57-59; BIBL. 6 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PATE PAPIER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FABRICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PATE THERMOMECANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MISE EN PATE MECANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUSTRIE CHIMIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PAPER PULP"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMITHERMOMECHANICAL PULP"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MECHANICAL PULPING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL INDUSTRY"
+        },
+        "001D09: Physicochimie des polymeres / Physicochemistry of polymers"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7860112615"
+}

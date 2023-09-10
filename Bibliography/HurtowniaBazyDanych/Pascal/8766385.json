@@ -1,0 +1,99 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "La circulation du sens dans les « Emblèmes chrétiens » de G. de Montenay (1571)",
+    "dc:creator": "PERRIER, S",
+    "dc:relation": "Nouvelle revue du 16e siècle -- Nouv. rev. 16e siecle, ISSN 0294-1414 (9) , pp. 73-89",
+    "dc:date": "1991",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": [
+        "Librairie Droz",
+        "Société française d'étude du seizième siècle"
+    ],
+    "dc:format": [
+        "print",
+        "Illustration"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Emblème"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Emblèmes chrétiens"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Femme auteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Image-texte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Montenay (G. de)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Poésie religieuse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rhétorique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Woeriot (P.)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Emblem"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Female writer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Picture-text"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Religious poetry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rhetoric"
+        },
+        "523-36: Histoire de la littérature / History of literature",
+        "523-170: Anonymes. Auteurs / Anonymous writers. Authors"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Siècle 16"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Century 16th"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6104059"
+}

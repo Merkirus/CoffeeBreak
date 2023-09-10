@@ -1,0 +1,126 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A view on views",
+    "dc:creator": "SHAMIR, Ariel",
+    "dc:contributor": [
+        "Butz, Andreas (Editor)",
+        "Kruger, Antonio (Editor)",
+        "Olivier, Patrick (Editor)",
+        "Smart graphics. International symposium (4 ; Banff 2004-05-23)"
+    ],
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 90-100",
+        "SG 2004 : smart graphics (Banff, 23-25 May 2004)"
+    ],
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "11 p. ; 22 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Abstraction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Base donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interface utilisateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Localisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recherche information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Relation ordre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système information gestion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sémantique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Abstraction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Database"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "User interface"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Localization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information retrieval"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ordering"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Management information systems"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Semantics"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Abstracción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Base dato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interfase usuario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Localización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Búsqueda información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Relación orden"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Semántica"
+        },
+        "001D02C03: Reconnaissance des formes. Traitement numérique des images. Géométrie algorithmique / Pattern recognition. Digital image processing. Computational geometry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15852165"
+}

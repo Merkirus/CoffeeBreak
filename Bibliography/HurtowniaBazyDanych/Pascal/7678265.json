@@ -1,0 +1,69 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Connivence et littérature : Une méthode d'analyse textuelle pour lire entre les mots; Complicity and literature: a method of textual analysis to read between the words",
+    "dc:creator": "GARNIER-MATHEZ, Isabelle",
+    "dc:relation": "Revue d'histoire littéraire de la France -- Rev. hist. litt. Fr, ISSN 0035-2411, Vol. 106 (4)",
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "PUF",
+    "dc:format": [
+        "print",
+        "771-790, 1021 [21 p.] ; dissem"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse textuelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Communauté linguistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sociolinguistique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Textual analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Linguistic community"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sociolinguistics"
+        },
+        "523-: Histoire et sciences de la litterature / History and sciences of litterature",
+        "523-36: Histoire de la littérature / History of literature",
+        "523-169: Généralités / General points"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Siècle 16"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Century 16"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18314624"
+}

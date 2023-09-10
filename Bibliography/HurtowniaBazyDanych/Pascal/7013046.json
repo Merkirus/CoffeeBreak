@@ -1,0 +1,160 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Offshore platforms survivability to underwater explosions: part I",
+    "dc:creator": [
+        "MOTTO, A. A",
+        "SILVA, E. A. P",
+        "EBECKEN, N. F. F",
+        "NETTO, T. A"
+    ],
+    "dc:contributor": [
+        "Brebbia, C. A (Editor)",
+        "Motta, Alexandre de Assis (Editor)",
+        "Encontro em Balístca e Mecanica Computacional (3 ; New Forest 2007)"
+    ],
+    "dc:relation": [
+        "WIT transactions on modelling and simulation, pp. 123-130",
+        "Computational ballistics III"
+    ],
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "WIT",
+    "dc:format": [
+        "print",
+        "8 p. ; 11 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Aluminium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bulle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Corps immergé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Explosion sous marine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hydroélasticité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Industrie pétrolière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Onde choc"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plateforme production"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aluminium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bubble"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immersed body"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Submarine explosion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hydroelasticity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oil industry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Shock wave"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Production platform"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aluminio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ampolla"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuerpo inmergido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Explosión submarina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hidroelasticidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Industria petrolera"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Onda choque"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Plataforma producción"
+        },
+        "001B40G55D: Gouttes et bulles / Drops and bubbles",
+        "001D14: Batiment. Travaux publics / Buildings. Public works",
+        "001D14L07: Ouvrages en mer (plateformes, réservoirs, etc.) / Offshore structure (platforms, tanks, etc.)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20109346"
+}

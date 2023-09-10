@@ -1,0 +1,53 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "UN'ESPERIENZA DI LAVORO NEL DIRITTO DI STAMPA; UNE EXPERIENCE DE TRAVAIL DANS LE COPYRIGHT",
+    "dc:creator": "MANDILLO AM",
+    "dc:date": "1975",
+    "dc:type": "Article",
+    "dc:language": "Italian",
+    "dc:format": "ASS. ITAL. BIBL., BOLL. INFORM.; ITAL.; DA. 1975; VOL. 15; NO 1; PP. 48-51; ABS. ANGL.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "COPYRIGHT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REGLEMENTATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIBLIOTHEQUE NATIONALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ITALIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REGULATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NATIONAL LIBRARY"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ITALY"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCE INFORMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFORMATION SCIENCE"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7510102610"
+}

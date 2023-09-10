@@ -1,0 +1,166 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Enumeration of unrooted hypermaps of a given genus",
+    "dc:creator": [
+        "MEDNYKH, Alexander",
+        "NEDELA, Roman"
+    ],
+    "dc:contributor": [
+        "KRATOCHVIL, Jan (Editor)",
+        "NESETRIL, Jaroslav (Editor)",
+        "RYJACEK, Zdenĕk (Editor)",
+        "Czech-Slovak International Symposium on Combinatorics, Graph Theory, Algorithms and Applications (6 ; Prague 2006-07-10)"
+    ],
+    "dc:relation": [
+        "Discrete mathematics -- Discrete math, CODEN DSMHA4, ISSN 0012-365X, Vol. 310 (3) , pp. 518-526",
+        "Sixth Czech-Slovak International Symposium on Combinatorics, Graph Theory, Algorithms and Applications"
+    ],
+    "dc:date": "2010",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "Russian",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "9 p. ; 31 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Combinatoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Comptage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enumération"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Isomorphisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mathématiques discrètes"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode décomposition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Orientation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Terme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Combinatorics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Counting"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Enumeration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Isomorphism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Discrete mathematics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Decomposition method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Orientation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Enumeration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fuchsian group"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Map"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Orbifold"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rooted hypermap"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Unrooted hypermap"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Combinatoria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contaje"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enumeración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Isomorfismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Matemáticas discretas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método descomposición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Orientación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Superficie"
+        },
+        "001A02B01: Combinatoire / Combinatorics",
+        "001A02C: Algèbre / Algebra"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 22351947"
+}

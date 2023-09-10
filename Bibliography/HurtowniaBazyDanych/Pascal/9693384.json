@@ -1,0 +1,299 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Telephone counseling increases cessation rates among young adult smokers",
+    "dc:creator": [
+        "RABIUS, Vance",
+        "MCALISTER, Alfred L",
+        "GEIGER, Angela",
+        "HUANG, Philip",
+        "TODD, Ronald"
+    ],
+    "dc:relation": "Health psychology (Hillsdale, N.J.) -- Health psychol. (Hillsdale, N.J.), ISSN 0278-6133, Vol. 23 (5) , pp. 539-541",
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "American Psychological Association",
+    "dc:format": [
+        "print",
+        "3 p. ; 16 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Abstinence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Adulte jeune"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Appel téléphonique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conseil psychologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Consommation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Efficacité traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Environnement social"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude comparative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude longitudinale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Manuel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recherche aide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé mentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé publique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sevrage toxique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Soin autogéré"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tabac"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Abstinence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Young adult"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Telephone call"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Psychological counseling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Consumption"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment efficiency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Social environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Follow up study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Manuals"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Help seeking"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mental health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Poison withdrawal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Selfcare"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tobacco"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "smoking cessation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "telephone counseling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "young adults"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Abstinencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adulto joven"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Llamada telefónica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Consejo psicológico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Consumo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Eficacia tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contexto social"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio comparativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio longitudinal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Manual"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Busqueda ayuda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud mental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud pública"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Destete tóxico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuidado autogestionado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tabaco"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        "002B18I15: Désintoxication. Sevrage toxique / Desintoxication. Drug withdrawal",
+        "770-: Psychologie. Psychanalyse. Psychiatrie / Psychology. Psychoanalysis. Psychiatry",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats Unis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estados Unidos"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16034037"
+}

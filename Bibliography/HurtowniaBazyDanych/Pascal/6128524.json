@@ -1,0 +1,205 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Cost functions for oil well drilling, lease equipment and well operation in Texas",
+    "dc:creator": [
+        "BEIKE, D",
+        "HOLTZ, M. H"
+    ],
+    "dc:contributor": [
+        "Society of Petroleum Engineers (Funder/Sponsor)",
+        "SPE hydrocarbon economics and evaluation symposium (Dallas TX 1995-03-26)"
+    ],
+    "dc:relation": "Hydrocarbon economics & evaluation symposium : Dallas TX, 26-28 March 1995",
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:format": [
+        "print",
+        "3 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Coût production"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Economie pétrolière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude cas"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude comparative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fonction coût"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode calcul"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthodologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pétrole"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Data analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Production cost"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oil economy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Case study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cost function"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computing method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Methodology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Petroleum"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis datos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Coste producción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Economía petrolera"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio caso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio comparativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Función coste"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método cálculo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metodología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Petróleo"
+        },
+        "001D06: Energie / Energy",
+        "001D06A01A: Méthodologie. Modélisation / Methodology. Modelling",
+        "731-: Economie de l'énergie / Energy economics",
+        "731-10: Méthodologie / Methodology",
+        "731-1: Méthodologie / Methodology"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats Unis"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Texas"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Texas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estados Unidos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Texas"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6297863"
+}

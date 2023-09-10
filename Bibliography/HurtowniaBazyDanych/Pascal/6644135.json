@@ -1,0 +1,312 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Coupled Structural-Acoustic Response of a Duct-Mounted Elastic Plate with Grazing Flow",
+    "dc:creator": [
+        "SUCHEENDRAN, Mahesh M",
+        "BODONY, Daniel J",
+        "GEUBELLE, Philippe H"
+    ],
+    "dc:contributor": "AIAA/CEAS Aeroacoustics Conference (18 ; Colorado Springs, CO 2012-06-04)",
+    "dc:relation": [
+        "AIAA journal -- AIAA j, CODEN AIAJAH, ISSN 0001-1452, Vol. 52 (1) , pp. 178-194",
+        "AIAA/CEAS Aeroacoustics Conference (18 ; Colorado Springs, CO 2012-06-04)"
+    ],
+    "dc:date": "2014",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "American Institute of Aeronautics and Astronautics",
+    "dc:format": [
+        "print",
+        "17 p. ; 45 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Acoustique structurale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse structurale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Appui simple"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aéronef"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conduite rectangulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Couche limite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Couplage acoustique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Couplage mode"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecoulement conduite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecoulement subsonique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecoulement uniforme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fréquence fondamentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fréquence propre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Harmonique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Incidence rasante"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lutte bruit"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle milieu effectif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Onde plane"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plaque mince"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réponse fréquence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système ordre réduit"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Structural acoustics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Structural analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Simple support"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aircraft"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rectangular pipe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Boundary layer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Acoustic coupling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mode coupling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pipe flow"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Subsonic flow"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Uniform flow"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fundamental frequency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Natural frequency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Harmonic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Grazing incidence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Noise control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Effective medium model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metric"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plane wave"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thin plate"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Frequency response"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reduced order systems"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ruido transmitido estructura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis estructural"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Apoyo simple"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aeronave"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conducto rectangular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Capa límite"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acoplamiento acústico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acoplamiento modo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Flujo conducción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Flujo subsónico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Flujo uniforme"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Frecuencia fundamental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Frecuencia propia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Armónica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Incidencia rasante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Control ruido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo medio efectivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Métrico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Onda plana"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Placa delgada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Respuesta frecuencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema de orden reducido"
+        },
+        "001B40C20: Acoustique linéaire / Linear acoustics",
+        "001B40C40: Acoustique des structures et vibration / Structural acoustics and vibration",
+        "001B40F30M: Vibration, onde mécanique, stabilité dynamique (aéroélasticité, contrôle vibration...) / Vibration, mechanical wave, dynamic stability (aeroelasticity, vibration control...)",
+        "001B40G40D: Ecoulements subsoniques / General subsonic flows"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 28231951"
+}

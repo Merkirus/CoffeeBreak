@@ -1,0 +1,142 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Characterizing charge trapping in microwave transistors",
+    "dc:creator": [
+        "RATHMELL, James G",
+        "PARKER, Anthony E"
+    ],
+    "dc:contributor": [
+        "Hariz, Alex J (Editor)",
+        "Society of photo-optical instrumentation engineers (Organiser of meeting)",
+        "Microelectronics. Conference (2 ; Brisbane 2005)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, pp. 60350S.1-60350S.10",
+        "Microelectronics (design, technology, and packaging II)"
+    ],
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "15 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Commutation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Constante temps"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interface utilisateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mesure caractéristiques"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Piégeage porteur charge"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Radiocommunication service mobile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transistor hyperfréquence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transistor induction statique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transistor mobilité électron élevée"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Switching"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Time constant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "User interface"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Characteristics measurement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Charge carrier trapping"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mobile radiocommunication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microwave transistor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Static induction transistor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High electron mobility transistor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conmutación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Constante tiempo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interfase usuario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Captura portador carga"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radiocomunicación servicio móvil"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transistor hiperfrecuencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transistor inducción estática"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transistor movibilidad elevada electrones"
+        },
+        "001D03F04: Transistors / Transistors",
+        "001D03F08: Dispositifs hyperfréquences et à ondes submillimétriques, dispositifs à transfert d'électrons / Microwave and submillimeter wave devices, electron transfer devices",
+        "001D03J03: Equipements d'entrée-sortie / Input-output equipment"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17806749"
+}

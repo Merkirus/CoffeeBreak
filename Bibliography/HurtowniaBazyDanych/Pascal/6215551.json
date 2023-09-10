@@ -1,0 +1,236 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Etude de la déstabilisation des suspensions de montmorillonite par les polymères organiques et inorganiques; Study of the destabilization of montmorillonite suspensions by means of organic and inorganic polymers",
+    "dc:creator": [
+        "BRUANT, Michel",
+        "Société lyonnaise des eaux et de l'éclairage",
+        "Ecole nationale supérieure de géologie appliquée et de prospection minière"
+    ],
+    "dc:contributor": "FRT (Funder/Sponsor)",
+    "dc:date": "1986",
+    "dc:type": [
+        "Text",
+        "Report"
+    ],
+    "dc:identifier": [
+        "REPORTNUMBER FRT - 82 E 0641",
+        "Inist-CNRS record number 7292617"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "218 p. ; 14 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Acrylamide polymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Adsorbant minéral"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Adsorbat minéral"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Adsorbat organique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Adsorption"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aluminium Hydroxyde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Coagulation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eau industrielle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eau potable"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Floculation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interaction intermoléculaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Montmorillonite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthodologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Programme recherche"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Utilisation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Acrylamide polymer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inorganic adsorbent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inorganic adsorbate"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Organic adsorbate"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adsorption"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aluminium Hydroxides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Coagulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Industrial water"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Drinking water"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Flocculation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Intermolecular interaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Montmorillonite"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Methodology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Research program"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thesis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Use"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acrilamida polímero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adsorbente inorgánico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adsorbato inorgánico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adsorbato orgánico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adsorción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aluminio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Coagulación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agua industrial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agua potable"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Floculación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interacción intermolecular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Montmorilonita"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metodología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Programa investigación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento agua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Utilización"
+        },
+        "001D16A02: Eaux potables, eaux de piscine, dessalement / Drinking water and swimming-pool water. Desalination",
+        "001D16A03: Eaux à usage industriel / Industrial use water"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

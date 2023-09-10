@@ -1,0 +1,125 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A method for circuit analysis using haar wavelet transform",
+    "dc:creator": [
+        "OHKUBO, Akira",
+        "MORO, Seiichiro",
+        "MATSUMOTO, Tadashi"
+    ],
+    "dc:contributor": [
+        "IEEE, Circuits and Systems Society (Organiser of meeting)",
+        "MWSCAS : Midwest symposium on circuits and systems (47 ; Hiroshima 2004-07-25)"
+    ],
+    "dc:relation": "47th Midwest symposium on circuits and systems (Hiroshima, July 25-28, 2004)",
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "IEEE",
+    "dc:format": [
+        "print",
+        "Vol III, 399-402 ; 16 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse circuit"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Equation algébrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode domaine temps"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode à pas"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système équation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement signal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transformation Haar"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transformation ondelette"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Network analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Algebraic equation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Time domain method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Step method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Equation system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Signal processing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Haar transforms"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wavelet transformation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis circuito"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ecuación algebraica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método dominio tiempo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método a paso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema ecuación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Procesamiento señal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transformación ondita"
+        },
+        "001D03G01: Etude théorique. Analyse et conception des circuits / Theoretical study. Circuits analysis and design"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17527675"
+}

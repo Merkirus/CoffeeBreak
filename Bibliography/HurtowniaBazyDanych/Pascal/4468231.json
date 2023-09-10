@@ -1,0 +1,52 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "STABILITE A LA CAVITATION DES ACIERS INOXYDABLES DANS UN MILIEU FORTEMENT CORROSIF",
+    "dc:creator": [
+        "KARASYUK YU A",
+        "VEKSLER YU G"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "ZASHCH. METALLOV.; S.S.S.R.; DA. 1976; VOL. 12; NO 3; PP. 297-299; BIBL. 17 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CORROSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACIER INOXYDABLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CAVITATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CORROSION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STAINLESS STEEL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CAVITATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METALLURGY"
+        },
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7780005373"
+}

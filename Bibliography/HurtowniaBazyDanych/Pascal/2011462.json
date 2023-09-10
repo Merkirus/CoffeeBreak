@@ -1,0 +1,58 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "LOW-PRESSURE MICROWAVE-INDUCED PLASMA EMISSION SPECTROMETRY METHOD FOR THE DETERMINATION OF NANOGRAM QUANTITICS OF ARSENIC IN MONOARSENILAZO TYR-248 CARBOXYPEPTIDASE.",
+    "dc:creator": [
+        "ATSUYA I",
+        "ALTER GM",
+        "VEILLON C",
+        "VALLEE BL"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "ANAL. BIOCHEM.; U.S.A.; DA. 1977; VOL. 79; NO 1-2; PP. 202-211; BIBL. 13 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE EMISSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ARSENIC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DOSAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TOXICOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EMISSION SPECTROMETRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EMISSION SPECTROSCOPY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ARSENIC"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANALYTICAL DETERMINATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TOXICOLOGY"
+        },
+        "002B02: Pharmacologie. Traitements medicamenteux / Pharmacology. Drug treatments"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7750406852"
+}

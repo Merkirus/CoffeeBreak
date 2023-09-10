@@ -1,0 +1,86 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE KINETICS OF AMMONIUM AND NITRATE UPTAKE BY YOUNG RICE PLANTS",
+    "dc:creator": [
+        "YOUNGDAHL LJ",
+        "PACHECO R",
+        "STREET JJ",
+        "VLEK PLG"
+    ],
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "PLANT AND SOIL; ISSN 0032-079X; NLD; DA. 1982; VOL. 69; NO 2; PP. 225-232; BIBL. 17 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "NUTRITION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AZOTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AMMONIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NITRATE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CULTURE HYDROPONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORYZA SATIVA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PLANTE CEREALIERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AGRONOMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NUTRITION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NITROGEN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AMMONIUM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NITRATES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HYDROPONIC CULTIVATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORYZA SATIVA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CEREAL CROP"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AGRONOMY"
+        },
+        "002A32: Agronomie. Sciences du sol et productions vegetales / Agronomy. Soil science and plant productions"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALAGROLINEINRA83X0183239"
+}

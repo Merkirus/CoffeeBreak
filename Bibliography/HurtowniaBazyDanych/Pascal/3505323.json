@@ -1,0 +1,61 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SOCIEDAD, CULTURA Y ACTITUDES HACIA LA ENFERMEDAD MENTAL (1979); SOCIETE, CULTURE ET ATTITUDE ENVERS LA MALADIE MENTALE",
+    "dc:creator": [
+        "YLLA L",
+        "OZAMIZ A",
+        "GUIMON J"
+    ],
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "Spanish",
+    "dc:format": "PSIQUIS; ISSN 0210-8348; ESP; DA. 1982; VOL. 3; NO 3; PP. 30-44; 11 P.; BIBL. 7 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MILIEU CULTUREL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ATTITUDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MALADIE MENTALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PSYCHIATRIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CULTURAL ENVIRONMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ATTITUDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MENTAL ILLNESS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PSYCHIATRY"
+        },
+        "002A26: Psychologie. Psychophysiologie / Psychology. Psychophysiology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0001393"
+}

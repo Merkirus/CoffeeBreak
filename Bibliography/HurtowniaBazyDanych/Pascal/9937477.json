@@ -1,0 +1,98 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Alternative Ausbildung der Randelemente von Stahlbeton - Wandscheiben für Erdbebenbeanspruchung; Alternative seismic design of the boundary sections of reinforced concrete walls; Conception parasismique alternative pour les extrémités des murs en béton armé",
+    "dc:creator": "KEINTZEL, E",
+    "dc:relation": "Beton- und Stahlbetonbau -- Beton- Stahlbetonbau, ISSN 0005-9900, Vol. 92 (11) , pp. 294-296",
+    "dc:date": "1997",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "German",
+    "dc:publisher": "Ernst",
+    "dc:format": [
+        "print",
+        "7 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Armature"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Béton armé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Calcul parasismique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eurocode"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Armature confinement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Liaison mur poteau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réduction armature"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Concrete reinforcement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reinforced concrete"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Earthquake analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Eurocode"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Building wall"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Armadura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hormigón armado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cálculo antisísmico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Eurocódigo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Muro"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works",
+        "001D14H02E: Structure en béton armé / Reinforced concrete structure"
+    ],
+    "dc:rights": [
+        "Ecole Nationale des Ponts et Chaussées (ENPC)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6168021"
+}

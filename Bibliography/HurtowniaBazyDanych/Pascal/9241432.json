@@ -1,0 +1,252 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The Neuroscience of Intergroup Relations: An Integrative Review",
+    "dc:creator": [
+        "CIKARA, Mina",
+        "VAN BAVEL, Jay J"
+    ],
+    "dc:relation": "Perspectives on psychological science (Print) -- Persp.psychol.sci. (Print), ISSN 1745-6916, Vol. 9 (3) , pp. 245-274",
+    "dc:date": "2014",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Sage Publications",
+    "dc:format": [
+        "print",
+        "30 p. ; 8 p.3/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Appartenance sociale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cognition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Groupe social"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interaction sociale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système nerveux central"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Article synthèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Catégorisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cognition sociale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Comportement d'aide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Compétition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conflit"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Coopération"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Empathie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Encéphale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Identité sociale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Relation intergroupe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Social belonging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cognition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Social group"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Social interaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central nervous system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Review"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Categorization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Social cognition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Helping behavior"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Competition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Conflict"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cooperation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Empathy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Encephalon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Social identity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Intergroup relation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "cognition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "intergroup relations"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "neuroscience"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "social cognition"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pertenencia social"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cognición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Grupo social"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interacción social"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso central"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Artículo síntesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Categorización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cognición social"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conducta ayuda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Competencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conflicto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cooperación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Empatía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Encéfalo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Identidad social"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Relación intergrupo"
+        },
+        "002A26M04: Interactions sociales. Communication. Processus de groupe / Social interactions. Communication. Group processes",
+        "002A26M06: Attribution, perception et cognition sociale / Social attribution, perception and cognition",
+        "770-B: Psychologie. Psychophysiologie / Psychology. Psychophysiology",
+        "770-B13D: Interactions sociales. Communication. Processus de groupe / Social interactions. Communication. Group processes",
+        "770-B13F: Attributioné perception et cognition sociale / Social attribution, perception and cognition"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 28483705"
+}

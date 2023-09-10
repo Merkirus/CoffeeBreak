@@ -1,0 +1,122 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "BACIA SALIFERA APTIANA DE SERGIPE/ALAGOAS OCORRENCIAS DE SAIS SOLUVEIS.",
+    "dc:creator": [
+        "TEIXEIRA AA",
+        "SALDANHA LAR",
+        "DA SILVA MAIA A",
+        "FERNANDES G"
+    ],
+    "dc:date": "1968",
+    "dc:type": "Miscellaneous",
+    "dc:language": "Portuguese",
+    "dc:format": "BOL. TEC. PETROBRAS; BRA; 1968(6), VOL. 11, NUM. 0002, P. 221 A 230",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "POTASSIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MG"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHLORE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARNALLITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SYLVINITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "APTIEN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SERGIPE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALAGOAS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ROCHES SEDIMENTAIRES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CRETACE INF"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SECONDAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BRESIL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AMERIQUE DU SUD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "K"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MG"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "APTIAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SERGIPE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ALAGOAS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SEDIMENTARY ROCKS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        "001E01G: Roches sédimentaires / Sedimentary rocks"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number GEODEBRGM6909028543"
+}

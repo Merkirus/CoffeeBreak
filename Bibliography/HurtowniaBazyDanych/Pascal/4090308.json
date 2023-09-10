@@ -1,0 +1,56 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "CORROSION DE NI DANS L'EUTECTIQUE LIQUIDE LICL-KCL CONTENANT L'ION NITRATE",
+    "dc:creator": [
+        "NUMATA H",
+        "HARUYAMA S"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "Japanese",
+    "dc:format": "J. JAP. INST. METALS; JPN; DA. 1978; VOL. 42; NO 9; PP. 882-886; ABS. ENG; BIBL. 10 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CORROSION PAR LES SELS FONDUS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NICKEL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHLORURE DE LITHIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHLORURE DE POTASSIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NITRATE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NICKEL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NITRATES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METALLURGY"
+        },
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7900251507"
+}

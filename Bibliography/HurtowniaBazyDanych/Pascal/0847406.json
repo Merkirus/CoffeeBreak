@@ -1,0 +1,73 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ANALYSIS OF FAMILY RESEMBLANCE FOR LIPIDS AND LIPOPROTEINS",
+    "dc:creator": "ISELIUS L",
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "CLIN. GENET.; DNK; DA. 1979; VOL. 15; NO 4; PP. 300-306; BIBL. 22 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "LIPIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LIPOPROTEINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE FAMILIALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "JUMEAU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DETERMINISME GENETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENETIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIPIDS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIPOPROTEIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FAMILY STUDY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TWIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INHERITANCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENETICS"
+        },
+        "002A31C02: Techniques génétiques / Genetic technics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7950334706"
+}

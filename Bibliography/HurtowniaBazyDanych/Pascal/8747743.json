@@ -1,0 +1,47 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Les transferts dus à la PAC en France: une analyse régionale",
+    "dc:creator": [
+        "BONNIEUX, F",
+        "RAINELLI, P"
+    ],
+    "dc:relation": "Cahiers d'Economie et Sociologie Rurales (20) , pp. 47-62",
+    "dc:date": "1991",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "6 tabl., 1 note ; 5 réf"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "politique agricole commune"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "prix"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "transfert"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "économie régionale"
+        },
+        "617-7: Economie des ressources naturelles / Natural resources economics"
+    ],
+    "dc:coverage": {
+        "@xml:lang": "fr",
+        "#text": "France"
+    },
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6567926"
+}

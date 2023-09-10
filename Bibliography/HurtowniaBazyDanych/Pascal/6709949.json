@@ -1,0 +1,136 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Fatigue research for rotating mirror of ultra-high speed camera through numerical analysis and experimental methods",
+    "dc:creator": [
+        "LI, Chun-Bo",
+        "YU, Chun-Hui",
+        "LIU, Chun-Ping",
+        "CHAI, Jin-Long",
+        "WANG, Hong-Zhi",
+        "LI, Jing-Zhen",
+        "HONG-BIN, Huang"
+    ],
+    "dc:contributor": [
+        "Wang, Yuelin (Editor)",
+        "Xie, Huikai (Editor)",
+        "Jin, Yufeng (Editor)",
+        "SPIE (Organiser of meeting)",
+        "Tianjin Jinhang Institute of Technical Physics (Organiser of meeting)",
+        "Zhongguo yu hang xue hui, Photoelectric Technology Professional Committee (Organiser of meeting)",
+        "Science and Technology on Low Light Level Night Vision Laboratory (Organiser of meeting)",
+        "Zhongguo yu hang xue hui (Organiser of meeting)",
+        "International symposium on photoelectronic detection and imaging (04 ; Beijing 2011-05-24)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, Vol. 8191",
+        "Sensor and micromachined optical device technologies (24-26 May 2011, Beijing China) -- 0ISPDI 2011 (sensor and micromachined optical device technologies) -- 1Sensor and micromachined optical device technologies"
+    ],
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "81910P.1-81910P.9 ; 12 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Capteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude théorique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Imagerie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Miroir tournant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode numérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode élément fini"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété photoélectronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technique optique grande vitesse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0130C"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0707D"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sensors"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Theoretical study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Imagery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rotating mirror"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Numerical method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Finite element method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photoelectronic properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High-speed optical techniques"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Imaginería"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Espejo giratorio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método numérico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad fotoelectrónica"
+        },
+        "001B00A30C: Actes de congrès / Conference proceedings",
+        "001B00G07D: Capteurs (chimiques, optiques, électriques, de mouvement, de gaz, etc.); télédétection / Sensors (chemical, optical, electrical, movement, gas, etc.); remote sensing"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 25294659"
+}

@@ -1,0 +1,66 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Les français dans les aires créolophones (vers une didactique adaptée)",
+    "dc:contributor": "Maïga, Amidou (Publishing director)",
+    "dc:relation": "Langues et développement (Collection), ISSN 1151-6615",
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Book"
+    ],
+    "dc:identifier": [
+        "ISBN 978-2-296-04587-3",
+        "Inist-CNRS record number 20767297"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "l'Harmattan",
+    "dc:format": [
+        "print",
+        "244 p. ; Notes bibliogr"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Créoles Français"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Didactique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enseignement des langues"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Politique linguistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sociolinguistique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Didactics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Language teaching"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Linguistic policy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sociolinguistics"
+        },
+        "524-: Sciences du langage / Linguistics",
+        "524-23: Sociolinguistique et ethnolinguistique / Sociolinguistics and ethnolinguistics",
+        "524-26: Sabirs. Pidgins. Créoles / Sabirs. Pidgins. Creoles"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

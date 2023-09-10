@@ -1,0 +1,88 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Compensation of radilogists. Commentary",
+    "dc:creator": "LINTON, O. W",
+    "dc:contributor": "ROGERS, L. F (Commentator)",
+    "dc:relation": "American journal of roentgenology (1976) -- Am. j. roentgenol. (1976), CODEN AAJRDX, ISSN 0361-803X, Vol. 163 (2) , pp. 265-272",
+    "dc:date": "1994",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "American Roentgen Ray Society",
+    "dc:format": [
+        "print",
+        "7 p. ; 22 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Compensation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Histoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Programme sanitaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Radiologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Service santé"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Compensation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "History"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sanitary program"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Health service"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Compensación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Historia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Programa sanitario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radiología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Servicio sanidad"
+        },
+        "002B30: Sante publique. Hygiene-medecine du travail / Public health. Hygiene-occupational medicine",
+        "002B30A04: Etablissements sanitaires et sociaux / Health and social institutions",
+        "002B30A05: Acteurs de santé / Health participants"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3316481"
+}

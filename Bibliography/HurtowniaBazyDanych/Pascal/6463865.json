@@ -1,0 +1,232 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Synthesis, characterization and luminescence properties of ZrO2:Yb3+-Er3+ nanophosphor",
+    "dc:creator": [
+        "SALAS, P",
+        "ANGELES-CHAVEZ, C",
+        "MONTOYA, J. A",
+        "DE LA ROSA, E",
+        "DIAZ-TORRES, L. A",
+        "DESIRENA, H",
+        "MARTINEZ, A",
+        "ROMERO-ROMO, M. A",
+        "MORALES, J"
+    ],
+    "dc:contributor": [
+        "DE LA ROSA, Elder (Editor)",
+        "DIAZ-TORRES, Luis A (Editor)",
+        "CASTANO, Víctor (Editor)",
+        "CIO 2004 Topical Meeting on Nanostructured Materials and Nanotechnology (1 ; LeÓn, Gto. 2004-09-22)"
+    ],
+    "dc:relation": [
+        "Optical materials (Amsterdam) -- Opt. mater. (Amst.), ISSN 0925-3467, Vol. 27 (7) , pp. 1295-1300",
+        "Proceedings of the First Topical Meeting on Nanostructured Materials and Nanotechnology, CIO 2004"
+    ],
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "6 p. ; 16 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Addition erbium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Addition ytterbium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Codopage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conversion fréquence optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffraction RX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet concentration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau dopé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau luminescent"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microscopie électronique transmission"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nanomatériau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nanoparticule"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optique non linéaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Photoluminescence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Procédé sol gel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectre absorption"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transfert énergie excitation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Zircone"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Zirconium oxyde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4270M"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Condition pompage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "O Zr"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Upconversion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ZrO2:Er,Yb"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Erbium additions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ytterbium additions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Codoping"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical frequency conversion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "XRD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quantity ratio"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Doped materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phosphors"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transmission electron microscopy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nanostructured materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nanoparticles"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nonlinear optics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photoluminescence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sol-gel process"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Absorption spectra"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Excitation energy transfer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Zirconia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Zirconium oxides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Upconversion"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Codrogado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transferencia energía excitación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Zircona"
+        },
+        "001B40B70M: Cristaux pour optique non linéaire / Nonlinear optical crystals"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16741537"
+}

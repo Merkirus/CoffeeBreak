@@ -1,0 +1,188 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "(RH(CO)2CL)2-CATALYZED REACTIONS OF ARENE OXIDES.",
+    "dc:creator": [
+        "ASHWORTH RW",
+        "BERCHTOLD GA"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "TETRAHEDRON LETTERS; G.B.; DA. 1977; NO 4; PP. 343-346; BIBL. 1 P.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PREPARATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REACTION CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CATALYSEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RHODIUM CARBONYLE COMPLEXE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPLEXE CHLORO"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOLVANT ORGANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HETEROCYCLE OXYGENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EPOXYDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE TRICYCLIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE TETRACYCLIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DESOXYGENATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MECANISME REACTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OXABICYCLOHEPTADIENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OXIRENONAPHTALENE(DIHYDRO)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OXIRENOPHENANTHRENE(DIHYDRO)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OXEPINNE(DIMETHYL-2,7)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHENOL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BENZENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NAPHTOL-1"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDANE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "O-XYLENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHLOROFORME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHANOL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CYCLE 7 CHAINONS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE ORGANIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PREPARATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL REACTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CATALYST"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHLORO COMPLEX"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORGANIC SOLVENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OXYGEN HETEROCYCLE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EPOXIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TRICYCLIC COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TETRACYCLIC COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DEOXYGENATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REACTION MECHANISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHENOLS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BENZENE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "O-XYLENE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METHANOL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SEVEN MEMBERED RING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORGANIC CHEMISTRY"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7760284690"
+}

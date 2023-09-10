@@ -1,0 +1,437 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Signes de qualité, coordination économique et formation des prix (le cas du label avicole); Quality traits, economic coordination, and price formation (the Poultry Label, a case study)",
+    "dc:creator": [
+        "Valceschini, Egizio",
+        "INRA, Systèmes agraires et développement Paris-Grignon",
+        "Institut national agronomique, Systèmes agraires et développement Paris-Grignon"
+    ],
+    "dc:contributor": "Ministère de l'agriculture et de la pêche, Direction générale de l'alimentation (Sponsor)",
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Report"
+    ],
+    "dc:identifier": [
+        "REPORTNUMBER MAP-DGAL - 95-01",
+        "Inist-CNRS record number 98153"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "100 p. ; 6 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Animal à viande"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Animal élevage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aves"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Commercialisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Economie agricole"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Economie industrielle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Elevage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Industrie alimentaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Production animale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Science alimentaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sciences économiques"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aviculture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Certification"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Coordination"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Critère qualité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude cas"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Impact économique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Label qualité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Poulet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prix"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Qualité production"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rente"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Signe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure économique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Viande volaille"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Volaille"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Appellation d' origine contrôlée (AOC)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Certificat de conformité (CC)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FORMATION DES PRIX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Filière viande"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Label rouge"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POULET DE CHAIR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Meat animals"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Farming animal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aves"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Marketing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Agricultural economics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Industrial economy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rearing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Food industry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Animal production"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Food science"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Economics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Poultry farming"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Certification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Coordination"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quality criterion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Case study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Economic impact"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Grade mark"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chicken"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Price"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Production quality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Revenue"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sign"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Economic structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Poultry meat"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Poultry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PRICE FORMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "meat industry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BROILER CHICKENS"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Animales de carne"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Animal cría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aves"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Comercialización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Economía agricola"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Economía industrial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Industria alimenticia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Producción animal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ciencia alimentaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ciencias económicas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Avicultura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Certificación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Coordinación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Criterio calidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio caso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Impacto económico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Marca calidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pollo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Precio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Calidad producción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Signo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estructura económica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carne aves corral"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ave de corral"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "FORMACION DE PRECIOS"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "POLLO DE ENGORDE"
+        },
+        "002A34: Phytopathologie. Zoologie agricole. Protection des cultures et des forets / Phytopathology. Animal pests. Plant and forest protection",
+        "002A35B05: Industries de la viande et des produits carnés / Meat and meat product industries",
+        "002A36: Productions animales / Animal productions",
+        "002A36C03: Vertébrés / Vertebrates",
+        "430A02E:  / Animal husbandry; farm animals; pets"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe Ouest"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Western Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa del Oeste"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francia"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

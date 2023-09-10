@@ -1,0 +1,256 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Uses of stable isotopes in clinical diagnosis and research in the paediatric population",
+    "dc:creator": [
+        "BODAMER, O. A. F",
+        "HALLIDAY, D"
+    ],
+    "dc:relation": "Archives of disease in childhood -- Arch. dis. child, CODEN ADCHAK, ISSN 0003-9888, Vol. 84 (5) , pp. 444-448",
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "BMJ",
+    "dc:format": [
+        "print",
+        "76 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bactérie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Maladie héréditaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spirillaceae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spirillales"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil digestif pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bactériose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composition corporelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diagnostic"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dépense énergétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Elément minéral"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enfant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Helicobacter pylori"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Macronutriment"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métabolisme pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métabolisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Test respiratoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traceur radioactif"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bacteria"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Genetic disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spirillaceae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spirillales"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Digestive diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bacteriosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Body composition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diagnosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Energetic cost"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inorganic element"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Child"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Helicobacter pylori"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Macronutrient"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metabolic diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metabolism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Breath test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radioactive tracers"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bacteria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Infección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enfermedad hereditaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Spirillaceae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Spirillales"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato digestivo patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bacteriosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Composicíon corporal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diagnóstico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Costo energético"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Elemento inorgánico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Niño"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Helicobacter pylori"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Macronutriente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metabolismo patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metabolismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Test respiratorio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trazador radioactivo"
+        },
+        "002B24O11: Appareil génital. Glande mammaire / Genital system. Mammary gland"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1025558"
+}

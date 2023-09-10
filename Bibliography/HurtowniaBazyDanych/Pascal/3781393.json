@@ -1,0 +1,121 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "LA DEVALAISON DES ALEVINS DE TRUITE COMMUNE SALMO TRUTTA L. I. CARACTERISATION EN MILIEU ARTIFICIEL",
+    "dc:creator": "HELAND M",
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "ANN. LIMNOL.; ISSN 0003-4088; FRA; DA. 1980; VOL. 16; NO 3; PP. 233-245; ABS. ENG; BIBL. 22 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PISCES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MIGRATION ANIMALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RYTHME CIRCADIEN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPORTEMENT TERRITORIAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DEVELOPPEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANIMAL JEUNE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MILIEU DULCAQUICOLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RYTHME BIOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LOCOMOTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE EXPERIMENTALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SALMO TRUTTA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COURS EAU ARTIFICIEL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PISCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANIMAL MIGRATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CIRCADIAN RHYTHM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SWIMMING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TERRITORIAL BEHAVIOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DEVELOPMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "YOUNG ANIMAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FRESHWATER ENVIRONMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOLOGICAL RHYTHM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LOCOMOTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXPERIMENTAL STUDY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SALMO TRUTTA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ARTIFICIAL STREAM"
+        },
+        "002A14: Ecologie animale, vegetale et microbienne / Animal, plant and microbial ecology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8110307435"
+}

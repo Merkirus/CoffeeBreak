@@ -1,0 +1,48 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SUR UN PROBLEME LIMITE A VALEURS LIMITES NE SATISFAISANT PAS A LA CONDITION DE BERNSTEIN ET AYANT UNE APPLICATION DANS LA THEORIE DES EFFETS CAPILLAIRES",
+    "dc:creator": [
+        "MYSHKIS AD",
+        "SHCHERBINA GV"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "DIFFER. URAVNEN., BELORUS. S.S.R.; S.S.S.R.; DA. 1976; VOL. 12; NO 6; PP. 991-998; BIBL. 8 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "EQUATION DIFFERENTIELLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROBLEME VALEUR LIMITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RESOLUTION EQUATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE NUMERIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATHEMATIQUES APPLIQUEES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NUMERICAL ANALYSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "APPLIED MATHEMATICS"
+        },
+        "001A02: Mathematiques / Mathematics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7630288302"
+}

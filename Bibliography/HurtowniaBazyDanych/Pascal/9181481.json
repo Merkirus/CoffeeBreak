@@ -1,0 +1,289 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Somatosensory and sensorimotor consequences associated with the heterozygous disruption of the autism candidate gene, Gabrb3",
+    "dc:creator": [
+        "DELOREY, Timothy M",
+        "SAHBAIE, Peyman",
+        "HASHEMI, Ezzat",
+        "LI, Wen-Wu",
+        "SALEHI, Ahmad",
+        "CLARK, David J"
+    ],
+    "dc:relation": "Behavioural brain research -- Behav. brain res, CODEN BBREDI, ISSN 0166-4328, Vol. 216 (1) , pp. 36-45",
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "10 p. ; 70 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Encéphale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur milieu"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Neurotransmetteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système nerveux central"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Température"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble du développement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Autisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chaleur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GABA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gating"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gène candidat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hypersensibilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Noyau réticulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Perception"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sensibilité tactile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thalamus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble envahissant du développement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Encephalon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Environmental factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neurotransmitter"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central nervous system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Temperature"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Developmental disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Autism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heat"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GABA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gating"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Candidate gene"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hypersensitivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reticular nucleus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Perception"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tactile sensitivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thalamus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information processing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pervasive developmental disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Autism spectrum disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bed nucleus of stria terminalis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GABA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gabrb3"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heat hypersensitivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reticular thalamic nucleus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sensorimotor gating"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sensory processing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tactile hypersensitivity"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Encéfalo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor medio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Neurotransmisor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso central"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Temperatura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno desarrollo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Autismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Calor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "GABA"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gating"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gen candidato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hipersensibilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Núcleo reticulado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Percepción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sensibilidad tactil"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tálamo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Procesamiento información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Disturbio invasor del desarrollo"
+        },
+        "002A26C: Psychophysiologie du comportement / Behavioral psychophysiology",
+        "002B18D04B: Autisme infantile / Infantile autism",
+        "770-B: Psychologie. Psychophysiologie / Psychology. Psychophysiology",
+        "770-B03: Psychophysiologie du comportement / Behavioral psychophysiology",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry",
+        "770-D04D02: Autisme infantile / Infantile autism"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 23436792"
+}

@@ -1,0 +1,298 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Optimization of the base electrode for InGaAs/InP DHBT structures with a buried emitter-base junction",
+    "dc:creator": [
+        "KOPF, R. F",
+        "HAMM, R. A",
+        "RYAN, R. W",
+        "TATE, A",
+        "BURM, J"
+    ],
+    "dc:contributor": [
+        "GHOSH, G (Editor)",
+        "KANG, S (Editor)",
+        "MURTY, K. L (Editor)",
+        "NOTIS, M (Editor)",
+        "Minerals, Metals & Materials Society's EMPMD Electronic Packaging and Interconnection Materials Committee (Funder/Sponsor)",
+        "Interfacial Reactions, Solid State Transformations and Thermal Management. Symposium (San Antonio, TX 1998-02)"
+    ],
+    "dc:relation": [
+        "Journal of electronic materials -- J. electron. mater, CODEN JECMA5, ISSN 0361-5235, Vol. 27 (11) , pp. 1244-1247",
+        "Interfacial Reactions, Solid State Transformations and Thermal Management. Symposium"
+    ],
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institute of Electrical and Electronics Engineers",
+    "dc:format": [
+        "print",
+        "8 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Base transistor"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé III-V"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé binaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé ternaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Densité courant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffusion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fabrication microélectronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fiabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fréquence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gallium Arséniure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hétérojonction double"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Indium Arséniure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Indium Phosphure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métallisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recuit"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résistance contact"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résistivité couche"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rétrodiffusion Rutherford"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transistor bipolaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transistor hétérojonction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "As Ga In"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "In P"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "InGaAs"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "InP"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transistor base"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "III-V compound"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Binary compound"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ternary compound"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Current density"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diffusion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microelectronic fabrication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reliability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Frequency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gallium Arsenides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Double heterojunction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Indium Arsenides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Indium Phosphides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metallizing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Annealing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Contact resistance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sheet resistivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rutherford backscattering"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bipolar transistor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heterojunction transistor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Base transistor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Compuesto III-V"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Compuesto binario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Compuesto ternario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Densidad corriente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Difusión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fabricación microeléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fiabilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Frecuencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Galio Arseniuro"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Heterounión doble"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Indio Arseniuro"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Indio Fosfuro"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metalización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Recocido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resistencia contacto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resistividad capa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Retrodifusión Rutherford"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transistor bipolar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transistor heterounión"
+        },
+        "001D03F17: Fabrication microélectronique (technologie des matériaux et des surfaces) / Microelectronic fabrication (materials and surfaces technology)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1634265"
+}

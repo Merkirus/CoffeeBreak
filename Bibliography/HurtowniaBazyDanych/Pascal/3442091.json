@@ -1,0 +1,93 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "EFFECT OF DISSOLVED OXYGEN ON THE RATES OF EVAPORATION OF LIQUID IRON AND COPPER",
+    "dc:creator": [
+        "HAYAKAWA S",
+        "CHOH T",
+        "INOUYE M"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "Japanese",
+    "dc:format": "TETSU TO HAGANE; JPN; DA. 1980-04; VOL. 66; NO 5; PP. 469-477; BIBL. 13 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "VAPORISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VITESSE DEPLACEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METAL LIQUIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EFFET PRESSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OXYGENE!ACT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GAZ DISSOUS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METAL PUR FE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METAL PUR CU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SYSTEME2 FE O"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SYSTEME2 CU O"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VAPORIZATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SPEED"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOLTEN METAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PRESSURE EFFECT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OXYGEN!ACT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GAS IN SOLUTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METALLURGY"
+        },
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8300151132"
+}

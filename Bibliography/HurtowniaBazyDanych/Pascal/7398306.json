@@ -1,0 +1,240 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The longitudinal distribution and community dynamics of zooplankton in a regulated large river : a case study of the Nakdong River (Korea)",
+    "dc:creator": [
+        "KIM, Hyun-Woo",
+        "JOO, Gea-Jae"
+    ],
+    "dc:contributor": [
+        "HAMILTON, Paul B (Editor)",
+        "KLING, Hedy (Editor)",
+        "DOKULIL, Martin T (Editor)",
+        "International Association of Phytoplankton Taxonomy and Ecology (IAP) (Funder/Sponsor)",
+        "International Association of Phytoplankton Taxonomy and Ecology workshop (IAP) (12 ;  1999-09-06)"
+    ],
+    "dc:relation": [
+        "Hydrobiologia (The Hague) -- Hydrobiologia (Hague), CODEN HYDRB8, ISSN 0018-8158, Vol. 438, pp. 171-184",
+        "Part I. Cyanoprokaryotes and chlorophytes across lake trophic states"
+    ],
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "1 p.1/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Invertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu eau douce"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Abondance écologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Barrage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Comparaison interspécifique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cours eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Distribution longitudinale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur milieu"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rotifera"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Régularisation cours eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Temps séjour"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Variation saisonnière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Variation spatiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Zooplancton"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure communauté"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Invertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Freshwater environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ecological abundance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dam"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interspecific comparison"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stream"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Longitudinal distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Environmental factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rotifera"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Riverflow control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Residence time"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Seasonal variation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spatial variation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Zooplankton"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Community structure"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Invertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio agua dulce"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Abundancia ecológica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Presa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Comparación interespecífica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Curso agua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Distribución longitudinal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor medio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rotifera"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Regularización curso agua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tiempo estancia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Variación estacional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Variación espacial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Zooplancton"
+        },
+        "002A14B04C: Ecosystèmes dulçaquicoles / Fresh water ecosystems"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Asie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Corée"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Korea"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Corea"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 879766"
+}

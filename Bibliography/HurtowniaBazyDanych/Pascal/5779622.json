@@ -1,0 +1,309 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Discrete mesoscopic modeling for the simulation of woven-fabric reinforcement forming",
+    "dc:creator": [
+        "JAUFFRES, David",
+        "SHERWOOD, James A",
+        "MORRIS, Corey D",
+        "CHEN, Julie"
+    ],
+    "dc:contributor": [
+        "BOISSE, Philippe (Editor)",
+        "CHINESTA, Francisco (Editor)"
+    ],
+    "dc:relation": "International journal of material forming -- Int. j. mater. form, ISSN 1960-6206, Vol. 3",
+    "dc:date": "2010",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "S1205-S1216 ; 27 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Cisaillage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Construction à ossature"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Emboutissage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai cisaillement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai traction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Formage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Image numérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau composite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Membrane"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mésoéchelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode élément fini"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Poutre treillis"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tissu textile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tissu tressé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Toile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement image"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Shearing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Frame construction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Deep drawing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Shear test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tension test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Forming"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Digital image"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Composite material"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Membrane"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mesoscale"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Finite element method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Truss beam"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Woven material"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Braided fabric"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fabric"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Image processing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Composite forming"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Finite element"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Woven-fabric reinforcement"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cizalladura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Construcción esquelética"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estampado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo cortante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo tracción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conformado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Imagen numérica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Material compuesto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Membrana"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mesoescala"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método elemento finito"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Viga celosía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tela textil"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tela trenzado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tela"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Procesamiento imagen"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Schneiden"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Tiefziehen"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Scherpruefung"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Zugversuch"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Experimentelle Untersuchung"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Umformen"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Verbundwerkstoff"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Membran"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Finite Element Methode"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Fachwerktraeger"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Bildverarbeitung"
+        },
+        "001B40F30: Mécanique des structures et des milieux continus / Structural and continuum mechanics",
+        "001D10A06H: Matériaux composites / Composites",
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy",
+        "001D11C04E: Emboutissage / Deep drawing"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 23281316"
+}

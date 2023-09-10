@@ -1,0 +1,53 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "British Pharmacological Society Meeting. Joint Meeting with the Société Française de Pharmacologie",
+    "dc:contributor": [
+        "British Pharmacological Society (Funder/Sponsor)",
+        "Société Française de Pharmacologie (Funder/Sponsor)",
+        "British Pharmacological Society Meeting. Joint Meeting with the Société Française de Pharmacologie (Edinburgh 1997-09-02)"
+    ],
+    "dc:relation": "British journal of pharmacology -- Br. j. pharmacol, CODEN BJPCBM, ISSN 0007-1188, Vol. 122 (DEC)",
+    "dc:date": "1997",
+    "dc:type": [
+        "Text",
+        "Conference Proceedings"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Nature Publishing",
+    "dc:format": [
+        "print",
+        "170 p. ; SUP"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Congrès"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pharmacologie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Congress"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pharmacology"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Congreso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Farmacología"
+        },
+        "002B02A07: Divers / Miscellaneous"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 391197"
+}

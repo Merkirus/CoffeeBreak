@@ -1,0 +1,77 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ON LEAST-SQUARES DESIGN OF RECURSIVE DIGITAL FILTERS.",
+    "dc:creator": [
+        "SHENOI K",
+        "NARASIMHA MJ",
+        "PETERSON AM"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "I.E.E.E. TRANS. ACOUST. SPEECH SIGNAL PROCESSG; U.S.A.; DA. 1976; VOL. 24; NO 4; PP. 337-339; BIBL. 8 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "FILTRE ELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FILTRE NUMERIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FILTRE RECURSIF"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONCEPTION CIRCUIT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE MOINDRE CARRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROMAGNETISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRIC FILTER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NUMERICAL FILTERS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RECURSIVE FILTERS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CIRCUIT DESIGN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LEAST SQUARES METHOD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROMAGNETISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONICS"
+        },
+        "001D03: Electronique / Electronics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7730095799"
+}

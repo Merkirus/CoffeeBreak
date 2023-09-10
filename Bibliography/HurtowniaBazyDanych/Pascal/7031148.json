@@ -1,0 +1,153 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Performance of FFH-GMSK signals with centre sampling single and double differential detection in frequency-selective Rayleigh channels with CCI",
+    "dc:creator": "SOLIMAN, K. A. M",
+    "dc:contributor": [
+        "IEEE, Information Theory Society (Organiser of meeting)",
+        "IEEE international symposium on information theory (Cambridge MA 1998-08-16)"
+    ],
+    "dc:relation": "1998 IEEE international symposium on information theory (Cambridge MA, 16-21 August 1998)",
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "IEEE",
+    "dc:format": [
+        "print",
+        "p. 453"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bruit gaussien"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Canal transmission"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Déplacement fréquence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evanouissement Rayleigh"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modulation déplacement fréquence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modulation déplacement minimum"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Probabilité erreur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectre étalé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Théorie information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Brouillage même canal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Détection différentielle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gaussian noise"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transmission channel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Frequency shift"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rayleigh fading"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Frequency shift keying"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Minimum shift keying"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Error probability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spread spectrum"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information theory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cochannel interference"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Differential detection"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ruido gaussiano"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Canal transmisión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desplazamiento frecuencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desvanecimiento Rayleigh"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modulación desplazamiento frecuencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modulación desplazamiento mínimo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Probabilidad error"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Espectro ensanchado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Teoría información"
+        },
+        "001D04A03: Théorie de l'information / Information theory"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1999603"
+}

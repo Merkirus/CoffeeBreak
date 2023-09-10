@@ -1,0 +1,138 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Optical Threshold Layer and Intermediate State Two-Photon PAG Approaches to Double Exposure Lithography",
+    "dc:creator": [
+        "BERRO, Adam J",
+        "XINYU GU",
+        "GONZALEZ, Jose",
+        "TURRO, Nicolas J",
+        "WILLSON, C. Grant",
+        "O'CONNOR, Naphtali",
+        "JOCKUSCH, Steffen",
+        "NAGAI, Tomoki",
+        "OGATA, Toshiyuki",
+        "ZIMMERMAN, Paul",
+        "RICE, Bryan J",
+        "ADOLPH, Elizabeth",
+        "BYARGEON, Travis"
+    ],
+    "dc:contributor": [
+        "Henderson, Clifford L (Editor)",
+        "SPIE (Organiser of meeting)",
+        "International SEMATECH (Organiser of meeting)",
+        "Advances in resist materials and processing technology (26 ; San Jose CA 2009)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, Vol. 7273",
+        "Advances in resist materials and processing technology XXVI (23-25 February 2009, San Jose, California, United States)"
+    ],
+    "dc:date": "2009",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "72731B.1-72731B.10 ; 10 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Chaîne latérale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cristal liquide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lithographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode double exposition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sensibilisateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transfert énergie excitation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transfert énergie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0130C"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4282C"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "8540H"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Side chain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Liquid crystals"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lithography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Double exposure method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polymers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sensitizers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Excitation energy transfer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Energy transfer"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cadena lateral"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método doble exposición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transferencia energía excitación"
+        },
+        "001B00A30C: Actes de congrès / Conference proceedings",
+        "001D03F17: Fabrication microélectronique (technologie des matériaux et des surfaces) / Microelectronic fabrication (materials and surfaces technology)",
+        "001D03G02C1: Optique intégrée. Fibres et guides d'onde optiques / Integrated optics. Optical fibers and wave guides"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 21920456"
+}

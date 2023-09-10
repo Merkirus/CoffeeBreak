@@ -1,0 +1,102 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Electrostatic fields above individual atoms",
+    "dc:creator": [
+        "SUCHORSKI, YU",
+        "SCHMIDT, W. A",
+        "ERNST, N",
+        "BLOCK, J. H",
+        "KREUZER, H. J"
+    ],
+    "dc:contributor": [
+        "STESLICKA, Maria (Editor)",
+        "University of Wrocław ; Institute of Experimental Physics (Funder/Sponsor)",
+        "International seminar on surface physics (17 ; Kudowa 1994-06-11)"
+    ],
+    "dc:relation": [
+        "Progress in surface science -- Prog. surf. sci, CODEN PSSFBP, ISSN 0079-6816, Vol. 48 (1-4) , pp. 121-134",
+        "International seminar on surface physics"
+    ],
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "37 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Article synthèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Autocohérence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etat surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interaction électrostatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ionisation champ"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microscopie ionique émission champ"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reviews"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Self consistency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface states"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrostatic interaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Field ionization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Field ion microscopy"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Autocoherencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interacción electrostática"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Microscopía iónica emisión campo"
+        },
+        "001B00G78: Microscopes électroniques, positoniques et ioniques, diffractomètres d'électrons et techniques associées / Electron, positron and ion microscopes, electron diffractometers and related techniques",
+        "001B70I70: Emission, ionisation, évaporation et désorption de champ / Field emission, ionization, evaporation, and desorption",
+        "0778:  / Electron, positron, and ion microscopes, electron diffractometers, and related techniques",
+        "7970:  / Field emission, ionization, evaporation, and desorption"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3532979"
+}

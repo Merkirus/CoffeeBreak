@@ -1,0 +1,45 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "AKTUALITAET DER ELEKTRONENSTRAHLHAERTUNG IN DER AUTOMOBILINDUSTRIE; ACTUALITE DU DURCISSEMENT PAR BOMBARDEMENT ELECTRIQUE DANS L'INDUSTRIE AUTOMOBILE",
+    "dc:creator": "KLEINTEICH B",
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "IND.-LACK.-BETR.; ISSN 0019-9109; DEU; DA. 1982; VOL. 50; NO 4; PP. 154-159; BIBL. 11 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PEINTURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DURCISSEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IRRADIATION ELECTRON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUSTRIE CHIMIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PAINT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HARDENING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL INDUSTRY"
+        },
+        "001D09: Physicochimie des polymeres / Physicochemistry of polymers"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL82X0217836"
+}

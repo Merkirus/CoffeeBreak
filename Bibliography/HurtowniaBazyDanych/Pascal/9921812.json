@@ -1,0 +1,164 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Modeling mineral aerosol production by wind erosion: Part 2. Field validation",
+    "dc:creator": [
+        "RAJOT, J. L",
+        "GOMES, L",
+        "ALFARO, S. C",
+        "GAUDICHET, A"
+    ],
+    "dc:relation": "Journal of aerosol science -- J. aerosol sci, CODEN JALSB7, ISSN 0021-8502, Vol. 31, pp. S428-S429",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "3 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Aérosol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé minéral"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Erosion éolienne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Poussière atmosphérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Zone semi aride"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aerosols"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inorganic compound"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wind erosion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Atmospheric dust"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Semi arid zone"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aerosol"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Compuesto inorgánico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Erosión eoliana"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polvo atmosférico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Zona semiárida"
+        },
+        "001E02D06: Particules et aérosols / Particles and aerosols"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Afrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Espagne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Niger"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sahel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Africa"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Niger"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sahel"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Africa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "España"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Niger"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sahel"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1510449"
+}

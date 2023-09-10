@@ -1,0 +1,387 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Provenance studies of obsidian artefacts from Armenian archaeological sites using the fission-track dating method",
+    "dc:creator": [
+        "CHATAIGNER, C",
+        "BADALIAN, R",
+        "BIGAZZI, G",
+        "CAUVIN, M.-C",
+        "JRBASHIAN, R",
+        "KARAPETIAN, S. G",
+        "NORELLI, P",
+        "ODDONE, M",
+        "POIDEVIN, J.-L"
+    ],
+    "dc:contributor": [
+        "CHAMPAGNON, B (Editor)",
+        "WEEKS, R. A (Editor)",
+        "Natural Glasses. International Conference (4 ; Villeurbanne 2002-08-29)"
+    ],
+    "dc:relation": [
+        "Journal of non-crystalline solids -- J. non-cryst. solids, CODEN JNCSBJ, ISSN 0022-3093, Vol. 323 (1-3) , pp. 167-171",
+        "Natural Glasses 4. Proceedings of the 4th International Conference on Glasses in Geosciences, Environmental Sciences and Archeometry"
+    ],
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "5 p. ; 15 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Asie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cénozoïque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Néogène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phanérozoïque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Quaternaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche ignée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche volcanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tertiaire sup"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tertiaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Verre volcanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Alluvion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Berge rivière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Datation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Galet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Industrie lithique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Obsidienne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Origine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pliocène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pléistocène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Préhistoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trace fission"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Volcanisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Provenance matière première"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Site préhistorique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cenozoic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neogene"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phanerozoic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quaternary"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "igneous rocks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "volcanic rocks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "upper Tertiary"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tertiary"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "volcanic glass"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "alluvium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "River banks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "dating"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "pebbles"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prehistoric artefacts"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "obsidian"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "provenance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pliocene"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pleistocene"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prehistory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "fission tracks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "volcanism"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cenozoico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Neógeno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fanerozoico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuaternario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Roca ignea"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Roca volcánica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Terciario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vidrio volcánico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aluvión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Orilla del río"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fechado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Canto rodado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Artefacto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Obsidiana"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Origen"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Plioceno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Traza fisión"
+        },
+        "001E01C02: Géochronologie / Geochronology",
+        "001E01F01: Pétrologie des roches ignées et métamorphiques, phénomènes volcaniques, magmas / Igneous and metamorphic rocks petrology, volcanic processes, magmas",
+        "001E01P02: Quaternaire marin et continental / Marine and continental quaternary"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe Est"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Moyen Orient"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Arménie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "République Géorgie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transcaucasie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Turquie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Eastern Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Middle East"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Armenia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Georgian Republic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transcaucasia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Turkey"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa del Este"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Oriente Medio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Armenia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "República Georgia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transcaucasia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Turquía"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15034847"
+}

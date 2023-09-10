@@ -1,0 +1,57 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "LITERATURPROPAGANDA IN STAATLICHEN ALLGEMEINBIBLIOTHEKEN.; PROPAGANDE POUR LA LITTERATURE DANS LES BIBLIOTHEQUES GENERALES D'ETAT",
+    "dc:creator": "JONZECK M",
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "BIBLIOTHEKAR; DDR; DA. 1978; VOL. 32; NO 4; PP. 292-293; BIBL. 6 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "BIBLIOTHEQUE PUBLIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIFFUSION INFORMATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ASPECT POLITIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALLEMAGNE(REPUBLIQUE DEMOCRATIQUE)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCE INFORMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PUBLIC LIBRARY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFORMATION DISSEMINATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLITICAL ASPECT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EAST GERMANY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFORMATION SCIENCE"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7930062629"
+}

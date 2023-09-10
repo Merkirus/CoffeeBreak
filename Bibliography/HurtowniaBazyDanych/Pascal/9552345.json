@@ -1,0 +1,257 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Increases in hyperactive-impulsive symptoms predict relapse among smokers in nicotine replacement therapy",
+    "dc:creator": [
+        "RUKSTALIS, Margaret",
+        "JEPSON, Christopher",
+        "PATTERSON, Freda",
+        "LERMAN, Caryn"
+    ],
+    "dc:relation": "Journal of substance abuse treatment -- J. subst. abuse treat, ISSN 0740-5472, Vol. 28 (4) , pp. 297-304",
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "8 p. ; 44 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Alcaloïde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Arrêt"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur prédictif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fumeur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hyperactivité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Impulsivité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nicotine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pronostic"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Récidive"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé publique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sevrage toxique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tabac"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tabagisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Toxicomanie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement substitutif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble attention"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble de l'attention avec hyperactivité"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Alkaloid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Shutdown"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Predictive factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Smoker"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hyperactivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Impulsivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nicotine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prognosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Relapse"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Poison withdrawal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tobacco"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tobacco smoking"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Drug addiction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Replacement therapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Attentional disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Attention disorder with hyperactivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ADHD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hyperactive"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Impulsive"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inattention"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Smoking cessation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alcaloide"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Parada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor predictivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fumador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hiperactividad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Impulsividad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nicotina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pronóstico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Recaida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud pública"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Destete tóxico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tabaco"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tabaquismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Toxicomanía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento sustitutivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno atención"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno por déficit de atención e hiperactividad"
+        },
+        "002B18C05C: Tabagisme / Tobacco smoking",
+        "002B18I15: Désintoxication. Sevrage toxique / Desintoxication. Drug withdrawal",
+        "770-: Psychologie. Psychanalyse. Psychiatrie / Psychology. Psychoanalysis. Psychiatry",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16925796"
+}

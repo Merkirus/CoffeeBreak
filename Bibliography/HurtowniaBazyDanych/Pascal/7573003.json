@@ -1,0 +1,141 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Des mots pour inventorier, ordonner, montrer : A propos du musée de Guéret : Observer nommer classer; The words to inventory, order, arrange, show: The Guéret museum : Observing, naming, classifying",
+    "dc:creator": "PINTON, Solange",
+    "dc:relation": "Homme (Paris. 1961) -- Homme (Paris. 1961), ISSN 0439-4216, Vol. 153, pp. 75-91",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Ecole des hautes études en sciences sociales",
+    "dc:format": [
+        "print",
+        "9 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Archéologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Art"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Classification"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Collection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Musée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Muséographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Muséologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nomination"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Taxinomie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Curiosa"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Histoire naturelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Musée de la Sénatorerie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Archeology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Art"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Classification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Collection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Museum"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Museography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Museology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Naming"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Taxinomy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Natural history"
+        },
+        "529-: Ethnologie / Ethnology",
+        "529-1: Etudes générales / General studies",
+        "529-6: Musées, expositions, collections / Museums, exhibitions, collections"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Creuse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe occidentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Creuse"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Western Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1168504"
+}

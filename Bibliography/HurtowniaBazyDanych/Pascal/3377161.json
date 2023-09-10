@@ -1,0 +1,45 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "VARIATION AND METABOLISM OF ABSCISIC ACID IN PEA SEEDLINGS DURING AND AFTER WATER STRESS; VARIATIONS ET METABOLISME DE L'ACIDE ABSCISSIQUE DANS LES PLANTULES DE POIS PENDANT ET APRES UN DEFICIT DE PRESSION HYDRIQUE",
+    "dc:creator": [
+        "DOERFFLING K",
+        "SONKA B",
+        "TIETZ D"
+    ],
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "PLANTA; ALLEM.; DA. 1974; VOL. 121; NO 1; PP. 57-66; BIBL. 22REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PISUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DICOTYLEDONES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EAU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FACTEUR CROISSANCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOLOGIE VEGETALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PLANT BIOLOGY"
+        },
+        "002A10: Physiologie vegetale et developpement / Plant physiology and development"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7537004898"
+}

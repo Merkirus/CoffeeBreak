@@ -1,0 +1,318 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Plasticité cérébrale et mémoire corporelle. Et le psycho-affectif ...?",
+    "dc:contributor": "SAINT-CAST, Alexandrine (Author of introductory parts)",
+    "dc:relation": "Evolutions psychomotrices (Paris) -- Evol. psychomot. (Paris), ISSN 1157-1039 (81)",
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Serial Issue"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Fédération européenne de psychomotricité",
+    "dc:format": [
+        "print",
+        "48 p. ; dissem"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Encéphale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Maladie dégénérative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie de l'encéphale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie du système nerveux central"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie du système nerveux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Syndrome extrapyramidal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système nerveux central"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble du développement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Image corporelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Maladie de Parkinson"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mémoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Postopératoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Psychomotricité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Relation soignant soigné"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Relaxation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réadaptation physique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rééducation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thérapie psychomotrice"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble de la psychomotricité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble envahissant du développement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vécu corporel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plasticité cérébrale"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Encephalon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Degenerative disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cerebral disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central nervous system disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nervous system diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Extrapyramidal syndrome"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central nervous system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Developmental disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Body image"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Parkinson disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Memory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Postoperative"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Psychomotricity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Health staff patient relation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Relaxation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Physical rehabilitation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reeducation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Psychomotor therapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Psychomotor disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pervasive developmental disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Body experience"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Brain plasticity"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Encéfalo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enfermedad degenerativa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Encéfalo patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervosio central patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Extrapiramidal síndrome"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso central"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno desarrollo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Imagen corporal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Parkinson enfermedad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Memoria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Postoperatorio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Psicomotricidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Relación equipo de saludad familia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Relajación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Readaptación física"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reeducación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Terapia psicomotriz"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno psicomotriz"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Disturbio invasor del desarrollo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vivencia corporal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Plasticidad cerebral"
+        },
+        "002A26D04: Activités psychomotrices / Psychomotor activities",
+        "002B18I16: Divers / Miscellaneous",
+        "770-B: Psychologie. Psychophysiologie / Psychology. Psychophysiology",
+        "770-B04D: Activités psychomotrices / Psychomotor activities",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry",
+        "770-D09P: Divers / Miscellaneous"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 22048834"
+}

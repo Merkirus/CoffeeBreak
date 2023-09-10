@@ -1,0 +1,139 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Is drug coverage a free lunch ? Cross-price elasticities and the design of prescription drug benefits",
+    "dc:creator": [
+        "GAYNOR, M",
+        "LI, J",
+        "VOGT, W.B",
+        "National Bureau of Economic Research. (N.B.E.R.). Cambridge. MA"
+    ],
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Book"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "NBER",
+    "dc:format": [
+        "print",
+        "58 p. ; dissem"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Consommation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dépense"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Médicament"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Paiement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prescription"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prix"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Consumption"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Expenditure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Drug"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Payment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prescription"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Price"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Consumo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gasto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medicamento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pago"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prescripción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Precio"
+        },
+        "002B30A11: Divers / Miscellaneous"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats Unis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estados Unidos"
+        }
+    ],
+    "dc:rights": [
+        "Banque de données en santé publique - Ecole des hautes études en santé publique (BDSP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18577951"
+}

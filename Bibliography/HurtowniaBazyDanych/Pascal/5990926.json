@@ -1,0 +1,243 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The first Polish steps towards the world information industry",
+    "dc:creator": "GOGOLEK, W",
+    "dc:contributor": [
+        "Raitt, David I (Editor)",
+        "Jeapes, Ben (Editor)",
+        "Learned Information (Europe) (Organiser of meeting)",
+        "International online information meeting(18 ; (Londres) 1994-12-06)"
+    ],
+    "dc:relation": "Online information 94 (London, 6-8 December 1994)",
+    "dc:date": "1994",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Learned Information",
+        "Learned Information"
+    ],
+    "dc:format": [
+        "print",
+        "21 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Article synthèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Base donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Développement industriel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "En ligne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etat actuel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Implémentation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Industrie information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interconnexion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Obstacle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Producteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau international"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Service information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Télécommunication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Infrastructure information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Marché information"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Review"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Database"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Industrial development"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "On line"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "State of the art"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Implementation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information industry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interconnection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Obstacle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Producer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information network"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "International network"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information service"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Telecommunication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information infrastructure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information market"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Artículo síntesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Base dato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "En línea"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estado actual"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ejecución"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Industria información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interconección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Obstáculo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Productor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red internacional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Servicio información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Telecomunicación"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation",
+        "001A01A06A: Aspects politiques : coopération, coordination, normalisation / Political aspects : cooperation, coordination, standardization",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-B: Sciences de l'information et des bibliothèques. Etude d'ensemble / Library and information science. General aspects"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pologne"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Poland"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polonia"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3708970"
+}

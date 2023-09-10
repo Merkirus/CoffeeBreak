@@ -1,0 +1,60 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A PROCEDURE FOR ISOLATION AND CONCENTRATION OF CATECHOLS BY CHROMATOGRAPHY ON DIHYDROXYBORYL CELLULOSE",
+    "dc:creator": [
+        "SUGUMARAN M",
+        "LIPKE H"
+    ],
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "ANAL. BIOCHEM.; ISSN 0003-2697; USA; DA. 1982; VOL. 121; NO 2; PP. 251-256; BIBL. 21 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOCHIMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CALMODULIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PLATELET"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PLASMA MEMBRANE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CALMODULIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BINDING PROTEIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CALCIUM IONS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ACTIVATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOCHEMISTRY"
+        },
+        "002A02: Biochimie analytique, structurale et metabolique / Analytical, structural and metabolic biochemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0074229"
+}

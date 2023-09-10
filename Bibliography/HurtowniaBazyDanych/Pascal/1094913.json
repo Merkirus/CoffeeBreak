@@ -1,0 +1,202 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "COHERENT STIMULATED LIGHT EMISSION (LASING) IN COVALENTLY LINKED CHLOROPHYLL DIMERS",
+    "dc:creator": [
+        "HINDMAN JC",
+        "KUGEL R",
+        "WASIELEWSKI MR",
+        "KATZ JJ"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "PROC. NATION. ACAD. SCI. U.S.A.; USA; DA. 1978; VOL. 75; NO 5; PP. 2076-2079; BIBL. 14 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "SOLVANT ORGANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHLOROPHYLLE A"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONFIGURATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONFORMATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETAT EXCITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LASER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FLUORESCENCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE ABSORPTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DUREE VIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETAT TRIPLET"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIMERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MONOMERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE OPTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACETONE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PYRIDINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLYETHANEDIOL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BENZENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TOLUENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PYROCHLOROPHYLLE A"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHLOROPHYLLE DIMERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EXCIMERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LIAISON COVALENTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOPHYSIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORGANIC SOLVENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHLOROPHYLL A"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONFIGURATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONFORMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXCITED STATE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LASER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FLUORESCENCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ABSORPTION SPECTROMETRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ABSORPTION SPECTROSCOPY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIFETIME"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TRIPLET STATE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIMER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MONOMER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPTICAL SPECTROMETRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPTICAL SPECTROSCOPY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ACETONE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PYRIDINE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BENZENE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TOLUENE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXCIMER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COVALENT BOND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOPHYSICS"
+        },
+        "002A02: Biochimie analytique, structurale et metabolique / Analytical, structural and metabolic biochemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7950139468"
+}

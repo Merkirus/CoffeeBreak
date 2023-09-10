@@ -1,0 +1,138 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A study of novel anode material CoS2 for lithium ion battery",
+    "dc:creator": [
+        "YAN, J. M",
+        "HUANG, H. Z",
+        "ZHANG, J",
+        "LIU, Z. J",
+        "YANG, Y"
+    ],
+    "dc:contributor": [
+        "TAKEDA, Y (Editor)",
+        "YAMAKI, J (Editor)",
+        "OGUMI, Z (Editor)",
+        "Electrochemical Society (Organiser of meeting)",
+        "Electrochemical Society of Japan. Committee of Battery Technology (Organiser of meeting)",
+        "IMLB-12 International Meeting on Lithium Batteries (12 ; Nara 2004-06-27)"
+    ],
+    "dc:relation": [
+        "Journal of power sources -- J. power sources, CODEN JPSODZ, ISSN 0378-7753, Vol. 146 (1-2) , pp. 264-269",
+        "Selected papers presented at the 12th International Meeting on Lithium Batteries"
+    ],
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Sequoia",
+    "dc:format": [
+        "print",
+        "6 p. ; 19 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Accumulateur électrochimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Anode"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Batterie lithium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cobalt sulfure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffraction RX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau électrode"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure cristalline"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Secondary cell"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Anode"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lithium battery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cobalt sulfide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "X ray diffraction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrode material"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Crystalline structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Anode material"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CoS2"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cobalt disulfide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lithium ion batteries"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acumulador electroquímico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anodo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cobalto sulfuro"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Difracción RX"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Material electrodo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estructura cristalina"
+        },
+        "001D05I03E: Conversion électrochimique: piles et accumulateurs électrochimiques, piles à combustibles / Electrochemical conversion: primary and secondary batteries, fuel cells"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17169600"
+}

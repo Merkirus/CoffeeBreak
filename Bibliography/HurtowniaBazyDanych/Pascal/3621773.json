@@ -1,0 +1,61 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "COLONNES ARTICULEES POUR CHARGEMENT EN MER; ARTICULATE COLUMN FOR SEA LOADING",
+    "dc:creator": "TUSON S",
+    "dc:date": "1979",
+    "dc:type": "Conference Paper",
+    "dc:language": "French",
+    "dc:format": "GENIE CIVIL ET DEVELOPPEMENT ECONOMIQUE ET SOCIAL. CONGRES INTERNATIONAL/1979/PARIS; FRA; MONTLIGEON: IMPR. DE MONTLIGEON; DA. 1979; VOL. 1; PP. 159-184",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSPORT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PETROLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TANKER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHARGEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COLONNE ARTICULEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TRANSPORT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PETROLEUM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TANKER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LOADING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY"
+        },
+        "001D06: Energie / Energy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8070173658"
+}

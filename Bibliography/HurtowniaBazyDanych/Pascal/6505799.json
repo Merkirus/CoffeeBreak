@@ -1,0 +1,115 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Trends in radiation protection: possible effects on fusion power plant design",
+    "dc:creator": [
+        "EURAJOKI, Tapani",
+        "FRIAS, Manuel Pascual",
+        "ORLANDI, Sergio"
+    ],
+    "dc:contributor": [
+        "TÄHTINEN, Seppo (Editor)",
+        "ASIKAINEN, Merja (Editor)",
+        "RINTAMAA, Rauno (Editor)",
+        "TUOMISTO, Harri (Editor)",
+        "SOFT-22 Symposium on Fusion Technology (22 ; Helsinki 2002-09-09)"
+    ],
+    "dc:relation": [
+        "Fusion engineering and design -- Fusion eng. des, CODEN FEDEEE, ISSN 0920-3796, Vol. 69 (1-4) , pp. 621-624",
+        "Proceedings of the 22nd Symposium on Fusion Technology (SOFT-22), Helsinki, Finland, September 9-13, 2002. Part B"
+    ],
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Elsevier Science",
+        "Elsevier Science"
+    ],
+    "dc:format": [
+        "print",
+        "4 p. ; 7 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Dose rayonnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet rayonnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Protection rayonnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réacteur fusion nucléaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réglementation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiation dose"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiation effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiation protection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nuclear fusion reactor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Regulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fusion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Power plants"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiation protection"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dosis irradiación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efecto radiación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Protección radiación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reactor fusión nuclear"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reglamentación"
+        },
+        "001D06: Energie / Energy",
+        "001D06D04E: Centrales nucléaires à fusion / Controled nuclear fusion plants"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15113730"
+}

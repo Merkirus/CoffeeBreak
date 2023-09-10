@@ -1,0 +1,150 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Learning from the success of MPI",
+    "dc:creator": "GROPP, William D",
+    "dc:contributor": [
+        "Monien, Burkhard (Editor)",
+        "Prasanna, Viktor K (Editor)",
+        "Sriram Vajapeyam (Editor)",
+        "High performance computing. International conference (8 ; Hyderabad 2001-12-17)"
+    ],
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 81-92",
+        "HiPC 2001 : high performance computing (Hyderabad, 17-20 december 2001)"
+    ],
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "29 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Apprentissage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Envoi message"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation performance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Haute performance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Intelligence artificielle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Parallélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Parallélisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Performance programme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Programmation parallèle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Programme parallèle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Learning"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Message passing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Performance evaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High performance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Artificial intelligence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Parallelization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Parallelism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Program performance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Parallel programming"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Parallel program"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aprendizaje"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evaluación prestación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alto rendimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inteligencia artificial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Paralelisacíon"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Paralelismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Eficacia programa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Programación paralela"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Programa paralelo"
+        },
+        "001D02A05: Algorithmique. Calculabilité. Arithmétique ordinateur / Algorithmics. Computability. Computer arithmetics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14049927"
+}

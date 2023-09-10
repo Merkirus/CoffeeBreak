@@ -1,0 +1,33 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Highly scalable on-line payments via task decoupling",
+    "dc:creator": "KRAVITZ, D. W",
+    "dc:contributor": [
+        "Hirschfeld, Rafael (Editor)",
+        "Financial cryptography. International conference (1 ; Anguilla 1997-02-24)"
+    ],
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 355-373",
+        "FC '97 : financial cryptography (Anguilla, February 24-28, 1997)"
+    ],
+    "dc:date": "1997",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Springer-Verlag",
+        "Springer-Verlag"
+    ],
+    "dc:format": [
+        "print",
+        "9 ref"
+    ],
+    "dc:subject": "001D04A04E: Cryptographie / Cryptography",
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2041931"
+}

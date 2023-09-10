@@ -1,0 +1,114 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DESIGN FEATURES OF A REAL-TIME ELECTROCARDIOGRAPHIC MONITORING SYSTEM",
+    "dc:creator": [
+        "VEREEKE D",
+        "HAYWOOD LJ",
+        "SALTZBERG S",
+        "HARVEY G"
+    ],
+    "dc:date": "1972",
+    "dc:type": "Conference Proceedings",
+    "dc:language": "English",
+    "dc:format": "IN: ASSOC. COMPUT. MACH. ANN. CONF. PROC. BOSTON, 1972; NEW YORK; ASSOC. COMPUT. MACH.; DA. 1972; VOL. 1; PP. 192-198; BIBL. 10 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES MEDICALES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TEMPS REEL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SYSTEME INFORMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONCEPTION SYSTEME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRAITEMENT ANALOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ECHANTILLONNAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INFORMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "APPLICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROCARDIOGRAMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROCARDIOGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARDIOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AIDE DIAGNOSTIC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EXPLORATION APPAREIL CARDIOVASCULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SURVEILLANCE AUTOMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE AUTOMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRAITEMENT DONNEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INFORMATIQUE MEDICALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INFORMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATHEMATIQUES APPLIQUEES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INFORMATIQUE BIOMEDICALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COMPUTER SCIENCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "APPLIED MATHEMATICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOMEDICAL COMPUTER APPLICATIONS"
+        },
+        "001A02: Mathematiques / Mathematics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7311011758"
+}

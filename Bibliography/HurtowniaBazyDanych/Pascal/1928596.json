@@ -1,0 +1,77 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ISOMORPHISM IN CRITICAL PHENOMENA",
+    "dc:creator": "GLUCK P",
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "CHEM. PHYS. LETTERS; NLD; DA. 1979; VOL. 61; NO 2; PP. 331-332; BIBL. 5 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPRIETE THERMODYNAMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FONCTION THERMODYNAMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHENOMENE CRITIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETAT LIQUIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "THEORIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE SOLIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THERMODYNAMIC PROPERTIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THERMODYNAMIC FUNCTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CRITICAL PHENOMENON"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIQUID STATE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIELECTRIC MATERIALS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THEORY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THEORETICAL STUDIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID PHYSICS"
+        },
+        "001B60: Etat condense: structure, proprietes mecaniques et thermiques / Condensed matter: structure, mechanical and thermal properties"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7930419170"
+}

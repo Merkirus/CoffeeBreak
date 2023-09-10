@@ -1,0 +1,53 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SCHWINGUNGSDAEMPFUNG DURCH FUGENVERBINDUNGEN; AMORTISSEMENT DES VIBRATIONS DES JOINTS D'ASSEMBLAGE",
+    "dc:creator": "BRENDEL H",
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "IND.-ANZ.; ISSN 0019-9036; DEU; DA. 1982; VOL. 104; NO 8; PP. 23-24",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ASSEMBLAGE VISSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE CALCUL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AMORTISSEMENT VIBRATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "JOINT ASSEMBLAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUSTRIE MECANIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THREADED JOINT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CALCULATING METHOD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VIBRATION DAMPING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MECHANICAL ENGINEERING"
+        },
+        "001D12: Genie mecanique. Construction mecanique / Mechanical engineering. Machine design"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL82X0109561"
+}

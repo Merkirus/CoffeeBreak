@@ -1,0 +1,44 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "BREVET 2.260.763 (A1) (7504214). - 11 FEVRIER 1975. PROCEDE ET APPAREIL POUR LA FABRICATION DE NEIGE.",
+    "dc:creator": "BURNS JR. (SAMUEL L.).",
+    "dc:date": "sd",
+    "dc:type": "Patent",
+    "dc:language": "French",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "FROID"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TECHNOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROCEDE FABRICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NEIGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIVERS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY"
+        },
+        "001D06: Energie / Energy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7670085219"
+}

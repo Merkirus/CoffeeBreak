@@ -1,0 +1,86 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Unoccupied electronic states in polythiophene as probed by XAS and RAS",
+    "dc:creator": [
+        "IKEURA-SEKIGUCHI, Hiromi",
+        "SEKIGUCHI, Tetsuhiro"
+    ],
+    "dc:contributor": [
+        "PIREAUX, Jean-Jacques (Editor)",
+        "WATTS, John F (Editor)",
+        "Belgian University (Organiser of meeting)",
+        "Université de Louvain (Organiser of meeting)",
+        "Vrije Universiteit Brussel (Organiser of meeting)",
+        "Université Libre de Bruxelles (Organiser of meeting)",
+        "European Conference on Applications of surface and Interface Analysis (12 ; Brussels 2007-09-09)"
+    ],
+    "dc:relation": [
+        "Surface and interface analysis -- Surf. interface anal, CODEN SIANDQ, ISSN 0142-2421, Vol. 40 (3-4) , pp. 673-675",
+        "Papers Presented at ECASIA'07. Proceedings of the 12th European Conference on Applications of surface and Interface Analysis, 9-14 September 2007, Brussels, Belgium"
+    ],
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Wiley",
+    "dc:format": [
+        "print",
+        "3 p. ; 16 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectre absorption RX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectrométrie Auger"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure électronique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "X-ray absorption spectra"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "X-ray absorption spectroscopy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "bithiophene"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "polythiophene"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "resonant Auger spectroscopy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "terthiophene"
+        },
+        "001B60: Etat condense: structure, proprietes mecaniques et thermiques / Condensed matter: structure, mechanical and thermal properties",
+        "001B70: Etat condense: structure electronique, proprietes electriques, magnetiques et optiques / Condensed matter: electronic structure, electrical, magnetic, and optical properties",
+        "001B80: Domaines interdisciplinaires: science des materiaux; rheologie / Cross-disciplinary physics: materials science; rheology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20361422"
+}

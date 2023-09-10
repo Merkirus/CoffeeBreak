@@ -1,0 +1,62 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DIAGNOSI PRENATALE DI SESSO; DIAGNOSTIC ANTENATAL DU SEXE FOETAL",
+    "dc:creator": [
+        "MASSO BRIO M",
+        "BORGNO G",
+        "COPPO F",
+        "CARBONARA A"
+    ],
+    "dc:date": "1972",
+    "dc:type": "Article",
+    "dc:language": "Italian",
+    "dc:format": "MINERVA GINECOL.; ITAL.; DA. 1972; VOL. 24; NO 11; PP. 559-565; ABS. ANGL.; BIBL. 1 P.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "FOETUS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DETERMINATION SEXE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AMNIOCENTESE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHROMOSOME Y"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CORPUSCULE BARR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TECHNIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EXPLORATION GENETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "APPLICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REPRODUCTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REPRODUCTION"
+        },
+        "002A29: Vertebres: reproduction / Vertebrates: reproduction"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7336110108"
+}

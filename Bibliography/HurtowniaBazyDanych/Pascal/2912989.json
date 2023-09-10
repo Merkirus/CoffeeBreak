@@ -1,0 +1,83 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SUPPORTS FOR REVERSE-PHASE HIGH-PERFORMANCE LIQUID CHROMATOGRAPHY OF LARGE PROTEINS",
+    "dc:creator": [
+        "LEWIS RV",
+        "FALLON A",
+        "STEIN S",
+        "GIBSON KD",
+        "UDENERIEND S"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "ANAL. BIOCHEM.; USA; DA. 1980; VOL. 104; NO 1; PP. 153-159; BIBL. 12 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PROTEINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SUPPORT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHROMATOGRAPHIE PHASE LIQUIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MACROMOLECULE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PREPARATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PURIFICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHASE INVERSEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHROMATOGRAPHIE HPL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOCHIMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PROTEINS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIQUID CHROMATOGRAPHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MACROMOLECULE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PREPARATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PURIFICATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOCHEMISTRY"
+        },
+        "002A02: Biochimie analytique, structurale et metabolique / Analytical, structural and metabolic biochemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8110084653"
+}

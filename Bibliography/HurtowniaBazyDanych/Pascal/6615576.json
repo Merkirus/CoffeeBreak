@@ -1,0 +1,270 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "CPP-GMR heads with a current screen layer for high areal density",
+    "dc:creator": [
+        "KATADA, H",
+        "NAKAMOTO, K",
+        "WATANABE, K",
+        "IKEDA, Y",
+        "MEGURO, K",
+        "HOSHIYA, H",
+        "HOSHINO, K",
+        "YOSHIDA, N",
+        "SHIIMOTO, M",
+        "SATO, Y",
+        "TAKAZAWA, H",
+        "YASUI, K",
+        "HATATANI, M"
+    ],
+    "dc:contributor": [
+        "HOMMA, Takayuki (Editor)",
+        "ASAHI, Toru (Editor)",
+        "Perpendicular Magnetic Recording Conference (PMRC 2007) (8 ; Tokyo 2007-10-15)"
+    ],
+    "dc:relation": [
+        "Journal of magnetism and magnetic materials -- J. magn. magn. mater, CODEN JMMMDC, ISSN 0304-8853, Vol. 320 (22) , pp. 2975-2979",
+        "Selected papers from the eighth Perpendicular Magnetic Recording Conference (PMRC 2007)"
+    ],
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "5 p. ; 15 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Anisotropie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bruit fond"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Capteur mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Couche oxyde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Densité enregistrement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Densité élevée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dispositif magnétorésistif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet écran"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Magnétorésistance géante"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nanotechnologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Radium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rapport signal bruit"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tête lecture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tête magnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0707D"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ra"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Anisotropy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Background noise"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measurement sensor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oxide layer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Recording density"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High density"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetoresistive device"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Shielding effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Giant magnetoresistance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nanotechnology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Signal to noise ratio"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Read head"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetic head"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "72.25.Pn"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "72.70.+m"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "75.47.De"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "85.70.Kh"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CPP-GMR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Confined current path"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Current screen layer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nano-oxide layer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Read head"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Read sensor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Resistance distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spin-torque"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anisotropía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ruido fondo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Captador medida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Capa óxido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Densidad grabación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Densidad elevada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dispositivo magnetoresistivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efecto pantalla"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nanotecnología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Relación señal ruido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cabeza lectura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cabeza magnética"
+        },
+        "001B00G07D: Capteurs (chimiques, optiques, électriques, de mouvement, de gaz, etc.); télédétection / Sensors (chemical, optical, electrical, movement, gas, etc.); remote sensing",
+        "001B70E47D: Magnétorésistance géante / Giant magnetoresistance",
+        "001D03F12: Dispositifs magnétoélectriques, magnétostrictifs, magnétoacoustiques, magnétooptiques et magnétothermiques. Electronique de spin / Magnetoelectric, magnetostrictive, magnetoacoustic, magnetooptic and magnetothermal devices. Spintronics",
+        "001D03I03: Divers / Miscellaneous"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20846661"
+}

@@ -1,0 +1,56 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Verdi is the Puccini of Music",
+    "dc:creator": [
+        "WOODS, J",
+        "HUDAK, B"
+    ],
+    "dc:relation": "Synthese (Dordrecht) -- Synthese (Dordrecht), ISSN 0039-7857, Vol. 92 (2) , pp. 189-220",
+    "dc:date": "1992",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "1 p. 1/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analogie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phrase"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prédications analogiques"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vérité"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Analogy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sentence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Truth"
+        },
+        "519-10: Logique philosophique. Philosophie du Langage / Philosophical logics. Philosophy of language"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6097238"
+}

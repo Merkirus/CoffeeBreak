@@ -1,0 +1,235 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Validation of a portable instrument for assessing tremor severity in epidemiologic field studies",
+    "dc:creator": [
+        "LOUIS, E. D",
+        "YOUSEFZADEH, E",
+        "BARNES, L. F",
+        "QIPING YU",
+        "PULLMAN, S. L",
+        "WENDT, K. J"
+    ],
+    "dc:contributor": [
+        "Movement Disorder Society (Funder/Sponsor)",
+        "Inherited Ataxia. Focus Group Meeting (Seattle, Washington 1999-10-13)"
+    ],
+    "dc:relation": [
+        "Movement disorders -- Mov. disord, ISSN 0885-3185, Vol. 15 (1) , pp. 95-102",
+        "Inherited Ataxia. Focus Group Meeting"
+    ],
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Wiley",
+    "dc:format": [
+        "print",
+        "27 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Mouvement involontaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système nerveux pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble neurologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse quantitative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epidémiologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essentiel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fidélité test"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Indice gravité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Intervalle test retest"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Portatif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Psychométrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technique mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tremblement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Validation test"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Version revisée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Motor Steadiness Battery Klove Matthews"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Involuntary movement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nervous system diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neurological disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quantitative analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Epidemiology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Essential"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Test reliability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Severity score"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Intertrial interval"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Portable"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Psychometrics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measurement technique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tremor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Test validation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Revised drafting"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Movimiento involuntario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno neurológico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis cuantitativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Epidemiología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Esencial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fidelidad pruebra"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Indicio gravedad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Intervalo entre pruebas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Portátil"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Psicometría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Técnica medida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Temblor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Validación prueba"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Versión revisada"
+        },
+        "002B17A01: Système nerveux en général / Nervous system as a whole"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1227705"
+}

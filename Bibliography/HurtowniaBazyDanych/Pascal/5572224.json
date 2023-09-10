@@ -1,0 +1,288 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Perfect epitaxy of perovskite manganite for oxide spin-electronics",
+    "dc:creator": [
+        "KAWASAKI, M",
+        "IZUMI, M",
+        "KONISHI, Y",
+        "MANAKO, T",
+        "TOKURA, Y"
+    ],
+    "dc:contributor": [
+        "TOKURA, Yoshinori (Editor)",
+        "KUBO, Yoshimi (Editor)",
+        "IYE, Yasuhiro (Editor)",
+        "KAMIMURA, Hiroshi (Editor)",
+        "NEC Corporation (Funder/Sponsor)",
+        "NEC Symposium on Fundamental Approaches to New Material Phases: Phase Control in Spin-Charge-Orbital Complex Systems (7 ; Nasu 1998-10-11)"
+    ],
+    "dc:relation": [
+        "Materials science & engineering. B, Solid-state materials for advanced technology -- Mater. sci. eng., B, Solid-state mater. adv. technol, ISSN 0921-5107, Vol. 63 (1-2) , pp. 49-57",
+        "Proceedings of the 7th NEC Symposium on Fundamental Approaches to New Material Phases: Phase Control in Spin-Charge-Orbital Complex Systems, October 11-15, 1998, Nasu, Japan"
+    ],
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "21 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé minéral"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lanthanide composé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métal transition composé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Application"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé quaternaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Couche mince"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dispositif magnétorésistif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dépôt laser"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epitaxie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fer oxyde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lanthane Manganite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lanthane oxyde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Laser pulsé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Magnétorésistance géante"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau antiferromagnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau ferromagnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mode opératoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mécanisme croissance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optimisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Perfection cristalline"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Strontium Manganite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Strontium oxyde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Superréseau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Terminaison surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fe La O Sr"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "La Mn O Sr"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "La0,6Sr0,4FeO3"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "La0,6Sr0,4MnO3"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Substrat SrTiO3"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inorganic compounds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rare earth compounds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transition element compounds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Application"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quaternary compounds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thin films"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetoresistive devices"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laser deposition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Epitaxy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Iron oxides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lanthanum Manganites"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lanthanum oxides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pulsed lasers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Giant magnetoresistance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antiferromagnetic materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ferromagnetic materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Operating mode"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Growth mechanism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optimization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Crystal perfection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Strontium Manganites"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Strontium oxides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Superlattices"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface termination"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aplicación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Manganito"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método operatorio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mecanismo crecimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Perfección cristalina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Manganito"
+        },
+        "001B70E47G: Magnétorésistance colossale / Colossal magnetoresistance",
+        "001B80A15F: Dépôt par faisceau laser / Laser deposition",
+        "8115F:  / Laser deposition"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1874443"
+}

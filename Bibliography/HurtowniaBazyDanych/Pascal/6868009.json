@@ -1,0 +1,199 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Ein Beitrag zur geochemischen Faziesdiagnostik devonischer Riffkarbonate im östlichen Rhenoherzynikum (Elbingeröder Komplexe, Harz)",
+    "dc:creator": "OESTERREICH, Beatrice",
+    "dc:contributor": "International Workshop of the Filchner-Ronne Ice Shelf Programme <7, 1992, Senden> (1992-06-25)",
+    "dc:relation": [
+        "Zeitschrift für geologische Wissenschaften -- Z. geol. Wiss, ISSN 0303-4534, Vol. 20 (3) , pp. 259-263",
+        "International Workshop of the Filchner-Ronne Ice Shelf Programme <7, 1992, Senden> (1992-06-25)"
+    ],
+    "dc:date": "1992",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "German",
+    "dc:publisher": "Akademie-Verlag",
+    "dc:format": [
+        "print",
+        "Table ; 15ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Primaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche carbonatée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche sédimentaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Calcaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dévonien"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Harz"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lithofaciès"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Magnésium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microfaciès"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Récif"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Paleozoic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "carbonate rocks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "sedimentary rocks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "chemical composition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "limestone"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Devonian"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Harz Mountains"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "lithofacies"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "magnesium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "microfacies"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "reefs"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Primario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Roca carbonatada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Roca sedimentaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis químico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Calcáreo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Devónico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Harz"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Litofácies"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Magnesio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Microfisionomia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arrecife"
+        },
+        "001E01G01: Pétrologie des roches sédimentaires sauf quaternaires / Petrology of sedimentary rocks except quaternary rocks"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Allemagne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Saxe Anhalt"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Germany"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Saxony-Anhalt"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alemania"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sajonia Anhalt"
+        }
+    ],
+    "dc:rights": [
+        "Bundesanstalt für Geowissenschaften und Rohstaffe (BGR)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6486695"
+}

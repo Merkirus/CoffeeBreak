@@ -1,0 +1,302 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Adolescent Motherhood and Developmental Outcomes of Children in Early Head Start: The Influence of Maternal Parenting Behaviors, Well-Being, and Risk Factors Within the Family Setting",
+    "dc:creator": [
+        "RAFFERTY, Yvonne",
+        "GRIFFIN, Kenneth W",
+        "LODISE, Michelle"
+    ],
+    "dc:relation": "American journal of orthopsychiatry -- Am. j. orthopsychiatr, CODEN AJORAG, ISSN 0002-9432, Vol. 81 (2) , pp. 228-245",
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Wiley",
+    "dc:format": [
+        "print",
+        "18 p. ; 3 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Cognition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Environnement social"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Langage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Age préscolaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bien-être"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Comportement maternel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Comportement parental"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Développement cognitif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Développement verbal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enfant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude longitudinale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur risque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu familial"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mère adolescente"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nourrisson"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Précoce"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé mentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé publique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cognition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Social environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Language"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Preschool age"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Well being"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Maternal behavior"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Parental behavior"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cognitive development"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Language development"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Child"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Follow up study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Risk factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Family environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adolescent mother"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Early"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mental health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public health"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cognición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contexto social"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lenguaje"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Edad preescolar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bienestar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conducta materna"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conducta parental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desarrolo cognitivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desarrollo verbal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Niño"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio longitudinal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor riesgo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio familiar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Madre adolescente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lactante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Precoz"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud mental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud pública"
+        },
+        "002A26J03A: Nouveau-né. Nourrisson / Newborn. Infant",
+        "002A26J03B: Enfant / Child",
+        "002B18H07: Milieu familial. Histoire familiale / Family environment. Family history",
+        "770-B: Psychologie. Psychophysiologie / Psychology. Psychophysiology",
+        "770-B10C01: Nouveau-né. Nourrisson / Newborn. Infant",
+        "770-B10C02: Enfant / Child",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry",
+        "770-D08G: Milieu familial. Histoire familiale / Family environment. Family history"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats-Unis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estados Unidos"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 24182480"
+}

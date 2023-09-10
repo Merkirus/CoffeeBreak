@@ -1,0 +1,85 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ETUDE COMPARATIVE D'ARGILES NATURELLES ET DE L'ARGILE SYNTHETIQUE LAPONITE",
+    "dc:creator": [
+        "RODIONOVA GP",
+        "PERMINOV AA",
+        "SMIRNOV NS"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "STEKLO I KERAM.; SUN; DA. 1978; NO 12; PP. 28-29",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ARGILE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EMAIL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FABRICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BARBOTINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ADDITIF"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MAGNESIUM SILICATE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSITION CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MINERAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUSTRIE CHIMIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CLAY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENAMEL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PARGET"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ADDITIVE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MAGNESIUM SILICATE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL COMPOSITION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL INDUSTRY"
+        },
+        "001D07: Genie chimique / Chemical engineering"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7960190123"
+}

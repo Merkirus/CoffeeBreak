@@ -1,0 +1,140 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Photosynthesis, photorespiration, and light signalling in defence responses",
+    "dc:creator": [
+        "KANGASJÄRVI, Saijaliisa",
+        "NEUKERMANS, Jenny",
+        "SHENGCHUN LI",
+        "ARO, Eva-Mari",
+        "NOCTOR, Graham"
+    ],
+    "dc:contributor": "TEIGE, Marcus (Author of introductory parts)",
+    "dc:relation": "Journal of experimental botany -- J. exp. bot, CODEN JEBOA6, ISSN 0022-0957, Vol. 63 (4) , pp. 1619-1636",
+    "dc:date": "2012",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Oxford University Press",
+    "dc:format": [
+        "print",
+        "18 p. ; 5 p.1/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Botanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Espèces réactives de l'oxygène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Photorespiration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Photorécepteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Photosynthèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réponse défensive"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Botany"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reactive oxygen species"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immunity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photorespiration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photoreceptor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photosynthesis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Defensive response"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photoreceptor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "photorespiration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "photosynthesis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "plant immunity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "reactive oxygen species"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "signalling"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Botánica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Especies reactivas del oxígeno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fotorrespiración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fotorreceptor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fotosíntesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Respuesta defensiva"
+        },
+        "002A10: Physiologie vegetale et developpement / Plant physiology and development"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 25651379"
+}

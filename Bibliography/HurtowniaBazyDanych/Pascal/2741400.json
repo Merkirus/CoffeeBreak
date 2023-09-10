@@ -1,0 +1,109 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SILURIAN-EARLY DEVONIAN GRAPTOLITES.",
+    "dc:creator": "BERRY WBN",
+    "dc:date": "1973",
+    "dc:type": "Book",
+    "dc:language": "English",
+    "dc:format": "IN: ATLAS PALAEOBIOGEOGR.; AMSTERDAM ELSEVIER; 1973, P. 81 A 87",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "GRAPTOLOIDEA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SILURIEN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DEVONIEN INF"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOGEOGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PALEOGEOGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MONDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PALEONTOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GRAPTOLITHINA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STOMOCHORDATA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROCHORDATA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INVERTEBRATA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRIMAIRE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GRAPTOLOIDEA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SILURIAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LOWER DEVONIAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOGEOGRAPHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PALAEOGEOGRAPHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WORLD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PALEONTOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        "001E01Q: Paléontologie / Paleontology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALGEODEBRGM7520111437"
+}

@@ -1,0 +1,73 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ON A SYSTEM OF DIFFUSION-REACTION EQUATIONS",
+    "dc:creator": "BECKERT H",
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "Z. ANGEW. MATH. MECH.; ISSN 0044-2267; DDR; DA. 1980; VOL. 60; NO 9; PP. 357-370; ABS. GER/RUS; BIBL. 9 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "REACTION MODELE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLYCONDENSATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLYMERISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE MATHEMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MASSE MOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLYMERES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE MACROMOLECULAIRE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MODEL REACTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONDENSATION POLYMERIZATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLYMERIZATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MATHEMATICAL ANALYSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOLECULAR WEIGHT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLYMERS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MACROMOLECULAR CHEMISTRY"
+        },
+        "001D09: Physicochimie des polymeres / Physicochemistry of polymers"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8130334101"
+}

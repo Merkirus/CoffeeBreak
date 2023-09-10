@@ -1,0 +1,78 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "L'Eveil et les victoires de l'hypno-sophrologie",
+    "dc:creator": "CHERCHEVE, R",
+    "dc:relation": "REVUE FRANCAISE DES AFFAIRES SOCIALES (H) , pp. 237-250",
+    "dc:date": "1986",
+    "dc:type": [
+        "Text",
+        "Book Chapter"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "numéro Spécial"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "1986"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hypnose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Médecine parallèle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hypnosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Alternative medicine"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hipnosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medicina alternativa"
+        },
+        "002B30A11: Divers / Miscellaneous"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        }
+    ],
+    "dc:rights": [
+        "Banque de données en santé publique - Ecole des hautes études en santé publique (BDSP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6418158"
+}

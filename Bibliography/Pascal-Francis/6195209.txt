@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>L'estimation du potentiel de croissance des stations forestières (exemple du sous-domaine de la sapinière à bouleau jaune de l'est du Québec)</dc:title>
+  <dc:creator>Bédard, Steve</dc:creator>
+  <dc:relation>Mémoire de recherche forestière -- Mém. rech. for, ISSN 1183-3912</dc:relation>
+  <dc:date>2002</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Book</dc:type>
+  <dc:identifier>ISBN 2-550-38688-4</dc:identifier>
+  <dc:language>French</dc:language>
+  <dc:publisher>Gouvernement du Québec</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>XI, 36 p ; 3 p.1/2</dc:format>
+  <dc:subject xml:lang="fr">Angiospermae</dc:subject>
+  <dc:subject xml:lang="fr">Arbre forestier feuillu</dc:subject>
+  <dc:subject xml:lang="fr">Arbre forestier résineux</dc:subject>
+  <dc:subject xml:lang="fr">Betulaceae</dc:subject>
+  <dc:subject xml:lang="fr">Coniferales</dc:subject>
+  <dc:subject xml:lang="fr">Dicotyledones</dc:subject>
+  <dc:subject xml:lang="fr">Gymnospermae</dc:subject>
+  <dc:subject xml:lang="fr">Spermatophyta</dc:subject>
+  <dc:subject xml:lang="fr">Abies balsamea</dc:subject>
+  <dc:subject xml:lang="fr">Age</dc:subject>
+  <dc:subject xml:lang="fr">Betula alleghaniensis</dc:subject>
+  <dc:subject xml:lang="fr">Courbe croissance</dc:subject>
+  <dc:subject xml:lang="fr">Critère qualité</dc:subject>
+  <dc:subject xml:lang="fr">Dendrométrie</dc:subject>
+  <dc:subject xml:lang="fr">Forêt boréale</dc:subject>
+  <dc:subject xml:lang="fr">Hauteur plante</dc:subject>
+  <dc:subject xml:lang="fr">Indice stationnel</dc:subject>
+  <dc:subject xml:lang="fr">Modèle statistique</dc:subject>
+  <dc:subject xml:lang="fr">Peuplement forestier mélangé</dc:subject>
+  <dc:subject xml:lang="fr">Picea glauca</dc:subject>
+  <dc:subject xml:lang="fr">Picea mariana</dc:subject>
+  <dc:subject xml:lang="fr">Picea rubens</dc:subject>
+  <dc:subject xml:lang="fr">Régime hydrique</dc:subject>
+  <dc:subject xml:lang="fr">Station forestière</dc:subject>
+  <dc:subject xml:lang="fr">Stratification écologique</dc:subject>
+  <dc:subject xml:lang="fr">Typologie</dc:subject>
+  <dc:coverage xml:lang="fr">Amérique du Nord</dc:coverage>
+  <dc:coverage xml:lang="fr">Amérique</dc:coverage>
+  <dc:coverage xml:lang="fr">Canada</dc:coverage>
+  <dc:coverage xml:lang="fr">Québec</dc:coverage>
+  <dc:subject xml:lang="en">Angiospermae</dc:subject>
+  <dc:subject xml:lang="en">Hardwood forest tree</dc:subject>
+  <dc:subject xml:lang="en">Softwood forest tree</dc:subject>
+  <dc:subject xml:lang="en">Betulaceae</dc:subject>
+  <dc:subject xml:lang="en">Coniferales</dc:subject>
+  <dc:subject xml:lang="en">Dicotyledones</dc:subject>
+  <dc:subject xml:lang="en">Gymnospermae</dc:subject>
+  <dc:subject xml:lang="en">Spermatophyta</dc:subject>
+  <dc:subject xml:lang="en">Abies balsamea</dc:subject>
+  <dc:subject xml:lang="en">Age</dc:subject>
+  <dc:subject xml:lang="en">Betula alleghaniensis</dc:subject>
+  <dc:subject xml:lang="en">Growth curve</dc:subject>
+  <dc:subject xml:lang="en">Quality criterion</dc:subject>
+  <dc:subject xml:lang="en">Forest mensuration</dc:subject>
+  <dc:subject xml:lang="en">Boreal forest</dc:subject>
+  <dc:subject xml:lang="en">Plant height</dc:subject>
+  <dc:subject xml:lang="en">Site index</dc:subject>
+  <dc:subject xml:lang="en">Statistical model</dc:subject>
+  <dc:subject xml:lang="en">Mixed forest stand</dc:subject>
+  <dc:subject xml:lang="en">Picea glauca</dc:subject>
+  <dc:subject xml:lang="en">Picea mariana</dc:subject>
+  <dc:subject xml:lang="en">Picea rubens</dc:subject>
+  <dc:subject xml:lang="en">Water regime</dc:subject>
+  <dc:subject xml:lang="en">Forest site</dc:subject>
+  <dc:subject xml:lang="en">Ecological stratification</dc:subject>
+  <dc:subject xml:lang="en">Typology</dc:subject>
+  <dc:coverage xml:lang="en">North America</dc:coverage>
+  <dc:coverage xml:lang="en">America</dc:coverage>
+  <dc:coverage xml:lang="en">Canada</dc:coverage>
+  <dc:coverage xml:lang="en">Quebec</dc:coverage>
+  <dc:subject xml:lang="es">Angiospermae</dc:subject>
+  <dc:subject xml:lang="es">Arbol forestal frondoso</dc:subject>
+  <dc:subject xml:lang="es">Arbol forestal resinoso</dc:subject>
+  <dc:subject xml:lang="es">Betulaceae</dc:subject>
+  <dc:subject xml:lang="es">Coniferales</dc:subject>
+  <dc:subject xml:lang="es">Dicotyledones</dc:subject>
+  <dc:subject xml:lang="es">Gymnospermae</dc:subject>
+  <dc:subject xml:lang="es">Spermatophyta</dc:subject>
+  <dc:subject xml:lang="es">Abies balsamea</dc:subject>
+  <dc:subject xml:lang="es">Edad</dc:subject>
+  <dc:subject xml:lang="es">Betula alleghaniensis</dc:subject>
+  <dc:subject xml:lang="es">Curva crecimiento</dc:subject>
+  <dc:subject xml:lang="es">Criterio calidad</dc:subject>
+  <dc:subject xml:lang="es">Dendrometría</dc:subject>
+  <dc:subject xml:lang="es">Bosque boreal</dc:subject>
+  <dc:subject xml:lang="es">Altura planta</dc:subject>
+  <dc:subject xml:lang="es">Indice estación</dc:subject>
+  <dc:subject xml:lang="es">Modelo estadístico</dc:subject>
+  <dc:subject xml:lang="es">Rodal forestal mixto</dc:subject>
+  <dc:subject xml:lang="es">Picea glauca</dc:subject>
+  <dc:subject xml:lang="es">Picea mariana</dc:subject>
+  <dc:subject xml:lang="es">Picea rubens</dc:subject>
+  <dc:subject xml:lang="es">Régimen hídrico</dc:subject>
+  <dc:subject xml:lang="es">Estación forestal</dc:subject>
+  <dc:subject xml:lang="es">Estratificación ecológica</dc:subject>
+  <dc:subject xml:lang="es">Tipología</dc:subject>
+  <dc:coverage xml:lang="es">America del norte</dc:coverage>
+  <dc:coverage xml:lang="es">America</dc:coverage>
+  <dc:coverage xml:lang="es">Canada</dc:coverage>
+  <dc:coverage xml:lang="es">Quebec</dc:coverage>
+  <dc:subject>002A14B04B: Ecosystèmes terrestres / Terrestrial ecosystems</dc:subject>
+  <dc:subject>002A33B: Dendrométrie. Inventaires / Dendrometry. Forest inventory</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 66145</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

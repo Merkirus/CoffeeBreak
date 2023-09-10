@@ -1,0 +1,141 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Hypothermia Therapy for Cardiac Arrest in Pediatric Patients",
+    "dc:creator": [
+        "HUTCHISON, James S",
+        "DOHERTY, Dermot R",
+        "ORLOWSKI, James P",
+        "KISSOON, Niranjan"
+    ],
+    "dc:contributor": "ORLOWSKI, James P (Editor)",
+    "dc:relation": "The Pediatric clinics of North America -- Pediatr. clin. N. Am, CODEN PCNAA8, ISSN 0031-3955, Vol. 55 (3)",
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "ix, 529-544 [17 p.] ; 103 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Anesthésie générale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Arrêt cardiocirculatoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enfant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hypothermie provoquée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie de l'appareil circulatoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pédiatrie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "General anesthesia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cardiocirculatory arrest"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Child"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Induced hypothermia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cardiovascular disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pediatrics"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anestesia general"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Paro cardiocirculatorio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Niño"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hipotermia provocada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato circulatorio patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pediatría"
+        },
+        "002B01: Generalites / General aspects"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20509589"
+}

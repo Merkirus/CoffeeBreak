@@ -1,0 +1,47 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The roman frontier in comparative perspective: the view from North America",
+    "dc:creator": "DYSON, S. L",
+    "dc:relation": "Mémoires du Musée de préhistoire d'Ile-de-France -- Mém. Musée préhist. Ile-de-France, ISSN 0991-5761 (5) , pp. 149-157",
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Association pour la promotion de la recherche archéologique en Ile-de-France",
+    "dc:format": [
+        "print",
+        "1 p.1/2"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Organisation politique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Organisation spatiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Frontière"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Political organization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spatial organization"
+        },
+        "525-: Prehistoire et protohistoire / Prehistory and protohistory",
+        "525-12: Méthodologie et études générales / Methodology and general studies",
+        "525-41: Economie et société / Economy and society"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3728812"
+}

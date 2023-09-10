@@ -1,0 +1,127 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Eléments pour une stratégie de développement de la pêche artisanale de la région VIII, Chili",
+    "dc:creator": "ALIAGA, B",
+    "dc:contributor": [
+        "CHONCHOL, J (Advisor (for a thesis or dissertation))",
+        "Université de Paris 03. Inst. des hautes études de l'Amérique latine (Degree-grantor)"
+    ],
+    "dc:date": "1991",
+    "dc:type": [
+        "Text",
+        "Thesis"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "48 p. ; 3 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Alimentation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Commerce"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Consommation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Niveau de vie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pêche en mer"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pêche"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Siècle 20 (seconde moitié)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Feeding"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Trade"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Consumption"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Standard of living"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sea fishing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fishery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Century 20th (second half)"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alimentación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Comercio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Consumo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nivel de vida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pesca marina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pesca"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Siglo 20 (segunda mitad)"
+        },
+        "533-: Amérique latine / Latin America",
+        "533-40: Géographie / Geography",
+        "533-41: Agriculture, pêche / Agriculture, fishing"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Chili"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chile"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Chile"
+        }
+    ],
+    "dc:rights": [
+        "Réseau Amérique Latine (AMLAT)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6362584"
+}

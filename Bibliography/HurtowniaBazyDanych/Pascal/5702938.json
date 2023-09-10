@@ -1,0 +1,236 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Evaluation de l'action Le p'tit déj'c'est important ! organisée par la Fédération de l'Ardèche du Secours Populaire Français dans les écoles élémentaires de l'Ardèche",
+    "dc:creator": [
+        "HARROUS, S",
+        "FONTAINE, D",
+        "BASTIDE, S",
+        "Observatoire Régional de la Santé Rhône Alpes. (O.R.S.R.A.). Lyon"
+    ],
+    "dc:contributor": "Groupement Régional de Santé Publique. (G.R.S.P.). Lyon (Sponsor)",
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Book"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "ORSRA",
+    "dc:format": [
+        "print",
+        "75 p. ; dissem"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Age scolaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Comportement alimentaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Consommation alimentaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecole primaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Education nutritionnelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enfant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enseignant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fruit"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Obésité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Petit déjeuner"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prévention"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "School age"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Feeding behavior"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Food intake"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Primary school"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nutrition education"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Child"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Teacher"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Evaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fruit"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Obesity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Breakfast"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prevention"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Edad escolar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conducta alimenticia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Consumo alimenticio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Escuela primaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Educación nutricional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Niño"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Docente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evaluación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fruto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Obesidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desayuno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prevención"
+        },
+        "002B30A01C: Planification. Prévention (méthodes). Intervention. Evaluation / Planification. Prevention (methods). Intervention. Evaluation"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rhône Alpes"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ardèche"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rhône Alpes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ardeche"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rhône Alpes"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ardeche"
+        }
+    ],
+    "dc:rights": [
+        "Banque de données en santé publique - Ecole des hautes études en santé publique (BDSP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20917008"
+}

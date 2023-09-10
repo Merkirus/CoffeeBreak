@@ -1,0 +1,170 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Using experiments design to model linear firing shrinkage of triaxial ceramic bodies",
+    "dc:creator": [
+        "CORREIA, S. L",
+        "CURTO, K. A. S",
+        "HOTZA, D",
+        "SEGADAES, A. M"
+    ],
+    "dc:contributor": [
+        "Salgado, Lucio (Editor)",
+        "Ambrozio, Francisco (Editor)",
+        "International Latin-American conference on powder technology (4 ; Guaruja - Sao Paulo 2003-11-19)"
+    ],
+    "dc:relation": [
+        "Materials science forum -- Mater. sci. forum, CODEN MSFOEP, ISSN 0255-5476, pp. 430-435",
+        "Advanced powder technology IV (Guaruja - Sao Paulo, 19-21 November 2003)"
+    ],
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Trans Tech Publications",
+    "dc:format": [
+        "print",
+        "6 p. ; 13 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Carreau mural"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Carreau sol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composition chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cuisson matériau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Céramique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude théorique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matière première"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle régression"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Retrait"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wall tile"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Floor tile"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical composition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Firing (materials)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ceramic materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Theoretical study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Raw materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Regression model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Shrinkage"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Loseta mural"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Loseta piso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Composición química"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cocción material"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cerámica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio teórico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Materia prima"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo regresión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Retiro"
+        },
+        "001D08B04B3: Carreaux céramiques / Ceramic tiles"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17853783"
+}

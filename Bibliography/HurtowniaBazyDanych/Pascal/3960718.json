@@ -1,0 +1,65 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SURVEILLANCE ET SUIVI DES CHAMBRES CONTROLES PAR MINI-ORDINATEUR",
+    "dc:creator": "VALOIS R",
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "MINIS ET MICROS; FRA; DA. 1980; VOL. 5; NO 121; PP. 33-35",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "HOTEL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MINIORDINATEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SYSTEME INFORMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SYSTEME EXPLOITATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GESTION AUTOMATISEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATHEMATIQUES APPLIQUEES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HOTEL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MINICOMPUTERS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COMPUTER SYSTEM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPERATING SYSTEM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ASSISTED MANAGEMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "APPLIED MATHEMATICS"
+        },
+        "001A02: Mathematiques / Mathematics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8030465459"
+}

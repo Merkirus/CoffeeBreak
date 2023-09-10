@@ -1,0 +1,68 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ENSEMBLE DU NUMERO.",
+    "dc:date": "1970",
+    "dc:type": "Miscellaneous",
+    "dc:language": "German",
+    "dc:format": "FORTSCHR. D. MINERAL.; DEU; 1970(5), VOL. 47, NUM. 0001, P. 1 A 86",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "REUNION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SEPTEMBRE-1969"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SUISSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BERNE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MINERALOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EUROPE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MEETING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SWITZERLAND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MINERALOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        "001E01: Sciences de la terre / Earth sciences"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number GEODEBRGM7001017151"
+}

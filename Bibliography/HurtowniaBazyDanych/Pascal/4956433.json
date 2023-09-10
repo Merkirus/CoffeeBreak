@@ -1,0 +1,106 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Designing disk drive interconnects to obtain a desired transmitted write current waveform",
+    "dc:creator": [
+        "JURY, Jason C",
+        "BATRA, Sharat",
+        "WANG, Shan X"
+    ],
+    "dc:contributor": "TMRC'01 Annual Magnetic Recording Conference (12 ; Minneapolis, Minnesota 2001-08-20)",
+    "dc:relation": [
+        "IEEE transactions on magnetics -- IEEE trans. magn, CODEN IEMGAQ, ISSN 0018-9464, Vol. 38 (1) , pp. 55-60",
+        "Selected Papers from the 12th Annual Magnetic Recording Conference (TMRC'01) on Magnetic Recording Heads, University of Minnesota, Minneapolis, August 20-22, 2001"
+    ],
+    "dc:date": "2002",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institute of Electrical and Electronics Engineers",
+    "dc:format": [
+        "print",
+        "14 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Conception"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dispositif magnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude théorique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Forme impulsion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lecteur disque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ligne transmission"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetic device"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Theoretical study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pulse shape"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Disk drive"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transmission line"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diseño"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dispositivo magnético"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio teórico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Forma impulsión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lector disco"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Línea transmisión"
+        },
+        "001D03F10: Dispositifs magnétiques / Magnetic devices",
+        "8570A:  / Magnetic device characterization, design, and modeling"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 13550899"
+}

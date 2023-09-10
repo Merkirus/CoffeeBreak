@@ -1,0 +1,80 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DIE LEISTUNGEN DES RECHNERGESTUETZTEN DOKUMENTENRECHERCHESYSTEMS WISSENSCHAFT UND TECHNIK IM WERKZEUGMASCHINEN- UND WERKZEUGBAU; LES SERVICES FOURNIS PAR LE SYSTEME DOCUMENTAIRE AUTOMATIQUE SCIENCE ET TECHNIQUE DANS LA CONSTRUCTION DE MACHINES-OUTILS ET D'OUTILS",
+    "dc:creator": [
+        "HORNER M",
+        "VOGEL G"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "INFORMATIK; DDR; DA. 1980; VOL. 27; NO 1; PP. 10-14",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "SYSTEME DOCUMENTAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRAITEMENT AUTOMATISE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRODUIT DOCUMENTAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EFFICACITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EVALUATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONSTRUCTION MECANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALLEMAGNE(REPUBLIQUE DEMOCRATIQUE)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCE INFORMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DOCUMENT RETRIEVAL SYSTEM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AUTOMATED PROCESSING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DOCUMENTARY PRODUCT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EFFICIENCY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MECHANICAL ENGINEERING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EAST GERMANY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFORMATION SCIENCE"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8030420657"
+}

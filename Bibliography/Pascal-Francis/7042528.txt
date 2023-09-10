@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Practitioner's guide to laser pulse propagation models and simulation: Numerical implementation and practical usage of modern pulse propagation models</dc:title>
+  <dc:creator>COUAIRON, A</dc:creator>
+  <dc:creator>BRAMBILLA, E</dc:creator>
+  <dc:creator>CORTI, T</dc:creator>
+  <dc:creator>MAJUS, D</dc:creator>
+  <dc:creator>RAMIREZ-GONGORA, O. De J</dc:creator>
+  <dc:creator>KOLESIK, M</dc:creator>
+  <dc:contributor>BONDANI, Maria (Editor)</dc:contributor>
+  <dc:contributor>DI TRAPANI, Paolo (Editor)</dc:contributor>
+  <dc:contributor>STELLA School for Training in Experiments with Lasers and Laser Applications (5 ; Como 2011-06-20)</dc:contributor>
+  <dc:relation>The European physical journal. Special topics -- Eur. phys. j., spec. top, ISSN 1951-6355, Vol. 199, pp. 5-76</dc:relation>
+  <dc:relation>STELLA: Experiments with Lasers and Laser Applications</dc:relation>
+  <dc:date>2011</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Conference Paper</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>EDP Sciences</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>72 p. ; 62 ref</dc:format>
+  <dc:subject xml:lang="fr">Effet non linéaire</dc:subject>
+  <dc:subject xml:lang="fr">Equation Maxwell</dc:subject>
+  <dc:subject xml:lang="fr">Equation non linéaire</dc:subject>
+  <dc:subject xml:lang="fr">Fonction enveloppe</dc:subject>
+  <dc:subject xml:lang="fr">Impulsion laser</dc:subject>
+  <dc:subject xml:lang="fr">Impulsion ultracourte</dc:subject>
+  <dc:subject xml:lang="fr">Loi Gauss</dc:subject>
+  <dc:subject xml:lang="fr">Méthode différence finie</dc:subject>
+  <dc:subject xml:lang="fr">Méthode numérique</dc:subject>
+  <dc:subject xml:lang="fr">Onde scalaire</dc:subject>
+  <dc:subject xml:lang="fr">Plasma produit par laser</dc:subject>
+  <dc:subject xml:lang="fr">Problème valeur limite</dc:subject>
+  <dc:subject xml:lang="fr">Propagation onde</dc:subject>
+  <dc:subject xml:lang="en">Non linear effect</dc:subject>
+  <dc:subject xml:lang="en">Maxwell equations</dc:subject>
+  <dc:subject xml:lang="en">Nonlinear equations</dc:subject>
+  <dc:subject xml:lang="en">Envelope function</dc:subject>
+  <dc:subject xml:lang="en">Laser pulse</dc:subject>
+  <dc:subject xml:lang="en">Ultrashort pulse</dc:subject>
+  <dc:subject xml:lang="en">Gaussian distribution</dc:subject>
+  <dc:subject xml:lang="en">Finite difference method</dc:subject>
+  <dc:subject xml:lang="en">Numerical method</dc:subject>
+  <dc:subject xml:lang="en">Scalar wave</dc:subject>
+  <dc:subject xml:lang="en">Laser-produced plasma</dc:subject>
+  <dc:subject xml:lang="en">Boundary-value problems</dc:subject>
+  <dc:subject xml:lang="en">Wave propagation</dc:subject>
+  <dc:subject xml:lang="es">Efecto no lineal</dc:subject>
+  <dc:subject xml:lang="es">Función envolviente</dc:subject>
+  <dc:subject xml:lang="es">Impulsión láser</dc:subject>
+  <dc:subject xml:lang="es">Impulsión ultracorto</dc:subject>
+  <dc:subject xml:lang="es">Método numérico</dc:subject>
+  <dc:subject xml:lang="es">Onda escalar</dc:subject>
+  <dc:subject>001B40B55A: Théorie générale / General laser theory</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 25343837</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

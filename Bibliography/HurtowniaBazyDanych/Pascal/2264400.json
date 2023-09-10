@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ON THE COMPUTATIONAL POWER OF THE FLOOR FUNCTION",
+    "dc:creator": "SCHMITT A",
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "INF. PROCESS. LETT.; ISSN 0020-0190; NLD; DA. 1982; VOL. 14; NO 1; PP. 1-3; BIBL. 8 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TRIAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ARBRE DECISION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALGORITHME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRAITEMENT DONNEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPLEXITE ALGORITHME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROGRAMME ORDINATEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROGRAMME TRAITEMENT DONNEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INFORMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATHEMATIQUES APPLIQUEES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SORTING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DECISION TREE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ALGORITHM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DATA PROCESSING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ALGORITHM COMPLEXITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COMPUTER PROGRAM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DATA PROCESSING PROGRAM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COMPUTER SCIENCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "APPLIED MATHEMATICS"
+        },
+        "001A02: Mathematiques / Mathematics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0004617"
+}

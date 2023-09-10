@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "APPLICATION OF HIGH-RESOLUTION 13C NMR SPECTROSCOPY USING MAGIC-ANGLE SPINNING TECHNIQUES TO THE DIRECT INVESTIGATION OF SOLID CURED PHENOLIC RESINS",
+    "dc:creator": [
+        "FYFE CA",
+        "RUDIN A",
+        "TCHIR W"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "MACROMOLECULES; ISSN 0024-9297; USA; DA. 1980; VOL. 13; NO 5; PP. 1320-1322; BIBL. 15 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE RMN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANGLE MAGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHENOPLASTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RESOL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NOVOLAQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DURCISSEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARBONE 13"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE MACROMOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLYMERES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NMR SPECTROMETRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MAGIC ANGLE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHENOLICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RESOL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NOVOLAC"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HARDENING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MACROMOLECULAR CHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLYMERS"
+        },
+        "001D09: Physicochimie des polymeres / Physicochemistry of polymers"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8130148324"
+}

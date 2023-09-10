@@ -1,0 +1,296 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Association of anticholinergic load with impairment of complex attention and memory in schizophrenia",
+    "dc:creator": [
+        "MINZENBERG, Michael J",
+        "POOLE, John H",
+        "BENTON, Cynthia",
+        "VINOGRADOV, Sophia"
+    ],
+    "dc:relation": "The American journal of psychiatry -- Am. j. psychiatr, CODEN AJPSAO, ISSN 0002-953X, Vol. 161 (1) , pp. 116-124",
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "American Psychiatric Association",
+    "dc:format": [
+        "print",
+        "9 p. ; 47 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Neuroleptique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Psychose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Psychotrope"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Accord interjuge"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Anticholinestérasique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chimiothérapie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude comparative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur risque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fidélité test"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mécanisme action"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Psychométrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Psychopharmacologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Psychose schizoaffective"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Schizophrénie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Test neuropsychologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Toxicité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble cognition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Validation test"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Validité construct"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Validité convergente"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neuroleptic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Psychosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Psychotropic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interrater agreement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Anticholinesterase agent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemotherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Risk factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Test reliability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mechanism of action"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Psychometrics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Psychopharmacology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Schizoaffective psychosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Schizophrenia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neuropsychological test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Toxicity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cognitive disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Test validation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Construct validity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Convergent validity"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Neuroléptico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Psicosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Psicotropo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acuerdo interjuez"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anticolinesterasa agente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Quimioterapia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio comparativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor riesgo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fidelidad pruebra"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mecanismo acción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Psicometría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Psicofarmacología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Psicosis esquizoafectiva"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Esquizofrenia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prueba neuropsichologica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Toxicidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno cognitivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Validación prueba"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Validez construct"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Validez convergent"
+        },
+        "002B18B01: Psychométrie. Systèmes d'aide au diagnostic / Psychometrics. Diagnostic aid systems",
+        "770-: Psychologie. Psychanalyse. Psychiatrie / Psychology. Psychoanalysis. Psychiatry",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15631929"
+}

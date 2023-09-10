@@ -1,0 +1,263 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Allochimeric class I MHC inhibits chronic rejection in cardiac allografts",
+    "dc:creator": [
+        "SINGER, J. S",
+        "SHEN, X",
+        "WEGLINSKI, J. K",
+        "GHOBRIAL, R. M",
+        "FISHBEIN, M",
+        "MHOYAN, A",
+        "ZHAO, D",
+        "REEMSTEEN, B",
+        "GAO, F",
+        "AMERSI, F",
+        "COITO, A. J",
+        "BUSUTTIL, R. W"
+    ],
+    "dc:contributor": [
+        "CORTESINI, Raffaello (Editor)",
+        "SUCIU-FOCA CORTESINI, Nicole (Editor)",
+        "The Transplantation Society (Funder/Sponsor)",
+        "World Congress of the Transplantation Society (18 ; Rome 2000-08-27)"
+    ],
+    "dc:relation": [
+        "Transplantation proceedings -- Transplant. proc, CODEN TRPPA8, ISSN 0041-1345, Vol. 33 (1-2)",
+        "Proceedings of the XVIII World Congress of the Transplantation Society"
+    ],
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "p. 179 ; 2 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Alloantigène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Antigène histocompatibilité classe I"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil circulatoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chirurgie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Coeur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Efficacité traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Greffon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homotransplantation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunothérapie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Isoimmunisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prévention"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rejet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système histocompatibilité majeur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement associé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transplantation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Alloantigen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Class I histocompatibility antigen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Circulatory system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surgery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chronic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heart"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment efficiency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Graft(material)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Homotransplantation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immunotherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Isoimmunization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prevention"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rejection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Major histocompatibility system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Combined treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transplantation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aloantígeno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antígeno histocompatibilidad clase I"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato circulatorio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cirugía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Crónico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Corazón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Eficacia tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Injerto(material)"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Homotrasplante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunoterapia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Isoinmunización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prevención"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rechazo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema histocompatibilidad mayor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento asociado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trasplantación"
+        },
+        "002B25E: Chirurgie cardiaque / Surgery of the heart"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 982275"
+}

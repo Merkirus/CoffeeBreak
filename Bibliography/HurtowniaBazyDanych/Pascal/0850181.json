@@ -1,0 +1,79 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ANALYSIS OF RESPONSE OF PYROELECTRIC OPTICAL DETECTORS.",
+    "dc:creator": [
+        "PETERSON RL",
+        "DAY GW",
+        "GRUZENSKY PM",
+        "PHELAN RJ JR"
+    ],
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. APPL. PHYS.; U.S.A.; DA. 1974; VOL. 45; NO 8; PP. 3296-3303; BIBL. 14 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DETECTEUR RAYONNEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DISPOSITIF PYROELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONFIGURATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REPONSE FREQUENCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MODELE MATHEMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SIMULATION MATHEMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DISPOSITIF ETAT SOLIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FREQUENCE OPTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OPTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROMAGNETISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPTICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROMAGNETISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONICS"
+        },
+        "001B: Physique / Physics",
+        "001D03: Electronique / Electronics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7530029163"
+}

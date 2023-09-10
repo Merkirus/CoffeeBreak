@@ -1,0 +1,126 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Animal models of tyrosinemia",
+    "dc:creator": [
+        "NAKAMURA, Kimitoshi",
+        "TANAKA, Yasuhiko",
+        "MITSUBUCHI, Hiroshi",
+        "ENDO, Fumio"
+    ],
+    "dc:contributor": [
+        "TAKAI, Katsuji (Editor)",
+        "BIER, Dennis M (Editor)",
+        "CYNOBER, Luc (Editor)",
+        "MORRIS, Sidney M (Editor)",
+        "SHIMOMURA, Yoshiharu (Editor)",
+        "Ajinomoto Company, Inc (Organiser of meeting)",
+        "Transdisciplinary International Conference on Aromatic Amino Acids and Related Substances: Chemistry, Biology, Medicine, and Application (Vancouver 2006-07-20)"
+    ],
+    "dc:relation": [
+        "The Journal of nutrition -- J. nutr, CODEN JONUAI, ISSN 0022-3166, Vol. 137 (6S)",
+        "Aromatic amino acids and related substances: Chemistry, biology, medicine, and application. Proceedings of the transdisciplinary international conference held July 20-21, 2006 in Vancouver, Canada"
+    ],
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "American Society for Nutritional Sciences",
+    "dc:format": [
+        "print",
+        "S1556-S1560 ; 28 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Aminoacidopathie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enzymopathie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Maladie héréditaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métabolisme pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle animal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nutrition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tyrosinémie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aminoacid disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Enzymopathy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Genetic disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metabolic diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Animal model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nutrition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tyrosinemia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aminoacido alteración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enzimopatía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enfermedad hereditaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metabolismo patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo animal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nutrición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tirosinemia"
+        },
+        "002A16E: Alimentation. Comportement alimentaire / Feeding. Feeding behavior"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18860441"
+}

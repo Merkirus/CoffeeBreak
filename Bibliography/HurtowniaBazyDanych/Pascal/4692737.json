@@ -1,0 +1,85 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "La qualité de la formation comme processus de développement de valeur; Training quality as a value development process",
+    "dc:creator": [
+        "ROGE, Michel",
+        "GRANDHAYE, Jean-Pierre"
+    ],
+    "dc:relation": "Administration et éducation (Paris) -- Adm. éduc. (Paris), ISSN 0222-674X (88) , pp. 109-115",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Association française des administrateurs de l'éducation",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Association"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation institutionnelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode pédagogique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Programme d'études"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Qualité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système éducatif"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Association"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Institutional Evaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Teaching method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Curriculum"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Educational System"
+        },
+        "520-: Sciences de l'éducation / Educational sciences",
+        "520-171: Recherche en éducation / Educational research",
+        "520-174: France / France"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1150175"
+}

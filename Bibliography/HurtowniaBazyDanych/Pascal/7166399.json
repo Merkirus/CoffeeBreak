@@ -1,0 +1,72 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "White Matter Tractographies Registration Using Gaussian Mixture Modeling",
+    "dc:creator": [
+        "ZVITIA, Orly",
+        "MAYER, Arnaldo",
+        "GREENSPAN, Hayit"
+    ],
+    "dc:contributor": [
+        "Reinhardt, Joseph M (Editor)",
+        "Pluim, Josien P. W (Editor)",
+        "SPIE (Organiser of meeting)",
+        "American Association of Physicists in Medicine (Organiser of meeting)",
+        "Image Processing Conference (San Diego CA 2008)",
+        "SPIE Medical Imaging Symposium (2008)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, pp. 69142G.1-69142G.9",
+        "Medical imaging 2008 (Image processing : 17-19 February 2008, San Diego, California, USA) -- 0Image processing"
+    ],
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "11 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Substance blanche"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tractographie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "White matter"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tractography"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Substancia blanca"
+        },
+        "002B01: Generalites / General aspects"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20650647"
+}

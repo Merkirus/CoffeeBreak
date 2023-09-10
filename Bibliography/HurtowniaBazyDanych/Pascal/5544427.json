@@ -1,0 +1,78 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Advanced models for fracture in quasi-brittle materials",
+    "dc:contributor": [
+        "HOFSTETTER, Günter (Editor)",
+        "MESCHKE, Günther (Editor)"
+    ],
+    "dc:relation": "International journal for numerical and analytical methods in geomechanics -- Int. j. numer. anal. methods geomech, CODEN IJNGDZ, ISSN 0363-9061, Vol. 31 (2)",
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Serial Issue"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Wiley",
+    "dc:format": [
+        "print",
+        "264 p. ; dissem"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse dommage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau fragile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mécanique rupture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Failure analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Brittle material"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fracture mechanics"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis avería"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Material frágil"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mecánica ruptura"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works",
+        "001D14C01: Résistance des matériaux (élasticité, plasticité, flambage, etc.) / Strength of materials (elasticity, plasticity, buckling, etc.)",
+        "001D14E02: Délabrement des constructions (fissures, altérations physiques, etc.) / Building failures (cracks, physical changes, etc.)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18452827"
+}

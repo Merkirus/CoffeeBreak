@@ -1,0 +1,338 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Trends in and predictors of second-hand smoke exposure indexed by cotinine in children in England from I996 to 2006",
+    "dc:creator": [
+        "SIMS, Michelle",
+        "TOMKINS, Susannah",
+        "JUDGE, Ken",
+        "TAYLOR, Gordon",
+        "JARVIS, Martin J",
+        "GILMORE, Anna"
+    ],
+    "dc:relation": "Addiction (Abingdon. Print) -- Addiction (Abingd. Print), ISSN 0965-2140, Vol. 105 (3) , pp. 543-553",
+    "dc:date": "2010",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Blackwell",
+    "dc:format": [
+        "print",
+        "11 p. ; 32 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "2006"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Addiction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Antidépresseur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cotinine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enfant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exposition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur prédictif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Indice"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Inégalité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Main"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prédiction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Psychotrope"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé publique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Statut socioéconomique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stimulant SNC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tabagisme passif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tendance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Toxicomanie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "2006"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Addiction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antidepressant agent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cotinine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Child"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Exposure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Predictive factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Index"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inequality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hand"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prediction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Psychotropic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Socioeconomic status"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CNS stimulant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Passive smoking"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Trend"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Drug addiction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Children"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "cotinine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "inequalities"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "passive smoking"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "second-hand smoke"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "socio-economic status"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "2006"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adicción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antidepresor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cotinina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Niño"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Exposición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor predictivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Indice"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desigualdad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mano"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Predicción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Psicotropo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud pública"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estatuto socioeconómico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estimulante SNC"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nicotinismo pasivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tendencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Toxicomanía"
+        },
+        "002B01: Generalites / General aspects",
+        "002B18C05A: Toxicomanie / Drug addiction",
+        "002B30A11: Divers / Miscellaneous",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry",
+        "770-D03E01: Toxicomanie / Drug addiction"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grande Bretagne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Royaume-Uni"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Angleterre"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Great Britain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United Kingdom"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "England"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gran Bretaña"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reino Unido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inglaterra"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 22388533"
+}

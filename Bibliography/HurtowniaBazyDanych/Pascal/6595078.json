@@ -1,0 +1,81 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Analytical Design Study of a Novel Witricity Charger With Lateral and Angular Misalignments for Efficient Wireless Energy Transmission",
+    "dc:creator": [
+        "JUNHUA WANG",
+        "HO, S. L",
+        "FU, W. N",
+        "MINGUI SUN"
+    ],
+    "dc:contributor": [
+        "Institute of Electrical and Electronics Engineers (IEEE) (Organiser of meeting)",
+        "International Magnetics Conference (INTERMAG) (Taipei 2011-04-25)"
+    ],
+    "dc:relation": [
+        "IEEE transactions on magnetics -- IEEE trans. magn, CODEN IEMGAQ, ISSN 0018-9464, Vol. 47 (10) , pp. 2616-2619",
+        "SELECTED PAPERS FROM THE 2011 INTERNATIONAL MAGNETICS (INTERMAG) CONFERENCE Taipei, Taiwan, April 25-29, 2011"
+    ],
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institute of Electrical and Electronics Engineers",
+    "dc:format": [
+        "print",
+        "4 p. ; 12 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Accouplement magnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conception"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété magnétique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetic coupling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetic properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Angular misalignment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Witricity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "lateral misalignment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "magnetic coupling"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acoplamiento magnético"
+        },
+        "001B80A90: Divers / Other topics in materials science"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 24730302"
+}

@@ -1,0 +1,174 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Pursuing atmospheric water vapor retrieval through NDSA measurements between two LEO satellites: evaluation of estimation errors in spectral sensitivity measurements",
+    "dc:creator": [
+        "FACHERIS, L",
+        "CUCCOLI, F",
+        "ARGENTI, F"
+    ],
+    "dc:contributor": [
+        "Picard, Richard Henry (Editor)",
+        "SPIE (Organiser of meeting)",
+        "Remote sensing of clouds and the atmosphere (13 ; Cardiff 2008)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, Vol. 7107",
+        "Remote sensing of clouds and the atmosphere XIII (15-17 September 2008, Cardiff, Wales, United Kingdom)"
+    ],
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "710710.1-710710.11 ; 9 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Absorption différentielle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Atténuation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Haute résolution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode Monte Carlo"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optique atmosphérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Précision mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Satellite orbite basse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Scintillation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sensibilité spectrale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation numérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Troposphère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Télédétection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vapeur eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0130C"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4268W"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Differential absorption"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Attenuation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High-resolution methods"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Monte Carlo methods"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measuring methods"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Atmospheric optics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measurement accuracy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Low earth orbit satellite"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Scintillations"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spectral sensitivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Digital simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Troposphere"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Remote sensing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Steam"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Absorción diferencial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Precisión medida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Satélite órbita terrestre baja"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sensibilidad espectral"
+        },
+        "001B00A30C: Actes de congrès / Conference proceedings",
+        "001B40B68W: Télédétection; lidar et systèmes adaptatifs / Remote sensing; lidar and adaptive systems"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 21383489"
+}

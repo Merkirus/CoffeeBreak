@@ -1,0 +1,105 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "FONCTION DE LYAPUNOV POUR L'ESTIMATION DE LA STABILITE D'UN RESEAU A REGULATION AUTOMATIQUE",
+    "dc:creator": "BERNSHTEJN AI",
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "IZVEST. VYSSH. UCHEBN. ZAVED., ENERGET.; BYS; DA. 1979; VOL. 22; NO 10; PP. 86-89; BIBL. 2 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "RESEAU ELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE FONCTIONNEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REGULATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STABILITE DYNAMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FONCTION LYAPUNOV"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SYNTHESE SYSTEME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EXCITATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MACHINE SYNCHRONE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENERATEUR ELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROMAGNETISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROTECHNIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRICAL NETWORK"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPERATION STUDY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REGULATION(CONTROL)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TRANSIENT STABILITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LYAPUNOV FUNCTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SYSTEM SYNTHESIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXCITATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SYNCHRONOUS MACHINE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRIC GENERATOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROMAGNETISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRICAL ENGINEERING"
+        },
+        "001D05: Electrotechnique. Electroenergetique / Electrical engineering. Electrical power engineering"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8030146673"
+}

@@ -1,0 +1,88 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "METODE DE APRECIERE A GRADULUI DE FUMEGARE A SOBELOR DE INCALZIT CU COMBUSTIBIL SOLID; METHOD OF EVALUATION OF THE FUME DEGREE OF HEATING STEVE FIRED WITH SOLID FUEL; METHODE D'EVALUATION DU DEGRE DE FUMIGATION DES POELES DE CHAUFFAGE A COMBUSTIBLE SOLIDE",
+    "dc:creator": [
+        "PREG E",
+        "ALEXANDRU F"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "Romanian",
+    "dc:format": "INDUSTR. USOARA, PIEL.; ROM; DA. 1980; VOL. 27; NO 11; PP. 495-497; ABS. RUS/GER/FRE/ENG; BIBL. 8 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "COMBUSTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMBUSTIBLE SOLIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FUMEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GOUDRON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE MESURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PARTICULE SOLIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RESIDU COMBUSTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GAZ COMBUSTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COMBUSTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID FUEL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TAR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MEASUREMENT METHOD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID PARTICLE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COMBUSTION RESIDUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COMBUSTION GAS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY"
+        },
+        "001D06: Energie / Energy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8130267346"
+}

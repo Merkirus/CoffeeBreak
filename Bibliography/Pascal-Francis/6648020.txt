@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>DBToaster: higher-order delta processing for dynamic, frequently fresh views</dc:title>
+  <dc:creator>KOCH, Christoph</dc:creator>
+  <dc:creator>AHMAD, Yanif</dc:creator>
+  <dc:creator>KENNEDY, Oliver</dc:creator>
+  <dc:creator>NIKOLIC, Milos</dc:creator>
+  <dc:creator>NÖTZLI, Andres</dc:creator>
+  <dc:creator>LUPEI, Daniel</dc:creator>
+  <dc:creator>SHAIKHHA, Amir</dc:creator>
+  <dc:contributor>MERAL ÖZSOYOGLU, Z (Editor)</dc:contributor>
+  <dc:contributor>CETINTEMEL, Uğur (Editor)</dc:contributor>
+  <dc:contributor>DALVI, Nilesh (Editor)</dc:contributor>
+  <dc:contributor>KORTH, Hank (Editor)</dc:contributor>
+  <dc:contributor>TUNG, Anthony (Editor)</dc:contributor>
+  <dc:contributor>VLDB2012 International Conference on Very Large Databases (38 ; Istanbul 2012-08-27)</dc:contributor>
+  <dc:relation>The VLDB journal -- VLDB j, ISSN 1066-8888, Vol. 23 (2) , pp. 253-278</dc:relation>
+  <dc:relation>Best Papers of VLDB 2012</dc:relation>
+  <dc:date>2014</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Conference Paper</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>Springer</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>26 p. ; 47 ref</dc:format>
+  <dc:subject xml:lang="fr">Algorithmique</dc:subject>
+  <dc:subject xml:lang="fr">Analyse donnée</dc:subject>
+  <dc:subject xml:lang="fr">Analyse temporelle</dc:subject>
+  <dc:subject xml:lang="fr">Bourse valeurs</dc:subject>
+  <dc:subject xml:lang="fr">Compilation</dc:subject>
+  <dc:subject xml:lang="fr">Historique</dc:subject>
+  <dc:subject xml:lang="fr">Interrogation base donnée</dc:subject>
+  <dc:subject xml:lang="fr">Maintenance</dc:subject>
+  <dc:subject xml:lang="fr">Mise à jour</dc:subject>
+  <dc:subject xml:lang="fr">Méthode différence finie</dc:subject>
+  <dc:subject xml:lang="fr">Requête à intervalle</dc:subject>
+  <dc:subject xml:lang="fr">Retard</dc:subject>
+  <dc:subject xml:lang="fr">Sémantique</dc:subject>
+  <dc:subject xml:lang="fr">Temps réel</dc:subject>
+  <dc:subject xml:lang="fr">Vue incrémentale</dc:subject>
+  <dc:subject xml:lang="fr">Vue matérialisée</dc:subject>
+  <dc:subject xml:lang="fr">SQL</dc:subject>
+  <dc:subject xml:lang="en">Algorithmics</dc:subject>
+  <dc:subject xml:lang="en">Data analysis</dc:subject>
+  <dc:subject xml:lang="en">Time analysis</dc:subject>
+  <dc:subject xml:lang="en">Stock exchange</dc:subject>
+  <dc:subject xml:lang="en">Compilation</dc:subject>
+  <dc:subject xml:lang="en">Case history</dc:subject>
+  <dc:subject xml:lang="en">Database query</dc:subject>
+  <dc:subject xml:lang="en">Maintenance</dc:subject>
+  <dc:subject xml:lang="en">Updating</dc:subject>
+  <dc:subject xml:lang="en">Finite difference method</dc:subject>
+  <dc:subject xml:lang="en">Range query</dc:subject>
+  <dc:subject xml:lang="en">Delay</dc:subject>
+  <dc:subject xml:lang="en">Semantics</dc:subject>
+  <dc:subject xml:lang="en">Real time</dc:subject>
+  <dc:subject xml:lang="en">Incremental view</dc:subject>
+  <dc:subject xml:lang="en">Materialized view</dc:subject>
+  <dc:subject xml:lang="en">SQL</dc:subject>
+  <dc:subject xml:lang="en">Compilation</dc:subject>
+  <dc:subject xml:lang="en">Database queries</dc:subject>
+  <dc:subject xml:lang="en">Incremental view maintenance</dc:subject>
+  <dc:subject xml:lang="en">Materialized views</dc:subject>
+  <dc:subject xml:lang="es">Algorítmica</dc:subject>
+  <dc:subject xml:lang="es">Análisis datos</dc:subject>
+  <dc:subject xml:lang="es">Análisis temporal</dc:subject>
+  <dc:subject xml:lang="es">Bolsa valores</dc:subject>
+  <dc:subject xml:lang="es">Compilación</dc:subject>
+  <dc:subject xml:lang="es">Estudio histórico</dc:subject>
+  <dc:subject xml:lang="es">Interrogación base datos</dc:subject>
+  <dc:subject xml:lang="es">Mantenimiento</dc:subject>
+  <dc:subject xml:lang="es">Actualización</dc:subject>
+  <dc:subject xml:lang="es">Método diferencia finita</dc:subject>
+  <dc:subject xml:lang="es">Búsquedas dentro de un rango</dc:subject>
+  <dc:subject xml:lang="es">Retraso</dc:subject>
+  <dc:subject xml:lang="es">Semántica</dc:subject>
+  <dc:subject xml:lang="es">Tiempo real</dc:subject>
+  <dc:subject xml:lang="es">Vista incremental</dc:subject>
+  <dc:subject xml:lang="es">Vista materializada</dc:subject>
+  <dc:subject xml:lang="es">SQL</dc:subject>
+  <dc:subject>001D02A05: Algorithmique. Calculabilité. Arithmétique ordinateur / Algorithmics. Computability. Computer arithmetics</dc:subject>
+  <dc:subject>001D02B07D: Systèmes d'information. Bases de données / Information systems. Data bases</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 28681276</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

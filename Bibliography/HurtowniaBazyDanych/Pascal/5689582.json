@@ -1,0 +1,297 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Maximum allowable manipulator mass based on cycle time, impact safety and pinching safety",
+    "dc:creator": [
+        "VERMEULEN, M. M. A",
+        "WISSE, M"
+    ],
+    "dc:contributor": "LOUGHLIN, Clive (Author of introductory parts)",
+    "dc:relation": "Industrial robot -- Ind. rob, CODEN IDRBAT, ISSN 0143-991X, Vol. 35 (5) , pp. 410-420",
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Emerald",
+    "dc:format": [
+        "print",
+        "11 p. ; 3/4 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Agriculture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Butée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Commande électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contact statique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrainte contact"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Distribution masse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Energie cinétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Energie potentielle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exigence sécurité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Inertie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Manipulateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Manutention matériau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Masse ajoutée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériel agricole"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Positionnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pression statique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Robotique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Régime statique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sécurité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vitesse maximale"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Agriculture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stop"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Static contact"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Contact stress"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mass distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Kinetic energy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Potential energy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Safety requirement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inertia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Manipulator"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Materials handling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Added mass"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Agricultural equipment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Positioning"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Static pressure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Robotics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Static conditions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Safety"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Maximum velocity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Agricultural equipment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Materials handling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Robotics"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agricultura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tope"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Control electrónico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contacto estático"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tensión contacto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Energía cinética"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Energía potencial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Exigencia seguridad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inercia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Manipulador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Masa agregada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Equipo agrícola"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Posicionamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Presión estática"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Robótica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Régimen estático"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Seguridad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Velocidad máxima"
+        },
+        "001D02D11: Robotique / Robotics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20655902"
+}

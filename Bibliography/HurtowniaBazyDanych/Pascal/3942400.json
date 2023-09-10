@@ -1,0 +1,135 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SARALASINE ET PREDICTION DU RESULTAT CHIRURGICAL DANS L'HYPERTENSION ARTERIELLE RENO-VASCULAIRE",
+    "dc:creator": [
+        "MIMRAN A",
+        "DESCHODT G",
+        "FOURCADE J",
+        "BARSON P"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "ARCH. MAL. COEUR VAISS.; FRA; DA. 1979; VOL. 72; NO SPEC.; PP. 16-21; ABS. ENG/SPA; BIBL. 22 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "HYPERTENSION ARTERIELLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ARTERE RENALE PATHOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EPREUVE PHARMACOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIRURGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ARTERE RENALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STENOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "THROMBOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ATHEROSCLEROSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HYPERPLASIE FIBROMUSCULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRONOSTIC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SARALASINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PATHOLOGIE URINAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PATHOLOGIE CARDIOVASCULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARDIOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HYPERTENSION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RENAL ARTERY DISEASE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHARMACOLOGIC TEST"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SURGERY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RENAL ARTERY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STENOSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THROMBOSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ATHEROSCLEROSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FIBROMUSCULAR HYPERPLASIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PROGNOSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "URINARY TRACT DISEASES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CARDIOLOGY"
+        },
+        "002B12: Cardiologie. Appareil circulatoire / Cardiology. Vascular system",
+        "002B14: Nephrologie. Maladies des voies urinaires / Nephrology. Urinary tract diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8050118553"
+}

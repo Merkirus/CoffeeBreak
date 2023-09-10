@@ -1,0 +1,57 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "L'histoire religieuse des régions du Québec bilan et perspectives : Les espaces d'analyse et de pratiques; The religious history of regions of Quebec : evaluation and perspectives",
+    "dc:creator": "HUDON, Christine",
+    "dc:relation": "Etudes d'histoire religieuse -- Etud. hist. relig -- Historical studies, ISSN 1193-199X, pp. 33-45",
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Editions Historia Ecclesiae Catholicae Canadensis",
+    "dc:format": [
+        "print",
+        "2 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Culture religieuse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Histoire religieuse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Culture régionale"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Religious culture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Religious history"
+        },
+        "527-: Histoire et sciences des religions / History and sciences of religions",
+        "527-865: Christianisme / Christianity",
+        "527-1326: Mentalités religieuses / Religious mentalities"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Québec"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quebec"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1160238"
+}

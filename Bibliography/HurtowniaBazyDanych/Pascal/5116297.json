@@ -1,0 +1,319 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Ion-exclusion chromatography with conductimetric detection of aliphatic carboxylic acids on a weakly acidic cation-exchange resin by elution with benzoic acid-β-cyclodextrin",
+    "dc:creator": [
+        "TANHKA, Kazuhiko",
+        "MORI, Masanobu",
+        "QUN XU",
+        "HELALEH, Murad I. H",
+        "IKEDO, Mikaru",
+        "TAODA, Hiroshi",
+        "WENZHI HU",
+        "HASEBE, Kiyoshi",
+        "FRITZ, James S",
+        "HADDAD, Paul R"
+    ],
+    "dc:contributor": [
+        "VANATTA, Lynn E (Editor)",
+        "IICS'02 International Ion Chromatography Symposium (15 ; Baltimore, MD 2002-09-29)"
+    ],
+    "dc:relation": [
+        "Journal of chromatography -- J. chromatogr, CODEN JOCRAM, ISSN 0021-9673, Vol. 997 (1-2) , pp. 127-132",
+        "15th International Ion Chromatography Symposium, Baltimore, MD, USA, 29 September-2 October 2002"
+    ],
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "6 p. ; 16 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Acide alcanoïque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Acide carboxylique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Benzoïque acide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chaîne courte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chromatographie gel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chromatographie ionique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Citrique acide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composition phase"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cyclodextrine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diacide carboxylique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hydroxyacide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lactique acide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Limite détection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Malique acide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phase mobile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phase stationnaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résine échangeuse cation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résolution pic"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rétention chromatographique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Succinique acide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tartrique acide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Alkanoic acid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Carboxylic acid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Benzoic acid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Short chain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gel permeation chromatography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ion chromatography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Citric acid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phase composition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cyclodextrin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dicarboxylic acid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hydroxyacid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lactic acid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Detection limit"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Malic acid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mobile phase"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stationary phase"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cationic resin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Peak resolution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chromatographic retention"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Succinic acid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tartaric acid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Benzoic acid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Carboxylic acids"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cyclodextrins"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mobile phase composition"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acido alcanoico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acido carboxílico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cadena corta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cromatografía gel"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cromatografía iónica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cítrico ácido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Composición fase"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ciclodextrina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diácido carboxílico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hidroxiácido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Láctico ácido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Límite detección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Málico ácido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fase móvil"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fase estacionaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resina de cambio catiónico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resolución cresta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Retención cromatográfica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Succínico ácido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tártrico ácido"
+        },
+        "001C04B02: Autres méthodes chromatographiques / Other chromatographic methods"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14881539"
+}

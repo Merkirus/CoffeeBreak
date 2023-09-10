@@ -1,0 +1,65 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "PRUEFUNG VON LEISTUNGSSCHALTERN; L'ESSAI DES DISJONCTIONS",
+    "dc:creator": "URBANEK J",
+    "dc:date": "1981",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "ETZ-ARCH.; ISSN 0170-1703; DEU; DA. 1981; VOL. 3; NO 4; PP. 107-112; ABS. ENG; BIBL. 14 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DISJONCTEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ESSAI"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "APPAREILLAGE ELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NORMALISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROMAGNETISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROTECHNIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CIRCUIT BREAKER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TEST"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRIC DEVICE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STANDARDIZATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROMAGNETISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRICAL ENGINEERING"
+        },
+        "001D05: Electrotechnique. Electroenergetique / Electrical engineering. Electrical power engineering"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0162870"
+}

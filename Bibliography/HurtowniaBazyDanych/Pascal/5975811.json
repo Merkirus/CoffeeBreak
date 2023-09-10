@@ -1,0 +1,144 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Upper aerodigestive tract cancers",
+    "dc:creator": [
+        "MUIR, C",
+        "WEILAND, L"
+    ],
+    "dc:relation": "Cancer -- Cancer, CODEN CANCAR, ISSN 0008-543X, Vol. 75 (1) , pp. 147-153",
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Wiley-Liss",
+    "dc:format": [
+        "print",
+        "19 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Cavité buccale pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORL pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cavité buccale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epidémiologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Incidence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pronostic"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tumeur maligne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Voie aérodigestive supérieure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Type histologique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oral cavity disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENT disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oral cavity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Epidemiology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Incidence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prognosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Malignant tumor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Upper aerodigestive tract"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Histological type"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cavidad bucal patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "ORL patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cavidad bucal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Epidemiología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Incidencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pronóstico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tumor maligno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vía aerodigestiva superior"
+        },
+        "002B10B01: Tumeurs / Tumors"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3406787"
+}

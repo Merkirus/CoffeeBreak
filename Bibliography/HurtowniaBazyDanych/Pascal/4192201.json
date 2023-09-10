@@ -1,0 +1,60 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ETUDE DES PROCESSUS DANS UN ONDULEUR EN PONT, EN CAS DE PANNE SUR LES TRANSISTORS",
+    "dc:creator": [
+        "DRABOVICH YU I",
+        "PONOMAREV IG"
+    ],
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "PROBL. TEKH. ELEKTRODINAM., U.S.S.R.; S.S.S.R.; DA. 1974; NO 45; PP. 83-89; BIBL. 2 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ONDULEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ONDULEUR TRANSISTOR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DEFAUT ELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RESISTANCE ELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROTECTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE CALCUL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROMAGNETISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROTECHNIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROMAGNETISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRICAL ENGINEERING"
+        },
+        "001D05: Electrotechnique. Electroenergetique / Electrical engineering. Electrical power engineering"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7530027134"
+}

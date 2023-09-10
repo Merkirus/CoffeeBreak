@@ -1,0 +1,123 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Applications of a computerized bit record database",
+    "dc:creator": [
+        "STEINKE, S. C",
+        "WATSON, J. A",
+        "BREMNER, D. C"
+    ],
+    "dc:contributor": "IADC/SPE Drilling conference (Dallas 1988-02-28)",
+    "dc:relation": "IADC/SPE Drilling conference",
+    "dc:date": "1988",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPE of AIME",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Base donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Durée vie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Forage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Informatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ordinateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Outil diamant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trépan molette"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vitesse avancement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Database"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lifetime"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Drilling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computer science"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diamond tool"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Roller bit"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Penetration rate"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Base dato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tiempo vida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sondeo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Informática"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Computadora"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diamante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trépano rodillos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Velocidad penetración"
+        },
+        "001D06B02B3C: Outils de forage / Drilling bits"
+    ],
+    "dc:rights": [
+        "Institut Français du Pétrole et des Energies Nouvelles (IFP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 7099637"
+}

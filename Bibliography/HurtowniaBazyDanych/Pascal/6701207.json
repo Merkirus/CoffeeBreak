@@ -1,0 +1,123 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Exergoeconomic analysis of hydrogen production from biomass gasification",
+    "dc:creator": [
+        "KALINCI, Yildiz",
+        "HEPBASLI, Arif",
+        "DINCER, Ibrahim"
+    ],
+    "dc:contributor": "International Conference on Hydrogen Production (ICHP-2011) (3 ; Thessaloniki 2011-06-19)",
+    "dc:relation": [
+        "International journal of hydrogen energy -- Int. j. hydrogen energy, CODEN IJHEDX, ISSN 0360-3199, Vol. 37 (21) , pp. 16402-16411",
+        "International Conference on Hydrogen Production (ICHP-2011) (3 ; Thessaloniki 2011-06-19)"
+    ],
+    "dc:date": "2012",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "10 p. ; 33 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse exergétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Biomasse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gazéification"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lit fluidisé circulant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Paramètre thermodynamique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Production hydrogène"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Exergy analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biomass"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gasification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Circulating fluidized bed"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermodynamic parameter"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hydrogen production"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Circulating fluidized bed gasifier"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Efficiency exergoeconomics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Energy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Exergy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hydrogen production"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis exergético"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biomasa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gasificación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lecho fluidizado circulante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Parámetro termodinámico"
+        },
+        "001D06: Energie / Energy",
+        "001D06B06B: Hydrogène / Hydrogen",
+        "001D06C06: Biomasse / Biomass"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 26467520"
+}

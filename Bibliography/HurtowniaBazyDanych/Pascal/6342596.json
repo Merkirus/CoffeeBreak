@@ -1,0 +1,141 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Analytical method for the estimation of no-load properties of cross-field heating systems with periodic arrays",
+    "dc:creator": [
+        "NAMJOSHI, K. V",
+        "BIRINGER, P. P"
+    ],
+    "dc:contributor": [
+        "IEEE (Funder/Sponsor)",
+        "INTERMAG'93 : international magnetics conference (Stockholm 1993-04-13)"
+    ],
+    "dc:relation": [
+        "IEEE transactions on magnetics -- IEEE trans. magn, CODEN IEMGAQ, ISSN 0018-9464, Vol. 29 (6) , pp. 2464-2466",
+        "INTERMAG'93 : international magnetics conference"
+    ],
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institute of Electrical and Electronics Engineers",
+    "dc:format": [
+        "print",
+        "8 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Champ magnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chauffage électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Elément chauffant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Entrefer"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Impédance électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode calcul"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau(arrangement)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement thermique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système chauffage champ croisé"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetic field"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electric heating"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heating element"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Air gap"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrical impedance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computing method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Array"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heat treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cross field heating system"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Campo magnético"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Calefacción eléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Elemento calentador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Entrehierro"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Impedancia eléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método cálculo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento térmico"
+        },
+        "001D05G06: Divers / Miscellaneous",
+        "001D06: Energie / Energy",
+        "001D06D07A: Généralités / General"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3423139"
+}

@@ -1,0 +1,102 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SYNTHESE DE DICETONES SILICIEES DE \"TYPE CAGE\"",
+    "dc:creator": [
+        "TOLSTIKOV GA",
+        "LERMAN BM",
+        "GALIN FZ",
+        "DANILOVA NA"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "ZH. OBSHCH. KHIM.; S.S.S.R.; DA. 1977; VOL. 47; NO 7; PP. 1656-1659; BIBL. 5 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE CAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DICETONE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REACTION PHOTOCHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SILICIUM COMPOSE ORGANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE TRICYCLIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHOTOLYSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CYCLISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PENTACYCLOUNDECANEDIONE(TRIMETHYLSILYL)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHANO-1,4NAPHTALENE DIONE-5,8(HEXAHYDRO-1,4 4A,5,8,8A TRIMETHYLSILYL-9)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMOPENTEOPRISMANE DERIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE GENERALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE PHYSIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CAGE COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIKETONE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHOTOCHEMICAL REACTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TRICYCLIC COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHOTOLYSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CYCLIZATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENERAL CHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHYSICAL CHEMISTRY"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7860044352"
+}

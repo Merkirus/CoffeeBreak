@@ -1,0 +1,250 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Surviving polio in a post-polio world",
+    "dc:creator": [
+        "GROCE, Nora Ellen",
+        "BANKS, Lena Morgon",
+        "STEIN, Michael Ashley"
+    ],
+    "dc:relation": "Social science & medicine (1982) -- Soc. sci. med. (1982), CODEN SSMDEP, ISSN 0277-9536, Vol. 107, pp. 171-178",
+    "dc:date": "2014",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "8 p. ; 1 p.1/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie de la moelle épinière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie du système nerveux central"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie du système nerveux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Virose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aspect social"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eradication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Incapacité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Médecine sociale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Poliomyélite antérieure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réadaptation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réhabilitation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé publique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Survie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spinal cord disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central nervous system disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nervous system diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Viral disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Social aspect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Eradication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Disability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Social medicine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Acute anterior poliomyelitis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rehabilitation(human)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rehabilitation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Survival"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Disability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Eradication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Global public health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polio"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Post-polio"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rehabilitation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Infección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Médula espinal patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervosio central patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Virosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aspecto social"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Erradicación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Incapacidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medicina social"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Poliomielitis anterior"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Readaptación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rehabilitación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud pública"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sobrevivencia"
+        },
+        "002B05C02A: Viroses du système nerveux / Viral diseases of the nervous system",
+        "002B17A07: Liquide céphalorachidien. Méninges. Moelle épinière / Cerebrospinal fluid. Meninges. Spinal cord",
+        "002B30A11: Divers / Miscellaneous",
+        "760-L: Divers / Miscellaneous"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Monde"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "World"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mundo"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 28399368"
+}

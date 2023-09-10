@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "RELATION ENTRE LA CONFIGURATION ET LA TAUTOMERIE DE FORMYL-HYDRAZINO-5 AS-TRIAZINES",
+    "dc:creator": [
+        "DAUNIS J",
+        "FOLLET M",
+        "GELIZE M"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "REC. TRAV. CHIM. PAYS-BAS; NLD; DA. 1979; VOL. 98; NO 10; PP. 503-505; BIBL. 20 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CONFIGURATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HETEROCYCLE AZOTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CYCLE 6 CHAINONS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EFFET SUBSTITUANT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TAUTOMERIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRIAZINE-1,2,4THIOL-3(FORMYL-2P HYDRAZINO-5)!FIN!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRIAZINE-1,2,4THIOL-3(FORMYL-2P HYDRAZINO-5 METHYL-6)!FIN!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRIAZINE-1,2,4ONE-5(TETRAHYDRO-2,3,4,5 THIONO-3) FORMYLHYDRAZONE!FIN!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRIAZINE-1,2,4THIONE-3(DIHYDRO-3,4 FORMYL-2P HYDRAZINO-5)!FIN!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "THIOUREE DERIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE ORGANIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONFIGURATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NITROGEN HETEROCYCLE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SIX MEMBERED RING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SUBSTITUENT EFFECT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TAUTOMERISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORGANIC CHEMISTRY"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8060028672"
+}

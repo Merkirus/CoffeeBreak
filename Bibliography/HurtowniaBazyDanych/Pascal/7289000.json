@@ -1,0 +1,75 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Organic complexes of Eu3+ supported in functionalized silica gel : highly luminescent material",
+    "dc:creator": [
+        "SERRA, O. A",
+        "NASSAR, E. J",
+        "ZAPPAROLLI, G",
+        "ROSEA, I. L. V"
+    ],
+    "dc:contributor": [
+        "MORSS, Lester R (Editor)",
+        "DELONG, Lance E (Editor)",
+        "REID, Michael F (Editor)",
+        "SILBER, Herbert B (Editor)",
+        "Rare Earth Research Conferences",
+        "San José State University (Funder/Sponsor)",
+        "Rare earth reserch conference (20 ; Monterey CA 1993-09-12)"
+    ],
+    "dc:relation": [
+        "Journal of alloys and compounds -- J. alloys compd, ISSN 0925-8388, Vol. 207-08, pp. 454-456",
+        "Rare earth reserch conference"
+    ],
+    "dc:date": "1994",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "6 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europium complexe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Luminescence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Silice"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europium complexes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Luminescence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Silica"
+        },
+        "001B70H55K: Matériaux organiques solides / Solid organic materials",
+        "7855K:  / Solid organic materials"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4145696"
+}

@@ -1,0 +1,201 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "High speed Short Wave Infrared (SWIR) imaging and range gating cameras",
+    "dc:creator": [
+        "BATTAGLIA, Jesse",
+        "BRUBAKER, Robert",
+        "ETTENBERG, Martin",
+        "MALCHOW, Douglas"
+    ],
+    "dc:contributor": [
+        "Knettel, Kathryn M (Editor)",
+        "Vavilov, Vladimir Platonovich (Editor)",
+        "Miles, Jonathan J (Editor)",
+        "Society of photo-optical instrumentation engineers (Organiser of meeting)",
+        "Thermosense (29 ; Orlando, Florida 2007)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, pp. 654106.1-654106.12",
+        "Thermosense XXIX (9-12 April 2007, Orlando, Florida, USA) -- 0Thermosense 29"
+    ],
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Application militaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé ternaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Faisceau laser"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Front onde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gallium arséniure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grande vitesse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Imagerie thermique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Indium arséniure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lumière solaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Oeil"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résolution image"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Télémètre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Télémétrie laser"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "8920D"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "As Ga In"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Détecteur non refroidi"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "InGaAs"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Military application"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ternary compound"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laser beam"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wavefront"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gallium arsenides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High speed"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermal imaging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Indium arsenides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sunlight"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Eye"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Image resolution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Range finder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laser range finding"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Uncooled detectors"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aplicación militar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Compuesto ternario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Haz láser"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Frente onda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gran velocidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Imageria termica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ojo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resolución imagen"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Telemetro"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Telemetría láser"
+        },
+        "001D17: Techniques et industries diverses / Other techniques and industries"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 19207370"
+}

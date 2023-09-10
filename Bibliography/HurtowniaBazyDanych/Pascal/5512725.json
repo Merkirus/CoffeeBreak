@@ -1,0 +1,151 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Power scaling of high power fiber lasers for micromachining and materials processing applications",
+    "dc:creator": [
+        "NORMAN, Stephen",
+        "ZERVAS, Mikhail",
+        "APPLEYARD, Andrew",
+        "SKULL, Paul",
+        "WALKER, Duncan",
+        "TURNER, Paul",
+        "CROWE, Ian"
+    ],
+    "dc:contributor": [
+        "Brown, Andrew J. W (Editor)",
+        "Society of photo-optical instrumentation engineers (Organiser of meeting)",
+        "Fiber lasers. Conference (3 ;  2006)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, pp. 61021P.1-61021P.7",
+        "Fiber lasers III (technology, systems, and applications)"
+    ],
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "1"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffusion Raman stimulée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet non linéaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fiabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Laser fibre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microusinage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optique non linéaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Puissance sortie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Qualité rayonnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement matériau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4255W"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4260J"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4265D"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pompage latéral"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pompage par gaine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stimulated Raman scattering"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Non linear effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reliability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fiber lasers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Micromachining"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nonlinear optics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Output power"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiation quality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Material processing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Side pumping"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efecto no lineal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Potencia salida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento material"
+        },
+        "001B40B55W: Lasers à fibre / Fiber lasers",
+        "001B40B60J: Caractéristiques des faisceaux laser: intensité, profil et puissance; formation d'un motif spatial / Beam characteristics: profile, intensity, and power; spatial pattern formation",
+        "001B40B65D: Diffusion raman stimulée; cars / Stimulated raman scattering; cars"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18223929"
+}

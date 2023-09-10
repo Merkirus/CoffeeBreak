@@ -1,0 +1,61 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "L'élimination en algèbre aux XVIIe et XVIIIe siècles",
+    "dc:creator": "PENCHEVRE, Erwan",
+    "dc:relation": "Historia scientiarum -- Hist. sci, ISSN 0285-4821, Vol. 14 (2) , pp. 101-117",
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "History of Science Society of Japan",
+    "dc:format": [
+        "print",
+        "17 p. ; 39 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Algèbre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Elimination"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Algebra"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Elimination"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Algebra"
+        },
+        "522-: Histoire des sciences et des techniques / History of science and technology",
+        "522-57: Sciences et techniques mathematiques / Mathematical sciences and techniques",
+        "522-65: XVIIe siècle / 17th century"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Siècle 17-18"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Century 17-18"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Siglo 17-18"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16757266"
+}

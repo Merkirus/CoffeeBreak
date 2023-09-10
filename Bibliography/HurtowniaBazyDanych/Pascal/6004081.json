@@ -1,0 +1,128 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Signal transduction pathways involving the Raf proto-oncogene",
+    "dc:creator": [
+        "WILLIAMS, N. G",
+        "ROBERTS, T. M"
+    ],
+    "dc:relation": "Cancer metastasis reviews -- Cancer metastasis rev, CODEN CMRED4, ISSN 0167-7659, Vol. 13 (1) , pp. 105-116",
+    "dc:date": "1994",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "99 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Enzyme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transferases"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gène onc cellulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mitogène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Protein kinase"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Protooncogène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transduction signal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gène raf"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Enzyme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transferases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "C-Onc gene"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mitogen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Protein kinase"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Protooncogene"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Signal transduction"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enzima"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transferases"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gen onc celular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mitógeno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Protein kinase"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Protooncogen"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transducción señal"
+        },
+        "002A04H17: Transduction du signal / Signal transduction"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3897139"
+}

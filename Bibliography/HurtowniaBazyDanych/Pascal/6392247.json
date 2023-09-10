@@ -1,0 +1,103 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Prototype software model for designing intruder detection systems with simulation",
+    "dc:creator": [
+        "SMITH, J",
+        "PETERS, B",
+        "CURRY, J",
+        "GUPTA, D"
+    ],
+    "dc:contributor": [
+        "Sisti, Alex F (Editor)",
+        "International Society for Optical Engineering (Organiser of meeting)",
+        "Enabling technology for simulation science. Conference (2 ; Orlando FL 1998-04-14)"
+    ],
+    "dc:relation": [
+        "SPIE proceedings series -- SPIE proc. ser, pp. 101-108",
+        "Enabling technology for simulation science II (Orlando FL, 14-16 April 1998)"
+    ],
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "5 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Développement logiciel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation ordinateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation système"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation événement discret"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système temps réel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sécurité donnée"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Software development"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computer simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "System simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Discrete event simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Real time system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Security of data"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desarrollo logicial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simulación computadora"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simulación sistema"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema tiempo real"
+        },
+        "001D02B08: Simulation / Simulation",
+        "001D02D05: Modélisation et identification / Modelling and identification"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1571999"
+}

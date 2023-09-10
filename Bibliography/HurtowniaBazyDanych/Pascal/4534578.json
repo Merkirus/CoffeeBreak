@@ -1,0 +1,57 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "UTILISATION DE L'ANALYSE STATISTIQUE SEQUENTIELLE POUR LE CONTROLE DE L'EXACTITUDE DES MESURES D'ANGLE DANS LA TRIANGULATION DE DEUXIEME ORDRE",
+    "dc:creator": "GIERASIMOWICZ A",
+    "dc:date": "1973",
+    "dc:type": "Serial Issue",
+    "dc:language": "Polish",
+    "dc:format": "GEOD. I KARTOGR.,; POLSKA; DA. 1973; VOL. 22; NO 1; PP. 15-26; ABS. RUSSE FR.; BIBL. 12REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TRIANGULATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RESEAU TRIANGULATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RESEAU DEUXIEME ORDRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MESURE ANGLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRECISION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE SEQUENTIELLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEODESIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOPHYSIQUE INTERNE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEODESY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTERNAL GEOPHYSICS"
+        },
+        "001E01: Sciences de la terre / Earth sciences"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL731208793"
+}

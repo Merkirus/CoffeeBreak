@@ -1,0 +1,199 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Piezoelectricity in indium nitride",
+    "dc:creator": [
+        "GUY, I. L",
+        "ZHENG, Z",
+        "WINTREBERT-FOUQUET, M",
+        "BUTCHER, K. S. A",
+        "CHEN, P",
+        "TANSLEY, T. L"
+    ],
+    "dc:contributor": [
+        "BUTCHER, K. S. A (Editor)",
+        "US Office of Naval Research (ONR) (Funder/Sponsor)",
+        "International Workshop on Indium Nitride (1 ; Fremantle 2003-11-16)"
+    ],
+    "dc:relation": [
+        "Journal of crystal growth -- J. cryst. growth, CODEN JCRGAE, ISSN 0022-0248, Vol. 269 (1) , pp. 72-76",
+        "ONR Indium Nitride Workshop: Proceedings of the First International Indium Nitride Workshop, 16-20 November 2003, Fremantle, Australia"
+    ],
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "5 p. ; 16 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé minéral"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Caractéristique courant tension"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé binaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Couche épaisse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Croissance cristalline en phase vapeur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Défaut"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dépôt chimique phase vapeur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet champ électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Indium nitrure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode PECVD"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Piézoélectricité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polycristal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Semiconducteur III-V"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "In N"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "InN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Substrat Au"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Substrat Si"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inorganic compounds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IV characteristic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Binary compounds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thick films"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Crystal growth from vapors"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Defects"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CVD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electric field effects"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Indium nitrides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PECVD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Piezoelectricity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polycrystals"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "III-V semiconductors"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "73.61.E"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "77.22.E A1. Polarization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "77.65"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "77.84.B"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "B1. Nitride"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "B2. Piezoelectric materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "B2. Semiconducting indium compounds"
+        },
+        "001B70G65B: Constantes piézoélectriques et électrostrictives / Piezoelectric and electrostrictive constants",
+        "001B80A15G: Dépôt chimique en phase vapeur (incluant le cvd activé par plasma, mocvd, etc.) / Chemical vapor deposition (including plasma-enhanced cvd, mocvd, etc.)",
+        "7765B:  / Piezoelectric and electrostrictive constants",
+        "8115G:  / Chemical vapor deposition (including plasma-enhanced CVD, MOCVD, etc.)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16042416"
+}

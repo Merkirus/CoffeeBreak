@@ -1,0 +1,40 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ETUDE COMPARATIVE DES PHOSPHOPEPTIDES DANS DIVERS TISSUS ANIMAUX",
+    "dc:creator": [
+        "LEDIG M",
+        "MANDEL P"
+    ],
+    "dc:date": "1975",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "BIOCHIMIE; FR.; DA. 1975; VOL. 57; NO 11-12; PP. 1377-1384; ABS. ANGL.; BIBL. 22 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "METABOLISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MAMMALIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PISCES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MILIEU MARIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHOSPHOPEPTIDE"
+        },
+        "002A14: Ecologie animale, vegetale et microbienne / Animal, plant and microbial ecology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7650231425"
+}

@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "VENTILATION HEAT LOSS OUTSIDE IN",
+    "dc:creator": "GALE R",
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "GAS ENGNG MANAG.; GBR; DA. 1979; VOL. 19; NO 11; PP. 563-572; BIBL. 26 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "VENTILATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BATIMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INFILTRATION AIR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PERTE CHALEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TAUX VENTILATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TECHNIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONCEPTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VENTILATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BUILDINGS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AIR INFILTRATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEAT LOSS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METHODS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AIR CHANGE RATE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TECHNIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DESIGN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY"
+        },
+        "001D06: Energie / Energy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8070216441"
+}

@@ -1,0 +1,114 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Double balloon endoscopy in small intestinal Crohn's disease and other inflammatory diseases such as cryptogenic multifocal ulcerous stenosing enteritis (CMUSE)",
+    "dc:creator": [
+        "DONG KYUNG CHANG",
+        "KIM, Jae J",
+        "CHOI, Hwang",
+        "CHANG SOO EUN",
+        "DONG SOO HAN",
+        "JEONG SIK BYEON",
+        "JIN OH KIM"
+    ],
+    "dc:contributor": "International Workshop on Double Balloon Endoscopy (1 ; Tokyo 2006-08-04)",
+    "dc:relation": [
+        "Gastrointestinal endoscopy -- Gastrointest. endosc, CODEN GAENBQ, ISSN 0016-5107, Vol. 66 (3)",
+        "Global perspectives on double balloon endoscopy"
+    ],
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "S96-S98 ; 3 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie de l'appareil digestif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Endoscopie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Entérite de Crohn"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Maladie inflammatoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie de l'intestin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Endoscopie digestive"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Endoscopie gastrointestinale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Entéroscopie à double ballon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Digestive diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Endoscopy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Crohn disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inflammatory disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Intestinal disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Double balloon enteroscopy"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato digestivo patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Endoscopía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enteritis Crohn"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enfermedad inflamatoria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Intestino patología"
+        },
+        "002B13B03: Autres maladies. Sémiologie / Other diseases. Semiology",
+        "002B24E06: Appareil digestif. Abdomen / Digestive system. Abdomen"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 19939487"
+}

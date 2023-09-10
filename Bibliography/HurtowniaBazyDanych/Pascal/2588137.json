@@ -1,0 +1,91 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "RECOMBINATION OF NO+ IN THE IONOSPHERE.",
+    "dc:creator": [
+        "TORR DG",
+        "TORR MR",
+        "WALKER JCG",
+        "BRACE LH",
+        "BRINTON HC",
+        "HANSON WB",
+        "HOFFMAN JH",
+        "NIER AO",
+        "OPPENHEIMER M"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "GEOPHYS. RES. LETTERS; U.S.A.; DA. 1976; VOL. 3; NO 4; PP. 209-212; BIBL. 14 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "IONOSPHERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSITION IONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OXYDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE CARBONE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RECOMBINAISON DISSOCIATIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TEMPERATURE ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ION POSITIF"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NO+"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOPHYSIQUE EXTERNE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IONOSPHERE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ION COMPOSITION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OXIDES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DISSOCIATIVE RECOMBINATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRON TEMPERATURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POSITIVE ION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXTERNAL GEOPHYSICS"
+        },
+        "001E01: Sciences de la terre / Earth sciences"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7730028279"
+}

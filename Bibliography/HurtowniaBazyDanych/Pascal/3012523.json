@@ -1,0 +1,68 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE CONFORMATION OF ADENOVIRUS VAI-RNA IN SOLUTION",
+    "dc:creator": [
+        "MONSTEIN HJ",
+        "PHILIPSON L"
+    ],
+    "dc:date": "1981",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "NUCLEIC ACIDS RES.; ISSN 0305-1048; GBR; DA. 1981; VOL. 9; NO 17; PP. 4239-4250; BIBL. 25 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "RNA LMW"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONFORMATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ADENOVIRUS 2"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STRUCTURE SECONDAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MODELE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROPHORESE GEL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NUCLEASE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOCHIMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONFORMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MODELS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEL ELECTROPHORESIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOCHEMISTRY"
+        },
+        "002A02: Biochimie analytique, structurale et metabolique / Analytical, structural and metabolic biochemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL82X0194305"
+}

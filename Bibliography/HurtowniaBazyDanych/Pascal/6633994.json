@@ -1,0 +1,355 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Comparison of liquid impingement results from whirling arm and water-jet rain erosion test facilities",
+    "dc:creator": [
+        "TOBIN, E. F",
+        "YOUNG, T. M",
+        "RAPS, D",
+        "ROHR, O"
+    ],
+    "dc:contributor": [
+        "LUDEMA, K. C (Editor)",
+        "SHAFFER, S. J (Editor)",
+        "International Wear of Materials Conference (WOM 2011) (14 ; Philadelphia, Pennsylvania 2011-04-03)"
+    ],
+    "dc:relation": [
+        "Wear -- Wear, CODEN WEARAH, ISSN 0043-1648, Vol. 271 (9-10) , pp. 2625-2631",
+        "18th International Conference on Wear of Materials Philadelphia, USA 4-7 April 2011"
+    ],
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "7 p. ; 16 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Aluminium alliage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aérodynamique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aéronef"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bord attaque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chauffage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Erosion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etalonnage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gouttelette"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Jet eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Jet liquide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Localisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microscope balayage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microscope laser"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microscopie confocale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métrologie surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pluie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Profilométrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Répétabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Source chaleur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Surface rugueuse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système refroidissement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tribologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vol"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aluminium alloy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aerodynamics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aircraft"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Leading edge"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heating"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Erosion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Calibration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Droplet"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water jet"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Liquid jet"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Localization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Scanning microscope"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laser microscope"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Confocal microscopy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface metrology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Profilometry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Repeatability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heat source"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rough surface"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cooling system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tribology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Flight"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Droplet impact"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Liquid impingement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rain erosion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Whirling arm"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aluminio aleación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aerodinámica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aeronave"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Borde ataque"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Calefacción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Erosión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contraste"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gotita"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Chorro agua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Chorro líquido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Localización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Microscopio barrido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Microscopio láser"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Microscopía confocal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metrología superficie"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lluvia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Perfilometría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Repetibilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fuente calor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Superficie rugosa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema enfriamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tribología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vuelo"
+        },
+        "001D12C01: Généralités / General",
+        "001D12D02: Frottement, usure, lubrification / Friction, wear, lubrication"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 24481646"
+}

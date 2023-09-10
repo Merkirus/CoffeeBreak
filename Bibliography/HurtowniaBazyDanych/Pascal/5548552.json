@@ -1,0 +1,150 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Simulation aided optimisation of manufacturing processes in university education",
+    "dc:creator": [
+        "WEIGERT, Gerald",
+        "WERNER, Sebastian",
+        "HORN, Sven"
+    ],
+    "dc:contributor": "WANG, Lihui (Editor)",
+    "dc:relation": "International journal of manufacturing technology and management -- Int. j. manuf. technol. manag, ISSN 1368-2148, Vol. 9 (3-4) , pp. 372-386",
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Inderscience",
+    "dc:format": [
+        "print",
+        "15 p. ; 1/4 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Education"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enseignement supérieur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gestion production"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ordonnancement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Processus fabrication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Procédé fabrication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation événement discret"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système événement discret"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Education"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Higher education"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Production management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Scheduling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Production process"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Manufacturing process"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Discrete event simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Discrete event system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "education"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "event discrete simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "optimisation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "scheduling"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Educación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enseñanza superior"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gestión producción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reglamento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Proceso fabricación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Procedimiento fabricación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema acontecimiento discreto"
+        },
+        "001D01A13: Gestion des stocks, gestion de la production. Distribution / Inventory control, production control. Distribution"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18494440"
+}

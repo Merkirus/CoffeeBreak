@@ -1,0 +1,86 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE STRUCTURE OF POTASSIUM TANTALUM FLUORIDE OXIDE K12TA15.5F18.5O35.5",
+    "dc:creator": [
+        "BOUKHARI A",
+        "CHAMINADE JP",
+        "POUCHARD M",
+        "YLASSE M"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "ACTA CRYSTALLOGR., B; ISSN 0567-7408; DNK; DA. 1979; VOL. 35; NO 11; PP. 2518-2522; BIBL. 13 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "POTASSIUM COMPOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TANTALE COMPOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OXYDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FLUORURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STRUCTURE CRISTALLINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE DIFFRACTION RX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POTASSIUM TANTALE OXYFLUORURE MIXTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE MINERAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CRISTALLOGRAPHIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POTASSIUM COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TANTALUM COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OXIDES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FLUORIDES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CRYSTAL STRUCTURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INORGANIC COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CRISTALLOGRAPHY"
+        },
+        "001B60A: Structure des liquides et des solides; cristallographie / Structure of solids and liquids; crystallography"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8040139349"
+}

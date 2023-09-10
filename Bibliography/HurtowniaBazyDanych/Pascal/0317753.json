@@ -1,0 +1,81 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "EIN ALLGEMEINES STATISTISCHES VERFAHREN ZUR ENTWURFSZENTRIERUNG UND TOLERANZZUORDNUNG; METHODE STATISTIQUE UNIVERSELLE POUR LE CENTRAGE DES VALEURS DE CONCEPTION ET L'ATTRIBUTION DE TOLERANCES",
+    "dc:creator": "ARMAOS Y",
+    "dc:date": "1981",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "AEUE, ARCH. ELEKTRON. UEBERTRAGUNGSTECH.; ISSN 0001-1096; DEU; DA. 1981; VOL. 35; NO 4; PP. 173-178; ABS. ENG; BIBL. 17 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "APPAREILLAGE ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FABRICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RENDEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COUT PRODUCTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONCEPTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "THEORIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE STATISTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONIC EQUIPMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "YIELD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MANUFACTURING COST"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DESIGN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THEORY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THEORETICAL STUDIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STATISTICAL ANALYSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONICS"
+        },
+        "001D03: Electronique / Electronics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8130447709"
+}

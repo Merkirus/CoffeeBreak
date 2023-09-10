@@ -1,0 +1,201 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Comparison of synoptic-based preprocessor estimates",
+    "dc:creator": [
+        "ERBES, G",
+        "PECHINGER, U"
+    ],
+    "dc:contributor": [
+        "HALLDIN, Sven (Editor)",
+        "GRYNING, Sven-Erik (Editor)",
+        "GOTTSCHALK, Lars (Editor)",
+        "JOCHUM, Anne (Editor)",
+        "VAN DE GRIEND, Adriaan (Editor)"
+    ],
+    "dc:relation": "Agricultural and forest meteorology -- Agric. for. meteorol, CODEN AFMEEB, ISSN 0168-1923, Vol. 98-99, pp. 509-519",
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Elsevier",
+        "Elsevier",
+        "Elsevier"
+    ],
+    "dc:format": [
+        "print",
+        "20 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Couche limite atmosphérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dispersion atmosphérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude comparative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Flux thermique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Frottement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Impact environnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle simulation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Météorologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Préprocesseur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rayonnement solaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Expérimentation NOPEX"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Atmospheric boundary layer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Atmospheric dispersion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heat flow"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Friction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Environment impact"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Simulation model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Meteorology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Preprocessor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Solar radiation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Capa límite atmosférico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dispersión atmosférica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio comparativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Flujo térmico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Frotamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Impacto medio ambiente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo simulación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Meteorología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Preprocesor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radiación solar"
+        },
+        "001E02D02: Convection, turbulence, diffusion. Structure et dynamique de la couche limite atmosphérique / Convection, turbulence, diffusion. Boundary layer structure and dynamics"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pays Scandinaves"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Suède"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Scandinavia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sweden"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Países escandinavos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Suecia"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1387740"
+}

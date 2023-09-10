@@ -1,0 +1,173 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Measurement of the intensity and phase of supercontinuum from an 8-mm-long microstructure fiber",
+    "dc:creator": [
+        "CAO, Q",
+        "GU, X",
+        "ZEEK, E",
+        "KIMMEL, M",
+        "TREBINO, R",
+        "DUDLEY, J",
+        "WINDELER, R. S"
+    ],
+    "dc:contributor": "ZHELTIKOV, Aleksei (Editor)",
+    "dc:relation": "Applied physics. B, Lasers and optics (Print) -- Appl. phys., B Lasers opt. (Print), ISSN 0946-2171, Vol. 77 (2-3) , pp. 239-244",
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "Russian",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "6 p. ; 13 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Corrélation croisée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dispositif expérimental"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Elargissement raie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude théorique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Femtoseconde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fibre optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Impulsion ultracourte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Laser pulsé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau microstructure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mesure intensité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mesure phase"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pompage par laser"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation numérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Supercontinuum"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cross correlations"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental device"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Line broadening"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Theoretical study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Femtosecond"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical fibers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ultrashort pulse"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pulsed lasers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microstructured material"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Intensity measurement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phase measurement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laser pumping"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Digital simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Supercontinuum"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dispositivo experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Femtosegundo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Impulsión ultracorto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Material microestructura"
+        },
+        "001B40B65R: Processus ultra-rapides; génération d'impulsions optiques et compression d'impulsions / Ultrafast processes; optical pulse generation and pulse compression",
+        "001D03G02C1: Optique intégrée. Fibres et guides d'onde optiques / Integrated optics. Optical fibers and wave guides",
+        "4265R:  / Ultrafast processes; optical pulse generation and pulse compression",
+        "4281D:  / Propagation, scattering, and losses; solitons"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15141469"
+}

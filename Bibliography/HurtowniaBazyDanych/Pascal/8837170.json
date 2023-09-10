@@ -1,0 +1,83 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Tratamiento de la insuficiencia cardíaca; Treatment of congestive heart failure",
+    "dc:creator": "TAMARGO, J",
+    "dc:relation": "Ars Pharmaceutica -- Ars Pharm, ISSN 0004-2927, Vol. 36 (4) , pp. 547-568",
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "Spanish, Castilian",
+    "dc:publisher": "Universidad de Granada, Facultad de Farmacia",
+    "dc:format": [
+        "print",
+        "57 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Coeur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Médicament"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thérapeutique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Angiotensine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Digoxine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Inhibiteur enzymatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Insuffisance cardiaque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vasodilateur"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heart"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Drug and remedy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Therapeutics"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Corazňn"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medicamento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Terapéutica"
+        },
+        "522-: Histoire des sciences et des techniques / History of science and technology",
+        "522-336: Sciences et techniques de la vie / Life sciences",
+        "522-522: Thérapeutiques diverses / Diverse therapeutics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3278111"
+}

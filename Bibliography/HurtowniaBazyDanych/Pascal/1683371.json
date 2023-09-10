@@ -1,0 +1,92 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "GLOSSARY OF SCOTTISH MINERAL SPECIES 1981; GLOSSAIRE DES ESPECES MINERALES D'ECOSSE, 1981",
+    "dc:creator": [
+        "MACPHERSON HG",
+        "LIVINGSTONE A"
+    ],
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "SCOTT. J. GEOL.; ISSN 0036-9276; GBR; DA. 1982; VOL. 18; NO 1; PP. 1-48; BIBL. 1 P.; 3 TAB. ; TABL.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "INVENTAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MINERAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GLOSSAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ECOSSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MINERALOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ROYAUME UNI"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EUROPE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INVENTORY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MINERALS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GLOSSARIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SCOTLAND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MINERALOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "UNITED KINGDOM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EUROPE"
+        },
+        "001E01: Sciences de la terre / Earth sciences"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALGEODEBRGM8220131033"
+}

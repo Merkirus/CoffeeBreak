@@ -1,0 +1,261 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "EXPOSURE TO ULTRASOUND IN UTERO: EPIDEMIOLOGY AND RELEVANCE OF NEURONAL MIGRATION STUDIES",
+    "dc:creator": "MARSAL, Karel",
+    "dc:contributor": "World Federation for Ultrasound in Medicine and Biology WFUMB Safety Symposium on Nonmedical Use of Ultrasound (Florence 2007-10-08)",
+    "dc:relation": [
+        "Ultrasound in medicine & biology -- Ultrasound med. biol, CODEN USMBA3, ISSN 0301-5629, Vol. 36 (8) , pp. 1221-1223",
+        "World Federation for Ultrasound in Medicine and Biology WFUMB Safety Symposium on Nonmedical Use of Ultrasound (Florence 2007-10-08)"
+    ],
+    "dc:date": "2010",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "3 p. ; 1/2 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Développement foetal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet biologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epidémiologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exploration ultrason"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Foetus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gestation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Génie biomédical"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "In utero"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Migration cellulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Neurone"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété biologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système nerveux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Toxicité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ultrason"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fetal development"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biological effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Epidemiology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sonography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fetus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pregnancy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biomedical engineering"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "In utero"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cell migration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neuron"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biological properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nervous system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Toxicity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ultrasound"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Animal experiment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fetus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neurodevelopment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pregnancy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Safety"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ultrasound"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desarrollo fetal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efecto biológico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Epidemiología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Exploración ultrasonido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Feto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gestación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ingeniería biomédica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "In útero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Migración celular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Neurona"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad biológica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Toxicidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ultrasonido"
+        },
+        "002A08E: Action d'agents physiques divers sur la matière vivante (vibrations, champ électrique, ultrason, son...) / Effects of various physical factors on living matter (vibrations, electric field, ultrasound, sound...)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 23164478"
+}

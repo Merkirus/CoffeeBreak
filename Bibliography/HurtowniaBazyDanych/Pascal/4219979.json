@@ -1,0 +1,178 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "EXCITATION DES MODES DE VIBRATION DE MOLECULES ADSORBEES LORS DE LA CHARGE DE LA SURFACE D'UN SEMICONDUCTEUR",
+    "dc:creator": [
+        "KISELEV VF",
+        "KOZLOV SN",
+        "LEVSHIN NL"
+    ],
+    "dc:date": "1981",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "DOKL. AKAD. NAUK SSSR; ISSN 0002-3264; SUN; DA. 1981; VOL. 256; NO 2; PP. 411-414; BIBL. 9 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE EXPERIMENTALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TEMPERATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NON METAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELEMENT GROUPE IVB"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ADSORBANT MINERAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ADSORBAT MINERAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ADSORBAT ORGANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSFERT ENERGIE EXCITATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETAT ELECTRONIQUE SURFACE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ADSORPTION GAZ SOLIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DYNAMIQUE RETICULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SURFACE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GERMANIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EAU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AMMONIAC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HEXANE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHANE(TETRACHLORO)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BENZOQUINONE-1,4"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CRISTALLOGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE SOLIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXPERIMENTAL STUDY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TEMPERATURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NON METAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GROUP IVB ELEMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INORGANIC ADSORBENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INORGANIC ADSORBATE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORGANIC ADSORBATE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXCITATION ENERGY TRANSFER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SURFACE ELECTRON STATE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GAS SOLID ADSORPTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LATTICE DYNAMICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SURFACE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GERMANIUM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WATER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AMMONIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEXANE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CARBON TETRACHLORIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CRISTALLOGRAPHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID PHYSICS"
+        },
+        "001B60: Etat condense: structure, proprietes mecaniques et thermiques / Condensed matter: structure, mechanical and thermal properties",
+        "001B60A: Structure des liquides et des solides; cristallographie / Structure of solids and liquids; crystallography"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8130357327"
+}

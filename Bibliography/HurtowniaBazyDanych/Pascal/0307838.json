@@ -1,0 +1,52 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DIE TYPEN DER ARACHNIDEN-SAMMLUNG DES ZOOLOGISCHEN MUSEUMS BERLIN. III: SCORPIONES; LES TYPES D'ARACHNIDES DE LA COLLECTION DE MUSEUM ZOOLOGIQUE DE BERLIN. III: S.",
+    "dc:creator": [
+        "MORITZ M",
+        "FISCHER SC"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "MITT. ZOOL. MUS. BERLIN; DDR; DA. 1980; VOL. 56; NO 2; PP. 309-326",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "COLLECTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCORPIONIDES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ARACHNIDA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INVERTEBRATA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COLLECTIONS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SCORPIONIDES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ARACHNIDA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INVERTEBRATA"
+        },
+        "002A32: Agronomie. Sciences du sol et productions vegetales / Agronomy. Soil science and plant productions"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALZOOLINEINRA8110179083"
+}

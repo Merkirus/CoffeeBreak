@@ -1,0 +1,93 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "BREVET 2.235.783 (B) (7423099). A 3 JUILLET 1974. OUTIL DE SOUDAGE HAUTE FREQUENCE ET DE COUPE",
+    "dc:creator": "RADYNE LTD",
+    "dc:date": "sd",
+    "dc:type": "Patent",
+    "dc:language": "French",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MATERIEL SOUDAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOUDAGE RESISTANCE HF"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOUDAGE MATIERE PLASTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FEUILLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MODE OPERATOIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BREVET"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATIERE PLASTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "APPLICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROCEDE UTILISE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MACHINE A SOUDER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOUDAGE HAUTE FREQUENCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COUPEUSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STRATIFIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOUDAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE MACROMOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLYMERES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WELDING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MACROMOLECULAR CHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLYMERS"
+        },
+        "001D09: Physicochimie des polymeres / Physicochemistry of polymers",
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALSOUDAGE7574503510"
+}

@@ -1,0 +1,72 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "EINSATZVORBEREITUNG VON INDUSTRIEROBOTERN (IR) FUER DIE BESCHICKUNG VON WERKZEUGMASCHINEN; PREPARATION A L'UTILISATION DE ROBOTS INDUSTRIELS POUR L'ALIMENTATION DES MACHINES-OUTILS",
+    "dc:creator": [
+        "BUSCHBECK H",
+        "SCHEIBNER H"
+    ],
+    "dc:date": "1981",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "FERTIGUNGSTECH. BETR.; ISSN 0015-024X; DDR; DA. 1981; VOL. 31; NO 12; PP. 726-730; ABS. RUS/ENG; BIBL. 10 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MANUTENTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ROBOT INDUSTRIEL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AMENAGE PIECE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MACHINE OUTIL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORGANISATION TRAVAIL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POSTE TRAVAIL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUSTRIE MECANIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HANDLING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FEEDER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MACHINE TOOL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "JOB ENGINEERING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WORKPLACE LAYOUT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MECHANICAL ENGINEERING"
+        },
+        "001D12: Genie mecanique. Construction mecanique / Mechanical engineering. Machine design"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL82X0060485"
+}

@@ -1,0 +1,129 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DONNEES HYDROCHIMIQUES SUR DES SOURCES DES ALPES-MARITIMES",
+    "dc:creator": [
+        "JULIAN M",
+        "GRUE C",
+        "FLANDRIN L"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Conference Paper",
+    "dc:language": "French",
+    "dc:format": "CONGRES NATIONAL DE SPELEOLOGIE. 12/1976-06-05/GRASSE; FRA; S.L.: FEDERATION FRANCAISE DE SPELEOLOGIE; DA. 1978; 68-72; BIBL. 5 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EAU SOUTERRAINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "KARST"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOURCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TEMPERATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PH"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DURETE EAU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALPES MARITIMES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HYDROLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALPES FRANCAISES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FRANCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EUROPE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL ANALYSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL COMPOSITION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GROUND WATER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "KARST"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TEMPERATURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WATER HARDNESS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ALPES-MARITIMES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HYDROLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FRENCH ALPS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FRANCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EUROPE"
+        },
+        "001E01N: Hydrologie. Hydrogéologie / Hydrology. Hydrogeology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALGEODEBRGM8020033614"
+}

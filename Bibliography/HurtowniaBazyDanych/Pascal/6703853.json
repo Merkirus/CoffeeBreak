@@ -1,0 +1,215 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Expert systems for the evaluation of data quality for establishing the recommended dietary allowances",
+    "dc:creator": "HOLDEN, J. M",
+    "dc:contributor": [
+        "NIELSEN, Forrest H (Editor)",
+        "JOHNSON, W. Thomas (Editor)",
+        "MILNE, David B (Editor)",
+        "Workshop on New Approaches, Endpoints and Paradigms for RDAs of Mineral Elements (Grand Forks, ND 1995-09-10)"
+    ],
+    "dc:relation": [
+        "The Journal of nutrition -- J. nutr, CODEN JONUAI, ISSN 0022-3166, Vol. 126 (9) , pp. 2329S-2336S",
+        "Workshop on New Approaches, Endpoints and Paradigms for RDAs of Mineral Elements"
+    ],
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "American Society for Nutritional Sciences",
+    "dc:format": [
+        "print",
+        "22 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Alimentation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aliment"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Article synthèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Assurance qualité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Base donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Besoin nutritif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composition chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Congrès"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fiabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nutriment"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recommandation alimentaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système expert"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Table donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Valeur nutritive"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Feeding"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Food"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Review"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quality assurance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Database"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nutrient requirement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical composition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Congress"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reliability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nutrient"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dietary allowance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Expert system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Data table"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nutritive value"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alimentación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alimento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Artículo síntesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aseguración calidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Base dato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Necesidad nutricional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Composición química"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Congreso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fiabilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nutriente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Recomendación alimentaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema experto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tabla dato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Valor nutritivo"
+        },
+        "002A16E: Alimentation. Comportement alimentaire / Feeding. Feeding behavior",
+        "002B28G: Documentation médicale informatisée / Computerized medical documentation"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3239375"
+}

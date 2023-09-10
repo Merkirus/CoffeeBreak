@@ -1,0 +1,270 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Effects of cerium nitrate bathing and prompt burn wound excision on IL-6 and TNF-α levels in burned rats",
+    "dc:creator": [
+        "DEVECI, M",
+        "ESKI, M",
+        "SENGEZER, M",
+        "KISA, U"
+    ],
+    "dc:relation": "Burns -- Burns, CODEN BURND8, ISSN 0305-4179, Vol. 26 (1) , pp. 41-45",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "13 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Cytokine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Peau pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traumatisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bain"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Brûlure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chirurgie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cérium nitrate"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Débridement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Efficacité traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude comparative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur nécrose tumorale α"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunodépression"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interleukine 6"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Peau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rat"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cytokine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Skin disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Trauma"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bath"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Burn"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surgery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cerium nitrate"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Debridment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment efficiency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tumor necrosis factor α"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immunosuppression"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interleukin 6"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Skin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rat"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Citoquina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Piel patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Traumatismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Baño"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Quemadura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cirugía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cerio nitrato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Debridación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Eficacia tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio comparativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor necrosis tumoral α"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunodepresión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interleuquina 6"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Patología experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Piel"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rata"
+        },
+        "002B16J: Brûlures / Burns"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1261280"
+}

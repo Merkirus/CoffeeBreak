@@ -1,0 +1,104 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "MESURE DES PROPRIETES MAGNETOOPTIQUES ET LECTURE DE L'INFORMATION ENREGISTREE SUR DES COUCHES MAGNETIQUES MINCES",
+    "dc:creator": [
+        "ZHDANOV VG",
+        "MALINOVSKIJ VK"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "AUTOMETRIJA; S.S.S.R.; DA. 1976; NO 4; PP. 102-107; BIBL. 3 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MATERIAU MAGNETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COUCHE MINCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LECTURE OPTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPRIETE MAGNETOOPTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STOCKAGE INFORMATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELLIPSOMETRIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELLIPSOMETRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENREGISTREMENT MAGNETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENREGISTREMENT MAGNETOOPTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METROLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE THEORIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MAGNETIC MATERIAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THIN FILM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPTICAL READING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MAGNETOOPTICAL PROPERTIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFORMATION STORAGE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELLIPSOMETRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELLIPSOMETER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MAGNETIC RECORDING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MEASUREMENT SCIENCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THEORETICAL PHYSICS"
+        },
+        "001B: Physique / Physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7730186939"
+}

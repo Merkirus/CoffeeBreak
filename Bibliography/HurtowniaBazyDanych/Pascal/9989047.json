@@ -1,0 +1,258 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Neurochemical characterization of the vestibular nerves in women with vulvar vestibulitis syndrome",
+    "dc:creator": [
+        "BOHM-STARKE, N",
+        "HILLIGES, M",
+        "FALCONER, C",
+        "RYLANDER, E"
+    ],
+    "dc:relation": "Gynecologic and obstetric investigation -- Gynecol. obstet. invest, CODEN GOBIDS, ISSN 0378-7346, Vol. 48 (4) , pp. 270-275",
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Karger",
+    "dc:format": [
+        "print",
+        "30 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Anatomopathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil génital femelle pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vulve pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Distribution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Douleur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dyspareunie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epithélium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exploration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Femelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunohistochimie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nerf"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Neuropeptide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Physiopathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Superficie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Terminaison nerveuse libre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vestibule"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vulvite"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pathology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Female genital diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vulvar diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chronic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dyspareunia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Epithelium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Exploration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Female"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immunohistochemistry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nerve"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neuropeptide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pathophysiology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Area"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Free nerve ending"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vestibule"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vulvitis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anatomía patológica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato genital hembra patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vulva patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Crónico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Distribución"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dolor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dispareunia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Epitelio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Exploración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hembra"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunohistoquímica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nervio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Neuropéptido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fisiopatología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Superficie"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Terminación nerviosa libre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vestíbulo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vulvitis"
+        },
+        "002B20C01: Pathologie non tumorale / Non tumoral diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1208962"
+}

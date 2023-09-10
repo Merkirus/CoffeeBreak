@@ -1,0 +1,69 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SITUATION DE L'INVENTAIRE ET DE L'INFORMATION SUR LES EDITIONS MINISTERIELLES DE LA SIBERIE",
+    "dc:creator": "KAZARINOVA LF",
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "GOS. PUBLICH. NAUCH.-TEKH. BIBL., SBOR. NAUCH. TRUD.; SUN; DA. 1980; NO 46; PP. 216-220; BIBL. 5 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ORGANISME GOUVERNEMENTAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EDITION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DOCUMENT PUBLIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INVENTAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "URSS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SIBERIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCE INFORMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GOVERNMENT INSTITUTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EDITION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PUBLISHED DOCUMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INVENTORY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "USSR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFORMATION SCIENCE"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL82X0006931"
+}

@@ -1,0 +1,57 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "CAVITATION DANS LES EJECTEURS EN REGIMES TRANSITOIRES",
+    "dc:creator": "BOGDANOV AI",
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "IZVEST. VYSSH. UCHEBN. ZAVED., AVIAC. TEKH.; S.S.S.R.; DA. 1977; VOL. 20; NO 1; PP. 28-30; BIBL. 2 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CAVITATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EJECTEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LIQUIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REGIME TRANSITOIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MECANIQUE FLUIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CAVITATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EJECTOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIQUID"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "UNSTEADY FLOW"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FLUID MECHANICS"
+        },
+        "001B: Physique / Physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7730442947"
+}

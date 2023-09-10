@@ -1,0 +1,91 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Dosimetric comparison of the Leksell Gamma Knife Perfexion and 4C",
+    "dc:creator": [
+        "NOVOTNY, Josef",
+        "BHATNAGAR, Jagdish P",
+        "NIRANJAN, Ajay",
+        "QUADER, Mubina A",
+        "SAIFUL HUQ, M",
+        "BEDNARZ, Greg",
+        "FLICKINGER, John C",
+        "KONDZIOLKA, Douglas",
+        "DADE LUNSFORD, L"
+    ],
+    "dc:contributor": [
+        "SHEEHAN, Jason (Editor)",
+        "Leksell Gamma Knife Society (Organiser of meeting)",
+        "International Meeting of the Leksell Gamma Knife® Society (14 ; Quebec City 2008-05)"
+    ],
+    "dc:relation": [
+        "Journal of neurosurgery -- J. neurosurg, CODEN JONSAC, ISSN 0022-3085, Vol. 109, pp. 8-14",
+        "Proceedings of the 14th International Meeting of the Leksell Gamma Knife® Society"
+    ],
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "American Association of Neurological Surgeons",
+    "dc:format": [
+        "print",
+        "7 p. ; 15 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Dosimétrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude comparative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plan traitement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dosimetry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment planning"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gamma Knife Perfexion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gamma Knife dosimetry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gamma Knife treatment planning"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dosimetría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio comparativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Plan tratamiento"
+        },
+        "002B25J: Chirurgie du système nerveux / Neurosurgery"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20922751"
+}

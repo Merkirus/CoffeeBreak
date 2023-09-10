@@ -1,0 +1,64 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "LA NATURE DE L'OBJET PARTICULIER VV 794",
+    "dc:creator": [
+        "VORONTSOV VEL' YAMINOV BA",
+        "METLOV VG"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "PIS' MA ASTR. ZH.; SUN; DA. 1980; VOL. 6; NO 4; PP. 199-201; ABS. ENG; BIBL. 3 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "OBJET PARTICULIER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OBSERVATION PHOTOGRAPHIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OBSERVATION SPECTROSCOPIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTERPRETATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REGION H II COMPACTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VV 794"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PARTICULAR OBJECT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHOTOGRAPHIC OBSERVATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SPECTROSCOPICAL OBSERVATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTERPRETATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COMPACT H II REGION"
+        },
+        "001E03: Astronomie / Astronomy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8030399093"
+}

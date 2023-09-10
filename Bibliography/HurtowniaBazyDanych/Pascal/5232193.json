@@ -1,0 +1,153 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ATOM a system for building customized program analysis tools",
+    "dc:creator": [
+        "SRIVASTAVA, Amitabh",
+        "EUSTACE, Alan"
+    ],
+    "dc:contributor": "MCKINLEY, Kathryn S (Editor)",
+    "dc:relation": "ACM SIGPLAN notices -- ACM SIGPLAN not, ISSN 1523-2867, Vol. 39 (4) , pp. 530-539",
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "ACM",
+    "dc:format": [
+        "print",
+        "10 p. ; 14 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse programme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Antémémoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Appel procédure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exécution programme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Instruction branchement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Personnalisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Processeur pipeline"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Processus communication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Programme application"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analysis tool with OM (ATOM)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prédiction branchement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Program analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cache memory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Procedure call"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Program execution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Branch instruction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Customization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pipeline processor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Communication process"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Application program"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Branch predictor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis programa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antememoria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Llamada procedimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ejecución programa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Instrucción ramificación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Personalización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Procesador oleoducto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Proceso comunicación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Programa aplicación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Predicción ramificación"
+        },
+        "001D02A02: Théorie des langages et analyse syntaxique / Language theory and syntactical analysis"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15859958"
+}

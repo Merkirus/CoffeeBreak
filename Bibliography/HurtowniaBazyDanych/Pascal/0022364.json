@@ -1,0 +1,61 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ARRAY MEASUREMENTS OF P VELOCITIES IN THE UPPER MANTLE.",
+    "dc:creator": "JOHNSON LR",
+    "dc:date": "1967",
+    "dc:type": "Miscellaneous",
+    "dc:language": "English",
+    "dc:format": "J. GEOPHYS. RES.; USA; 1967(12), VOL. 72, NUM. 0024, P. 6309 A 6325",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ELASTICITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ONDE-P"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MANTEAU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOPHYSIQUE INTERNE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELASTICITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MANTLE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTERNAL GEOPHYSICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        "001E01L: Tectonique. Géologie structurale. Tectonique des plaques / Tectonics. Structural geology. Plate tectonics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number GEODEBRGM6814005179"
+}

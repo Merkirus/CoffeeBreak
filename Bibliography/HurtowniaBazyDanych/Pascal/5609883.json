@@ -1,0 +1,209 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Event-driven approach to control design for single phase inverter",
+    "dc:creator": [
+        "POLIC, Ales",
+        "JEZERNIK, Karel"
+    ],
+    "dc:contributor": "AMC : advanced motion control. International workshop (8 ; Kawasaki 2004)",
+    "dc:relation": "8th IEEE international workshop on advanced motion control (AMC'04-Kawasaki, Japan, March 25-28, 2004)",
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "IEEE",
+    "dc:format": [
+        "print",
+        "6 p. ; 15 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Commande mouvement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Commande phase"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Equation algébrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Logique algébrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mode glissant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Onduleur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau Pétri"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Signal discret"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Synthèse commande"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système dynamique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système non déterministe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système réactif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système événement discret"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Théorie système"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Motion control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phase control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Algebraic equation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Algebraic logic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sliding mode"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inverter"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Petri net"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Discrete signal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Control synthesis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dynamical system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Non deterministic system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reactive system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Discrete event system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Systems theory"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Control movimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Control fase"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ecuación algebraica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lógica algebraica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modo deslizante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ondulador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red Petri"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Señal discreta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Síntesis control"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema dinámico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema no determinista"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema reactivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema acontecimiento discreto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Teoría sistema"
+        },
+        "001D02D07: Synthèse des systèmes de commande / Control system synthesis"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 19103795"
+}

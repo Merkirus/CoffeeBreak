@@ -1,0 +1,217 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Inactivation of two homologues of proteins presumed to be involved in the desiccation tolerance of plants sensitizes Deinococcus radiodurans R1 to desiccation",
+    "dc:creator": [
+        "BATTISTA, John R",
+        "PARK, Mie-Jung",
+        "MCLEMORE, Andrew E"
+    ],
+    "dc:contributor": "Symposium on the Stabilization of Cells in the Dry State (Edinburgh 2001-07-29)",
+    "dc:relation": [
+        "Cryobiology (Print) -- Cryobiology (Print), CODEN CRYBAS, ISSN 0011-2240, Vol. 43 (2) , pp. 133-139",
+        "Symposium on the stabilization of cells in the dry state, Edinburgh, United Kingdom, July 29, 2001"
+    ],
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "21 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Angiospermae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dicotyledones"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur milieu"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Micrococcaceae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Micrococcales"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Scrophulariaceae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spermatophyta"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bactérie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Deinococcus radiodurans"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dessiccation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Inactivation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mutagenèse dirigée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Protéine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sensibilité résistance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Craterostigma plantagineum"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Angiospermae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dicotyledones"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Environmental factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Micrococcaceae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Micrococcales"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Scrophulariaceae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spermatophyta"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bacteria"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Deinococcus radiodurans"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Desiccation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Homology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inactivation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Site directed mutagenesis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Protein"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sensitivity resistance"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Angiospermae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dicotyledones"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor medio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Micrococcaceae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Micrococcales"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Scrophulariaceae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Spermatophyta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bacteria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Deinococcus radiodurans"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desecación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Homología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inactivación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mutagénesis dirigida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Proteína"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sensibilidad resistencia"
+        },
+        "002A05B13: Action d'agents physiques et chimiques sur les bactéries / Action of physical and chemical agents on bacteria"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 13579312"
+}

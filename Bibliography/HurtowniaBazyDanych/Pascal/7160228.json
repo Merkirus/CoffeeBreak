@@ -1,0 +1,115 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Variable diffraction gratings using nanoporous electrodes and electrophoresis of dye ions",
+    "dc:creator": [
+        "HRUDEY, P. C. P",
+        "MARTINUK, M. A",
+        "MOSSMAN, M. A",
+        "VAN POPTA, A. C",
+        "BRETT, M. J",
+        "HUIZINGA, J. S",
+        "WHITEHEAD, L. A"
+    ],
+    "dc:contributor": [
+        "Dobisz, Elizabeth Ann (Editor)",
+        "Eldada, Louay A (Editor)",
+        "Society of photo-optical instrumentation engineers (Organiser of meeting)",
+        "Nanoengineering-fabrication, properties, optics, and devices (4 ; San Diego CA 2007)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, pp. 66450K.1-66450K.12",
+        "Nanoengineering-fabrication, properties, optics, and devices IV (27-30 August 2007, San Diego, California, USA)"
+    ],
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "28 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Couche mince"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cristal liquide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur réflexion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Indice réfraction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lithographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau diffraction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technologie faisceau ion focalisé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4270D"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4279D"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thin films"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Liquid crystals"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reflectivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Refractive index"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lithography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diffraction gratings"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Focused ion beam technology"
+        },
+        "001B40B70D: Cristaux liquides / Liquid crystals",
+        "001B40B79D: Réseaux / Gratings"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20673061"
+}

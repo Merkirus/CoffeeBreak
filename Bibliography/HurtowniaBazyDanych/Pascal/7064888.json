@@ -1,0 +1,173 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Relationship between thermal reactivities and chemical compositions of vacuum residues and their SFEF asphalts",
+    "dc:creator": [
+        "CHENGUANG LIU",
+        "CHUNMEI ZHU",
+        "LIWEN JIN",
+        "RUIHUA SHEN",
+        "WENJIE LIANG"
+    ],
+    "dc:contributor": [
+        "Division of Petroleum Chemistry, Inc.. American Chemical Society (Funder/Sponsor)",
+        "Symposium on Chemical Analysis of Crude Oils for Optimizing Refinery Yields and Economics (Dallas, TX 1998)"
+    ],
+    "dc:relation": [
+        "Preprints - American Chemical Society. Division of Petroleum Chemistry -- Prepr. - Am. Chem. Soc., Div. Pet. Chem, CODEN ACPCAT, ISSN 0569-3799, Vol. 43 (1) , pp. 160-168",
+        "Symposium on Recent Advances in Heteroatom Removal"
+    ],
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "American Chemical Society",
+    "dc:format": [
+        "print",
+        "12 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Asphalte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composition chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Corrélation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Craquage thermique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Extraction SFE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pétrole brut"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Raffinage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résidu sous vide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure chimique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asphalt"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical composition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Correlation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermal cracking"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Supercritical fluid extraction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Crude oil"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Refining"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vacuum residue"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical structure"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asfalto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Composición química"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Correlación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Craqueo térmico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Extracción fluido supercrítico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Petróleo bruto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Refinación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resíduo destilación en vacío"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estructura química"
+        },
+        "001D06: Energie / Energy",
+        "001D06B02D: Traitement du pétrole brut et des dérivés liquides des schistes bitumineux et sables asphaltiques. Procédés. Equipements. Raffineries et unités de traitement / Processing of crude oil and oils from shales and tar sands. Processes. Equipment. Refinery and treatment units"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Asie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "China"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "China"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2213516"
+}

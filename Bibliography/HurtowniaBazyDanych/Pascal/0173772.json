@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "RHETIEN FOSSILIFERE DE SERQUEUX.",
+    "dc:creator": "GARDET G",
+    "dc:date": "1910",
+    "dc:type": "Miscellaneous",
+    "dc:language": "French",
+    "dc:format": "BULL. SOC. SCI. NAT. HAUTE.MARNE, CHAUMONT; FRA; 1910, VOL. 7, P. 117 A 118",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "RHETIEN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FAUNE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HAUTE MARNE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SERQUEUX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STRATIGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRIAS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SECONDAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BASSIN PARISIEN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FRANCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EUROPE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RHAETIAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FAUNA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HAUTE MARNE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STRATIGRAPHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        "001E01I: Stratigraphie / Stratigraphy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number GEODEBRGMFR1138325"
+}

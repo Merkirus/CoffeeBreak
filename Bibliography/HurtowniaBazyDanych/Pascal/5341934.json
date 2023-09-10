@@ -1,0 +1,304 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Le circuit de la facturation au CHU de Bordeaux : les réadaptations engendrées par la mise en place de la Tarification A L'Activité",
+    "dc:creator": "CAUHAPE, Julie",
+    "dc:contributor": "Ecole Nationale de la Santé Publique. (E.N.S.P.). Rennes (Degree-grantor)",
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Thesis"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "88 p. ; 2 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Admission hôpital"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Centre hospitalier universitaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Classification"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Comptabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrôle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Coût"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Distribution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dossier médical"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dépense"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Financement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gestion hospitalière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hospitalisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hôpital"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Indicateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Médicament"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Offre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Restructuration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Service hospitalier"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Soin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tarification"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Point indice synthètique activité"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hospital admission"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Teaching hospital"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Classification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Accounting"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Contract"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Check"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Costs"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Medical record"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Expenditure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Financing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hospital management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hospitalization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hospital"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Indicator"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Drug"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Offer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Restructuration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hospital ward"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Care"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tariffication"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Admisión hospital"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Centro hospitalario universitario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Clasificación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contabilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contrato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Control"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Coste"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Distribución"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Historial clínico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gasto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Financiación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Administración hospitalaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hospitalización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hospital"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Indicador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medicamento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Oferta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Restructuracíon"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Servicio hospitalario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuidado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tarificación"
+        },
+        "002B30A11: Divers / Miscellaneous"
+    ],
+    "dc:rights": [
+        "Banque de données en santé publique - Ecole des hautes études en santé publique (BDSP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16936885"
+}

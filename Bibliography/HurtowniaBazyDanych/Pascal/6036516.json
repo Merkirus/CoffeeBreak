@@ -1,0 +1,198 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Optical interference coatings (Grenoble, 6-10 June 1994)",
+    "dc:contributor": [
+        "Abelès, Florin (Editor)",
+        "International Society for Optical Engineering (Organiser of meeting)",
+        "Ministère de l'enseignement supérieur et de la recherche (Organiser of meeting)",
+        "Commission of the European Communities, Directorate-General for Science, Research and Development (Organiser of meeting)",
+        "European Optical Society (Organiser of meeting)",
+        "Ministère de la défense, Direction des recherches, études et techniques d'armement (Organiser of meeting)",
+        "Optical Society of America (Organiser of meeting)",
+        "Optical interference coatings. Conference (Grenoble 1994-06-06)"
+    ],
+    "dc:relation": "SPIE proceedings series -- SPIE proc. ser",
+    "dc:date": "1994",
+    "dc:type": [
+        "Text",
+        "Conference Proceedings"
+    ],
+    "dc:identifier": [
+        "ISBN 0-8194-1562-6",
+        "Inist-CNRS record number 45100"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "XIX, 1384 p ; dissem"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bistable"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Caractérisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Circuit accordable"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conception"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Congrès"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Couche mince"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Espace"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Filtre optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Laser CO2"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Laser gaz"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Laser puissance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Multicouche"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rayon X"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rayonnement synchrotron"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Revêtement optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Revêtement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technique spatiale"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bistable"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Characterization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tunable circuit"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Congress"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thin films"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Space"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical filters"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Carbon dioxide lasers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gas lasers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High-power lasers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multilayers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "X radiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Synchrotron radiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical coatings"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Coatings"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Space technology"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biestable"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Caracterización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Circuito acordable"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Congreso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Técnica espacial"
+        },
+        "001B00G85F: Sources, miroirs, réseaux et détecteurs dans le domaine x et γ / X- and γ-ray sources, mirrors, gratings and detectors",
+        "001B40B55L: Lasers à gaz, incluant les lasers à excimère et les lasers à vapeur métallique / Gas lasers including excimer and metal-vapor lasers",
+        "001B40B79B: Lentilles, prismes, et miroirs / Lenses, prisms, and mirrors",
+        "0785F:  / X- and γ-ray sources, mirrors, gratings, and detectors",
+        "4255L:  / Gas lasers including excimer and metal-vapor lasers",
+        "4279B:  / Lenses, prisms and mirrors"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Toxicity of aromatase inhibitors",
+    "dc:creator": [
+        "PANDYA, Naimish",
+        "MORRIS, Gloria J"
+    ],
+    "dc:contributor": [
+        "FEENEY, Kendra J (Editor)",
+        "MORRIS, Gloria J (Editor)"
+    ],
+    "dc:relation": "Seminars in oncology -- Semin. oncol, CODEN SOLGAV, ISSN 0093-7754, Vol. 33 (6) , pp. 688-695",
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "8 p. ; 63 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Enzyme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cancérologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Estrogen synthase"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Inhibiteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Toxicité"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Enzyme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cancerology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Estrogen synthase"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inhibitor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Toxicity"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enzima"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cancerología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estrogen synthase"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inhibidor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Toxicidad"
+        },
+        "002B04: Tumeurs / Tumors"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18384758"
+}

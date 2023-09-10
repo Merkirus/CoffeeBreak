@@ -1,0 +1,90 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "PHOSPHATIDATE AS A MOLECULAR LINK BETWEEN DEPOLARIZATION AND NEUROTRANSMITTER RELEASE IN THE BRAIN",
+    "dc:creator": [
+        "HARRIS RA",
+        "SCHMIDT J",
+        "HITZEMANN BA",
+        "HITZEMANN RJ"
+    ],
+    "dc:date": "1981",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "SCIENCE; ISSN 0036-8075; USA; DA. 1981; VOL. 212; NO 4500; PP. 1290-1291; BIBL. 20 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ACIDE PHOSPHATIDIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHOSPHOLIPIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SYNAPTOSOME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MEDIATEUR CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSPORT MEMBRANAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACTIVITE BIOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DEPOLARISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MEMBRANE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CERVEAU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOCHIMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHOSPHATIDIC ACID"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NEUROTRANSMITTER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOLOGICAL ACTIVITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DEPOLARIZATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MEMBRANE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BRAIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOCHEMISTRY"
+        },
+        "002A02: Biochimie analytique, structurale et metabolique / Analytical, structural and metabolic biochemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL82X0021591"
+}

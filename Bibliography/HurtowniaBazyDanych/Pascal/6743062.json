@@ -1,0 +1,236 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Immersion holography based on amorphous chalcogenide films",
+    "dc:creator": "TETERIS, Janis",
+    "dc:contributor": [
+        "SWEENEY, Stephen J (Editor)",
+        "KRAUSE, Steffi (Editor)",
+        "International Conference on Optical, Optoelectronic and Photonic Materials and Applications (ICOOPMA07) (2 ; London 2007-07-30)"
+    ],
+    "dc:relation": [
+        "Journal of materials science. Materials in electronics -- J. mater. sci., Mater. electron, ISSN 0957-4522, Vol. 20",
+        "Selected Papers from the Second international Conference on Optical, Optoelectronic and Photonic Materials and Applications, 2007, 30 July-3 August 2007, London, UK"
+    ],
+    "dc:date": "2009",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "S149-S152 ; 12 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Densité élevée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diminution coût"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enregistrement optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fabrication microélectronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Holographie optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immersion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Indice réfraction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interférence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lithographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau amorphe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau enregistrement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mémoire holographique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode immersion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polarisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Semiconducteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sélénium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "8116N"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "8540H"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High density"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cost lowering"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical recording"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microelectronic fabrication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical holography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immersion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Refraction index"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interference"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lithography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Amorphous material"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Recording material"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Holographic storage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immersion method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polarization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Semiconductor materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Selenium"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Densidad elevada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reducción costes"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Grabación optica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fabricación microeléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Holografía óptica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmersión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Indice refracción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interferencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Litografía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Material amorfo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Material grabación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Memoria holográfica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método immersión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polarización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Semiconductor(material)"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Selenio"
+        },
+        "001B70H20C: Constantes optiques: indice de réfraction; constante diélectrique complexe; coefficients d'absorption, de réflexion et de transmission; émissivité / Optical constants: refractive index, complex dielectric constant, absorption, reflection and transmission coefficients, emissivity",
+        "001D03F17: Fabrication microélectronique (technologie des matériaux et des surfaces) / Microelectronic fabrication (materials and surfaces technology)",
+        "001D03I01: Enregistrement et reproduction des signaux audio et vidéo / Recording and replay of audio and video signals",
+        "001D03I02: Mémoires de masse magnétiques et optiques / Magnetic and optical mass memories"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 22060377"
+}

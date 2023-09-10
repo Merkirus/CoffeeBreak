@@ -1,0 +1,333 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Interactions between C3 and C4 salt marsh plant species during four years of exposure to elevated atmospheric CO2",
+    "dc:creator": [
+        "ARP, W. J",
+        "DRAKE, B. G",
+        "POCKMAN, W. T",
+        "CURTIS, P. S",
+        "WHIGHAM, D. F"
+    ],
+    "dc:contributor": [
+        "ROZEMA, Jelte (Editor)",
+        "LAMBERS, Hans (Editor)",
+        "VAN DE GEIJN, Siebe (Editor)",
+        "CAMBRIDGE, Marion (Editor)",
+        "Netherland Organization for Scientific Research. CO2 Commission (Funder/Sponsor)",
+        "Royal Netherlands Academy of Arts and Sciences (Funder/Sponsor)",
+        "Ministry of Housing, Physical Planning and Environment (Funder/Sponsor)",
+        "Vrije Universiteit. Department of Ecology and Ecotoxicology (Funder/Sponsor)",
+        "CO2 and biosphere. International workshop (Wageningen 1991-11-15)"
+    ],
+    "dc:relation": [
+        "Vegetatio (The Hague) -- Vegetatio (The Hague), CODEN VGTOA4, ISSN 0042-3106, Vol. 104-05, pp. 133-143",
+        "CO2 and biosphere. International workshop"
+    ],
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Kluwer",
+    "dc:format": [
+        "print",
+        "30 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecophysiologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur milieu"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu saumâtre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polluant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pollution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Biomasse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Carbone dioxyde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Compétition interspécifique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Croissance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet serre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enrichissement milieu"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai longue durée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Floraison"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Marais salé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Niveau eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Photosynthèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pluviométrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pollution air"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Potentiel hydrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Répartition spatiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Salinité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Survie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Type C3"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Type C4"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ecophysiology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Environmental factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Brackish water environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pollutant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pollution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biomass"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Carbon dioxide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interspecific competition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Growth"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Greenhouse effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Medium enrichment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Long term test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Flowering"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Salt marsh"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water level"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photosynthesis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rainfall rate recording"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Air pollution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water potential"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spatial distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Salinity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Survival"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "C3-Type"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "C4-Type"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ecofisiología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor medio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio salobre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contaminante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polución"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biomasa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carbono dióxido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Competición interespecífica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Crecimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efecto invernadero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enriquecimiento medio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo larga duración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Floración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nivel agua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fotosíntesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pluviometría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contaminación aire"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Potencial hídrico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Distribución espacial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salinidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sobrevivencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tipo C3"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tipo C4"
+        },
+        "002A14D05F: Action de la pollution et effets secondaires des pesticides sur les végétaux et champignons / Effects of pollution and side effects of pesticides on plants and fungi"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4724520"
+}

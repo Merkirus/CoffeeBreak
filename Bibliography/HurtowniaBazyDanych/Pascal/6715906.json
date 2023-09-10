@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Follower forces : Leipholz's early researches in elastic stability",
+    "dc:creator": "GLADWELL, G. M. L",
+    "dc:contributor": "CANCAM. Leipholz memorial lecture (Ottawa ON 1989-05-29)",
+    "dc:relation": [
+        "Canadian journal of civil engineering (Print) -- Can. j. civ. eng. (Print) -- Revue canadienne de génie civil, CODEN CJCEB8, ISSN 0315-1468, Vol. 17 (3) , pp. 277-286",
+        "CANCAM. Leipholz memorial lecture (Ottawa ON 1989-05-29)"
+    ],
+    "dc:date": "1990",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "National Research Council of Canada",
+    "dc:format": [
+        "print",
+        "10 p. ; 1 p.1/2"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Article synthèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Calcul variationnel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Force suiveuse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stabilité élastique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système non conservatif"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Review"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Variational calculus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Follower force"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Elastic stability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Non conservative system"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Artículo síntesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cálculo de variaciones"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fuerza seguidora"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estabilidad elástica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema no conservativo"
+        },
+        "001B40F30L: Flambage / Buckling"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 19296282"
+}

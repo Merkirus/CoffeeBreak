@@ -1,0 +1,73 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ON-LINE TREATMENT CHAMBER FOR SURFACE STUDIES.",
+    "dc:creator": [
+        "BOUWMAN R",
+        "TONEMAN LH",
+        "MOERS M"
+    ],
+    "dc:date": "1975",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "REV. SCI. INSTRUM.; U.S.A.; DA. 1975; VOL. 46; NO 8; PP. 1035-1036; BIBL. 2 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE AUGER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIFFRACTOMETRIE ELECTRON LENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE MASSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRE ION SECONDAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TECHNIQUE VIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "APPAREILLAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SURFACE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE PARTICULE CHARGEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROMAGNETISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROMAGNETISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONICS"
+        },
+        "001D03: Electronique / Electronics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7630038427"
+}

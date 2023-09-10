@@ -1,0 +1,76 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "STRAHLENBELASTUNG DER PATIENTEN BEI DEN ROENTGENUNTERSUCHUNGEN IM GESICHTS-KIEFERBEREICH; CHARGE EN RAYONS DU MALADE DANS LES EXAMENS RADIOLOGIQUES DE LA REGION MAXILLOFACIALE",
+    "dc:creator": [
+        "PENCEW W",
+        "ENEWA I"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "RADIOL. DIAGNOST.; DDR; DA. 1980; VOL. 21; NO 3; PP. 414-417; ABS. RUS/ENG; BIBL. 7 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "RADIOGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MAXILLOFACIAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DOSIMETRIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IRRADIATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STOMATOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RADIOGRAPHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MAXILLOFACIAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DOSIMETRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IRRADIATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STOMATOLOGY"
+        },
+        "002B13: Gastroenterologie. Foie. Pancreas. Abdomen / Gastroenterology. Liver. Pancreas. Abdomen"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8050428943"
+}

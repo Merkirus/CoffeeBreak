@@ -1,0 +1,68 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Amérique du Nord : formations multimédia",
+    "dc:creator": [
+        "CABANAT, J",
+        "MONOD, A"
+    ],
+    "dc:relation": "Actualité de la formation permanente (Paris-la-Défense) -- Actual. form. perm. (Paris-la-Défense), ISSN 0397-331X (104) , pp. 79-83",
+    "dc:date": "1990",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Centre Inffo",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Enseignement multi-media"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enseignement à distance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Formation en cours d'emploi"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multi-Media Instruction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Distance Study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "In-Service Training"
+        },
+        "520-229: Moyen d'enseignement / Teaching aids",
+        "520-236: Divers / Diverse points"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Canada"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats-Unis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Canada"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "USA"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6097667"
+}

@@ -1,0 +1,110 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "MUTAGENIC ACTIVITIES OF HYDROPEROXYTHYMINE DERIVATIVES, PRODUCTS OF RADIATION AND OXIDATION REACTIONS",
+    "dc:creator": [
+        "WANG SY",
+        "HAHN BS",
+        "BATZINGER RP",
+        "BUEDING E"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "BIOCHEM. BIOPHYS. RES. COMMUNIC.; USA; DA. 1979; VOL. 89; NO 1; PP. 259-263; BIBL. 15 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TEST MUTAGENICITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BASE PYRIMIDIQUE DERIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RAYONNEMENT UV"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RAYONNEMENT IONISANT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OXYDATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MECANISME ACTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BACTERIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SALMONELLA TYPHIMURIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ADN TRANSFORMANT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HAEMOPHILUS INFLUENZAE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "THYMIDINE DERIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENETIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MUTAGENICITY TESTING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PYRIMIDINE BASE DERIVATIVES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ULTRAVIOLET RADIATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IONIZING RADIATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OXIDATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MECHANISM OF ACTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BACTERIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SALMONELLA TYPHIMURIUM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HAEMOPHILUS INFLUENZAE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENETICS"
+        },
+        "002A31C02: Techniques génétiques / Genetic technics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8050150202"
+}

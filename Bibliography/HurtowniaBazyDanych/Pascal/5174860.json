@@ -1,0 +1,358 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The role of B cells and alloantibody in the host response to human organ allografts",
+    "dc:creator": [
+        "VONGWIWATANA, Attapong",
+        "TASANARONG, Adis",
+        "HIDALGO, Luis G",
+        "HALLORAN, Philip F"
+    ],
+    "dc:contributor": [
+        "TURKA, Laurence A (Editor)",
+        "HANCOCK, Wayne W (Editor)"
+    ],
+    "dc:relation": "Immunological reviews -- Immunol. rev, CODEN IMRED2, ISSN 0105-2896, Vol. 196, pp. 197-218",
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Blackwell",
+    "dc:format": [
+        "print",
+        "22 p. ; 190 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil circulatoire pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil respiratoire pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil urinaire pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bronche pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chirurgie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Greffe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rein pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Alloanticorps"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Article synthèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bronchiolite oblitérante"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cardiopathie coronaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Coeur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Greffon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homogreffe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunité humorale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lymphocyte B"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Néphropathie glomérulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathogénie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Poumon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rein"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rejet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réponse immune"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système HLA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système histocompatibilité majeur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transplantation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cardiovascular disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Respiratory disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Urinary system disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bronchus disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surgery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Graft"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Kidney disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Alloantibody"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Review"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bronchiolitis obliterans"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Coronary heart disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heart"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Graft(material)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Homograft"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Humoral immunity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "B-Lymphocyte"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Glomerulonephritis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pathogenesis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lung"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Kidney"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rejection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immune response"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HLA-System"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Major histocompatibility system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transplantation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato circulatorio patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato respiratorio patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato urinario patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bronquio patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cirugía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Injerto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Riñón patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aloanticuerpo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Artículo síntesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bronquiolitis obliterante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cardiopatía coronaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Corazón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Injerto(material)"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Homoinjerto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunidad humoral"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Linfocito B"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nefropatía glomerular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Patogenia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pulmón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Riñón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rechazo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Respuesta inmune"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema HLA"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema histocompatibilidad mayor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trasplantación"
+        },
+        "002A06F: Immunologie de tissu, d'organe, des greffes / Tissue, organ and graft immunology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15439804"
+}

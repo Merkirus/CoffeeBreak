@@ -1,0 +1,192 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Valence instability in an extended periodic Anderson model",
+    "dc:creator": [
+        "SAIGA, Y",
+        "SUGIBAYASHI, T",
+        "HIRASHIMA, D. S"
+    ],
+    "dc:contributor": [
+        "LORENZ, B (Editor)",
+        "VEKHTER, I (Editor)",
+        "BOLECH, C. J (Editor)",
+        "CHU, P. C. W (Editor)",
+        "SI, Q (Editor)",
+        "International Conference on Strongly Correlated Electron Systems. SCES 2007 (Houston, Texas 2007-05-13)"
+    ],
+    "dc:relation": [
+        "Physica. B, Condensed matter -- Physica, B Condens. matter, ISSN 0921-4526, Vol. 403 (5-9) , pp. 808-809",
+        "Proceedings of the International Conference on Strongly Correlated Electron Systems. SCES 2007"
+    ],
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "2 p. ; 10 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Conduction électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conductivité type n"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diagonalisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Electron conduction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fermion lourd"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Instabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interaction répulsion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Largeur bande"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle Anderson"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle dynamique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Valence mixte"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic conduction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "N type conductivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diagonalization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Conduction electron"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heavy fermions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Instability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Repulsion interaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bandwidth"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Anderson model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dynamic model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mixed valence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "71.10.Fd"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "71.27.+a"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "73.43.Nq"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "75.30.Mb"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "75.40.Mg"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dynamical mean field theory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Extended periodic Anderson model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heavy fermions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Valence instability"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conducción electrónica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conductividad tipo n"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diagonalización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Electrón conducción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interacción repulsión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo dinámico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Valencia mixta"
+        },
+        "001B: Physique / Physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20336752"
+}

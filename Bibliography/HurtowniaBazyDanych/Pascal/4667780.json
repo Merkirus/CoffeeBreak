@@ -1,0 +1,122 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Compressing the index : A simple and yet efficient approximation approach to high-dimensional indexing",
+    "dc:creator": [
+        "SHUGUANG WANG",
+        "CUI YU",
+        "BENG CHIN OOI"
+    ],
+    "dc:contributor": [
+        "Wang, X. Sean (Editor)",
+        "Ge Yu (Editor)",
+        "Hongjun Lu (Editor)",
+        "Web-age information management. International conference (2 ; Xi'an 2001-07-09)"
+    ],
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 291-302",
+        "WAIM 2001 : advances in web-age information management (Xi'an, 9-11 July 2001)"
+    ],
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "11 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation performance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Indexation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Multimédia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode minimax"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système n degrés liberté"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Valeur extrême"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Performance evaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Indexing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multimedia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Minimax method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "System with n degrees of freedom"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Extreme value"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evaluación prestación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Indización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Multimedia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método minimax"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema n grados libertad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Valor extremo"
+        },
+        "001D02B07D: Systèmes d'information. Bases de données / Information systems. Data bases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1019331"
+}

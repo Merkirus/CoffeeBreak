@@ -1,0 +1,62 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Chronique bibliographique",
+    "dc:contributor": [
+        "MARTIN, C (Editor)",
+        "CLAUDE, J (Editor)",
+        "GOULET, A (Editor)",
+        "DUROSAY, D (Editor)"
+    ],
+    "dc:relation": "Bulletin des Amis d'André Gide -- Bull. Amis André Gide, ISSN 0044-8133, Vol. 17 (82-83) , pp. 293-304",
+    "dc:date": "1989",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Université de Nantes, Centre d'études gidiennes",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bibliographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gide (A.)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bibliography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gide (A.)"
+        },
+        "523-36: Histoire de la littérature / History of literature",
+        "523-186: Anonymes. Auteurs / Anonymous writers. Authors"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Siècle 20"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Century 20th"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6141128"
+}

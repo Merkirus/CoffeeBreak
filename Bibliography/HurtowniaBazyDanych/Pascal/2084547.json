@@ -1,0 +1,86 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "METHOD FOR DETERMINATION OF SATURATED TEMPERATURE WITH AUTOMATIC PLUGGING INDICATOR",
+    "dc:creator": [
+        "YAMAMOTO H",
+        "SUMIDA I",
+        "IZUMI S",
+        "SAGAWA N"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. NUCL. SCI. TECHNOL.; ISSN 0022-3131; JPN; DA. 1979; VOL. 16; NO 6; PP. 383-389; BIBL. 8 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CENTRALE NUCLEAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TYPE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REACTEUR METAL LIQUIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SODIUM LIQUIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IMPURETE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONCENTRATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MESURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NUCLEAR FACILITIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TYPE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIQUID METAL REACTOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIQUID SODIUM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IMPURITIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONCENTRATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MEASUREMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY"
+        },
+        "001D06: Energie / Energy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8070069386"
+}

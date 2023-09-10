@@ -1,0 +1,199 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Interleukin-4 gene expression and IgE responsiveness",
+    "dc:creator": [
+        "OKUDAIRA, H",
+        "MORI, A",
+        "AKIYOSHI, K",
+        "YAMAMOTO, K",
+        "SUKO, M",
+        "WATANABE, N",
+        "ITO, M",
+        "TAKAHASHI, K",
+        "JUJI, T"
+    ],
+    "dc:contributor": [
+        "HOLGATE, S. T (Editor)",
+        "Collegium Internationale Allergologicum (Funder/Sponsor)",
+        "Collegium Internationale Allergologicum. Symposium (0018 ; Funchal, Madeira 1990-09-22)"
+    ],
+    "dc:relation": [
+        "International archives of allergy and applied immunology -- Int. arch. allergy appl. immunol, CODEN IAAAAM, ISSN 0020-5915, Vol. 94 (1-4) , pp. 184-186",
+        "Cellular and molecular networks in clinical immunology and allergy, September 22-26, 1990, Funchal, Madeira"
+    ],
+    "dc:date": "1991",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Karger",
+    "dc:format": [
+        "print",
+        "7 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Cytokine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunoglobuline"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Biosynthèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Expression génique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IgE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interleukine 4"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lymphocyte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Souris"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Splénocyte"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cytokine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immunoglobulins"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biosynthesis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gene expression"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IgE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interleukin 4"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lymphocyte"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mouse"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Splenocyte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Citoquina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunoglobulina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biosíntesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Expresión genética"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "IgE"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interleuquina 4"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Linfocito"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ratón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Esplenocito"
+        },
+        "002A06C05D1: Lymphokines, interleukines ( fonction, expression) / Lymphokines, interleukins ( function, expression)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 5232184"
+}

@@ -1,0 +1,82 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Meta-analysis: a reflection on problems",
+    "dc:creator": [
+        "HATTIE, J. A",
+        "HANSFORD, B. C"
+    ],
+    "dc:relation": "Australian journal of psychology -- Aust. j. psychol, CODEN ASJPAE, ISSN 0004-9530, Vol. 36 (2) , pp. 239-254",
+    "dc:date": "1984",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Australian Psychological Society",
+    "dc:format": [
+        "print",
+        "2 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Aptitude"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Autoperception"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthodologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Performance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réussite"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Self perception"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Methodology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Performance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Achievement"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metodologia"
+        },
+        "002A26G04: Traits de personnalité / Personality traits",
+        "770-: Psychologie. Psychanalyse. Psychiatrie / Psychology. Psychoanalysis. Psychiatry",
+        "770-B: Psychologie. Psychophysiologie / Psychology. Psychophysiology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 8394293"
+}

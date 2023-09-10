@@ -1,0 +1,80 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "RADIOTELEMETRIC MONITORING OF HYDROGEN ION LEVELS OF THE SMALL INTESTINE; SURVEILLANCE RADIOTELEMETRIQUE DES TAUX D'IONS H+ DE L'INTESTIN GRELE",
+    "dc:creator": [
+        "ALDAY ES",
+        "GOLDSMITH HS"
+    ],
+    "dc:date": "1975",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "SURG. GYNECOL. OBSTETR.; U.S.A.; DA. 1975; VOL. 141; NO 1; PP. 549-551; BIBL. 2 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TELEMETRIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SURVEILLANCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PH"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TAUX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HYDROGENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTESTIN GRELE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIEN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RADIOTELEMETRIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "APPAREIL DIGESTIF"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MAMMALIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DOSAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MESURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENIE BIOMEDICAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOMEDICAL ENGINEERING"
+        },
+        "002B26: Radiotherapie. Traitement instrumental. Physiotherapie. Reeducation. Readaptation, orthophonie, crenotherapie. Traitement dietetique et traitements divers (generalites) / Radiotherapy. Instrumental treatment. Physiotherapy. Reeducation. Rehabilitation, orthophony, crenotherapy. Diet therapy and various other treatments (general aspects)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7650149857"
+}

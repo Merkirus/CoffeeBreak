@@ -1,0 +1,224 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Glass-forming ability determined from inter-atomic potentials for some miscible/immiscible binary metal systems",
+    "dc:creator": [
+        "LIU, B. X",
+        "GONG, H. R",
+        "GUO, H. B",
+        "KONG, L. T"
+    ],
+    "dc:contributor": "International Conference on Mechanochemistry and Mechanical Alloying (INCOME 2003) (Braunschweig 2003-09-07)",
+    "dc:relation": [
+        "Journal of materials science -- J. mater. sci, CODEN JMTSAS, ISSN 0022-2461, Vol. 39 (16-17) , pp. 5067-5070",
+        "International Conference on Mechanochemistry and Mechanical Alloying (INCOME 2003) (Braunschweig 2003-09-07)"
+    ],
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "4 p. ; 20 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Métal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Alliage amorphe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Argent"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cobalt"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cuivre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude théorique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Formation verre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Miscibilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Molybdène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mécanisme formation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nickel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Potentiel interatomique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Solubilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Solution solide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système binaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tantale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Titane"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tungstène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Verre métallique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système Ag Co"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système Cu W"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système Mo Ni"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système Ni Ta"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système Ni Ti"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metals"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Amorphous alloy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Silver"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cobalt"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Copper"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Theoretical study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Glass formation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Miscibility"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Molybdenum"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Formation mechanism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nickel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interatomic potential"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Solubility"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Solid solutions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Binary systems"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tantalum"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Titanium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tungsten"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metallic glasses"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aleación amorfa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mecanismo formacion"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Potencial interatómico"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Amorphe Legierung"
+        },
+        "001B80A05K: Verres (incluant les verres métalliques) / Glasses (including metallic glasses)",
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy",
+        "8105K:  / Glasses (including metallic glasses)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16132779"
+}

@@ -1,0 +1,86 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "LO STATO ATTUALE DELL' APPLICAZIONE DELLE TECNICHE SPETTROANALITICHE ALL'ANALISI DI TRACCE IN LUBRIFICANTI PRELEVATI DA MOTORI D'AEREO; ETAT ACTUEL DE L'APPLICATION DE LA TECHNIQUE D'ANALYSE SPECTROMETRIQUE A L'ANALYSE D'ELEMENTS TRACES DANS DES LUBRIFIANTS PRELEVES SUR DES MOTEURS D'AVIONS",
+    "dc:creator": "TRONCA A",
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "Italian",
+    "dc:format": "RASS. CHIM.; ITAL.; DA. 1974; VOL. 26; NO 2; PP. 81-86; ABS. FR. ANGL. ALLEM.; BIBL. 5 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "LUBRIFIANT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE QUANTITATIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELEMENT TRACE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE EMISSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE ABSORPTION ATOMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE FLUORESCENCE RX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRACE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPULSEUR A REACTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LUBRIFICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSITION CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DOSAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE ANALYTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUSTRIE MECANIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANALYTICAL CHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MECHANICAL ENGINEERING"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry",
+        "001D14: Batiment. Travaux publics / Buildings. Public works"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7517002307"
+}

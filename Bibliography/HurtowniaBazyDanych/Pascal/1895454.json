@@ -1,0 +1,78 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "INTRACRANIAL EPENDYMONA: RESULTS OF RADIOTHERAPY AT THE UNIVERSITY OF KENTUCKY",
+    "dc:creator": [
+        "CHIN HW",
+        "MARUYAMA Y",
+        "MARKESBERY W",
+        "YOUNG AB"
+    ],
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "CANCER; ISSN 0008-543X; USA; DA. 1982; VOL. 49; NO 11; PP. 2276-2280; BIBL. 26 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "EPENDYMOME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTRACRANIEN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RADIOTHERAPIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RESULTAT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TUMEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NEUROLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EPENDYMOMA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTRACRANIAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RADIOTHERAPY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RESULT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TUMOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NEUROLOGY"
+        },
+        "002B17: Neurologie / Neurology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL82X0346338"
+}

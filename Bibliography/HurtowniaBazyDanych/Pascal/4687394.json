@@ -1,0 +1,126 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "High order surface impedance boundary conditions for the FDTD method",
+    "dc:creator": [
+        "FARAHAT, Nader",
+        "YUFEREV, Sergey",
+        "IDA, Nathan"
+    ],
+    "dc:contributor": "CEFC Conference on Electromagnetic Field Computation (9 ; Milwaukee, Wisconsin 2000-06-04)",
+    "dc:relation": [
+        "IEEE transactions on magnetics -- IEEE trans. magn, CODEN IEMGAQ, ISSN 0018-9464, Vol. 37 (5) , pp. 3242-3245",
+        "Selected Papers from the Ninth Biennial IEEE Conference on Electromagnetic Field Computation (CEFC), Milwaukee, Wisconsin, USA, June 4-7, 2000"
+    ],
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institute of Electrical and Electronics Engineers",
+    "dc:format": [
+        "print",
+        "9 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Calcul hybride"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Condition aux limites"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Courant Foucault"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Equation Maxwell"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude théorique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Impédance surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Impédance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Magnétostatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode différence finie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode domaine temps"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hybrid calculation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Boundary conditions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Eddy currents"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Maxwell equations"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Theoretical study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface impedance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Impedance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetostatics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Finite difference method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Time domain method"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cálculo híbrido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Impedancia superficie"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método dominio tiempo"
+        },
+        "001B40A20G: Magnétostatique; blindage magnétique, induction magnétique, problèmes aux valeurs limites / Magnetostatics; magnetic shielding, magnetic induction, boundary-value problems",
+        "4120G:  / Magnetostatics; magnetic shielding, magnetic induction, boundary-value problems"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1126208"
+}

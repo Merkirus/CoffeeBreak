@@ -1,0 +1,58 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Geotechnical site characterization using surface waves",
+    "dc:creator": "TOKIMATSU, K",
+    "dc:contributor": [
+        "ISHIHARA, Kenji",
+        "International Conference on Earthquake Geotechnical Engineering (1 ; Tokyo 1995-11-14)"
+    ],
+    "dc:relation": "Earthquake Geotechnical Engineering",
+    "dc:date": "1997",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "A.A. Balkema",
+    "dc:format": [
+        "print",
+        "Illustration ; 2 p.1/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Microséisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Onde surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Caractérisation site"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "microseisms"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "surface waves"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Microsismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Onda superficie"
+        },
+        "001E01M04: Géophysique appliquée / Applied geophysics",
+        "001E01O01: Géotechnique / Engineering geology"
+    ],
+    "dc:rights": [
+        "Bureau de Recherches Géologiques et Minières (BRGM)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6241448"
+}

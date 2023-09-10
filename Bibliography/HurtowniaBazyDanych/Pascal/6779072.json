@@ -1,0 +1,197 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Low-cycle fatigue behavior of commercially pure titanium",
+    "dc:creator": [
+        "TAKAO, K",
+        "KUSUKAWA, K"
+    ],
+    "dc:contributor": [
+        "FUJISHIRO, Shiro (Editor)",
+        "EYLON, Daniel (Editor)",
+        "NISHIMURA, Takashi (Editor)",
+        "SAMPE ; Japan Chapter (Funder/Sponsor)",
+        "Air Force Office of Scientific Research ; AFOSR/AOARD (Funder/Sponsor)",
+        "International Symposium on Metallurgy and Technology of Titanium Alloys (5 ; Tokyo 1995-09-25)"
+    ],
+    "dc:relation": [
+        "Materials science & engineering. A, Structural materials : properties, microstructure and processing -- Mater. sci. eng. A Struct. mater. prop. microstruct. proces, ISSN 0921-5093, Vol. 213 (1-2) , pp. 81-85",
+        "International Symposium on Metallurgy and Technology of Titanium Alloys"
+    ],
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "3 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amorçage fissure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrainte cisaillement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Déformation plastique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Déformation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eprouvette essai"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai fatigue"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fatigue oligocyclique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fatigue"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fissure fatigue"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microstructure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété mécanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résistance fatigue"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Titane"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Crack formation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Shear stress"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plastic deformation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Deformation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Test bar"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fatigue test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Low cycle fatigue"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fatigue"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fatigue crack"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microstructure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mechanical properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fatigue strength"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Titanium"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tensión cizallamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Probeta ensayo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo fatiga"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fatiga oligocíclica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fisura fatiga"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resistencia fatiga"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Scherspannung"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Dauerschwingversuch"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Ermuedung bei niedrigen Lastspielzahlen"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Ermuedungsriss"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Dauerfestigkeit"
+        },
+        "001B80A40N: Fatigue, fragilisation et rupture / Fatigue, embrittlement, and fracture",
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy",
+        "8140N:  / Fatigue, corrosion fatigue, embrittlement, cracking, fracture and failure"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3222174"
+}

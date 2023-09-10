@@ -1,0 +1,67 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Multi-method investigation of contaminated soils for a sustainable land use",
+    "dc:creator": [
+        "WOTSCHKE, P",
+        "FRIEDEL, S",
+        "HERMANNS-STENGELE, R"
+    ],
+    "dc:contributor": [
+        "VANICEK, I (Editor)",
+        "The Czech Geotechnical Society CICE (Funder/Sponsor)",
+        "European Conference on soil mechanics and geotechnical engineering (13 ; Prague 2003-08-25)"
+    ],
+    "dc:relation": "Geotechnical problems with man-made and man influenced grounds, Prague, Czech Republic, 25-28th August 2003 -- Les problèmes géotechniques posés par les remblais et les sols anthropiques, Prague, République Tchèque, 25-28 Août 2003",
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "The Czech Geotechnical Society CICE",
+    "dc:format": [
+        "print",
+        "4 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Friche industrielle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode géophysique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthodologie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "dereclict land"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "geophysical methods"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "methodology"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método geofísico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metodología"
+        },
+        "001E01M04: Géophysique appliquée / Applied geophysics",
+        "001E01O04: Pollution, géologie de l'environnement / Pollution, environment geology"
+    ],
+    "dc:rights": [
+        "Bureau de Recherches Géologiques et Minières (BRGM)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16397892"
+}

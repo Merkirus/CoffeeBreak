@@ -1,0 +1,224 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "PLACE DE LA RÉÉDUCATION AU COURS DE LA PHASE AIGUË DES THROMBOSES VEINEUSES PROFONDES DES MEMBRES INFERIEURS; Place of rehabilitation during the acute phase of lower limb deep vein thrombosis",
+    "dc:creator": [
+        "BOUCHET, Jean-Yves",
+        "RICHAUD, Cécile",
+        "BOSSON, Jean-Luc",
+        "FERRANDEZ, Jean-Claude",
+        "THEYS, Serge"
+    ],
+    "dc:contributor": [
+        "Association française des masseurs-kinésithérapeutes pour la recherche et le traitement des atteintes lympho-veineuses (AKTL) (Organiser of meeting)",
+        "Journée de rééducation vasculaires de l'AKTL (1 ; Paris 2009-11-20)"
+    ],
+    "dc:relation": [
+        "Kinésithérapie scientifique -- Kinésithér. sci, ISSN 0023-1576 (504) , pp. 35-38",
+        "RÉÉDUCATION LYMPHATICO-VEINEUSE : nouvelles tendances"
+    ],
+    "dc:date": "2009",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Société de presse et d'édition de la kinésithérapie",
+    "dc:format": [
+        "print",
+        "4 p. ; 13 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie de l'appareil circulatoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie des vaisseaux sanguins"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie des veines"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réadaptation physique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aigu"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bandage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Kinésithérapie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Membre inférieur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rhumatologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réhabilitation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rééducation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thrombose profonde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thrombose veineuse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bandage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exercices actifs"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rééducation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thrombose veineuse profonde"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cardiovascular disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vascular disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Venous disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Physical rehabilitation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Acute"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bandage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Kinesitherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lower limb"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rheumatology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rehabilitation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reeducation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Deep vein thrombosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Venous thrombosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato circulatorio patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vaso sanguíneo patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vena patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Readaptación física"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agudo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vendaje"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Quinesiterapia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Miembro inferior"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reumatología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rehabilitación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reeducación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trombosis venosa profunda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trombosis venosa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        "002B15: Pathologie osteoarticulaire / Diseases of the osteoarticular system",
+        "002B26H: Maladies du système ostéoarticulaire. Traitement orthopédique / Diseases of the osteoarticular system. Orthopedic treatment",
+        "002B26O: Divers / Miscellaneous"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 22144575"
+}

@@ -1,0 +1,125 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "GENU RECURVATUM IN SPASTIC CEREBRAL PALSY. REPORT ON FINDINGS BY GAIT ANALYSIS",
+    "dc:creator": [
+        "SIMON SR",
+        "DEUTSCH SD",
+        "NUZZO RM",
+        "MANSOUR MJ",
+        "JACKSON JL",
+        "KOSKINEN M",
+        "ROSENTHAL RK"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. BONE JOINT SURG., AMER. ED.; USA; DA. 1978; VOL. 60; NO 7; PP. 882-894; BIBL. 29 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ENCEPHALOPATHIE INFANTILE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHRONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HYPERTONIE SPASTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENU RECURVATUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORTHESE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DEFORMATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ARTICULATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MEMBRE INFERIEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETIOPATHOGENIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PREVENTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRAITEMENT ORTHOPEDIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PATHOLOGIE OSTEOARTICULAIRE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CEREBRAL PALSY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHRONIC"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SPASTICITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENU RECURVATUM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORTHOSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DEFORMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LOWER LIMB"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ETIOPATHOGENESIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PREVENTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORTHOPEDIC TREATMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BONE AND JOINT DISEASES"
+        },
+        "002B15: Pathologie osteoarticulaire / Diseases of the osteoarticular system"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7950231030"
+}

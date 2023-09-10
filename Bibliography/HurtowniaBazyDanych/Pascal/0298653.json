@@ -1,0 +1,41 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DIE LIPPENSTIFTHERSTELLUNG; PREPARATION DE ROUGES A LEVRES",
+    "dc:creator": "DINKEL W",
+    "dc:date": "1973",
+    "dc:type": "Serial Issue",
+    "dc:language": "German",
+    "dc:format": "PARFUM. U. KOSMET.; DTSCH.; DA. 1973; VOL. 54; NO 6; PP. 165-172; ABS. ANGL. FR. ESP",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PRODUIT COSMETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ROUGE LEVRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FABRICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TYPE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUSTRIE CHIMIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL INDUSTRY"
+        },
+        "001D07: Genie chimique / Chemical engineering"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7388013008"
+}

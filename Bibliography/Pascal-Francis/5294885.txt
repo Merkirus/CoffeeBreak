@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Distributed MD4 password hashing with grid computing package BOINC</dc:title>
+  <dc:creator>PELLICER, Stephen</dc:creator>
+  <dc:creator>YI PAN</dc:creator>
+  <dc:creator>MINYI GUO</dc:creator>
+  <dc:contributor>Hai Jin (Editor)</dc:contributor>
+  <dc:contributor>Yi Pan (Editor)</dc:contributor>
+  <dc:contributor>Nong Xiao (Editor)</dc:contributor>
+  <dc:contributor>Sun, Jianhua (Editor)</dc:contributor>
+  <dc:contributor>International conference on grid and cooperative computing (3 ; Wuhan 2004-10-21)</dc:contributor>
+  <dc:relation>Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 679-686</dc:relation>
+  <dc:relation>GCC 2004 : grid and cooperative computing (Wuhan, 21-24 October 2004)</dc:relation>
+  <dc:date>2004</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Conference Paper</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>Springer</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>8 p. ; 6 ref</dc:format>
+  <dc:subject xml:lang="fr">Algorithme réparti</dc:subject>
+  <dc:subject xml:lang="fr">Calcul parallèle</dc:subject>
+  <dc:subject xml:lang="fr">Calcul réparti</dc:subject>
+  <dc:subject xml:lang="fr">Contrôle accès</dc:subject>
+  <dc:subject xml:lang="fr">Cryptographie</dc:subject>
+  <dc:subject xml:lang="fr">Grille</dc:subject>
+  <dc:subject xml:lang="fr">Hachage</dc:subject>
+  <dc:subject xml:lang="fr">Progiciel</dc:subject>
+  <dc:subject xml:lang="fr">Système réparti</dc:subject>
+  <dc:subject xml:lang="fr">Sécurité informatique</dc:subject>
+  <dc:subject xml:lang="fr">MD4 password</dc:subject>
+  <dc:subject xml:lang="en">Distributed algorithm</dc:subject>
+  <dc:subject xml:lang="en">Parallel computation</dc:subject>
+  <dc:subject xml:lang="en">Distributed computing</dc:subject>
+  <dc:subject xml:lang="en">Access control</dc:subject>
+  <dc:subject xml:lang="en">Cryptography</dc:subject>
+  <dc:subject xml:lang="en">Grid</dc:subject>
+  <dc:subject xml:lang="en">Hashing</dc:subject>
+  <dc:subject xml:lang="en">Software package</dc:subject>
+  <dc:subject xml:lang="en">Distributed system</dc:subject>
+  <dc:subject xml:lang="en">Computer security</dc:subject>
+  <dc:subject xml:lang="es">Algoritmo repartido</dc:subject>
+  <dc:subject xml:lang="es">Cálculo paralelo</dc:subject>
+  <dc:subject xml:lang="es">Cálculo repartido</dc:subject>
+  <dc:subject xml:lang="es">Criptografía</dc:subject>
+  <dc:subject xml:lang="es">Rejilla</dc:subject>
+  <dc:subject xml:lang="es">Hashing</dc:subject>
+  <dc:subject xml:lang="es">Paquete programa</dc:subject>
+  <dc:subject xml:lang="es">Sistema repartido</dc:subject>
+  <dc:subject xml:lang="es">Seguridad informatica</dc:subject>
+  <dc:subject>001D02B04: Systèmes informatiques et systèmes répartis. Interface utilisateur / Computer systems and distributed systems. User interface</dc:subject>
+  <dc:subject>001D04A04E: Cryptographie / Cryptography</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 16442879</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

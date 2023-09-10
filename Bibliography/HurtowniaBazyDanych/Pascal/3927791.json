@@ -1,0 +1,57 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "RECHERCHES SUR LES CAUSES DE DISPERSION DES LECTURES FAITES SUR LES CLICHES DE RADIOGRAPHIE INDUSTRIELLE. II.",
+    "dc:creator": "RUAULT P",
+    "dc:date": "1972",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "BULL. INFORM. A.T.E.N., SUPPL.; FR.; DA. 1972; NO 97; PP. 9-17; BIBL. 33 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "RADIOGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "APPLICATION INDUSTRIELLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VISION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PERFORMANCE VISUELLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LECTURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IMAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METROLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE THEORIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MEASUREMENT SCIENCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THEORETICAL PHYSICS"
+        },
+        "001B: Physique / Physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7530000936"
+}

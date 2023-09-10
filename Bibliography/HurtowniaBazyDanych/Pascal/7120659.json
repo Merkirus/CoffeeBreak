@@ -1,0 +1,107 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The Minesweepers' Bayesian guide to survival",
+    "dc:creator": "RUJAN, P",
+    "dc:contributor": [
+        "BERKOVITS, Richard (Editor)",
+        "HAVLIN, Shlomo (Editor)",
+        "KANTER, Ido (Editor)",
+        "KAVEH, Moshe (Editor)",
+        "Minerva Workshop on Mesoscopics, Fractals and Neural Networks (Eilat 1997-03-25)"
+    ],
+    "dc:relation": [
+        "Philosophical magazine. B. Physics of condensed matter. Statistical mechanics, electronic, optical and magnetic properties -- Philos. mag., B, Phys. condens. matter, Stat. mech. electron. opt. magn. prop, ISSN 1364-2812, Vol. 77 (5) , pp. 1539-1548",
+        "Minerva Workshop on Mesoscopics, Fractals and Neural Networks"
+    ],
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Taylor & Francis",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Codage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Estimation Bayes"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Jeu ordinateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mécanique statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau neuronal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Théorie décision"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Théorie jeu"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transition phase"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Encoding"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bayes estimation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computer games"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Statistical mechanics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neural networks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Decision theory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Game theory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phase transitions"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estimación Bayes"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transición fase"
+        },
+        "001B00B50K: Fondements de la statistique, exhaustivité / Foundations of statistics, sufficiency",
+        "001B00G05M: Réseaux neuronaux, logique floue, intelligence artificielle / Neural networks, fuzzy logic, artificial intelligence",
+        "0250E:  / Stochastic processes",
+        "0705M:  / Neural networks, fuzzy logic, artificial intelligence"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2267132"
+}

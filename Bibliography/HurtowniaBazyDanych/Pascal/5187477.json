@@ -1,0 +1,146 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Personalized guided routes in an adaptive evolutionary hypermedia system",
+    "dc:creator": [
+        "MEDINA-MEDINA, Nuria",
+        "MOLINA-ORTIZ, Fernando",
+        "GARCIA-CABRERA, Lina",
+        "PARETS-LLORCA, José"
+    ],
+    "dc:contributor": [
+        "Moreno-Diaz, Roberto (Editor)",
+        "Pichler, Franz (Editor)",
+        "International workshopon computer aided systems theory (9 ; Las Palmas de Gran Canaria 2003-02-24)"
+    ],
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 196-207",
+        "Computer aided systems theory : EUROCAST 2003 (Las Palmas de Gran Canaria, 24-28 February 2003, revised selected papers)"
+    ],
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "12 p. ; 10 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Algorithme évolutionniste"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hypermédia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hypertexte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Intelligence artificielle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Itinéraire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode adaptative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Préférence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système adaptatif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sémantique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Evolutionary algorithm"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hypermedia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hypertext"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Artificial intelligence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Route"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adaptive method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Preference"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adaptive system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Semantics"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Algoritmo evoluciónista"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hipermedia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hipertexto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inteligencia artificial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Itinerario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método adaptativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Preferencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema adaptativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Semántica"
+        },
+        "001D02C02: Apprentissage et systèmes adaptatifs / Learning and adaptive systems"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15550883"
+}

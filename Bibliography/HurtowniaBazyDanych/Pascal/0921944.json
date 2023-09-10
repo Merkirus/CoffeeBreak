@@ -1,0 +1,78 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "AUTONOMOUS ERYTHROPOIETIN INDUCED ERYTHROCYTOSIS",
+    "dc:creator": [
+        "DAVIES SA",
+        "GOOLDEN AWG",
+        "LEWIS SM",
+        "ZAAFRAN A"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "SCAND. J. HAEMATOL.; DNK; DA. 1979; VOL. 22; NO 2; PP. 105-112; BIBL. 21 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "POLYGLOBULIE VRAIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HYPERSPLENISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ERYTHROPOIETINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIAGNOSTIC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HORMONE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HEMATOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLYCYTHEMIA VERA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HYPERSPLENISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ERYTHROPOIETIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIAGNOSTIC"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HORMONE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEMATOLOGY"
+        },
+        "002B19: Hemopathies / Hematologic and hematopoietic diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7950267542"
+}

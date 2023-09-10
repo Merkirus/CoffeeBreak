@@ -1,0 +1,96 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "COMPARATIVE CLINICAL STUDY OF PROTEIN SAP (AMYLOID P COMPONENT) AND C-REACTIVE PROTEIN IN SERUM.",
+    "dc:creator": [
+        "PEPYS MB",
+        "DASH AC",
+        "MARKHAM RE",
+        "THOMAS HC",
+        "WILLIAMS BD",
+        "PETRIE A"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "CLIN. EXPER. IMMUNOL.; G.B.; DA. 1978; VOL. 32; NO 1; PP. 119-124; BIBL. 21 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PROTEINE ANTI C"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AMYLOIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TAUX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SANG"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MALADIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROTEINE SERIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROTEINE PHASE AIGUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROTEINE SAP"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IMMUNOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANTI C PROTEIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AMYLOID"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BLOOD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DISEASE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SERUM PROTEIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ACUTE PHASE PROTEIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IMMUNOLOGY"
+        },
+        "002B05: Pathologie infectieuse / Infectious diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7850389610"
+}

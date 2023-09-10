@@ -1,0 +1,191 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DSM-IV diagnoses and obstructive sleep apnea in children before and 1 year after adenotonsillectomy",
+    "dc:creator": [
+        "DILLON, James E",
+        "BLUNDEN, Sarah",
+        "RUZICKA, Deborah L",
+        "GUIRE, Kenneth E",
+        "CHAMPINE, Donna",
+        "WEATHERLY, Robert A",
+        "HODGES, Elise K",
+        "GIORDANI, Bruno J",
+        "CHERVIN, Ronald D"
+    ],
+    "dc:relation": "Journal of the American Academy of Child and Adolescent Psychiatry -- J. Am. Acad. Child Adolesc. Psych, CODEN JAAPEE, ISSN 0890-8567, Vol. 46 (11) , pp. 1425-1436",
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Lippincott",
+    "dc:format": [
+        "print",
+        "12 p. ; 1 p.1/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie de l'appareil respiratoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie du système nerveux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble neurologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diagnostic and Statistical Manual IV"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enfant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Syndrome d'apnée du sommeil"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble de l'attention"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble du comportement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble du sommeil"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble déficitaire de l'attention avec hyperactivité"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Respiratory disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nervous system diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neurological disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diagnostic and Statistical Manual IV"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Child"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sleep apnea syndrome"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Attentional disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Behavioral disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sleep disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Attention disorder with hyperactivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": ": obstructive sleep apnea"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "adenotonsillectomy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "attention deficit disorder with hyperactivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "child behavior disorders"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "sleep disorders"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato respiratorio patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno neurológico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diagnostic and Statistical Manual IV"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Niño"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Apnea sueno síndrome"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno atención"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno conducta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno sueño"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno por déficit de atención e hiperactividad"
+        },
+        "002B11D: Appareil respiratoire : syndromes et maladies diverses / Respiratory system : syndromes and miscellaneous diseases",
+        "002B17A02: Fonctions encéphaliques supérieures. Syndromes encéphaliques topographiques. Syndrome vestibulaire et surdité d'origine centrale. Syndromes du tronc cérébral / Disorders of higher nervous function. Focal brain diseases. Central vestibular syndrome and deafness. Brain stem syndromes",
+        "002B18D: Etude clinique de l'enfant / Child clinical studies",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry",
+        "770-D04: Etude clinique de l'enfant / Child clinical studies"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 19218650"
+}

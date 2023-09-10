@@ -1,0 +1,55 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DECHARGE LONGITUDINALE DANS UN ECOULEMENT TURBULENT D'AZOTE",
+    "dc:creator": [
+        "BONDARENKO AV",
+        "VYSIKAJLO FI",
+        "KOKHAN VI",
+        "LEBEDEV FV",
+        "SMAKOTIN MM"
+    ],
+    "dc:date": "1983",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "TEPLOFISIKA VYSOKIH TEMPERATUR; ISSN 0040-3644; SUN; DA. 1983; VOL. 21; NO 2; PP. 388-389; BIBL. 10 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DECHARGE ELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ECOULEMENT GAZ"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AZOTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE DES PLASMAS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRIC DISCHARGE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GAS FLOW"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NITROGEN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PLASMA PHYSICS"
+        },
+        "001B30: Physique atomique et moleculaire / Atomic and molecular physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0403344"
+}

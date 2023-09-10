@@ -1,0 +1,463 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Textural evidence of peperites inside pillow lavas at Acicastello Castle Rock (Mt. Etna, Sicily)",
+    "dc:creator": [
+        "CORSARO, R. A",
+        "MAZZOLENI, P"
+    ],
+    "dc:contributor": [
+        "SKILLING, Ian P (Editor)",
+        "WHITE, James D. L (Editor)",
+        "PCPHIE, Jocelyn (Editor)"
+    ],
+    "dc:relation": "Journal of volcanology and geothermal research -- J. volcanol. geotherm. res, CODEN JVGRDQ, ISSN 0377-0273, Vol. 114 (1-2) , pp. 219-229",
+    "dc:date": "2002",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Elsevier",
+        "Elsevier",
+        "Elsevier"
+    ],
+    "dc:format": [
+        "print",
+        "Illustration ; 26 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Argile minéral"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cénozoïque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lave"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phanérozoïque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phyllosilicate"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Quaternaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche clastique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche ignée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche sédimentaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche volcanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Silicate"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tectosilicate"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Activité hydrothermale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Argile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Basalte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffraction RX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Donnée MEB"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fraction fine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Genèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microscopie électronique balayage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mixage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Paragenèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pillow lava"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pléistocène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pétrographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Smectite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Substrat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sédiment"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Texture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transport"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Zéolite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pépérite"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "clay minerals"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cenozoic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "lava"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phanerozoic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "sheet silicates"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quaternary"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "clastic rocks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "igneous rocks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "sedimentary rocks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "volcanic rocks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "silicates"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "framework silicates"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "hydrothermal activity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "clay"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "basalts"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "X-ray diffraction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SEM data"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "fine-grained materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "genesis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "scanning electron microscopy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "mixing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "models"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "paragenesis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "pillow lava"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pleistocene"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "petrography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "smectite"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "substrates"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "sediments"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "textures"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "transport"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "zeolite"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arcilla mineral"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cenozoico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lava"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fanerozoico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Filosilicato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuaternario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Roca clástica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Roca ignea"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Roca sedimentaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Roca volcánica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Silicato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arcilla"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Basalto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Difracción RX"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dato MEB"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fracción fina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Génesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mezcla"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Paragénesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pillow lava"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Petrografía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Esmectita"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sedimento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Textura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transporte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Zeolita"
+        },
+        "001E01F01: Pétrologie des roches ignées et métamorphiques, phénomènes volcaniques, magmas / Igneous and metamorphic rocks petrology, volcanic processes, magmas"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe Sud"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Italie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sicile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mont Etna"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Southern Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Italy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sicily Italy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mount Etna"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa Sur"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Italia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sicilia"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 13718965"
+}

@@ -1,0 +1,56 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ACTION DE L'ATRAZINE ET DE LA SIMAZINE SUR LES CHAMPIGNONS DU SOL ET DECOMPOSITION DE L'HERBICIDE DANS LE SOL",
+    "dc:creator": [
+        "NEPOMILUEV VF",
+        "KUZYAKINA TI"
+    ],
+    "dc:date": "1972",
+    "dc:type": "Serial Issue",
+    "dc:language": "Russian",
+    "dc:format": "NAUCH. DOKL. VYSSH. SHK., BIOL. NAUKI; S.S.S.R.; DA. 1972; VOL. 15; NO 8; PP. 127-131; BIBL. 12REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ATRAZINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SIMAZINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HERBICIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROFLORE SOL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FUNGI"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIODEGRADATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METABOLISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROBIOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROBIOLOGY"
+        },
+        "002B05: Pathologie infectieuse / Infectious diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL733405973"
+}

@@ -1,0 +1,227 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Aged monkeys exhibit behavioral deficits indicative of widespread cerebral dysfunction",
+    "dc:creator": [
+        "BACHEVALIER, J",
+        "LANDIS, L. S",
+        "WALKER, L. C",
+        "BRICKSON, M",
+        "MISHKIN, M",
+        "PRICE, D. L",
+        "CORK, L. C"
+    ],
+    "dc:relation": "Neurobiology of aging -- Neurobiol. aging, CODEN NEAGDO, ISSN 0197-4580, Vol. 12 (2) , pp. 99-111",
+    "dc:date": "1991",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "13 p. ; 58 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Primates"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Age"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Apprentissage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Comportement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Encéphale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mémoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Orientation spatiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Perception espace"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Performance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Processus acquisition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Singe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système nerveux central"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sénescence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Temps réaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Primates"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Age"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Learning"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Behavior"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Brain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Memory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spatial orientation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Space perception"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Performance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Acquisition process"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Monkey"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central nervous system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Senescence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reaction time"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Primates"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Edad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aprendizaje"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conducta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Encéfalo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Memoria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Orientación espacial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Percepción espacio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rendimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Proceso adquisición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mono"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso central"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Senescencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tiempo reacción"
+        },
+        "002A26C04: Corrélats anatomiques du comportement / Anatomical correlates of behavior",
+        "770-: Psychologie. Psychanalyse. Psychiatrie / Psychology. Psychoanalysis. Psychiatry",
+        "770-B: Psychologie. Psychophysiologie / Psychology. Psychophysiology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 19625358"
+}

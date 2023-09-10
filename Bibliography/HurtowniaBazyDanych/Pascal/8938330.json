@@ -1,0 +1,88 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The assessment of the bactericidal activity of surface disinfectants. IV : The AOAC use-dilution method and the Kelsey-Sykes test",
+    "dc:creator": "REYBROUCK, G",
+    "dc:relation": "Zentralblatt für Hygiene und Umweltmedizin -- Zent. bl. hyg. Umweltmed, ISSN 0934-8859, Vol. 192 (5) , pp. 432-437",
+    "dc:date": "1992",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Urban & Fischer",
+        "Urban & Fischer"
+    ],
+    "dc:format": [
+        "print",
+        "16 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Désinfectant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude comparative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hygiène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode étude"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Test bactéricidie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Disinfecting agent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hygiene"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Investigation method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bactericidal test"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desinfectante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio comparativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Higiene"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método estudio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prueba bactericidia"
+        },
+        "002B30A: Santé publique. Hygiène / Public health. Hygiene"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 5537293"
+}

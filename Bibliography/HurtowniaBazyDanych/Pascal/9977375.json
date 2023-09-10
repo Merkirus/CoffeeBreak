@@ -1,0 +1,193 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Maximization of eigenvalues using topology optimization",
+    "dc:creator": "PEDERSEN, N. L",
+    "dc:relation": "Structural and multidisciplinary optimization (Print) -- Struct. multidiscipl. optim. (Print), ISSN 1615-147X, Vol. 20 (1) , pp. 2-11",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "23 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Dispositif électromécanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fréquence propre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Micromachine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microscopie force atomique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Miniaturisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mode localisé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mécanique précision"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode homogénéisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode numérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode élément fini"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optimisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Problème valeur propre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sonde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Topologie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electromechanical device"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Natural frequency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Micromachine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Atomic force microscopy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Miniaturization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Localized mode"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Precision engineering"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Homogenization methods"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Numerical method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Finite element method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optimization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Eigenvalue problem"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Probe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Topology"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dispositivo electromecánico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Frecuencia propia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Micromáquina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Microscopía fuerza atómica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Miniaturización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modo localizado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mecánica precisión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método numérico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método elemento finito"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Optimización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Problema valor propio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sonda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Topología"
+        },
+        "001B00G79L: Microscopes à force atomique / Atomic force microscopes",
+        "001B40F30M: Vibration, onde mécanique, stabilité dynamique (aéroélasticité, contrôle vibration...) / Vibration, mechanical wave, dynamic stability (aeroelasticity, vibration control...)",
+        "001D12I: Mécanique de précision. Horlogerie / Precision engineering, watch making",
+        "0779L:  / Atomic force microscopes",
+        "4640:  / Vibrations and mechanical waves"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1539741"
+}

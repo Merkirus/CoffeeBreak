@@ -1,0 +1,391 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "L'estimation du potentiel de croissance des stations forestières (exemple du sous-domaine de la sapinière à bouleau jaune de l'est du Québec)",
+    "dc:creator": "Bédard, Steve",
+    "dc:relation": "Mémoire de recherche forestière -- Mém. rech. for, ISSN 1183-3912",
+    "dc:date": "2002",
+    "dc:type": [
+        "Text",
+        "Book"
+    ],
+    "dc:identifier": [
+        "ISBN 2-550-38688-4",
+        "Inist-CNRS record number 66145"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Gouvernement du Québec",
+    "dc:format": [
+        "print",
+        "XI, 36 p ; 3 p.1/2"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Angiospermae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Arbre forestier feuillu"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Arbre forestier résineux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Betulaceae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Coniferales"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dicotyledones"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gymnospermae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spermatophyta"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Abies balsamea"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Age"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Betula alleghaniensis"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Courbe croissance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Critère qualité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dendrométrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Forêt boréale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hauteur plante"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Indice stationnel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Peuplement forestier mélangé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Picea glauca"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Picea mariana"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Picea rubens"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Régime hydrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Station forestière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stratification écologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Typologie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Angiospermae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hardwood forest tree"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Softwood forest tree"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Betulaceae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Coniferales"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dicotyledones"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gymnospermae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spermatophyta"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Abies balsamea"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Age"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Betula alleghaniensis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Growth curve"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quality criterion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Forest mensuration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Boreal forest"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plant height"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Site index"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Statistical model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mixed forest stand"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Picea glauca"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Picea mariana"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Picea rubens"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water regime"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Forest site"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ecological stratification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Typology"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Angiospermae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arbol forestal frondoso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arbol forestal resinoso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Betulaceae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Coniferales"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dicotyledones"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gymnospermae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Spermatophyta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Abies balsamea"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Edad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Betula alleghaniensis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Curva crecimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Criterio calidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dendrometría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bosque boreal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Altura planta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Indice estación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo estadístico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rodal forestal mixto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Picea glauca"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Picea mariana"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Picea rubens"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Régimen hídrico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estación forestal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estratificación ecológica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tipología"
+        },
+        "002A14B04B: Ecosystèmes terrestres / Terrestrial ecosystems",
+        "002A33B: Dendrométrie. Inventaires / Dendrometry. Forest inventory"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Canada"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Québec"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Canada"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quebec"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Canada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Quebec"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

@@ -1,0 +1,321 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Effect of propranolol on the factors promoting bacterial translocation in cirrhotic rats with ascites",
+    "dc:creator": [
+        "PEREZ-PARAMO, M",
+        "MUNOZ, J",
+        "ALBILLOS, A",
+        "FREILE, I",
+        "PORTERO, F",
+        "SANTOS, M",
+        "ORTIZ-BERROCAL, J"
+    ],
+    "dc:relation": "Hepatology (Baltimore, Md.) -- Hepatology (Baltim. Md.), CODEN HPTLD9, ISSN 0270-9139, Vol. 31 (1) , pp. 43-48",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Wiley",
+    "dc:format": [
+        "print",
+        "24 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Abdomen pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Antagoniste"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil digestif pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bloquant β-adrénergique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epanchement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Foie pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Récepteur adrénergique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ascite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bactérie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chimiothérapie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cirrhose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Complication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Long terme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mécanisme action"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Perméabilité cellulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propranolol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Protocole expérimental"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transit digestif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Translocation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Abdominal disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antagonist"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Digestive diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Beta blocking agent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Effusion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hepatic disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adrenergic receptor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ascites"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bacteria"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemotherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cirrhosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Complication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Long term"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mechanism of action"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cell permeability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Propranolol"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental protocol"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rat"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Digestive transit"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Translocation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Abdomen patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antagonista"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato digestivo patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bloqueador β-adrenérgico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Derrame"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hígado patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Receptor adrenérgico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ascitis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bacteria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Quimioterapia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cirrosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Complicación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Largo plazo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mecanismo acción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Permeabilidad celular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propranolol"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Protocolo experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transito digestivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Translocación"
+        },
+        "002B02H: Appareil digestif / Digestive system"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1251048"
+}

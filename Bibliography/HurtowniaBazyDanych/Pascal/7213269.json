@@ -1,0 +1,147 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Automatic segmentation for very low-bitrate video coding",
+    "dc:creator": [
+        "DESMET, S",
+        "DEKNUYDT, B",
+        "VAN EYCKEN, L"
+    ],
+    "dc:contributor": [
+        "Vasudev, Bhaskaran (Editor)",
+        "Hsing, T. Russel (Editor)",
+        "Tescher, Andrew G (Editor)",
+        "Stevenson, Robert L (Editor)",
+        "Image and video communications and processing. Conference (San Jose CA 2000-01-25)"
+    ],
+    "dc:relation": [
+        "SPIE proceedings series -- SPIE proc. ser, pp. 476-486",
+        "Image and video communications and processing 2000 (San Jose CA, 25-28 January 2000)"
+    ],
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "5 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Algorithme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Codage vidéo"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Codage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Compression donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Estimation mouvement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mesure déplacement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Orienté objet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Segmentation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Signal vidéo"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Taux compression"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technique vidéo"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Algorithms"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Video coding"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Encoding"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Data compression"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Motion estimation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Displacement measurement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Object oriented"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Segmentation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Video signals"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Compression ratio"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Video techniques"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Orientado objeto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Segmentación"
+        },
+        "001B00G05P: Traitement image / Image processing",
+        "001B40B30V: Formation et traitement des images / Image forming and processing",
+        "001D04A05C: Traitement des images / Image processing",
+        "0705P:  / Image processing",
+        "4230V:  / Image forming and processing"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 778227"
+}

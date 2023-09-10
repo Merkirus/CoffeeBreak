@@ -1,0 +1,70 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Les tombes à pierre à estampages datant des Han au Balimiao dans le district de Yanggu au Shandong",
+    "dc:relation": "Wen Wu (8) , pp. 48-56",
+    "dc:date": "1989",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "Chinese",
+    "dc:format": [
+        "print",
+        "Illustration ; 2 réf"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Argent objet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bronze objet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Céramique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gravure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mobilier funéraire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Monnaie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sépulture"
+        },
+        "526-118: Asie / Asia",
+        "526-152: Han orientaux / Eastern Han"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Balimiao, Yanggu, Shandong"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chronologie Chine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Han orientaux"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6561875"
+}

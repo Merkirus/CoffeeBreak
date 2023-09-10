@@ -1,0 +1,82 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Environmental river flow hydraulics",
+    "dc:creator": "BATHURST, J. C",
+    "dc:contributor": [
+        "THORNE",
+        "HEY, Richard D (Editor)",
+        "NEWSON, Malcolm D"
+    ],
+    "dc:date": "1997",
+    "dc:type": [
+        "Text",
+        "Book Chapter"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "John Wiley & Sons",
+    "dc:format": [
+        "print",
+        "Illustration ; 4 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrainte cisaillement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Géométrie chenal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hydraulique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rivière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résistance écoulement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "shear stress"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "channel geometry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "hydraulics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "rivers"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tensión cizallamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Geometría canal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hidraúlica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Río"
+        },
+        "001E01N01: Hydrologie / Hydrology",
+        "001E01P01: Géomorphologie, morphodynamique / Geomorphology, landform evolution"
+    ],
+    "dc:rights": [
+        "Bureau de Recherches Géologiques et Minières (BRGM)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6251672"
+}

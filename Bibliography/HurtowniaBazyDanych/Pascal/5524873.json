@@ -1,0 +1,96 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "On the accuracy and running time of GSAT",
+    "dc:creator": [
+        "EAST, D",
+        "TRUSZCZYNSKI, M"
+    ],
+    "dc:contributor": [
+        "Barahona, Pedro (Editor)",
+        "Alferes, José J (Editor)",
+        "Portuguese conference on artificial intelligence (9 ; Evora 1999-09-21)"
+    ],
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 49-61",
+        "EPIA '99 : progress in artificial intelligence (Evora, 21-24 September 1999)"
+    ],
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "18 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Algorithme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Marche aléatoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Précision"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résolution problème"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Randomized algorithm"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Running time"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Satisfiability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Algorithm"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Random walk"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Accuracy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Problem solving"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Algoritmo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Marcha aleatoria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Precisión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resolución problema"
+        },
+        "001D02C01: Généralités / General"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1829303"
+}

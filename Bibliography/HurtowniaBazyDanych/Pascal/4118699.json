@@ -1,0 +1,51 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DIFFUSION DES ONDES ELECTROMAGNETIQUES PAR UN FERMION NEUTRE POSSEDANT DES MOMENTS MAGNETIQUE ET ELECTRIQUE",
+    "dc:creator": [
+        "BAGROV VG",
+        "BOZRIKOV PV",
+        "GITMAN DM",
+        "KLIMENKO YU I",
+        "KHUDOMYASOV AI"
+    ],
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "IZVEST. VYSSH. UCHEBN. ZAVED., FIZ.; S.S.S.R.; DA. 1974; VOL. 17; NO 7; PP. 138-139; BIBL. 2 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DIFFUSION PARTICULE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ONDE ELECTROMAGNETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FERMION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METROLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE THEORIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MEASUREMENT SCIENCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THEORETICAL PHYSICS"
+        },
+        "001B: Physique / Physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7530003577"
+}

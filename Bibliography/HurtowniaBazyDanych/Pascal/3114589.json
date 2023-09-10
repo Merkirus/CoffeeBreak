@@ -1,0 +1,65 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE INIS FORMAT - AN EXISTING OPERATIONAL EXCHANGE FORMAT",
+    "dc:creator": [
+        "DRAGULEV V",
+        "RUCKENBAUER E",
+        "MAREK D"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Conference Paper",
+    "dc:language": "English",
+    "dc:format": "INTERNATIONAL SYMPOSIUM ON BIBLIOGRAPHIC EXCHANGE FORMATS/1978/TAORMINA SICILY; HUN; BUDAPEST: OMKDK-TECHNOINFORM/LONDON: UNIBID; DA. 1978; PP. 122-129; BIBL. 21 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "FORMAT ENREGISTREMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SYSTEME DOCUMENTAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NUCLEAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTERNATIONAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INIS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCE INFORMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RECORD FORMAT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DOCUMENT RETRIEVAL SYSTEM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTERNATIONAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFORMATION SCIENCE"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7930472912"
+}

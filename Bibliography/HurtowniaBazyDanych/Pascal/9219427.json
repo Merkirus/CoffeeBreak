@@ -1,0 +1,335 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Das Deutsche Netz Rauchfreier Krankenhäuser & Gesundheitseinrichtungen (DNRfK): Ergebnisse einer Totalerhebung zur Umsetzung der Standards zur Tabakkontrolle und -entwöhnung; German Network for Tobacco-Free Hospitals & Health-Care Services: Results of a Total Survey Regarding the Implementation of Standards for Tobacco Control and Smoking Cessation Services",
+    "dc:creator": [
+        "MÜHLIG, S",
+        "HAARIG, F",
+        "TEUMER, G",
+        "BOTHEN, E",
+        "NEHRKORN, M",
+        "BERNDT, C",
+        "RUSTLER, C"
+    ],
+    "dc:relation": "Das Gesundheitswesen (Stuttgart. Thieme) -- Gesundheitswesen (Stuttg.,Thieme), ISSN 0941-3790, Vol. 75 (11) , pp. 749-750",
+    "dc:date": "2013",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "German",
+    "dc:publisher": "Thieme",
+    "dc:format": [
+        "print",
+        "2 p. ; 3 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Allemand"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Arrêt"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Clinique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conseil"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enquête"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Espace sans tabac"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hôpital"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Implémentation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lutte anti-tabac"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Norme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Promotion santé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prévention"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résultat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé publique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Service santé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sevrage toxique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Surveillance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tabac"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tabagisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Soins de santé"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "German"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Shutdown"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Clinic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Council"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Survey"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Smoke-free space"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hospital"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Implementation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Anti-smoking fight"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Standards"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Health promotion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prevention"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Network"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Result"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Health service"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Poison withdrawal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surveillance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tobacco"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tobacco smoking"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Healthcare"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENSH"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "clinics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "counselling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "smoke free hospitals"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "smoking cessation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alemán"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Parada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Clínica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Consejo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Encuesta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Espacio sin tabaco"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hospital"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Implementación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lucha anti-tabaco"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Norma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Promoción salud"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prevención"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resultado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud pública"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Servicio sanidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Destete tóxico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vigilancia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tabaco"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tabaquismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asistencia sanitaria"
+        },
+        "002B03E: Tabac, tabagisme / Tobacco, tobacco smoking",
+        "002B30A03: Mesures de prévention et actions / Prevention and actions",
+        "002B30A11: Divers / Miscellaneous",
+        "760-C: Mesures de prévention et actions / Prevention and actions",
+        "760-L: Divers / Miscellaneous"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Allemagne"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Germany"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alemania"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 27947839"
+}

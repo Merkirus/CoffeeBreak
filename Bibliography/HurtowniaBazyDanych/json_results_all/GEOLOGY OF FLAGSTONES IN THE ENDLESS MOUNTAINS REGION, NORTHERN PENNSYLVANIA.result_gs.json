@@ -1,0 +1,52 @@
+[
+    {
+        "position": 0,
+        "title": "GEOLOGY OF FLAGSTONES IN THE ENDLESS MOUNTAINS REGION, NORTHERN PENNSYLVANIA.",
+        "result_id": "Q8wNWlUux6UJ",
+        "type": "Citation",
+        "link": "https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=GEODEBRGM7017015046",
+        "snippet": "GEOLOGY OF FLAGSTONES IN THE ENDLESS MOUNTAINS REGION, NORTHERN PENNSYLVANIA. \u2026 GEOLOGY OF FLAGSTONES IN THE ENDLESS MOUNTAINS REGION, NORTHERN PENNSYLVANIA. \u2026 GEOLOGY \u2026",
+        "publication_info": {
+            "summary": "G JD - 1969 - pascal-francis.inist.fr"
+        },
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=Q8wNWlUux6UJ",
+            "cited_by": {
+                "total": 2,
+                "link": "https://scholar.google.com/scholar?cites=11945567480741481539&as_sdt=10005&sciodt=0,8&hl=en",
+                "cites_id": "11945567480741481539",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=10005&cites=11945567480741481539&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:Q8wNWlUux6UJ:scholar.google.com/&scioq=GEOLOGY+OF+FLAGSTONES+IN+THE+ENDLESS+MOUNTAINS+REGION,+NORTHERN+PENNSYLVANIA.&hl=en&as_sdt=0,8",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C8&engine=google_scholar&hl=en&q=related%3AQ8wNWlUux6UJ%3Ascholar.google.com%2F",
+            "versions": {
+                "total": 2,
+                "link": "https://scholar.google.com/scholar?cluster=11945567480741481539&hl=en&as_sdt=0,8",
+                "cluster_id": "11945567480741481539",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C8&cluster=11945567480741481539&engine=google_scholar&hl=en"
+            },
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:Q8wNWlUux6UJ:scholar.google.com/+GEOLOGY+OF+FLAGSTONES+IN+THE+ENDLESS+MOUNTAINS+REGION,+NORTHERN+PENNSYLVANIA.&hl=en&as_sdt=0,8"
+        }
+    },
+    {
+        "position": 1,
+        "title": "Geology of flagstones in the Endless Mountains region, northern Pennsylvania: Pennsylvania Bureau of Topographic and Geologic Survey",
+        "result_id": "CYaXFT9bXjkJ",
+        "type": "Citation",
+        "snippet": "",
+        "publication_info": {
+            "summary": "JD Glaeser - Information Circular, 1969"
+        },
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=CYaXFT9bXjkJ",
+            "cited_by": {
+                "total": 2,
+                "link": "https://scholar.google.com/scholar?cites=4133841834476013065&as_sdt=10005&sciodt=0,8&hl=en",
+                "cites_id": "4133841834476013065",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=10005&cites=4133841834476013065&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:CYaXFT9bXjkJ:scholar.google.com/&scioq=GEOLOGY+OF+FLAGSTONES+IN+THE+ENDLESS+MOUNTAINS+REGION,+NORTHERN+PENNSYLVANIA.&hl=en&as_sdt=0,8",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C8&engine=google_scholar&hl=en&q=related%3ACYaXFT9bXjkJ%3Ascholar.google.com%2F"
+        }
+    }
+]

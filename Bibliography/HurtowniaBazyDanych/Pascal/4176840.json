@@ -1,0 +1,72 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ETUDE DE LA COMPOSITION PHOSPHOLIPIDIQUE DU STROMA ET DES ERYTHROCYTES HUMAINS",
+    "dc:creator": [
+        "NAJER MOKHAMED ABU RAVASH AKHMED",
+        "BYSTROVA IM"
+    ],
+    "dc:date": "1973",
+    "dc:type": "Serial Issue",
+    "dc:language": "Russian",
+    "dc:format": "VOPR. MED. KHIM.; S.S.S.R.; DA. 1973; VOL. 19; NO 1; PP. 102-104; ABS. ANGL.; BIBL. 24 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PHOSPHOLIPIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ERYTHROCYTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONSTITUTION CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MEMBRANE ERYTHROCYTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MEMBRANE BIOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IDENTIFICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REPARTITION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE COMPAREE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOLOGIE MOLECULAIRE ET CELLULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOCHIMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOLECULAR AND CELLULAR BIOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOCHEMISTRY"
+        },
+        "002A02: Biochimie analytique, structurale et metabolique / Analytical, structural and metabolic biochemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7332009217"
+}

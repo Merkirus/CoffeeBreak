@@ -1,0 +1,117 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Rule-based specification of behavioral consistency based on the UML meta-model",
+    "dc:creator": [
+        "ENGELS, Gregor",
+        "HECKEL, Reiko",
+        "KIISTER, Jochen Malte"
+    ],
+    "dc:contributor": [
+        "Gogolla, Martin (Editor)",
+        "Kobryn, Cris (Editor)",
+        "The unified modeling language. International conference (4 ; Toronto ON 2001-10-01)"
+    ],
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 272-286",
+        "UML 2001 : the unified modeling language : modeling languages, concepts, and tools (Toronto ON, 1-5 October 2001)"
+    ],
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "23 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse comportementale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diagramme état"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Langage modélisation unifié"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Langage spécification"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métamodèle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Orienté objet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vérification énumérative"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Behavioral analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "State diagram"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Unified modelling language"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Specification language"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metamodel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Object oriented"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Model checking"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis conductual"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diagrama estado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lenguaje UML"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lenguaje especificación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metamodelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Orientado objeto"
+        },
+        "001D02B09: Génie logiciel / Software engineering"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14046472"
+}

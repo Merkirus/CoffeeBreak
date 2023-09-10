@@ -1,0 +1,104 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SATELLITEN-FUNKSYSTEME. NTG-FACHTAGUNG. VORTRAEGE; NUERNBERG; 1975.; SYSTEME DE RADIOCOMMUNICATIONS PAR SATELLITE. CONGRES NTG. EXPOSES. NUREMBERG 1975",
+    "dc:date": "1975",
+    "dc:type": "Conference Paper",
+    "dc:language": "German",
+    "dc:format": "N.T.G., FACHBER.; DTSCH.; DA. 1975; VOL. 52; PP. 1-269; BIBL. DISSEM.; ISBN 3800710994",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TELECOMMUNICATION PAR SATELLITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TELEVISION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TELEVISION DIRECTE PAR SATELLITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RADIODIFFUSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSMISSION DONNEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TELEPHONE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RADIOCOMMUNICATION SERVICE MOBILE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRAFIC MARITIME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TELEMESURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TELECOMMANDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONGRES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SATELLITE TELECOMMUNICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TECHNIQUE SPATIALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LIAISON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NUREMBERG"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "1975"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TELECOMMUNICATIONS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROMAGNETISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TELECOMMUNICATIONS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROMAGNETISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONICS"
+        },
+        "001D03: Electronique / Electronics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7630020740"
+}

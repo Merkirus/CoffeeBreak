@@ -1,0 +1,158 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Calibrating ESCA and ellipsometry measurements of perfluoropolyether lubricant thickness",
+    "dc:creator": [
+        "TONEY, M. F",
+        "MATE, C. M",
+        "POCKER, D"
+    ],
+    "dc:contributor": [
+        "ALEX, Michael (Editor)",
+        "FERNANDEZ-DE-CASTRO, Juan (Editor)",
+        "KATTI, Romney R (Editor)",
+        "LAIRSON, Bruce M (Editor)",
+        "KIM, Young K (Editor)",
+        "WANG, Shan X (Editor)",
+        "Joint Magnetism and Magnetic Materials-International Magnetics Conference (7 ; San Francisco, California 1998-01-06)"
+    ],
+    "dc:relation": [
+        "IEEE transactions on magnetics -- IEEE trans. magn, CODEN IEMGAQ, ISSN 0018-9464, Vol. 34 (4) , pp. 1774-1776",
+        "Joint Magnetism and Magnetic Materials-International Magnetics Conference"
+    ],
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institute of Electrical and Electronics Engineers",
+    "dc:format": [
+        "print",
+        "12 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Couche mince"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Disque dur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ellipsométrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interface tête disque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lubrifiant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réflexion RX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tribologie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thin film"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hard disk"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ellipsometry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Head disk interface"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lubricant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polymer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "X ray reflection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tribology"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis químico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Capa fina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Disco duro"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Elipsometría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interfase cabeza disco"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lubricante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polímero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tribología"
+        },
+        "001D03F10: Dispositifs magnétiques / Magnetic devices",
+        "8570L:  / Other magnetic recording and storage devices (including tapes, disks, and drums)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2426005"
+}

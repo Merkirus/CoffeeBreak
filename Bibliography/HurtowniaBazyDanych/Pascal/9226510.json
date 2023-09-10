@@ -1,0 +1,105 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Disruptive Conclusions: The Future of Australian Educational Publishing",
+    "dc:creator": "HARGRAVE, Jocelyn",
+    "dc:relation": "Journal of scholarly publishing -- J. sch. publ, ISSN 1198-9742, Vol. 45 (2) , pp. 186-196",
+    "dc:date": "2014",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "University of Toronto Press",
+    "dc:format": [
+        "print",
+        "11 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Edition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Perspective"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technologie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Publishing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Perspective"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Technology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Australia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Jacaranda"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "disruptive technology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "educational publishing"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Edición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Perspectiva"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tecnología"
+        },
+        "001A01H03: Edition. Edition électronique. Aspects bibliologiques / Publishing. Electronic publishing. Bibliological aspects",
+        "790-I: Edition, diffusion et reproduction de l'information / Information publishing, dissemination and reproduction",
+        "790-I03: Edition. Edition électronique. Aspects bibliologiques / Publishing. Electronic publishing. Bibliological aspects"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Océanie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Australie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oceania"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Australia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Oceania"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Australia"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 28495173"
+}

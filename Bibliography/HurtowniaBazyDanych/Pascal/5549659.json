@@ -1,0 +1,101 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Biodiversité et agricultures paysannes des Tiers-Mondes",
+    "dc:creator": "DUFUMIER, M",
+    "dc:relation": "Annales de géographie (Paris) -- Ann. géogr. (Paris), CODEN ANGEAX, ISSN 0003-4010, Vol. 115 (651) , pp. 550-568",
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Armand Colin",
+    "dc:format": [
+        "print",
+        "19 p. ; 32 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Agriculture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Agro-écosystème"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Agroforesterie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Biodiversité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Elevage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Innovation technique agricole"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Révolution agricole"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système de culture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Agriculture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Agroecosystem"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Agroforestry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biodiversity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Livestock farming"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Technical innovation in agriculture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Agricultural revolution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Farming system"
+        },
+        "531-: Bgi / Prodig / Bgi / Prodig",
+        "531-97: Géographie humaine / Human geography",
+        "531-110: Géographie rurale et agraire / Agricultural and rural geography"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Tiers-Monde"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Third World"
+        }
+    ],
+    "dc:rights": [
+        "Bibliographie Géographique Internationale - Pôle de Recherche pour l'Organisation et la Diffusion de l'Information Géographique (PRODIG)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18505219"
+}

@@ -1,0 +1,182 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Optimization of JADE using a novel optimally weighted joint diagonalization approach",
+    "dc:creator": [
+        "SMEKHOV, Alexander",
+        "YEREDOR, Arie"
+    ],
+    "dc:contributor": "EUSIPCO. Conference (12 ; Vienna 2004-09-06)",
+    "dc:relation": "EUSIPCO 2004 (XII. European Signal Processing Conference)",
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Technische Universität",
+    "dc:format": [
+        "print",
+        "volI, 221-224 ; 8 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Algorithme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cumulant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diagonalisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation performance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode moindre carré"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optimisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pondération"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Problème moindre carré"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Procédé discontinu"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Solution optimale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Séparation aveugle source"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement signal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Algorithm"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cumulant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diagonalization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Performance evaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Least squares method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optimization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Weighting"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Least squares problem"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Batch process"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optimal solution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Blind source separation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Signal processing"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Algoritmo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cumulante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diagonalización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evaluación prestación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método cuadrado menor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Optimización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ponderación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Problema minimos cuadrados"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Procedimiento discontínuo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simulación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Solución óptima"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Procesamiento señal"
+        },
+        "001D04A04A2: Détection, estimation, filtrage, égalisation, prédiction / Detection, estimation, filtering, equalization, prediction",
+        "001D04A05D: Divers / Miscellaneous"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17633258"
+}

@@ -1,0 +1,444 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Evaluation des performances technico-économiques et des impacts environnementaux de deux systèmes laitiers pâturage et ensilage de maïs et pâturage et foin séché en grange; Technical, economical and environmental assessment of two dairy systems: pasture + maize silage and pasture +hay drying in barn",
+    "dc:creator": [
+        "HOUSSIN, B",
+        "GAC, A",
+        "ROUILLE, B",
+        "HARDY, A",
+        "BARDOUX, C",
+        "ODIENNE, D"
+    ],
+    "dc:contributor": [
+        "INRA (Organiser of meeting)",
+        "Institut de l'élevage (Organiser of meeting)",
+        "Rencontres autour des recherches sur les ruminants (18 ; Paris 2011-12-07)"
+    ],
+    "dc:relation": [
+        "Rencontres autour des recherches sur les ruminants -- Rencontres autour rech. rumin, ISSN 1279-6530 (18) , pp. 213-216",
+        "18èmes rencontres autour des recherches sur les ruminants (Paris, 7-8 décembre 2011)"
+    ],
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Institut de l'élevage",
+    "dc:format": [
+        "print",
+        "4 p. ; 1/4 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Aliment pour animal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Angiospermae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Animal laitier"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Animal élevage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Artiodactyla"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gramineae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Herbivore"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Monocotyledones"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plante céréalière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Production animale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spermatophyta"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Type C4"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ungulata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Végétal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse économique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Animal ruminant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bovin laitier"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Congrès"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ensilage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude technicoéconomique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation performance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Foin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hangar agricole"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Impact environnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Production laitière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pâturage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pâture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Séchage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Zea mays"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation environnementale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fourrage grossier"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Performance économique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plante en C4"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Feed"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Angiospermae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dairy animal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Farming animal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Artiodactyla"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gramineae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Herbivorous"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Monocotyledones"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cereal crop"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Animal production"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spermatophyta"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "C4-Type"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ungulata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vegetals"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Economic analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ruminant animal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dairy cattle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Congress"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Silage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Technicoeconomic study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Performance evaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hay"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Barn"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Environment impact"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Milk production"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Grazing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pasture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Drying"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Zea mays"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Environmental assessment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Economic performance"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alimento para animal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Angiospermae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Animal lechero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Animal cría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Artiodactyla"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gramineae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Herbívoro"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Monocotyledones"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Planta cerealista"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Producción animal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Spermatophyta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tipo C4"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ungulata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vegetal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis económico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Animal rumiante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ganado de leche"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Congreso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensilaje"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio técnicoeconómico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evaluación prestación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Heno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cobertizo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Impacto medio ambiente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Producción lechera"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pastoreo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pastizal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Secado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Zea mays"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evaluación ambiental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desempeño económico"
+        },
+        "002A36C03: Vertébrés / Vertebrates"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 27916961"
+}

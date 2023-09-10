@@ -1,0 +1,145 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "El descubrimiento de la KV 62; The Discoverer of the KV 62",
+    "dc:creator": "ARES, Nacho",
+    "dc:relation": "Revista de arqueología -- Rev. arqueol, ISSN 0212-0062 (259) , pp. 18-25",
+    "dc:date": "2002",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "Spanish, Castilian",
+    "dc:publisher": "Zugarto",
+    "dc:format": [
+        "print",
+        "8 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Biographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Egyptologue"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fouille ancienne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mobilier funéraire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Organisation de la recherche"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pharaon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sarcophage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sépulture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tombe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Découverte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Howard Carter"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Toutankhamon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Egyptologist"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ancient excavation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Grave goods"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Research organization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pharaoh"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sarcophagus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Burial"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Grave"
+        },
+        "525-: Prehistoire et protohistoire / Prehistory and protohistory",
+        "525-1: Généralités / Generalities",
+        "525-3: Biographie / Biography"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Afrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Egypte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Luxor"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vallée des Rois"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dynastie 18"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Africa"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Egypt"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dynasty 18"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14458097"
+}

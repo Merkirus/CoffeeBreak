@@ -1,0 +1,106 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ESSAI D'UN TRAITEMENT PAR LA TOTAMINE DES MALNUTRITIONS GRAVES DANS LE SERVICE DE PEDIATRIE DU CHU DE LOME",
+    "dc:creator": [
+        "NICOLAS E",
+        "KESSIE K",
+        "ASSIMADI K"
+    ],
+    "dc:date": "1983",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "REVUE INTERNATIONALE DE PEDIATRIE; ISSN 0048-8135; FRA; DA. 1983; NO 127; PP. 46-51",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MALNUTRITION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIOTHERAPIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TOGO"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENFANT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AMINOACIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AFRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRAITEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TOTAMINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MEDECINE TROPICALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHARMACOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MALNUTRITION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMOTHERAPY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TOGO"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHILD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AMINOACID"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AFRICA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TREATMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TROPICAL MEDICINE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHARMACOLOGY"
+        },
+        "002B02: Pharmacologie. Traitements medicamenteux / Pharmacology. Drug treatments",
+        "002B05: Pathologie infectieuse / Infectious diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0371408"
+}

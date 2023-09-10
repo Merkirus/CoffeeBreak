@@ -1,0 +1,42 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ZUR PROBLEMATIK DER GEMISCHTEN MESODERMALEN GESCHWUELSTE DER GEBAERMUTTER; PROBLEME DES TUMEURS MIXTES MESODERMIQUES DE L'UTERUS",
+    "dc:creator": [
+        "COEPR Z",
+        "DVORAK P",
+        "ROHANOVA M",
+        "SIKKA A"
+    ],
+    "dc:date": "1972",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "ZBL. GYNAEKOL.; DTSCH.; DA. 1972; VOL. 94; NO 35; PP. 1137-1145; BIBL. 1P.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CANCER UTERUS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANATOMOPATHOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TUMEUR MIXTE MESODERMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REPRODUCTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REPRODUCTION"
+        },
+        "002A29: Vertebres: reproduction / Vertebrates: reproduction"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7336103092"
+}

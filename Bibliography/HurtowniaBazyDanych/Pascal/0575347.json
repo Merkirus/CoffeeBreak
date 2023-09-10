@@ -1,0 +1,56 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "3,6-EXTENDED CONJUGATION THROUGH PHENANTHRENE.",
+    "dc:creator": [
+        "HALLAS G",
+        "POTTS RM"
+    ],
+    "dc:date": "1975",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. CHEM. SOC., CHEM. COMMUNIC.; G.B.; DA. 1975; NO 7; PP. 252-253; BIBL. 4 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "COLORANT ORGANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONJUGAISON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTRE VISIBLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE VISIBLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VIOLET CRISTALLISE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE MOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE ATOMIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOLECULAR PHYSICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ATOMIC PHYSICS"
+        },
+        "001B30: Physique atomique et moleculaire / Atomic and molecular physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7540104545"
+}

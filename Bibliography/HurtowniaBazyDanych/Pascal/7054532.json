@@ -1,0 +1,94 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Quantitative Comparison and Analysis of Magnetless Machines With Reluctance Topologies",
+    "dc:creator": [
+        "LEE, Christopher H. T",
+        "CHAU, K. T",
+        "CHUNHUA LIU",
+        "DIYUN WU",
+        "SHUANG GAO"
+    ],
+    "dc:contributor": [
+        "DEACH, Alina (Editor)",
+        "DORRELL, David (Editor)",
+        "HSIEH, Min-Fu (Editor)",
+        "JANSEN, Ron (Editor)",
+        "JU, Ganping (Editor)",
+        "PAULIDES, Johannes J. H (Editor)",
+        "VISONE, Ciro (Editor)",
+        "WEI, Dan (Editor)",
+        "WU, Jong-Ching (Editor)",
+        "Joint MMM-Intermag Conference (12 ; Chicago, IL 2013-01-14)"
+    ],
+    "dc:relation": [
+        "IEEE transactions on magnetics -- IEEE trans. magn, CODEN IEMGAQ, ISSN 0018-9464, Vol. 49 (7) , pp. 3969-3972",
+        "Selected papers from the Twelfth Joint MMM-Intermag Conference, Chicago, IL, January 14-18, 2013"
+    ],
+    "dc:date": "2013",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institute of Electrical and Electronics Engineers",
+    "dc:format": [
+        "print",
+        "4 p. ; 8 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse quantitative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Machine réluctance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété magnétique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quantitative chemical analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reluctance machines"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetic properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Double-stator machine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "magnetless machine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "multitoothed structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "reluctance machine"
+        },
+        "001B80A90: Divers / Other topics in materials science"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 27735326"
+}

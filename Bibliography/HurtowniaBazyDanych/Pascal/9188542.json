@@ -1,0 +1,251 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Sexualités limites : Cliniques de l'extrême; Borderline sexualities : The psychoanalyst at the border",
+    "dc:creator": "ESTELLON, Vincent",
+    "dc:relation": "Perspectives psychiatriques (Paris) -- Perspect. psychiatr. (Paris), ISSN 0031-6032, Vol. 49 (4) , pp. 285-289",
+    "dc:date": "2010",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "EDK",
+    "dc:format": [
+        "print",
+        "5 p. ; 9 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunodéficit"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunopathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Virose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Addiction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Adulte jeune"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Comportement sexuel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude cas"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mâle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prise risque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Psychopathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Psychothérapie analytique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SIDA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sexualité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "addictions sexuelles"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "barebacking"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "comportement addictif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "comportement sexuel à risque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "jeune adulte mélancolique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "psychopathologie du jeune adulte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "psychopathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "sexualité"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immune deficiency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immunopathology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Viral disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Addiction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Young adult"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sexual behavior"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Case study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Male"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Risk taking"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Psychopathology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Analytical psychotherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AIDS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sexuality"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunodeficiencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunopatología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Infección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Virosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adicción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adulto joven"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conducta sexual"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio caso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Macho"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Toma riesgo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Psicopatología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Psicoterapia analítica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "SIDA"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sexualidad"
+        },
+        "002B18I05A: Psychothérapie individuelle / Individual psychotherapy",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry",
+        "770-D09E01: Psychothérapie individuelle / Individual psychotherapy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 23756678"
+}

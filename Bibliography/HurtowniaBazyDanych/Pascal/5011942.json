@@ -1,0 +1,115 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Investigating temporal patterns of fault behaviour within large telephony networks",
+    "dc:creator": [
+        "YEARLING, Dave",
+        "HAND, David J"
+    ],
+    "dc:contributor": [
+        "Hoffmann, Frank (Editor)",
+        "Hand, David J (Editor)",
+        "Adams, Niall (Editor)",
+        "Fisher, Douglas (Editor)",
+        "Guimaraes, Gabriela (Editor)",
+        "Advances in intelligent data analysis. International conference (4 ; Cascais 2001-09-13)"
+    ],
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 340-349",
+        "IDA 2001 : advances in intelligent data analysis (Cascais, 13-15 September 2001)"
+    ],
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "11 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Fouille donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interrogation base donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Risque accidentel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau téléphonique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SQL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Série temporelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Téléphonie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Data mining"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Database query"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hazard"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Telephone network"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SQL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Time series"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Telephony"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Busca dato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interrogación base datos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Riesgo accidente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red telefónica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Serie temporal"
+        },
+        "001D04B02H1: Téléphone. Visiophone / Telephone. Videophone"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14047816"
+}

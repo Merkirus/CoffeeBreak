@@ -1,0 +1,61 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "LA METHEMOGLOBINEMIE DANS LA PREMIERE ENFANCE, L'ENFANCE ET A L'AGE ADULTE",
+    "dc:creator": "BARNA M",
+    "dc:date": "1972",
+    "dc:type": "Serial Issue",
+    "dc:language": "Hungarian",
+    "dc:format": "EGESZSEGTUDOMANY; MAGYAR; DA. 1972; VOL. 16; NO 3; PP. 254-259; ABS. RUSSE ANGL.; BIBL. 43REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "METHEMOGLOBINISANT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NITRATE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLLUANT EAU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENFANT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTOXICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NOURRISSON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ADULTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLLUTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TOXICOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLLUTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TOXICOLOGY"
+        },
+        "002B02: Pharmacologie. Traitements medicamenteux / Pharmacology. Drug treatments"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL733306648"
+}

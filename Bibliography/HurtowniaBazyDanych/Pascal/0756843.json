@@ -1,0 +1,60 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ACTIVITY AND ACTIVITY COEFFICIENT OF COUNTER IONS IN AQUEOUS POLYELECTROLYTE SOLUTIONS",
+    "dc:creator": [
+        "HASSAN EA",
+        "EL SABBAH MM"
+    ],
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "ACTA CHIM. ACAD. SCI. HUNGAR.; HONGR.; DA. 1974; VOL. 83; NO 3-4; PP. 351-358; BIBL. 11 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "VINYLIQUE ALCOOL POLYMERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLYELECTROLYTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ARGENT ION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOLUTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GROUPE FONCTIONNEL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COEFFICIENT ACTIVITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE MACROMOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLYMERES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MACROMOLECULAR CHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLYMERS"
+        },
+        "001D09: Physicochimie des polymeres / Physicochemistry of polymers"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7578010840"
+}

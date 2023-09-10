@@ -1,0 +1,53 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ULTRASONIC SPECTROSCOPY OF A FLUID-FILLED CAVITY IN AN ELASTIC SOLID.",
+    "dc:creator": "SACHSE W",
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. ACOUST. SOC. AMER.; U.S.A.; DA. 1974; VOL. 56; NO 3; PP. 891-896; BIBL. 13 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ULTRASON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CAVITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOLIDE ELASTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FLUIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IMPULSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIFFUSION ONDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACOUSTIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ACOUSTICS"
+        },
+        "001B: Physique / Physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7530053436"
+}

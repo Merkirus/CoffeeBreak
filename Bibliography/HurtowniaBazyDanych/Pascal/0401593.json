@@ -1,0 +1,56 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "LEISTUNGSELEKTRONIK-BAUSTEINSYSTEM ZUR AUFBAU VON STROMRICHTERN KLEINER LEISTUNG. III. HINWEISE FUER DIE ANWENDUNG DES IMPULSERZEUGERBAUSTEINS 2AW 1.2.; ELECTRONIQUE DE PUISSANCE. SYSTEME A MODULES (BLOCS) POUR LA CONSTRUCTION DES CONVERTISSEURS STATIQUES DE FAIBLE PUISSANCE. III. DIRECTIVES POUR L'UTILISATION DU MODULE 2AW 1.2 DANS LES GENERATEURS D'IMPULSIONS",
+    "dc:creator": [
+        "ALBRECHT H",
+        "MAUERSBERGER C"
+    ],
+    "dc:date": "1975",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "ELEKTRIE; DTSCH.; DA. 1975; VOL. 29; NO 1; PP. 37-42; ABS. RUSSE ANGL.; BIBL. 4 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CONVERTISSEUR STATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONSTRUCTION MODULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENERATEUR ELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENERATEUR IMPULSION PUISSANCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARACTERISTIQUE ELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROMAGNETISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROTECHNIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROMAGNETISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRICAL ENGINEERING"
+        },
+        "001D05: Electrotechnique. Electroenergetique / Electrical engineering. Electrical power engineering"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7530066476"
+}

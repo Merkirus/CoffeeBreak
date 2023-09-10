@@ -1,0 +1,128 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Analyse numérique en forgeage: la simulation au service d'un métier; Numerical analysis in forging: simulation in profession's service",
+    "dc:creator": [
+        "SORTAIS, J. L",
+        "BATIT, G"
+    ],
+    "dc:relation": "CETIM informations -- CETIM inf, CODEN CETIB2, ISSN 0399-0001 (131) , pp. 43-46",
+    "dc:date": "1992",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Centre technique des industries mécaniques",
+    "dc:format": [
+        "print",
+        "14 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse numérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conception assistée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Forgeage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Formage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Industrie mécanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Logiciel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Procédé fabrication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Logiciel Forge 2"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Numerical analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computer aided design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Forging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Forming"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mechanical industry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Software"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Manufacturing process"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Simulation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis numérico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Concepción asistida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Forja"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conformado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Industria mecánica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Logicial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Procedimiento fabricación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simulación"
+        },
+        "001D12A: Généralités / General"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4628926"
+}

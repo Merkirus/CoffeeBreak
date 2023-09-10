@@ -1,0 +1,101 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Sophistical Devices: Leonardo da Vinci's Investigations of Perpetual Motion",
+    "dc:creator": "OLSHIN, Benjamin B",
+    "dc:relation": "ICON (London) -- ICON (Lond.), ISSN 1361-8113 (15) , pp. 1-39",
+    "dc:date": "2009",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "International Committee for the History of Technology",
+    "dc:format": [
+        "print",
+        "39 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Hydraulique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Léonard de Vinci"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Machine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mécanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Typologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Force motrice"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mouvement perpetuel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hydraulics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Leonardo da Vinci"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Machin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mechanics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Typology"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hidráulica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Máquina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mecánica"
+        },
+        "522-: Histoire des sciences et des techniques / History of science and technology",
+        "522-171: Technologie / Technology",
+        "522-187: Généralités / General points"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Siècle 16"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Century 16"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Siglo 16"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 25849923"
+}

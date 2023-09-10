@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SCORPIONIDA : THE HOLOTYPE OF MAZONIA WOODIANA MEEK AND WORTHEN",
+    "dc:creator": "KJELLESVIG WAERING EN",
+    "dc:date": "1969",
+    "dc:type": "Miscellaneous",
+    "dc:language": "English",
+    "dc:format": "FIELDIANA, GEOL.; USA; 1969(3), VOL. 12, NUM. 0011, P. 171 A 190",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ARACHNIDA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MAZONIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARBONIFERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ILLINOIS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PALEONTOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ARTHROPODA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INVERTEBRATA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRIMAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETATS UNIS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AMERIQUE DU NORD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ARACHNIDA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CARBONIFEROUS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ILLINOIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PALEONTOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        "001E01Q: Paléontologie / Paleontology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number GEODEBRGM6920019616"
+}

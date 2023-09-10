@@ -1,0 +1,111 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "La loi « administration territoriale de la République ». I : La démocratie locale",
+    "dc:relation": "Vie Communale et Départementale (La) (761) , pp. 93-100",
+    "dc:date": "1992",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Administration locale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Collectivité locale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrôle interne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Déconcentration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Démocratisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Elu local"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Information externe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Participation des administrés"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Relations publiques"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Local Government"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Local Community"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Internal Control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Deconcentration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Democratization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Local Elected Representative"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "External Information"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Participation of Citizens"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public Relations"
+        },
+        "528-37: Structure administrative / Administrative structures",
+        "528-83: Problèmes généraux : centralisation et décentralisation / General issues: centralization, decentralization"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6564699"
+}

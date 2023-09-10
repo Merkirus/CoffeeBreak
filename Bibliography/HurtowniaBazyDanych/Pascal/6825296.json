@@ -1,0 +1,121 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Robust design of circuits susceptible to electromigration",
+    "dc:creator": [
+        "VAN GEEST, E",
+        "BROMBACHER, A",
+        "HERRMANN, O"
+    ],
+    "dc:contributor": [
+        "BERGER, H. H (Editor)",
+        "GERLING, W. H (Editor)",
+        "ESREF'92: 1992 European symposium on reliability of electron devices, failure physics and analysis (Schwäbisch Gmünd 1992-10)"
+    ],
+    "dc:relation": [
+        "Quality and reliability engineering international -- Qual. reliab. eng. int, CODEN QREIE5, ISSN 0748-8017, Vol. 9 (4) , pp. 281-285",
+        "ESREF'92: 1992 European symposium on reliability of electron devices, failure physics and analysis"
+    ],
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Wiley",
+    "dc:format": [
+        "print",
+        "11 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Circuit intégré"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conception circuit"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Electrodiffusion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fiabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optimisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation ordinateur"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Integrated circuit"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Circuit design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrodiffusion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reliability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optimization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computer simulation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Circuito integrado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Concepción circuito"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Electrodifusión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fiabilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Optimización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simulación computadora"
+        },
+        "001D03B: Essais, mesure, bruit et fiabilité / Testing, measurement, noise and reliability"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3876831"
+}

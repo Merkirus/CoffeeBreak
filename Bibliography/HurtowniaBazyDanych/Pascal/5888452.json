@@ -1,0 +1,186 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Road Capacity and Travel Times with Bus Lanes and Intermittent Priority Activation: Analytical Investigations",
+    "dc:creator": [
+        "CHIABAUT, Nicolas",
+        "XIAOYAN XIE",
+        "LECLERCQ, Ludovic"
+    ],
+    "dc:relation": "Transportation research record -- Transp. res. rec, CODEN TRREDM, ISSN 0361-1981 (2315) , pp. 182-190",
+    "dc:date": "2012",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "National Research Council",
+    "dc:format": [
+        "print",
+        "9 p. ; 21 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Activation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Autobus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Capacité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Corridor"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Durée trajet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude théorique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode analytique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Priorité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résultat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trafic routier"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Voie circulation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Voie réservée"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Activation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Capacity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Corridor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Travel time"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Theoretical study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Analytical method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Priority"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Result"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Road traffic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Traffic lane"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Priority lane"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Activación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Autobus"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Capacidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Corredor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Duración trayecto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio teórico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método analítico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prioridad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resultado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tráfico carretera"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vía tráfico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vía prioritaria"
+        },
+        "001D15B: Economie, gestion et planification des transports / Transportation planning, management and economics",
+        "001D15C: Transports et trafic routiers / Road transportation and traffic"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 27188496"
+}

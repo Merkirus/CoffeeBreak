@@ -1,0 +1,137 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Congenital heart disease in adults : First of two parts",
+    "dc:creator": [
+        "BRICKNER, M. E",
+        "HILLIS, L. D",
+        "LANGE, R. A"
+    ],
+    "dc:relation": "The New England journal of medicine -- N. Engl. j. med, CODEN NEJMAG, ISSN 0028-4793, Vol. 342 (4) , pp. 256-263",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Massachusetts Medical Society",
+    "dc:format": [
+        "print",
+        "60 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil circulatoire pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Maladie congénitale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Adulte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Article synthèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cardiopathie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Congénital"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diagnostic"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cardiovascular disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Congenital disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adult"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Review"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heart disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Congenital"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diagnosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato circulatorio patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enfermedad congénita"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adulto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Artículo síntesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cardiopatía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Congénito"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diagnóstico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        "002B12A08: Cardiopathies congénitales. Malformations de l'aorte, des vaisseaux pulmonaires et de la veine cave / Congenital heart diseases. Malformations of the aorta, pulmonary vessels and vena cava"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1248525"
+}

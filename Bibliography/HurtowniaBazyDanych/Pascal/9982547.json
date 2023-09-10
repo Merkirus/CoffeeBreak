@@ -1,0 +1,267 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Modeling assessment of transport and deposition patterns of anthropogenic mercury air emissions in the United States and Canada",
+    "dc:creator": "BULLOCK, O. Russell",
+    "dc:relation": "Science of the total environment -- Sci. total environ, CODEN STENDL, ISSN 0048-9697, Vol. 259 (1-3) , pp. 145-157",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "22 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Aérosol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cartographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Devenir polluant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Emission polluant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mercure II"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle Lagrange"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle mathématique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métal lourd"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métal zérovalent"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Particule en suspension"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phénomène transport"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pollution air"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Retombée atmosphérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation numérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transport polluant grande distance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aerosols"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cartography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pollutant behavior"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pollutant emission"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mercury II"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lagrangian model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mathematical model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heavy metal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Zerovalent metal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Suspended particle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transport process"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Air pollution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Atmospheric fallout"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Numerical simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Long range pollutant transport"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aerosol"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cartografía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evolución contaminante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Emisión contaminante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mercurio II"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo Lagrange"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo matemático"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metal pesado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metal cerovalente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Partícula en suspensión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fenómeno transporte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contaminación aire"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Recaída atmosférica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simulación numérica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transporte contaminante gran distancia"
+        },
+        "001D16C02: Etude de la physicochimie des polluants: propriétés, effets, réactions, transport et distribution / Pollutants physicochemistry study: properties, effects, reactions, transport and distribution"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Canada"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats Unis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Canada"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Canada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estados Unidos"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1505756"
+}

@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "FISTULE ARTERIO-VEINEUSE CONGENITALE DU LIGAMENT LARGE. A PROPOS D'UNE OBSERVATION",
+    "dc:creator": [
+        "LAURIAN C",
+        "GUILMET D",
+        "MELKIOR J",
+        "BACHET J",
+        "GOUDOT B",
+        "GIGOU F",
+        "HUBERT M"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "ARCH. MAL. COEUR VAISS.; FRA; DA. 1978; VOL. 71; NO 9; PP. 1076-1081; ABS. ENG/SPA; BIBL. 18 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ANEVRYSME ARTERIOVEINEUX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONGENITAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LIGAMENT LARGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MALFORMATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GYNECOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PELVIS PATHOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REPRODUCTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ARTERIOVENOUS ANEURYSM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONGENITAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BROAD LIGAMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MALFORMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GYNECOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PELVIS PATHOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REPRODUCTION"
+        },
+        "002A29: Vertebres: reproduction / Vertebrates: reproduction"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7950131281"
+}

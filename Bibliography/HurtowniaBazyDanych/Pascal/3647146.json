@@ -1,0 +1,96 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "CORTICO-SURRENALOMES MALINS NON-SECRETANTS REVELES PAR UNE FIEVRE PROLONGEE. QUATRE CAS.",
+    "dc:creator": [
+        "CASSAN P",
+        "BAGLIN A",
+        "COULBOIS J",
+        "SAIGOT T",
+        "KUHN JM",
+        "BETOURNE C"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "NOUV. PRESSE MED.; FRA; DA. 1978; VOL. 7; NO 24; PP. 2153-2156 (3P.); ABS. ANGL.; BIBL. 14 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TUMEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CORTICOSURRENALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FIEVRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SIGNE INAUGURAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RETROPERITONEAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TEMPERATURE CORPORELLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENDOCRINOPATHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENDOCRINOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TUMOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ADRENAL CORTEX"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FEVER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INAUGURAL SIGN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RETROPERITONEAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BODY TEMPERATURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENDOCRINOPATHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENDOCRINOLOGY"
+        },
+        "002A29: Vertebres: reproduction / Vertebrates: reproduction"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7950028601"
+}

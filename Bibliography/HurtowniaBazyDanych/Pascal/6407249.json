@@ -1,0 +1,256 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Relational growth grammars : A graph rewriting approach to dynamical systems with a dynamical structure",
+    "dc:creator": [
+        "KURTH, Winfried",
+        "KNIEMEVER, Ole",
+        "BUCK-SORLIN, Gerhard"
+    ],
+    "dc:contributor": [
+        "Banâtre, Jean-Pierre (Editor)",
+        "Fradet, Pascal (Editor)",
+        "Giavitto, Jean-Louis (Editor)",
+        "Michel, Olivier (Editor)",
+        "International workshop on unconventional programming paradigms (Mont Saint Michel 2004-09-15)"
+    ],
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 56-72",
+        "UPP 2004 : unconventional programming paradigms (15-17 September 2004, Mont Saint Michel, revised selected & invited papers)"
+    ],
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "17 p. ; 20 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Automate cellulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Base connaissance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chimie(informatique)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Croissance végétale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Développement logiciel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grammaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nombre premier"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Orienté objet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réécriture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système conversationnel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système dynamique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système expert"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système masse ressort"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système réécriture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sémantique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Théorie graphe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transformation graphe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Usine chimique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cellular automaton"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Knowledge base"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemistry computing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plant growth"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Software development"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Grammar"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prime number"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Object oriented"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rewriting"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interactive system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dynamical system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Expert system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spring mass system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rewriting systems"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Semantics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Graph theory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Graph transformation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical plant"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Autómata celular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Base conocimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desarrollo logicial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gramática"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Número primo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Orientado objeto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reescritura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema interactivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema dinámico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema experto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema masa muelle"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Semántica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Teoría grafo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transformación grafo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fábrica productos químicos"
+        },
+        "001D02A07: Théorie programmation / Programming theory",
+        "001D02B09: Génie logiciel / Software engineering"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17134547"
+}

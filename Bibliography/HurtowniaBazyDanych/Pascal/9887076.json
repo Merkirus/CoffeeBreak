@@ -1,0 +1,100 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Female androgenetic alopecia : A separate entity",
+    "dc:creator": [
+        "NORWOOD, O. T",
+        "LEHR, B"
+    ],
+    "dc:relation": "Dermatologic surgery -- Dermatol. surg, ISSN 1076-0512, Vol. 26 (7) , pp. 679-682",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Blackwell",
+    "dc:format": [
+        "print",
+        "2 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Peau pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Alopécie androgénétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cheveu"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude cas"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Femelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Skin disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Androgenetic alopecia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hair (head)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Case study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Female"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Piel patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alopecia androgenética"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cabello"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio caso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hembra"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        "002B08H: Pathologie des ongles, poils, cheveux / Hair and nails disorders"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1462027"
+}

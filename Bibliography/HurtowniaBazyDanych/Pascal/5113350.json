@@ -1,0 +1,124 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The magnetic-resonance force microscope: A new tool for high-resolution, 3-D, subsurface scanned probe imaging",
+    "dc:creator": [
+        "HAMMEL, P. Chris",
+        "PELEKHOV, Denis V",
+        "WIGEN, Philip E",
+        "GOSNELL, Timothy R",
+        "MIDZOR, Melissa M",
+        "ROUKES, Michael L"
+    ],
+    "dc:contributor": [
+        "WOLF, Stuart A (Editor)",
+        "TREGER, Daryl M (Editor)"
+    ],
+    "dc:relation": "Proceedings of the IEEE -- Proc. IEEE, CODEN IEEPAD, ISSN 0018-9219, Vol. 91 (5) , pp. 789-798",
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institute of Electrical and Electronics Engineers",
+    "dc:format": [
+        "print",
+        "10 p. ; 21 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Caractéristique fonctionnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Haute résolution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Image tridimensionnelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Imagerie RMN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microscopie force magnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polarisation spin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0779P"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Performance characteristic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High-resolution methods"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tridimensional image"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetic resonance imaging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetic force microscopy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spin polarization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Force detection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "magnetic resonance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "magnetic- resonance force microscope (MRFM)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "scanning probe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "spin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "spintronics"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Característica funcionamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Imagen tridimensional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polarización spin"
+        },
+        "001B00G79P: Microscopes à force magnétique / Magnetic force microscopes"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14848928"
+}

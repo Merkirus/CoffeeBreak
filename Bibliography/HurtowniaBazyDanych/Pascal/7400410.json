@@ -1,0 +1,176 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The role of recombination catalysts in VRLA cells",
+    "dc:creator": [
+        "MISRA, S. S",
+        "NOVESKE, T. M",
+        "MRAZ, S. L",
+        "WILLIAMSON, A. J"
+    ],
+    "dc:contributor": [
+        "MOSELEY, P. T (Editor)",
+        "PETERS, K (Editor)",
+        "RAND, D. A. J (Editor)",
+        "The Lead Development Association International (Funder/Sponsor)",
+        "European Lead Battery Conference ELBC (7 ; Dublin 2000-09-19)"
+    ],
+    "dc:relation": [
+        "Journal of power sources -- J. power sources, CODEN JPSODZ, ISSN 0378-7753, Vol. 95 (1-2) , pp. 162-173",
+        "Proceedings of the Seventh European Lead Battery Conference"
+    ],
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Sequoia",
+    "dc:format": [
+        "print",
+        "13 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Accumulateur électrochimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Autodécharge"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Batterie acide plomb"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Batterie électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Catalyseur sur support"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evolution chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Oxygène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Palladium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Particule polydispersée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polarisation électrochimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recombinaison chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réaction électrochimique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Secondary cell"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Self discharge"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lead acid batteries"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electric batteries"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Supported catalyst"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical evolution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oxygen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Palladium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polydispersed particle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrochemical polarization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical recombination"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrochemical reaction"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acumulador electroquímico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Autodescarga"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Catalizador sobre soporte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evolución química"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Oxígeno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Paladio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Partícula polidispersada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polarización electroquímica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Recombinación química"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reacción electroquímica"
+        },
+        "001D05I03E: Conversion électrochimique: piles et accumulateurs électrochimiques, piles à combustibles / Electrochemical conversion: primary and secondary batteries, fuel cells"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 932548"
+}

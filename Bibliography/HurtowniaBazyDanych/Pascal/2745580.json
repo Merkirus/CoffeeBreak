@@ -1,0 +1,81 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SIMULATED MIKE SPECTRA FROM A CONVENTIONAL DOUBLE FOCUSING MASS SPECTROMETER.",
+    "dc:creator": [
+        "KEMP DL",
+        "COOKS RG",
+        "BEYNON JH"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "INTERNATION. J. MASS SPECTROM. ION PHYS.; NETHERL.; DA. 1976; VOL. 21; NO 1-2; PP. 93-101; BIBL. 6 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE MASSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRE DOUBLE FOCALISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTRE ENERGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE CINETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SIMULATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METROLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE THEORIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MASS SPECTROMETRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MASS SPECTROSCOPY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DOUBLE FOCUSING SPECTROMETER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY SPECTRUM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "KINETIC ENERGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SIMULATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MEASUREMENT SCIENCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THEORETICAL PHYSICS"
+        },
+        "001B: Physique / Physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7730124758"
+}

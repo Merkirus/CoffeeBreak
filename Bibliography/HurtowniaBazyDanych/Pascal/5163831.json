@@ -1,0 +1,197 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Guidelines for application of portable work zone intelligent transportation systems",
+    "dc:creator": "FONTAINE, Michael D",
+    "dc:relation": "Transportation research record -- Transp. res. rec, CODEN TRREDM, ISSN 0361-1981 (1824) , pp. 15-22",
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "National Research Council",
+    "dc:format": [
+        "print",
+        "8 p. ; 9 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil portatif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Capteur vitesse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Configuration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation performance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exigence sécurité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fiabilité opérationnelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gestion trafic"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Panneau message variable"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recommandation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système intelligent"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système transport"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trafic routier"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Travaux publics"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Voirie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Portable equipment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Velocity sensor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Configuration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Performance evaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Safety requirement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Operating reliability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Traffic management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Variable message sign post"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Recommendation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Intelligent system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transportation system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Road traffic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public works"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Road work"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato portátil"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sensor velocidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Configuración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evaluación prestación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Exigencia seguridad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fiabilidad funcionamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gestión tráfico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Panel indicador mensaje variable"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Recomendación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema inteligente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema de transporte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tráfico carretera"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Obras públicas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vialidad"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works",
+        "001D14O05: Exploitation routière (signalisation, éclairage, sécurité et accessoires, déneigement, écran antibruit, etc.) / Road operations (signalization, lighting, safety and accessories, snow clearance, acoustical panel, etc.)",
+        "001D14O06: Voiries / Road works",
+        "001D15B: Economie, gestion et planification des transports / Transportation planning, management and economics",
+        "001D15C: Transports et trafic routiers / Road transportation and traffic"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15352653"
+}

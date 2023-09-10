@@ -1,0 +1,185 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Flow pattern-based flow boiling heat transfer model for microchannels",
+    "dc:creator": [
+        "COSTA-PATRY, Etienne",
+        "RICHARD THOME, John"
+    ],
+    "dc:contributor": [
+        "DEL COL, Davide (Editor)",
+        "ECI International Conference on Boiling and Condensation Heat Transfer (8 ; Lausanne 2012-06-03)"
+    ],
+    "dc:relation": [
+        "International journal of refrigeration -- Int. j. refrig -- Revue internationale du froid, CODEN IJRFDI, ISSN 0140-7007, Vol. 36 (2) , pp. 414-420",
+        "New Developments in Boiling and Condensation"
+    ],
+    "dc:date": "2013",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "7 p. ; 3/4 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Acier inoxydable"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Coefficient transfert chaleur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cuivre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ebullition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecoulement annulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecoulement bouchon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaporateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Installation frigorifique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transfert chaleur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tube"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "configuration de l'écoulement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "microcanaux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "transfert de chaleur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ébullition en écoulement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stainless steel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heat transfer coefficient"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Copper"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Boiling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Annular flow"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Slug flow"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Evaporator"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Refrigeration installation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heat transfer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tube"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acero inoxidable"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Coeficiente transmisión calor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cobre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ebullición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Flujo anular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Flujo tapón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evaporador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Instalación frigorífica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transferencia térmica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tubo"
+        },
+        "001D06: Energie / Energy",
+        "001D06D02B: Transfert de chaleur / Heat transfer",
+        "001D06D09A: Techniques du froid / Refrigerating engineering"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 27096959"
+}

@@ -1,0 +1,68 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DRUCK DES MOELLERS AUF DAS FEUERFESTMATERIAL IM HOCHOFEN; PRESSION DU LIT DE FUSION SUR LE REFRACTAIRE DES HAUTS FOURNEAUX",
+    "dc:creator": [
+        "GUDENAU HW",
+        "KUEPPER TR"
+    ],
+    "dc:date": "1981",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "SPRECHSAAL (1976); ISSN 0341-0676; DEU; DA. 1981; VOL. 114; NO 9; PP. 676-682; BIBL. 12 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "REFRACTAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "UTILISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HAUT FOURNEAU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SIDERURGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPORTEMENT SERVICE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUSTRIE CHIMIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REFRACTORY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "USE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BLAST FURNACE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IRON STEEL INDUSTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BEHAVIOR IN OPERATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL INDUSTRY"
+        },
+        "001D07: Genie chimique / Chemical engineering"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL82X0028984"
+}

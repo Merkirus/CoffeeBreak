@@ -1,0 +1,163 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Extreme stages of the basin wetness conditions. Variability of the soil moisture in a lowland basin",
+    "dc:creator": "SOMOROWSKA, Urszula",
+    "dc:contributor": [
+        "van Lanen, Henny A.J (Editor)",
+        "Demuth, Siegfried (Editor)",
+        "Servat, Eric (Editor)",
+        "Ibbitt, Richard (Editor)",
+        "Prudhomme, Christel (Editor)",
+        "Bari, Muhammad F (Editor)",
+        "Hughes, Denis (Editor)",
+        "Llasat, Maria del Carmen (Editor)",
+        "Mkhandi, Simon H (Editor)",
+        "International conference on FRIEND (4 ; Cape Town 2002-03-18)"
+    ],
+    "dc:relation": [
+        "IAHS-AISH publication -- IAHS-AISH publ, CODEN IAPUEP, ISSN 0144-7815, pp. 389-395",
+        "FRIEND 2002 : regional hydrology : bridging the gap between research and practice. Cape Town, 18-22 March 2002"
+    ],
+    "dc:date": "2002",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "IAHS Press",
+    "dc:format": [
+        "print",
+        "Illustration ; 6 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Coefficient stockage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Humidité sol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Niveau piézométrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Parc national"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stockage eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Variation spatiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Végétation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Parc National Kampinos"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réflectométrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Variabilité"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "storage coefficient"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "soil moisture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "water table"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "national parks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "water storage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "spatial variations"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "vegetation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Humedad suelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Almacenamiento agua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Variación espacial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vegetación"
+        },
+        "001E01N02: Hydrogéologie / Hydrogeology",
+        "001E01P03: Sols / Soils"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe Centrale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pologne"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Poland"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa central"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polonia"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14056044"
+}

@@ -1,0 +1,199 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Recent progress in gate dielectric scaling",
+    "dc:creator": [
+        "HIGASHI, G. S",
+        "KRAUS, P",
+        "TEVATIA, G",
+        "NARWANKAR, P. K",
+        "CHUA, T. C",
+        "OLSEN, C",
+        "AHMED, K",
+        "NOURI, F",
+        "KHER, S. S",
+        "SHARANGPANI, R",
+        "DEATON, P",
+        "ULLOA, E. J"
+    ],
+    "dc:contributor": [
+        "Öztürk, M.C (Editor)",
+        "Chen, L.J (Editor)",
+        "Timans, P.J (Editor)",
+        "Roozeboom, F (Editor)",
+        "Gusev, E.P (Editor)",
+        "Kwong, D.L (Editor)",
+        "Miner, G (Editor)",
+        "Electrochemical Society, Electronics Division (Organiser of meeting)",
+        "Electrochemical Society, Dielectric Science and Technology Division (Organiser of meeting)",
+        "Electrochemical Society, High Temperature Materials Division (Organiser of meeting)",
+        "International symposium on advanced short-time thermal processing for si-based CMOS devices II (San Antonio TX 2004-05-10)"
+    ],
+    "dc:relation": [
+        "Proceedings - Electrochemical Society -- Proc., Electrochem. Soc, ISSN 0161-6374, pp. 271-277",
+        "Advanced short-time thermal processing for Si-based CMOS devices II (San Antonio TX, 10-12 May 2004)"
+    ],
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Electrochemical Society",
+    "dc:format": [
+        "print",
+        "7 p. ; 6 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Circuit ULSI"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Circuit intégré"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Courant fuite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Courant grille"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Courant intense"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dissipation énergie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diélectrique permittivité élevée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation performance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fiabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nitruration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recherche développement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transistor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ULSI circuit"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Integrated circuit"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Leakage current"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gate current"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High strength current"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Energy dissipation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High k dielectric"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Performance evaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reliability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nitriding"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Research and development"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transistor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Circuito ULSI"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Circuito integrado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Corriente escape"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Corriente rejilla"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Corriente intensa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Disipación energía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dieléctrico alta constante dieléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evaluación prestación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fiabilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nitruración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Investigación desarrollo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transistor"
+        },
+        "001D03F04: Transistors / Transistors",
+        "001D03F06A: Conception. Technologies. Analyse fonctionnement. Essais / Design. Technologies. Operation analysis. Testing"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16546970"
+}

@@ -1,0 +1,179 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Reusability constructs in the Web Service Offerings Language (WSOL)",
+    "dc:creator": [
+        "TOSIC, Vladimir",
+        "PATEL, Kruti",
+        "PAGUREK, Bernard"
+    ],
+    "dc:contributor": [
+        "Bussler, Christoph (Editor)",
+        "Fensel, Dieter (Editor)",
+        "Orlowska, Maria E (Editor)",
+        "Yang, Jian (Editor)",
+        "International workshop on web services, e-business, and the semantic web (2 ; Klagenfurt 2003-06-16)"
+    ],
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 105-119",
+        "WES 2003 : web services, e-business, and the semantic web (Klagenfurt, 16-17 June 2003, revised selected papers)"
+    ],
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "15 p. ; 16 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Adaptation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Commerce électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Consommateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hétérogénéité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Langage formel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Langage spécification"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Offre service"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réutilisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Satisfaction contrainte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spécification formelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Web sémantique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Service web"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adaptation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic trade"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Consumer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heterogeneity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Formal language"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Specification language"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Proposals"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reuse"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Constraint satisfaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Formal specification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Semantic web"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Web service"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adaptación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Comercio electronico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Consumidor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Heterogeneidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lenguaje formal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lenguaje especificación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reutilización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Satisfaccion restricción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Especificación formal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Web semántica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Servicio web"
+        },
+        "001D02B04: Systèmes informatiques et systèmes répartis. Interface utilisateur / Computer systems and distributed systems. User interface"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16076119"
+}

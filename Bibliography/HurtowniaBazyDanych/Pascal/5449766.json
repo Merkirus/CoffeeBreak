@@ -1,0 +1,251 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Evaluating go-path measurements to determine faulty components the skill of the test is the software",
+    "dc:creator": [
+        "KIRKLAND, Larry V",
+        "WILSON, Nathan",
+        "BERGHOUT, Floyd"
+    ],
+    "dc:contributor": [
+        "IEEE Aerospace and Electronic Systems Society (Organiser of meeting)",
+        "Autotestcon 2004 (40 ; San Antonio TX 2004-09-20)"
+    ],
+    "dc:relation": "2004 IEEE AUTOTESTCON (proceedings) -- 0AUTOTESTCON 2004",
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "IEEE",
+    "dc:format": [
+        "print",
+        "6 p. ; 3 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Aide diagnostic"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Algorithmique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse circuit"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareillage essai"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Autotest"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Borne inférieure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Borne supérieure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Caractéristique fonctionnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Circuit électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composant électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conception système"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Différenciation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Débit information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Défaillance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation performance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Logiciel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Précision"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau neuronal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diagnostic aid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Algorithmics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Network analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Testing equipment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Built in self test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lower bound"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Upper bound"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Performance characteristic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic circuit"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic component"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "System design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Differentiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information rate"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Failures"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Performance evaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Software"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Accuracy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neural network"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ayuda diagnóstica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Algorítmica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis circuito"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato ensayo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Autoprueba"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cota inferior"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cota superior"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Característica funcionamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Circuito electrónico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Componente electrónico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Concepción sistema"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diferenciación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Índice información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fallo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evaluación prestación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Logicial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Precisión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red neuronal"
+        },
+        "001D03B: Essais, mesure, bruit et fiabilité / Testing, measurement, noise and reliability",
+        "001D03G01: Etude théorique. Analyse et conception des circuits / Theoretical study. Circuits analysis and design",
+        "001D03G03: Réseaux neuronaux / Neural networks"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17751787"
+}

@@ -1,0 +1,113 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Structure and electronic properties of amorphous carbon : from semimetallic to insulating behaviour",
+    "dc:creator": [
+        "FRAUENHEIM, T",
+        "JUNGNICKEL, G",
+        "KÖHLER, T",
+        "STEPHAN, U"
+    ],
+    "dc:contributor": [
+        "THORPE, MICHAEL F (Editor)",
+        "WRIGHT, ADRIAN C (Editor)",
+        "Symposium on amorphous insulators (Winter Park CO 1994-08-07)"
+    ],
+    "dc:relation": [
+        "Journal of non-crystalline solids -- J. non-cryst. solids, CODEN JNCSBJ, ISSN 0022-3093, Vol. 182 (1-2) , pp. 186-197",
+        "Symposium on amorphous insulators"
+    ],
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "30 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Addition hydrogène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Calcul dynamique moléculaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Carbone"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Densité niveau énergie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etat amorphe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude théorique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode fonctionnelle densité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure non cristalline"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "a-C:H"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "a-C"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hydrogen additions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Molecular dynamics calculations"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Carbon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Energy-level density"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Amorphous state"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Theoretical study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Density functional method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Noncrystalline structure"
+        },
+        "001B60A43: Solides désordonnés / Disordered solids",
+        "001B70A20: Densités d'états électroniques et structure de bandes des solides cristallins / Electron density of states and band structure of crystalline solids",
+        "6143:  / Disordered solids",
+        "7120P:  / Other inorganic compounds"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3443836"
+}

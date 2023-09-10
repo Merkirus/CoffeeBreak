@@ -1,0 +1,77 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The human resources crises in Fiji's public sector: trouble in paradise ?",
+    "dc:creator": "VALLANCE, S",
+    "dc:relation": "Public administration and development -- Public adm. dev, ISSN 0271-2075, Vol. 16 (1) , pp. 91-103",
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Wiley",
+    "dc:format": [
+        "print",
+        "2 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Fonction publique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Formation du personnel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gestion du personnel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Secteur public"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Civil Service"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Staff Training"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Personnel Management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public Sector"
+        },
+        "528-: Science administrative / Administrative science",
+        "528-221: Milieu administratif / Civil service",
+        "528-314: Administration du personnel / Personnel management"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Fidji"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Océanie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fiji"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oceania"
+        }
+    ],
+    "dc:rights": [
+        "Institut International d'Administration Publique (IIAP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6315353"
+}

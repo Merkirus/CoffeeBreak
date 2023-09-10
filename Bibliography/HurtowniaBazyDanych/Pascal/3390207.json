@@ -1,0 +1,88 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "VIBRATIONAL SPECTRA OF BISMUTH OXIDE AND THE SILLENITE-STRUCTURE BISMUTH OXIDE DERIVATIVES.",
+    "dc:creator": [
+        "BETSCH RJ",
+        "WHITE WB"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "SPECTROCHEM. ACTA, A; GBR; DA. 1978; VOL. 34; NO 5; PP. 505-514; BIBL. 27 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ABSORPTION IR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIFFUSION RAMAN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MODE PHONON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHONON ACOUSTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLYCRISTAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OXYDE BISMUTH"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OXYDE BISMUTH GERMANIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OXYDE BISMUTH SILICIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OXYDE BISMUTH TITANE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OXYDE BISMUTH GALLIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE SOLIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFRARED ABSORPTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RAMAN SCATTERING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHONON MODE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ACOUSTIC PHONON"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLYCRYSTAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID PHYSICS"
+        },
+        "001B60: Etat condense: structure, proprietes mecaniques et thermiques / Condensed matter: structure, mechanical and thermal properties"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7930026052"
+}

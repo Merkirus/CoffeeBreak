@@ -1,0 +1,55 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE PLAIN STYLE IN SCIENTIFIC AND TECHNICAL WRITING",
+    "dc:creator": [
+        "WHITBURN MD",
+        "DAVIS M",
+        "HIGGINS S",
+        "OATES L",
+        "SPURGEON K"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. TECH. WRITG COMMUNIC.; USA; DA. 1978; VOL. 8; NO 4; PP. 349-358; BIBL. 5 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "REDACTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMMUNICATION ECRITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TECHNOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCE INFORMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WRITING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WRITTEN COMMUNICATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TECHNOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFORMATION SCIENCE"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7930217729"
+}

@@ -1,0 +1,225 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Characterization of SiGeC thin films by MeV ion scattering and X-ray diffraction",
+    "dc:creator": [
+        "NAGAKI, M",
+        "NARUSAWA, T",
+        "HIRAKI, A",
+        "SAITOH, T",
+        "KUBO, M"
+    ],
+    "dc:contributor": [
+        "SHIRAKI, Yasuhiro (Editor)",
+        "ZAIMA, Shigeaki (Editor)",
+        "MIYAO, Masanobu (Editor)",
+        "YASUDA, Yukio (Editor)",
+        "MUROTA, Junichi (Editor)",
+        "Japan Society for the Promotion of Science (Funder/Sponsor)",
+        "Tohoku University ; Research Institute of Electrical Communication (Funder/Sponsor)",
+        "International Joint Conference on Silicon Epitaxy and Heterostructures (IJC-Si) (Miyagi 1999-09-12)",
+        "International Symposium on Silicon Heterostructures: From Physics to Devices (Si-HS) (3 ; Miyagi 1999-09-12)",
+        "International Symposium on Silicon Molecular Beam Epitaxy (Si-MBE) (8 ; Miyagi 1999-09-12)"
+    ],
+    "dc:relation": [
+        "Thin solid films -- Thin solid films, CODEN THSFAP, ISSN 0040-6090, Vol. 369 (1-2) , pp. 143-147",
+        "Proceedings of the International Joint Conference on Silicon Epitaxy and Heterostructures (IJC-Si), 12-17 September, 1999, Miyagi, Japan"
+    ],
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "5 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Non métal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Addition carbone"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Caractérisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Carbone alliage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Concentration impureté"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Couche mince"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffraction RX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffusion ion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffusion élastique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dépôt chimique phase vapeur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Germanium alliage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Impureté substitutionnelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Perfection cristalline"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Relaxation contrainte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Silicium alliage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Site impureté"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "C Ge Si"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ge Si"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Si1-x-yGexCy"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Si1-xGex:C"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nonmetals"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Carbon additions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Characterization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Carbon alloys"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Impurity density"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thin films"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "XRD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ion scattering"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Elastic scattering"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CVD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Germanium alloys"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Substitutional impurities"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Crystal perfection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stress relaxation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Silicon alloys"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Impurity site"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Caracterización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Concentración impureza"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Difusión ión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Impureza substitucional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Perfección cristalina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sitio impureza"
+        },
+        "001B60H55J: Structure et morphologie; épaisseur / Structure and morphology; thickness",
+        "001B60H55L: Défauts et impuretés: dopage, implantation, distribution, concentration, etc / Defects and impurities: doping, implantation, distribution, concentration, etc",
+        "6855J:  / Structure and morphology; thickness",
+        "6855L:  / Defects and impurities: doping, implantation, distribution, concentration, etc"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1489719"
+}

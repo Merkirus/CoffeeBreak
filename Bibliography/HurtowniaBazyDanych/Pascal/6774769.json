@@ -1,0 +1,222 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Linking the Chemistry and Physics of Electronic Charge Transfer in Insulators: Theory and Experiment",
+    "dc:creator": [
+        "VEREGIN, Richard P. N",
+        "HAWKINS, Michael S",
+        "QINGBIN LI",
+        "GUSAROV, Sergey",
+        "KOVALENKO, Andriy"
+    ],
+    "dc:contributor": "IS&T's International Conference on Digital Printing Technologies (28 ; Quebec City 2012-09-09)",
+    "dc:relation": [
+        "The Journal of imaging science and technology -- J. imaging sci. technol, CODEN JIMTE6, ISSN 1062-3701, Vol. 57 (3)",
+        "IS&T's International Conference on Digital Printing Technologies (28 ; Quebec City 2012-09-09)"
+    ],
+    "dc:date": "2013",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Society for Imaging Science and Technology",
+    "dc:format": [
+        "print",
+        "030401.1-030401.12 ; 34 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Ajustement courbe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ajustement modèle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chimie quantique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chromatographie phase gazeuse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Détecteur de gaz"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Electrophotographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etat surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ethylène(tétrafluoro) polymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fonctionnelle densité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Formation image"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mobilité porteur charge"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthacrylate de méthyle polymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Orbitale moléculaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Précurseur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transfert charge"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transformation Fourier discrète"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chimie surface"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Curve fitting"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Model matching"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quantum chemistry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gas chromatography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gas detector"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrophotography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface states"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polytetrafluoroethylene"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Density functional"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Imaging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Carrier mobility"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modelling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PMMA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Molecular orbital"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Precursor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Charge transfer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Discrete Fourier transforms"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface chemistry"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ajustamiento modelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Detector de gas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Funciónal densidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Orbital molecular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transferencia carga"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Química de superficie"
+        },
+        "001B00G68: Photographie, instrumentation et techniques photographiques; xérographie / Photography, photographic instruments and techniques; xerography",
+        "001B70A15: Méthodes de calcul de structure électronique / Methods of electronic structure calculations",
+        "001B70B80S: Isolants / Insulators",
+        "001C01I: Physicochimie de surface / Surface physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 27834301"
+}

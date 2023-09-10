@@ -1,0 +1,71 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Speech production in Parkinson's disease: II. Acoustic and electropalatographic investigation of sentence, word and segment durations",
+    "dc:creator": [
+        "MCAULIFFE, Megan J",
+        "WARD, Elizabeth C",
+        "MURDOCH, Bruce E"
+    ],
+    "dc:relation": "Clinical linguistics & phonetics -- Clin. linguist. phon, ISSN 0269-9206, Vol. 20 (1) , pp. 19-33",
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Taylor & Francis",
+    "dc:format": [
+        "print",
+        "15 p. ; 1 p.½"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Phonétique expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Production de la parole"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Maladie de Parkinson"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental phonetics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Speech production"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Parkinson's disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "acoustic analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "durations"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "electropalatography"
+        },
+        "524-: Sciences du langage / Linguistics",
+        "524-4: Pathologie du langage / Pathology of language",
+        "524-8: Déficits physiques / Physical deficiencies"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17439328"
+}

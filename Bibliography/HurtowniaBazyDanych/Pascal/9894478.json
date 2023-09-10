@@ -1,0 +1,312 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Giant anterior communicating artery aneurysm infiltrated with a primary cerebral lymphoma : Case report. Commentaries",
+    "dc:creator": [
+        "ROITBERG, B. Z",
+        "COCHRAN, E. J",
+        "THORNTON, J",
+        "CHARBEL, F. T"
+    ],
+    "dc:contributor": [
+        "BARROW, D. L (Commentator)",
+        "HINTON, D. R (Commentator)",
+        "OGILVY, C. S (Commentator)"
+    ],
+    "dc:relation": "Neurosurgery -- Neurosurgery, CODEN NRSRDY, ISSN 0148-396X, Vol. 47 (2) , pp. 458-462",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Lippincott Williams & Wilkins",
+    "dc:format": [
+        "print",
+        "25 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil circulatoire pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Artère pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cérébrovasculaire pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Encéphale pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hémopathie maligne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lymphoprolifératif syndrome"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système nerveux central pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système nerveux pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vaisseau sanguin pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Anévrysme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Artère communicante antérieure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Association morbide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diagnostic"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Encéphale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude cas"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grande dimension"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Intracrânien"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Localisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lymphome non hodgkinien"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mâle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Personne âgée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Primitif"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cardiovascular disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Arterial disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cerebrovascular disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cerebral disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Malignant hemopathy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lymphoproliferative syndrome"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central nervous system disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nervous system diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vascular disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aneurysm"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Anterior communicating artery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Concomitant disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diagnosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Brain (vertebrata)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Case study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Large dimension"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Intracranial"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Localization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Non Hodgkin lymphoma"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Male"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Elderly"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Primitive"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato circulatorio patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arteria patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vaso sanguíneo encéfalo patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Encéfalo patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hemopatía maligna"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Linfoproliferativo síndrome"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervosio central patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vaso sanguíneo patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aneurisma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arteria comunicante anterior"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asociación morbosa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diagnóstico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Encéfalo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio caso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gran dimensión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Intracraneal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Localización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Linfoma no Hodgkin"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Macho"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anciano"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Primitivo"
+        },
+        "002B17C: Pathologie vasculaire et malformations vasculaires du système nerveux / Vascular diseases and vascular malformations of the nervous system",
+        "002B19B: Leucémies. Lymphomes malins. Réticuloses malignes. Hématodermies. Splénomégalie myéloïde / Leukemias. Malignant lymphomas. Malignant reticulosis. Myelofibrosis"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1448075"
+}

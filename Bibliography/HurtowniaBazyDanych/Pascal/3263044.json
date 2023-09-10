@@ -1,0 +1,86 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THERMOLUMINESCENCE RESPONSE OF MG2SIO4:TB IN ELECTRON FIELDS",
+    "dc:creator": [
+        "MIKADO T",
+        "TOMIMASU T",
+        "YAMAZAKI T",
+        "CHIWAKI M"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "NUCL. INSTRUM. METHODS; NLD; DA. 1978; VOL. 157; NO 1; PP. 109-116; BIBL. 26 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DOSIMETRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATERIAU THERMOLUMINESCENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SILICATE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE MAGNESIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TERBIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REPONSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SILICATE MAGNESIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DOSIMETER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THERMOLUMINESCENT MATERIAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SILICATES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TERBIUM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RESPONSE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONICS"
+        },
+        "001D03: Electronique / Electronics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7930213882"
+}

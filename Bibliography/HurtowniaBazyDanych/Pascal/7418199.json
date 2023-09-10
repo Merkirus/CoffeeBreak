@@ -1,0 +1,110 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Le point sur les lits fluidisés stabilisés magnétiquement; As matters stand on magnetically stabilized fluidized beds",
+    "dc:creator": [
+        "CONTAL, P",
+        "GONTHIER, Y",
+        "BERNIS, A",
+        "LACOUR, G"
+    ],
+    "dc:contributor": [
+        "Ecole nationale supérieure des industries chimiques (Funder/Sponsor)",
+        "Institut national polytechnique de Lorraine. Laboratoire des sciences du génie chimique (Funder/Sponsor)",
+        "Colloque Pierre Le Goff (Nancy 1992-09-23)"
+    ],
+    "dc:relation": [
+        "Entropie (Paris) -- Entropie (Paris), CODEN ENTPA5, ISSN 0013-9084, Vol. 29 (180) , pp. 43-52",
+        "De la chimie physique au génie chimique"
+    ],
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Entropie",
+    "dc:format": [
+        "print",
+        "86 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Article synthèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Champ magnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ferromagnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fluidisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gaz solide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hydrodynamique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Review"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetic field"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ferromagnetic materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fluidization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gas solid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hydrodynamics"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Artículo síntesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Campo magnético"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Material ferromagnético"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fluidización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gas sólido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hidrodinámica"
+        },
+        "001D07F: Fluidisation / Fluidization"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4090793"
+}

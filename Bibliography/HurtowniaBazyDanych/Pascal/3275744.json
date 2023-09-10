@@ -1,0 +1,72 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "TIME EVOLUTION IN A TWO-COMPONENT SYSTEM WITH CATALYTIC REATIONS.",
+    "dc:creator": [
+        "KREUZER HJ",
+        "KURIHARA Y"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "PHYSICA, A; PAYS-BAS; DA. 1977; VOL. 87; NO 1; PP. 94-116; BIBL. 11 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MECANIQUE STATISTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STATISTIQUE QUANTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SYSTEME DYNAMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MELANGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SYSTEME HORS EQUILIBRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METROLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE THEORIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STATISTICAL MECHANICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "QUANTUM STATISTICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DYNAMIC SYSTEM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NON EQUILIBRIUM SYSTEM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MEASUREMENT SCIENCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THEORETICAL PHYSICS"
+        },
+        "001B: Physique / Physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7730336809"
+}

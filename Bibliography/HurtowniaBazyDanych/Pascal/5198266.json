@@ -1,0 +1,112 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Biexciton formation and exciton-exciton correlation effects in bulk ZnO",
+    "dc:creator": [
+        "ADACHI, Satoru",
+        "HAZU, Kouji",
+        "SOTA, Takayuki",
+        "CHICHIBU, Shigefusa F",
+        "CANTWELL, Gene",
+        "EASON, David B",
+        "REYNOLDS, Donald C",
+        "LITTON, Cole W"
+    ],
+    "dc:contributor": [
+        "REGGIANI, L (Editor)",
+        "BORDONE, P (Editor)",
+        "BRUNETTI, R (Editor)",
+        "HCIS International Conference on Nonequilibrium Carrier Dynamics in Semiconductors (13 ; Modena 2003)"
+    ],
+    "dc:relation": [
+        "Semiconductor science and technology -- Semicond. sci. technol, CODEN SSTEET, ISSN 0268-1242, Vol. 19 (4) , pp. S276-S278",
+        "Special issue featuring papers from the International Conference on Nonequilibrium Carrier Dynamics in Semiconductors"
+    ],
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institute of Physics",
+    "dc:format": [
+        "print",
+        "13 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Biexciton"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Choc mécanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé minéral"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exciton lié"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métal transition composé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polarisation circulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Zinc oxyde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "O Zn"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ZnO"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biexcitons"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mechanical shock"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inorganic compounds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bound exciton"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transition element compounds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Circular polarization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Zinc oxides"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Excitón ligado"
+        },
+        "001B: Physique / Physics",
+        "001D03: Electronique / Electronics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15645845"
+}

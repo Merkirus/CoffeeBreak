@@ -1,0 +1,261 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Dynamic heap type inference for program understanding and debugging",
+    "dc:creator": [
+        "POLISHCHUK, Marina",
+        "LIBLIT, Ben",
+        "SCHUIZE, W"
+    ],
+    "dc:contributor": [
+        "Association for Computing Machinery (ACM), Special Interest Group on Programming Languages (SIGPLAN)Special Interest Group on Algorithms and Computation Theory (SIGACT) (Organiser of meeting)",
+        "POPL® 2007 ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages® (34 ; Nice 2007-01-17)"
+    ],
+    "dc:relation": [
+        "ACM SIGPLAN notices -- ACM SIGPLAN not, ISSN 1523-2867, Vol. 42 (1) , pp. 39-46",
+        "POPL® 2007: The 34th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages®: Papers presented at the Symposium, January 17-19, 2007, Nice, France"
+    ],
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "ACM",
+    "dc:format": [
+        "print",
+        "8 p. ; 25 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Accès mémoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse symbolique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Annotation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Débogage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur humain"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fiabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gestion mémoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Langage programmation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Localisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Programme débogage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ramasse-miettes"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Soustype"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sécurité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Théorie type"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Visualisation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Storage access"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Symbolic analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Annotation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Debugging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reliability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Storage management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Programming language"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Localization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Debugging program"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Garbage collector"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Subtype"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Safety"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Type theory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Visualization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Algorithms"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human Factors"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Languages"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reliability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "conservative garbage collection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "constraints"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "debugging tools"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "dynamic type inference"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "heap visualization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "physical subtyping"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acceso memoria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis simbolico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anotación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Puesta a punto programa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor humano"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fiabilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gestión memoria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lenguaje programación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Localización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Programa puesta a punto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Recogemigas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Subtipo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Seguridad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Visualización"
+        },
+        "001D02B02: Langages de programmation / Programming languages",
+        "001D02B07C: Gestion des mémoires et des fichiers (y compris la protection et la sécurité des fichiers) / Memory and file management (including protection and security)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18600637"
+}

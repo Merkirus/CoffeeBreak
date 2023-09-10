@@ -1,0 +1,98 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Adaptive structures : compensators by design",
+    "dc:creator": "CLARK, R.L",
+    "dc:relation": "Noise control engineering journal -- Noise control eng. j, CODEN NCEJD5, ISSN 0736-2501, Vol. 49 (1) , pp. 15-20",
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institute of Noise Control Engineering",
+    "dc:format": [
+        "print",
+        "26 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Conception"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système adaptatif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Actionneur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Capteur mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrôle actif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement signal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adaptive system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Actuator"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measurement sensor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Active control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Signal processing"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diseño"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema adaptativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Accionador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Captador medida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Control activo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Procesamiento señal"
+        },
+        "001B40C50: Bruit: ses effets et son contrôle / Noise: its effects and control",
+        "001B40C60: Traitement des signaux acoustiques / Acoustic signal processing"
+    ],
+    "dc:rights": [
+        "Centre Scientifique et Technique du Bâtiment (CSTB)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 5671884"
+}

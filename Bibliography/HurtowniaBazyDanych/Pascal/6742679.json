@@ -1,0 +1,329 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Image-based 3D corn reconstruction for retrieval of geometrical structural parameters",
+    "dc:creator": [
+        "HAOXING WANG",
+        "WUMING ZHANG",
+        "GUOQING ZHOU",
+        "GUANGJIAN YAN",
+        "CLINTON, Nicholas"
+    ],
+    "dc:contributor": [
+        "ZHANG, Jingxiong (Editor)",
+        "FOODY, Giles M (Editor)",
+        "International Spatial Accuracy Research Association (Organiser of meeting)",
+        "International Symposium on Spatial Accuracy Assessment in Natural Resources and Environmental Sciences (Accuracy 2008) (8 ; Shangai 2008-06-25)"
+    ],
+    "dc:relation": [
+        "International journal of remote sensing (Print) -- Int. j. remote sens. (Print), CODEN IJSEDK, ISSN 0143-1161, Vol. 30 (20) , pp. 5505-5513",
+        "Accuracy 2008 : Spatial Accuracy Assessment in Natural Resources and Environmental Sciences"
+    ],
+    "dc:date": "2009",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Taylor & Francis",
+    "dc:format": [
+        "print",
+        "9 p. ; 1/2 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Caractéristique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Caractéristiques"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Champ"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Direction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Distribution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Feuille végétal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Image"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Indice foliaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Instrumentation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Limitation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mesure basée sol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle 3 dimensions"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Paramètre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Personnel scientifique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phyllotaxie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Précision"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résultat expérimental"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Surface foliaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système 3 dimensions"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Télédétection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Utilisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Validation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Characteristic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Characteristics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Field"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "direction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plant leaf"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Image"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Leaf area index"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "instruments"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Limitation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ground based measurement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "three-dimensional models"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measurement method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Parameter"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Scientific staff"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phyllotaxis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "accuracy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental result"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Leaf area"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Three dimensional system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "techniques"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "remote sensing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "utilization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Validation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Característica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Características"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Campo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dirección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hoja vegetal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Imagen"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Indice foliar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Instrumentación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Limitación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medida en tierra"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo 3 dimensiones"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método medida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Parámetro"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Personal científico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Filotaxia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Precisión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resultado experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Superficie foliar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema 3 dimensiones"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Detección a distancia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Validación"
+        },
+        "001E01M04: Géophysique appliquée / Applied geophysics",
+        "002A14A03: Télédétection, cartes de végétation / Teledetection and vegetation maps"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 22087187"
+}

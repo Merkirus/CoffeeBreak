@@ -1,0 +1,103 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SUBSTRATES AND INHIBITORS OF ATP-CITRATE LYASE FROM ADIPOSE TISSUE.",
+    "dc:creator": [
+        "MERSMANN HJ",
+        "BROWN LJ",
+        "HOUK JM",
+        "RAO DR",
+        "STEFFEN DG"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "INTERNATION. J. BIOCHEM.; G.B.; DA. 1977; VOL. 8; NO 11; PP. 773-779; BIBL. 26 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ATP CITRATE LYASE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENZYME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LYASE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TISSU ADIPEUX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PORC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MAMMALIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CINETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INHIBITION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PURIFICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENZYMOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOCHIMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENZYMES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LYASE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ADIPOSE TISSUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PIG"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "KINETICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INHIBITION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PURIFICATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENZYMOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOCHEMISTRY"
+        },
+        "002A02: Biochimie analytique, structurale et metabolique / Analytical, structural and metabolic biochemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7850143840"
+}

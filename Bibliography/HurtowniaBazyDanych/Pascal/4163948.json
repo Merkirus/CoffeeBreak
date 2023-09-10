@@ -1,0 +1,74 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ETAT FONCTIONNEL DE L'APPAREIL INSULAIRE PANCREATIQUE DANS LA THYROTOXICOSE",
+    "dc:creator": "PAVLYUK PM",
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "PROBL. ENDOKRINOL.; S.S.S.R.; DA. 1974; VOL. 20; NO 4; PP. 20-23; ABS. ANGL.; BIBL. 13REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "HYPERTHYROIDIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INSULINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ILOT LANGERHANS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TAUX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SANG"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HORMONE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PEPTIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METABOLISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "THYROIDE PATHOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EXPLORATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENDOCRINOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENDOCRINOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENDOCRINOLOGY"
+        },
+        "002A29: Vertebres: reproduction / Vertebrates: reproduction",
+        "002B21: Endocrinopathies / Endocrinopathies"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7536102147"
+}

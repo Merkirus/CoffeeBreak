@@ -1,0 +1,79 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "FRAGMENTATION HAEMOLYSIS IN PATIENTS WITH SEVERE DIABETIC ANGIOGRAPHY.",
+    "dc:creator": [
+        "BRUNNING RD",
+        "JACOB HS",
+        "BRENCKMAN WD",
+        "JIMENEZ PASQUAU F",
+        "GOETZ FC"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "BRIT. J. HAEMATOL.; G.B.; DA. 1976; VOL. 34; NO 2; PP. 283-289; H.T. 1; BIBL. 8 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DIABETE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROANGIOPATHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANEMIE HEMOLYTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPLICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETIOPATHOGENIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HEMATOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIABETES MELLITUS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROANGIOPATHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEMOLYTIC ANEMIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COMPLICATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ETIOPATHOGENESIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEMATOLOGY"
+        },
+        "002B19: Hemopathies / Hematologic and hematopoietic diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7750150804"
+}

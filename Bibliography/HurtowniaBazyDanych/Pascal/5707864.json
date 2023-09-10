@@ -1,0 +1,103 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Stratégies de recherche dans la blogosphère",
+    "dc:creator": [
+        "FAUTSCH, Claire",
+        "SAVOY, Jacques"
+    ],
+    "dc:contributor": "AMGHAR, Youssef (Editor)",
+    "dc:relation": "Document numérique (Paris) -- Doc. numér. (Paris), ISSN 1279-5127, Vol. 11 (1-2) , pp. 109-132",
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Lavoisier",
+    "dc:format": [
+        "print",
+        "24 p. ; 1 p.1/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation performance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle probabiliste"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recherche information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système de recherche d'information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Blogosphère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TREC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "blogosphère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "domaine spécifique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "modèle probabiliste"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "évaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Performance evaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Probabilistic model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information retrieval"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information retrieval system"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evaluación prestación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo probabilista"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Búsqueda información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema de recuperación de información"
+        },
+        "001A01F03: Systèmes de recherche d'information / Information retrieval systems",
+        "790-G: Système de recherche documentaire. Système de gestion documentaire et d'information / Information retrieval systems. Information and document management system",
+        "790-G03: Systèmes de recherche documentaire / Information retrieval systems"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 21040968"
+}

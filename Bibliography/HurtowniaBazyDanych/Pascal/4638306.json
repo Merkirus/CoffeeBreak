@@ -1,0 +1,86 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "CERCETARI PRIVIND EPURAREA APELOR UZATE DE LA FABRICILE DE PRELUCRAREA LAPTELUI; RECHERCHES SUR L'EPURATION DES EAUX USEES DE LAITERIES",
+    "dc:creator": [
+        "CUTE E",
+        "MAMBET E",
+        "DOBRINESCU M",
+        "STEFANESCU R"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "Romanian",
+    "dc:format": "STUD., EPURAR. APELOR; ROM; DA. 1979; VOL. 19; PP. 147-163; ABS. ENG/FRE",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "EPURATION EAU USEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "USINE ALIMENTAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LAITERIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EPURATION BIOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BOUE ACTIVEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE EXPERIMENTALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLLUTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NUISANCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WASTE WATER PURIFICATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FOOD FACTORY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DAIRY PLANT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOLOGICAL PURIFICATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ACTIVATED SLUDGE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXPERIMENTAL STUDY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLLUTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NUISANCES"
+        },
+        "001D16: Pollution / Pollution"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8130114914"
+}

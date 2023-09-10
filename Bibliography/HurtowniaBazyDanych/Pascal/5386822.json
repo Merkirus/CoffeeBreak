@@ -1,0 +1,214 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Synthèse, réactivité et évaluation de l'activité biologique d'agents anticancéreux potentiels et d'inhibiteurs de la ribonucleotide réductase; Synthesis, Reactivity and Biological Evaluation of Potential Anticancer Agents and Ribonucleotide Reductase Inhibitors",
+    "dc:creator": "Thumin Tamburlin, Isabelle",
+    "dc:contributor": [
+        "Crozet, M.-P (Advisor (for a thesis or dissertation))",
+        "Université d'Aix-Marseille 3 (Degree-grantor)"
+    ],
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Thesis"
+    ],
+    "dc:identifier": [
+        "NNT 95 AIX3 0079",
+        "Inist-CNRS record number 173160"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "295 p. ; 230 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Enzyme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Glycosyltransferases"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pentosyltransferases"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transferases"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Activité biologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Agent alkylant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Anticancéreux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Culture cellulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cytotoxicité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "In vitro"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Inhibiteur enzyme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Quinone"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Relation structure activité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Synthèse chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Urate-ribonucleotide phosphorylase"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tropolone"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Enzyme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Glycosyltransferases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pentosyltransferases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transferases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biological activity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Alkylating agent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antineoplastic agent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cell culture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cytotoxicity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "In vitro"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Enzyme inhibitor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quinone"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Structure activity relation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical synthesis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Urate-ribonucleotide phosphorylase"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enzima"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Glycosyltransferases"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pentosyltransferases"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transferases"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Actividad biológica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agente alquilante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anticanceroso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cultivo celular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Citotoxicidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "In vitro"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inhibidor enzima"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Quinona"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Relación estructura actividad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Síntesis química"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Urate-ribonucleotide phosphorylase"
+        },
+        "002B02R02: Chimiothérapie / Chemotherapy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

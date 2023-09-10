@@ -1,0 +1,99 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Behind the learning curve : linking learning activities to waste reduction; Au-delà de la courbe d'apprentissage : lier les activités d'apprentissage à la réduction des déchets",
+    "dc:creator": [
+        "LAPRE, M. A",
+        "MUKHERJEE, A. S",
+        "VAN WASSENHOVE, L"
+    ],
+    "dc:contributor": "Institut Européen d'Administration des Affaires. (INSEAD) (Editor)",
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Book"
+    ],
+    "dc:language": "English",
+    "dc:format": [
+        "print",
+        "32 p. ; 3 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CONTROLE DE QUALITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FABRICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GESTION DE LA QUALITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SAVOIR-FAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "APPRENTISSAGE ORGANISATIONNEL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "QUALITY CONTROL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MANUFACTURING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "QUALITY MANAGEMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "KNOW-HOW"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORGANIZATIONAL LEARNING"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "CONTROL DE CALIDAD"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "FABRICACION"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "GESTION DE LA CALIDAD"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "PERICIA"
+        },
+        "616-: Doge / Gestion des entreprises / Doge / Company management",
+        "616-4: Gestion de la production / Production management"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "GENERAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENERAL"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "GENERAL"
+        }
+    ],
+    "dc:rights": [
+        "Documentation en Gestion des Entreprises - Eurofidai (institut européen de données financières) (DOGE)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6258540"
+}

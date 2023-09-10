@@ -1,0 +1,94 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "FACILITATED DIFFUSION OF 6-DEOXY-D-GLUCOSE IN BAKERS' YEAST: EVIDENCE AGAINST PHOSPHORYLATION-ASSOCIATED TRANSPORT OF GLUCOSE; DIFFUSION FACILITEE DU DESOXY-6 D-GLUCOSE CHEZ LA LEVURE DE BOULANGERIE: PREUVE CONTRE UN TRANSPORT DE GLUCOSE ASSOCIE A LA PHOSPHORYLATION",
+    "dc:creator": "ROMANO AH",
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "JOURNAL OF BACTERIOLOGY; ISSN 0021-9193; USA; DA. 1982; VOL. 152; NO 3; PP. 1295-1297; BIBL. 17 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "LEVURE BOULANGERIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSPORT MEMBRANAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GLUCOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIFFUSION FACILITEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHOSPHORYLATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MECANISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SACCHAROMYCES CEREVISIAE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GLUCOSE DESOXY-6"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOTECHNOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROBIOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BAKER YEAST"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MEMBRANE TRANSPORT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GLUCOSE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ASSISTED DIFFUSION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHOSPHORYLATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MECHANISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SACCHAROMYCES CEREVISIAE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOTECHNOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROBIOLOGY"
+        },
+        "002A31: Biotechnologie / Biotechnology",
+        "002B05: Pathologie infectieuse / Infectious diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0277723"
+}

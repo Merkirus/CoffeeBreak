@@ -1,0 +1,133 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "LE JOUR D'APRÈS; The Day After",
+    "dc:creator": "FAVRET-SAADA, Jeanne",
+    "dc:contributor": [
+        "AFA (Association Française des Anthropologues) (Organiser of meeting)",
+        "CLERSE (Centre Lillois d'études et de recherches sociologiques et économiques) (Organiser of meeting)",
+        "Colloque Postures assignées, postures revendiquées. Face aux bouleversements politiques et institutionnels, comment pratiquer nos terrains aujourd'hui ? (2009-11-12)"
+    ],
+    "dc:relation": [
+        "Journal des anthropologues (Montrouge) -- J. anthropol. (Montrouge), ISSN 1156-0428, pp. 197-205",
+        "Postures assignées, postures revendiquées -- Assigned postures, claimed postures"
+    ],
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Association française des anthropologues",
+    "dc:format": [
+        "print",
+        "9 p. ; HS"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Chercheur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme politique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Législation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mobilisation politique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Satire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Travailleur social"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Université"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Protestation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "chercheurs"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "mobilisation politique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "satire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "travailleurs sociaux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "université"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Researcher"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Politician"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Legislation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Political Action"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Satire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Social worker"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "University"
+        },
+        "529-: Ethnologie / Ethnology",
+        "529-51: Structure et relations sociales / Social structure and social relations",
+        "529-60Y: Europe / Europa"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe occidentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Western Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 25363037"
+}

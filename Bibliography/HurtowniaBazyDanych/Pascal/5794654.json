@@ -1,0 +1,242 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Rapport sur la gestion des pandémies : H1N1, et si c'était à refaire ? (Compte rendu de l'audition publique du 14 juin 2010)",
+    "dc:creator": [
+        "BLANDIN, M.C",
+        "DOOR, J.P",
+        "Assemblée Nationale. Paris",
+        "Sénat. Paris",
+        "Office Parlementaire d'Evaluation des Choix Scientifiques et Technologiques. (O.P.E.C.S.T.). Paris"
+    ],
+    "dc:date": "2010",
+    "dc:type": [
+        "Text",
+        "Report"
+    ],
+    "dc:identifier": [
+        "REPORTNUMBER RP",
+        "Inist-CNRS record number 23805431"
+    ],
+    "dc:language": "French",
+    "dc:publisher": [
+        "Assemblée nationale",
+        "Sénat"
+    ],
+    "dc:format": [
+        "print",
+        "93 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Virose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Administration publique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epidémiologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude comparative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Expertise médicale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gestion risque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grippe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OMS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Participation communautaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Surveillance sanitaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Utilisateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Viral disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Civil service"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Epidemiology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Medical expertise"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Risk management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Influenza"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WHO"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Community participation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sanitary surveillance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "User"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Infección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Virosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Administración pública"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Epidemiología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio comparativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Peritaje medical"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gestión riesgo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gripe"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "OMS"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Participación comunitaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vigilancia sanitaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Usuario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Virus"
+        },
+        "002B30A11: Divers / Miscellaneous"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francia"
+        }
+    ],
+    "dc:rights": [
+        "Banque de données en santé publique - Ecole des hautes études en santé publique (BDSP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

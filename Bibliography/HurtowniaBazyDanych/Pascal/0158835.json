@@ -1,0 +1,97 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "NOUVELLES DONNEES SUR LA SITUATION GEOLOGIQUE DE LA REGION DE MALE SVATONOVICE DANS LE BASSIN DES SUDETES INTERIEURES.",
+    "dc:creator": "HOSEK M",
+    "dc:date": "1968",
+    "dc:type": "Miscellaneous",
+    "dc:language": "Czech",
+    "dc:format": "ZPRAVY.GEOL.VYZK.CESKOL; CSK; 1968, VOL. 1966, NUM. 001 , P. 160 A 161",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PLI"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FAILLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "WESTPHALIEN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STEPHANIEN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BOHEME MORAVIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE STRUCTURALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TECTONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARBONIFERE SUP"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRIMAIRE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FOLD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FAULT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WESTPHALIAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STEPHANIAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BOHEMIA MORAVIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STRUCTURAL GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TECTONICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        "001E01L: Tectonique. Géologie structurale. Tectonique des plaques / Tectonics. Structural geology. Plate tectonics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number GEODEBRGM6913008641"
+}

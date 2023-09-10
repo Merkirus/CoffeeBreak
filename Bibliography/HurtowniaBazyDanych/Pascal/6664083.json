@@ -1,0 +1,166 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Dielectric Properties in CaCu3Ti4O12 Single Crystal at High Temperatures",
+    "dc:creator": [
+        "KAWATANI, K",
+        "TAKESADA, M",
+        "FUKUNAGA, M",
+        "ODA, M",
+        "IDO, M",
+        "ONODERA, A"
+    ],
+    "dc:contributor": [
+        "XI YAO (Editor)",
+        "ZHENRONG LI (Editor)",
+        "XIAOYONG WEI (Editor)",
+        "International Meeting on Ferroelectricity (12 ; Xi'an 2009-08-23)"
+    ],
+    "dc:relation": [
+        "Ferroelectrics (Print) -- Ferroelectrics (Print), CODEN FEROA8, ISSN 0015-0193, Vol. 402, pp. 200-205",
+        "Proceedings of THE TWELFTH INTERNATIONAL MEETING ON FERROELECTRICITY (IMF-12). Part II of XI"
+    ],
+    "dc:date": "2010",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Taylor & Francis",
+    "dc:format": [
+        "print",
+        "6 p. ; 24 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Anomalie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Calcium Cuivre Titanate Mixte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Constante diélectrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Haute température"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Joint grain"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Monocristal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Perovskites"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Perte diélectrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polycristal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété diélectrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transformation phase"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CaCu3Ti4O12"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Anomaly"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Calcium Copper Titanates Mixed"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Permittivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High temperature"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Grain boundaries"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Monocrystals"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Perovskites"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dielectric losses"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polycrystals"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dielectric properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phase transformations"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CaCu3Ti4O12; giant susceptibility"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "crystal growth"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "dielectric anomaly"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "perovskite"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "phase transition"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anomalía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mixto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alta temperatura"
+        },
+        "001B70G22C: Permittivité (fonction diélectrique) / Permittivity (dielectric function)",
+        "001B70G22G: Relaxation et pertes diélectriques / Dielectric loss and relaxation"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 23734138"
+}

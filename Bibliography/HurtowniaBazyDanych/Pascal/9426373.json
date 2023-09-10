@@ -1,0 +1,76 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Individual marital therapy: a critical reappraisal. Commentary",
+    "dc:creator": [
+        "WELLS, R. A",
+        "GIANNETTI, V. J",
+        "GURMAN, A. S",
+        "KNISKERN, D. P"
+    ],
+    "dc:relation": "Family process -- Fam. proc, CODEN FAPRDG, ISSN 0014-7370, Vol. 25 (1) , pp. 43-65",
+    "dc:date": "1986",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Blackwell",
+    "dc:format": [
+        "print",
+        "dissem"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Psychothérapie couple"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Psychothérapie individuelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Marital psychotherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Individual psychotherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Psicoterapia marital"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        "002B18I05: Psychothérapies. Conseil psychologique et clinique / Psychotherapies. Psychological and clinical counseling",
+        "770-: Psychologie. Psychanalyse. Psychiatrie / Psychology. Psychoanalysis. Psychiatry",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 8044767"
+}

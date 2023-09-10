@@ -1,0 +1,65 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "AERZTLICHE ERLAEUTERUNGEN ZUR ERNAEHRUNG BEI DIABETES; GUIDE DE L'ALIMENTATION DU DIABETIQUE DESTINEE AUX MEDECINS",
+    "dc:creator": "TEUSCHER A",
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "REV. THERAPEUT.; CHE; DA. 1980; VOL. 37; NO 8; PP. 640-648; ABS. FRE/ENG; BIBL. 5 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DIABETE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRAITEMENT DIETETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REGIME ALIMENTAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENDOCRINOPATHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENDOCRINOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIABETES MELLITUS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIET THERAPY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIET"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENDOCRINOPATHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENDOCRINOLOGY"
+        },
+        "002B21: Endocrinopathies / Endocrinopathies"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8110128473"
+}

@@ -1,0 +1,61 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Intérêt de l'exploration fonctionnelle chez l'enfant asthmatique",
+    "dc:creator": "RUFIN, P",
+    "dc:relation": "LA MEDECINE INFANTILE, Vol. 3 (03) , pp. 171-177",
+    "dc:date": "1989",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "Illustration ; dissem"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Asthme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aérosol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bronche"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asthma"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aerosols"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bronchus"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aerosol"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bronquio"
+        },
+        "002B30: Sante publique. Hygiene-medecine du travail / Public health. Hygiene-occupational medicine",
+        "002B30A11: Divers / Miscellaneous"
+    ],
+    "dc:rights": [
+        "Banque de données en santé publique - Ecole des hautes études en santé publique (BDSP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6323758"
+}

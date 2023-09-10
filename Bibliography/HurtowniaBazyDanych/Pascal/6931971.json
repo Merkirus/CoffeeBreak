@@ -1,0 +1,203 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Formation and age of dunes in the Lake Eyre Depocentres",
+    "dc:creator": [
+        "CALLEN, R. A",
+        "NANSON, G. C"
+    ],
+    "dc:contributor": "International Workshop of the Filchner-Ronne Ice Shelf Programme <3, 1988, Oslo> (1988-06-13)",
+    "dc:relation": [
+        "Geologische Rundschau (1910. Print) -- Geol. Rundsch. (1910, Print), CODEN GERUA3, ISSN 0016-7835, Vol. 81 (2) , pp. 589-593",
+        "International Workshop of the Filchner-Ronne Ice Shelf Programme <3, 1988, Oslo> (1988-06-13)"
+    ],
+    "dc:date": "1992",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Geologische Vereinigung",
+    "dc:format": [
+        "print",
+        "Geological sketch map ; 20ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Quaternaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Age"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "C 14"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Datation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dune continentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Désert Simpson"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Holocène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pleistocène moyen"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pleistocène sup"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thermoluminescence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quaternary"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "age"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "C-14"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "absolute age"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "continental dunes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Simpson Desert"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Holocene"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "middle Pleistocene"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "upper Pleistocene"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "thermoluminescence"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuaternario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Edad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "C 14"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fechado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Duna continental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desierto Simpson"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Holoceno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pleistoceno medio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pleistoceno sup"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Termoluminescencia"
+        },
+        "001E01P01: Géomorphologie, morphodynamique / Geomorphology, landform evolution",
+        "001E01P02: Quaternaire marin et continental / Marine and continental quaternary"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Australasie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Australie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Australie Méridionale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Territoire du Nord Australie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Australasia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Australia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "South Australia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Northern Territory"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Australasia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Australia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Australia meridional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Territorio del norte australiano"
+        }
+    ],
+    "dc:rights": [
+        "Bundesanstalt für Geowissenschaften und Rohstaffe (BGR)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6484466"
+}

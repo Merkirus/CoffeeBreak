@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "IDENTIFICATION OF THE V2 VIBRATION-ROTATION BAND OF AMMONIA IN GROUND LEVEL SOLAR SPECTRA",
+    "dc:creator": [
+        "MURCRAY DG",
+        "GOLDMAN A",
+        "BRADFORD CM",
+        "COOK GR",
+        "VAN ALLEN JW",
+        "BONOMO FS",
+        "MURCAY FH"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "GEOPHYS. RES. LETTERS; USA; DA. 1978; VOL. 5; NO 6; PP. 527-530; BIBL. 12 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "RAYONNEMENT SOLAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE IR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RAIE EMISSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AMMONIAQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELEMENT TRACE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ATMOSPHERE TERRESTRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE ROVIBRATIONNELLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METEOROLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLAR RADIATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFRARED SPECTROMETRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFRARED SPECTROSCOPY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EMISSION LINE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TRACE ELEMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH ATMOSPHERE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ROVIBRATIONAL ENERGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METEOROLOGY"
+        },
+        "001E02F: Géophysique. Techniques, méthodes, appareillage et modèles / Geophysics. Techniques, methods, instrumentation and models"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7930077489"
+}

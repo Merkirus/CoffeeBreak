@@ -1,0 +1,174 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "On some mathematical problems in sensing and measurement",
+    "dc:creator": "ANDO, Shigeru",
+    "dc:contributor": [
+        "Society of Instrument and Control Engineers (Organiser of meeting)",
+        "SICE annual conference (Sapporo 2005)"
+    ],
+    "dc:relation": "SICE 2004 annual conference (Sapporo, Japan, August 4-6, 2005)",
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Society of Instrument and Control Engineers",
+    "dc:format": [
+        "print",
+        "7 p. ; 14 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Autosimilitude"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Capteur mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Consistance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etalonnage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gradient"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Haute résolution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Localisation source"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Maximisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Problème inverse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Source sonore"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système biologique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Selfsimilarity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measurement sensor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Consistency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Calibration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gradient"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High resolution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Source localization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Maximization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measurement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inverse problem"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sound source"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biological system"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Autosimilitud"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Captador medida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Consistencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contraste"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gradiente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alta resolucion"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Localización fuente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Maximización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Problema inverso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fuente sonora"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema biológico"
+        },
+        "001B40C58: Mesures acoustiques et appareillage / Acoustical measurements and instrumentation",
+        "001D12C01: Généralités / General"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17918646"
+}

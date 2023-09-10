@@ -1,0 +1,129 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SUR LE TERRAIN HOUILLER DU GARD (SUITE JUSQU'AU N.479, EN TOUT 182P.).",
+    "dc:creator": "LIVET G",
+    "dc:date": "1943",
+    "dc:type": "Miscellaneous",
+    "dc:language": "French",
+    "dc:format": "REV. IND. MIN.- FR; FRA; 1943, NUM. 0474, P. 185 A 221",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "WESTPHALIEN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STEPHANIEN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHARBON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PLI COUCHE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BASSIN SUBSIDENCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSGRESSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GARD"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STRATIGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARBONIFERE SUP"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRIMAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ROCHE CARBONEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ROCHE SEDIMENTAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MASSIF CENTRAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FRANCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EUROPE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WESTPHALIAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STEPHANIAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RECUMBENT FOLD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BASIN OF SUBSIDENCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TRANSGRESSION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GARD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STRATIGRAPHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        "001E01I: Stratigraphie / Stratigraphy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number GEODEBRGMFR1133889"
+}

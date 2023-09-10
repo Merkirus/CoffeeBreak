@@ -1,0 +1,113 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Australian magnetic dykes; Dykes magnétiques d'Australie",
+    "dc:creator": [
+        "BOYD, D.M",
+        "TUCKER, D.H"
+    ],
+    "dc:contributor": "International dyke conference. 2 (1990-09-12)",
+    "dc:relation": "International dyke conference. 2",
+    "dc:date": "1990",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "A.A. Balkema",
+    "dc:format": [
+        "print",
+        "Geological sketch map ; 12 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Australasie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Océanie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Anomalie magnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Australie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dyke"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essaim dyke"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Levé magnétique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Australasia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oceania"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetic anomalies"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Australia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dikes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dike swarms"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetic surveys"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Australasia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Oceania"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anomalía magnética"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Australia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dique"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asociación diques"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Levantamiento magnético"
+        },
+        "001E01F01: Pétrologie des roches ignées et métamorphiques, phénomènes volcaniques, magmas / Igneous and metamorphic rocks petrology, volcanic processes, magmas"
+    ],
+    "dc:rights": [
+        "Bureau de Recherches Géologiques et Minières (BRGM)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6938272"
+}

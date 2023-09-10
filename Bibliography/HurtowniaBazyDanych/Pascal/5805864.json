@@ -1,0 +1,125 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Modeling the spectral evolution in the decaying tail of gamma-ray bursts observed by Swift",
+    "dc:creator": [
+        "MANGANO, V",
+        "SBARUFATTI, B"
+    ],
+    "dc:contributor": "SHEA, M. A (Editor)",
+    "dc:relation": "Advances in space research -- Adv. space res, CODEN ASRSDW, ISSN 0273-1177, Vol. 47 (8) , pp. 1367-1373",
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "7 p. ; 1/4 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse spectrale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Courbe lumière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Loi puissance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Observatoire spatial"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phase initiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Postluminescence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Source gamma cosmique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sursaut Rγ"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spectral analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Light curves"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Power law"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modelling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spatial observatory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Early phase"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Afterglow"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cosmic gamma sources"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gamma ray burst"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gamma-ray bursts"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Swift"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ley poder"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Observatorio espacial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fase inicial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arrebato Rγ"
+        },
+        "001E03D70R: Sources rγ ; sursauts rγ / Gamma-ray sources ; gamma-ray bursts"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 24107324"
+}

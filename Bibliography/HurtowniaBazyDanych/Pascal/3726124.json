@@ -1,0 +1,114 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "FILTRAGE ADAPTE ET DETECTION OPTIMALE DE SIGNAUX CERTAINS",
+    "dc:creator": "ARQUES PY",
+    "dc:date": "1972",
+    "dc:type": "Serial Issue",
+    "dc:language": "French",
+    "dc:format": "REV. CETHEDEC; FR.; DA. 1972; VOL. 9; NO 32; PP. 15-38; ABS. ANGL.; BIBL. 1 P. 1/2",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "FILTRAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FILTRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DETECTION SIGNAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OPTIMISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRAITEMENT SIGNAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BRUIT GAUSSIEN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SYSTEME LINEAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FILTRE LINEAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FILTRE ADAPTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DETECTION OPTIMALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE STATISTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SIGNAL CERTAIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RAPPORT SIGNAL BRUIT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CRITERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INFORMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATHEMATIQUES APPLIQUEES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TELECOMMUNICATIONS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROMAGNETISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COMPUTER SCIENCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "APPLIED MATHEMATICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TELECOMMUNICATIONS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROMAGNETISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONICS"
+        },
+        "001A02: Mathematiques / Mathematics",
+        "001D03: Electronique / Electronics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7311006941"
+}

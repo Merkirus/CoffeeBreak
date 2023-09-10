@@ -1,0 +1,219 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Grippe aviaire chez l'enfant; Avian influenza in children",
+    "dc:creator": [
+        "BOUSCAMBERT-DUCHAMP, M",
+        "LINA, B",
+        "MORFIN, F"
+    ],
+    "dc:contributor": [
+        "HAAS, H (Editor)",
+        "Groupe de pathologies infectieuses pédiatriques (Organiser of meeting)",
+        "Journées du Groupe de Pathologies Infectieuses Pédiatriques (24 ; Nice 2008-09-26)"
+    ],
+    "dc:relation": [
+        "Archives de pédiatrie (Paris) -- Arch. pédiatr. (Paris), ISSN 0929-693X, Vol. 16",
+        "Zoonoses en pédiatrie : Quoi de neuf en 2008 ? 24es Journées annuelles du Groupe de Pathologie Infectieuse Pédiatrique -- Zoonosis in Paediatrics: what's new in 2008? 24th annual congress of GPIP"
+    ],
+    "dc:date": "2009",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "S101-S107 ; 17 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Virose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "2008"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Congrès"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enfant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grippe aviaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pédiatrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé publique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Zoonose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Influenzavirus A(H5N1)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "A (H5N1)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grippe aviaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Virus influenza"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Viral disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "2008"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Congress"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Child"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Avian influenza"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pediatrics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Zoonosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Influenzavirus A(H5N1)"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Infección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Virosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "2008"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Congreso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Niño"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gripe aviar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pediatría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud pública"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Zoonosis"
+        },
+        "002B01: Generalites / General aspects",
+        "002B05C02C: Viroses respiratoires et orl / Viral diseases of the respiratory system and ent viral diseases",
+        "002B30A11: Divers / Miscellaneous",
+        "760-: Santé publique. Hygiène / Public health. Hygiene",
+        "760-L: Divers / Miscellaneous"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francia"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 22039527"
+}

@@ -1,0 +1,256 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Effects of ELMs and disruptions on ITER divertor armour materials",
+    "dc:creator": [
+        "FEDERICI, G",
+        "ZHITLUKHIN, A",
+        "ARKHIPOV, N",
+        "GINIYATULIN, R",
+        "KLIMOV, N",
+        "LANDMAN, I",
+        "PODKOVYROV, V",
+        "SAFRONOV, V",
+        "LOARTE, A",
+        "MEROLA, M"
+    ],
+    "dc:contributor": [
+        "LIPSCHULTZ, Bruce (Editor)",
+        "HAASZ, Anthony A (Editor)",
+        "LABOMBARD, Brian (Editor)",
+        "STANGEBY, Peter C (Editor)",
+        "TERRY, James L (Editor)",
+        "ULRICKSON, Michael A (Editor)",
+        "Massachusetts Institute of Technology ; Plasma Science & Fusion Center (Funder/Sponsor)",
+        "PSI 2004 International Conference on Plasma Surface Interactions in Controlled Fusion Devices (16 ; Portland, Maine 2004-05-24)"
+    ],
+    "dc:relation": [
+        "Journal of nuclear materials -- J. nucl. mater, CODEN JNUMAM, ISSN 0022-3115, Vol. 337-39, pp. 684-690",
+        "Plasma-surface interactions 16"
+    ],
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "Russian",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "7 p. ; 9 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Carbone"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Disruption"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecorceur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Erosion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaporation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fibre carbone"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gouttelette"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Impureté"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interaction solide plasma"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau composite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau renforcé fibre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mode localisé bord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plasma"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réacteur fusion nucléaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réacteur nucléaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tokamak"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tungstène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dispositif ITER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Carbon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Disruption"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Divertor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Erosion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Evaporation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Carbon fiber"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Droplet"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Impurity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface plasma interaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Composite material"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fiber reinforced material"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Edge localized modes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plasma"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nuclear fusion reactor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nuclear reactor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tokamak"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tungsten"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carbono"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Disrupción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Descortezador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Erosión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evaporación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fibra carbón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gotita"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Impureza"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interacción sólido plasma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Material compuesto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Material reforzado fibra"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Plasma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reactor fusión nuclear"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reactor nuclear"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tokamak"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Wolframio"
+        },
+        "001D06: Energie / Energy",
+        "001D06B04: Combustibles nucléaires / Nuclear fuels",
+        "001D06D04D: Centrales nucléaires à fission / Fission nuclear power plants",
+        "001D06D04E: Centrales nucléaires à fusion / Controled nuclear fusion plants"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16617754"
+}

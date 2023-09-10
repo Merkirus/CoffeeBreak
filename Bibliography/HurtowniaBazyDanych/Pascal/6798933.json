@@ -1,0 +1,142 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Modeling of the Simultaneous Switching Noise in High Speed Electronic Circuit with the Integral Equation Method and Vector Fitting Method",
+    "dc:creator": [
+        "ZOU, Guo-Ping",
+        "WEI, Xing-Chang",
+        "LI, Er-Ping",
+        "XIANG CUI",
+        "ZHANG, Wei-Dong"
+    ],
+    "dc:contributor": [
+        "The IEEE Magnetics Society (Organiser of meeting)",
+        "The Biennal IEEE Conference on Electromagnetic Field Computation (IEEE CEFC 2010) (14 ; Chicago, Illinois 2010-05-09)"
+    ],
+    "dc:relation": [
+        "IEEE transactions on magnetics -- IEEE trans. magn, CODEN IEMGAQ, ISSN 0018-9464, Vol. 47 (5) , pp. 1490-1493",
+        "Selected papers from the Fourteenth Biennal IEEE Conference on electromagnetic field computation (CEFC 2010) Chicago, Illinois, USA May 9-12, 2010"
+    ],
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institute of Electrical and Electronics Engineers",
+    "dc:format": [
+        "print",
+        "4 p. ; 11 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Application"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Circuit électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Commutation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Electronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Equation intégrale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété magnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Robinetterie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Schéma équivalent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Application"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic circuits"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Switching"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Integral equations"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modelling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetic properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fittings"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Equivalent circuits"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Equivalent circuit"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "integral equation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "powerground planes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "simultaneous switching noise"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "vector fitting method"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aplicación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Electrónica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Grifería"
+        },
+        "001B80A90: Divers / Other topics in materials science"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 24285814"
+}

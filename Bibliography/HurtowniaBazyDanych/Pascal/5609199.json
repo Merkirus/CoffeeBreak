@@ -1,0 +1,102 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Nanosecond UV laser-induced nanoablation of diamond surface",
+    "dc:creator": [
+        "KONONENKO, V. V",
+        "KOMLENOK, M. S",
+        "KONOV, V. I",
+        "PIMENOV, S. M"
+    ],
+    "dc:contributor": [
+        "Dumitras, Dan C (Editor)",
+        "Dinescu, Maria (Editor)",
+        "Konov, V. I (Editor)",
+        "Romania, Ministerul Educatiei si Cercetarii (Organiser of meeting)",
+        "Society of photo-optical instrumentation engineers (Organiser of meeting)",
+        "Advanced laser technologies (2006)",
+        "International Conference on Advanced Laser Technologies (14 ; Brasov 2006)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, pp. 66060F.1-66060F.4",
+        "Advanced laser technologies 2006 (8-12 September, 2006, Brasov, Romania)"
+    ],
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "Russian",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "4 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Diamant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Domaine temps ns"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Laser KrF"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Laser excimère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Laser gaz"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Monocristal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4255L"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diamonds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ns range"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Krypton fluoride lasers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Excimer lasers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gas lasers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Monocrystals"
+        },
+        "001B40B55L: Lasers à gaz, incluant les lasers à excimère et les lasers à vapeur métallique / Gas lasers including excimer and metal-vapor lasers"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 19093518"
+}

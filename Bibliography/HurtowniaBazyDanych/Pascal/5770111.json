@@ -1,0 +1,63 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Liberatus von Karthago und die Drei Kapitel. Anmerkungen zum Breviarium causae Nestorianorum et Eutychianorum 8-10",
+    "dc:creator": "HEIL, Uta",
+    "dc:contributor": [
+        "DRECOLL, Volker Henning (Editor)",
+        "MEIER, Mischa (Editor)"
+    ],
+    "dc:relation": "Zeitschrift für antikes Christentum -- Z. antikes Christ -- Journal of ancient christianity, ISSN 0949-9571, Vol. 14 (1) , pp. 31-59",
+    "dc:date": "2010",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "German",
+    "dc:publisher": "De Gruyter",
+    "dc:format": [
+        "print",
+        "29 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Cyrille d'Alexandrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Théodore de Mopsueste"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Théologie chrétienne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Liberatus de Carthage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cyril of Alexandria"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Theodore of Mopsuestia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Christian theology"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cyril of Alexandria"
+        },
+        "527-: Histoire et sciences des religions / History and sciences of religions",
+        "527-865: Christianisme / Christianity",
+        "527-941: Etudes littéraires. Textes. Editions / Literary studies. Texts. Editions"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 22915082"
+}

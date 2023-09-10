@@ -1,0 +1,67 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "PROTEIN DIGESTION AND ABSORPTION IN THE RAT.",
+    "dc:creator": [
+        "CURTIS KJ",
+        "KIM YS",
+        "PERDOMO JM",
+        "SILK DBA",
+        "WHITEHEAD JS"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. PHYSIOL.; G.B.; DA. 1978; VOL. 274; PP. 409-419; BIBL. 1 P.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "INTESTIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIGESTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ABSORPTION BIOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RAT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROTEINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RODENTIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MAMMALIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GUT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIGESTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RAT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PROTEINS"
+        },
+        "002A14: Ecologie animale, vegetale et microbienne / Animal, plant and microbial ecology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7850328479"
+}

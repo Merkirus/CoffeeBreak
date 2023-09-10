@@ -1,0 +1,119 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ETUDE DE L'ADSORPTION DU DIALKYLDITHIOPHOSPHATE DE BARYUM EN SOLUTION DANS L'HEXANE SUR DES POLYMERES.",
+    "dc:creator": [
+        "ZHARINOVA TA",
+        "YAKUBENKO LN",
+        "SANIN PI",
+        "SHER VV",
+        "KISHCHUK NN"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "UKRAIN. KHIM. ZH.; UKR; DA. 1978; VOL. 44; NO 7; PP. 683-686; BIBL. 12 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ADSORBAT ORGANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHOSPHATE ORGANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOLVANT ORGANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPENE POLYMERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARBONATE POLYMERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EPOXYDE RESINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ADSORBANT ORGANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ADSORPTION LIQUIDE SOLIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DITHIOPHOSPHATE(O,O-DIALKYL)!ACT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HEXANE!SUB"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "UTILISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE GENERALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE PHYSIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORGANIC ADSORBATE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORGANIC PHOSPHATE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORGANIC SOLVENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PROPYLENE POLYMER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLYCARBONATE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EPOXY RESIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORGANIC ADSORBENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIQUID SOLID ADSORPTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "USE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENERAL CHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHYSICAL CHEMISTRY"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7960012838"
+}

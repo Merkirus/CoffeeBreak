@@ -1,0 +1,109 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE RADULAR APPARATUS OF CONUS.",
+    "dc:creator": "MARSH H",
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. MOLLUSC. STUD.; G.B.; DA. 1977; VOL. 43; NO 1; PP. 1-11; BIBL. 1 P.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MILIEU MARIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RADULA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANATOMIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROSCOPIE ELECTRONIQUE BALAYAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RELATION STRUCTURE FONCTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ADAPTATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LONG TERME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REGIME ALIMENTAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MOLLUSCA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GASTROPODA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INVERTEBRATA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "APPAREIL BUCCAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONUS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REGIME CARNIVORE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MARINE ENVIRONMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RADULA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANATOMY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SCANNING ELECTRON MICROSCOPY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STRUCTURE FUNCTION RELATIONSHIP"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ADAPTATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LONG TERM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIET"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BUCCAL APPARATUS"
+        },
+        "002A14: Ecologie animale, vegetale et microbienne / Animal, plant and microbial ecology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7750427124"
+}

@@ -1,0 +1,120 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "An online simulation to support the operation of municipal sewage plants",
+    "dc:creator": [
+        "KOLISCH, G",
+        "LONDONG, J"
+    ],
+    "dc:contributor": [
+        "Grabow, W.O.K (Editor)",
+        "Dohmann, M (Editor)",
+        "Nagle, P.T (Editor)",
+        "Haas, C (Editor)",
+        "Hall, E.R (Editor)",
+        "Lesouef, A (Editor)",
+        "Orhon, D (Editor)",
+        "van der Vlies, A (Editor)",
+        "Watanabe, Y (Editor)",
+        "Milburn, A (Editor)",
+        "Purdon, C.D (Editor)",
+        "International Association on Water Quality. Biennial conference (19 ; Vancouver BC 1998-06-21)"
+    ],
+    "dc:relation": [
+        "Water science and technology -- Water sci. technol, CODEN WSTED4, ISSN 0273-1223, pp. 71-78",
+        "Water quality international '98 (Vancouver BC, 21-26 June 1998. Part 3, Wastewater : treatment plants)"
+    ],
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Pergamon Press",
+        "Pergamon Press"
+    ],
+    "dc:format": [
+        "print",
+        "5 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Eau usée urbaine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epuration eau usée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle dynamique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation numérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Station épuration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Urban waste water"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Waste water purification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dynamic model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Numerical simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sewage treatment plant"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agua usada urbana"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Depuración aguas servidas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo dinámico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simulación numérica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estación depuradora"
+        },
+        "001D16A06: Ouvrages d'assainissement: égoûts, stations d'épuration, émissaires, . / Sewerage works: sewers, sewage treatment plants, outfalls, ."
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1571720"
+}

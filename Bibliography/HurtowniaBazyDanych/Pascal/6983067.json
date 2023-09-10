@@ -1,0 +1,334 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Population dynamics of aphids in unsprayed corn fields",
+    "dc:creator": "SAKURATANI, Y",
+    "dc:contributor": "International symposium on maize arthropods. 1 (1987-08)",
+    "dc:relation": [
+        "Acta phytopathologica et entomologica hungarica -- Acta phytopathol. entomol. hung, CODEN APEHEG, ISSN 0238-1249, Vol. 27 (1-2) , pp. 183-187",
+        "International symposium on maize arthropods. 1 (1987-08)"
+    ],
+    "dc:date": "1989",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Akademiai Kiado",
+    "dc:format": [
+        "print",
+        "5 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Angiospermae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aphididae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aphidoidea"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Arthropoda"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Asie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Coccinellidae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Coleoptera"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gramineae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homoptera"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Insecta"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Invertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Monocotyledones"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spermatophyta"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Coccinella septempunctata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dynamique population"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Déprédateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Entomophage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Japon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plante céréalière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prédateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rhopalosiphum maidis"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rhopalosiphum padi"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Régulation naturelle population"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Zea mays"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cecidomyiidae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propylea japonica"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Scymnus hoffmanni"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Syrphidae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Angiospermae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aphididae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aphidoidea"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Arthropoda"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Coccinellidae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gramineae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Homoptera"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Insecta"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Invertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Monocotyledones"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spermatophyta"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Coccinella septempunctata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Population dynamics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pest"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Entomophagous"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Japan"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cereal crop"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Predator"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rhopalosiphum maidis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rhopalosiphum padi"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Population regulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Zea mays"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Coleoptera"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Coccinella septempunctata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dinámica población"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Plaga"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Entomófago"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Japón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Planta cerealista"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Depredador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rhopalosiphum maidis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rhopalosiphum padi"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Regulación natural población"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Zea mays"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Angiospermae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aphididae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aphidoidea"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arthropoda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Coccinellidae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Coleoptera"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gramineae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Homoptera"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Insecta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Invertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Monocotyledones"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Spermatophyta"
+        },
+        "002A14B03C1: Protozoa. Invertebrata / Protozoa. Invertebrata",
+        "002A34I02: Signalements, symptômes, dégâts, importance économique, surveillance des populations / Records, symptoms, damages, economic importance, population surveys"
+    ],
+    "dc:rights": [
+        "Institut National de la Recherche Agronomique (INRA)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6879528"
+}

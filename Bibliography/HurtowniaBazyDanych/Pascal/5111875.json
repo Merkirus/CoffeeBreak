@@ -1,0 +1,237 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Are the octopus pots used by the mauritanian small-scale fishery dangerous for the resource?",
+    "dc:creator": [
+        "JOUFFRE, D",
+        "INEJIH, C",
+        "CAVERIVIERE, A"
+    ],
+    "dc:contributor": [
+        "BOYLE, Peter R (Editor)",
+        "COLLINS, Martin A (Editor)",
+        "PIERCE, Graham J (Editor)",
+        "Cephalopod International Advisory Council (Funder/Sponsor)",
+        "CIAC 2000: Cephalopod International Advisory Council. Symposium and Workshops (Aberdeen 2000-07-03)"
+    ],
+    "dc:relation": [
+        "Bulletin of marine science -- Bull. mar. sci, CODEN BMRSAW, ISSN 0007-4977, Vol. 71 (2) , pp. 1081-1085",
+        "Cephalopod biomass and production (Part II). Cephalopod International Advisory Council: symposium and workshops - CIAC 2000, Aberdeen, GB, 3-7 July, 2000"
+    ],
+    "dc:date": "2002",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Allen",
+    "dc:format": [
+        "print",
+        "5 p. ; 15 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Cephalopoda"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Invertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu marin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mollusca"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conflit"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Echelle petite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Femelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Octopus vulgaris"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pêche"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pêcherie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sélectivité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Octopodidae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cephalopoda"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Invertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Marine environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mollusca"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Conflict"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Small scale"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Female"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Octopus vulgaris"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fishing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fishery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Selectivity"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cephalopoda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Invertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio marino"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mollusca"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conflicto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Escala pequeña"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hembra"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Octopus vulgaris"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pesca"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pesquería"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Selectividad"
+        },
+        "002A14D03: Exploitation et gestion des ressources biologiques naturelles (chasse, pêche, surveillance des populations exploitées, etc.) / Exploitation and management of natural biological resources (hunting, fishing and exploited populations survey, etc.)"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Afrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Océan Atlantique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mauritanie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Océan Atlantique Nord"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Africa"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Atlantic Ocean"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mauritania"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North Atlantic"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Africa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Océano Atlántico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mauritania"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Océano Atlántico Norte"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14836369"
+}

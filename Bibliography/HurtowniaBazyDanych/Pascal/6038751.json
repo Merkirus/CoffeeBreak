@@ -1,0 +1,186 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Perte osseuse et hyperparathyroïdie primitive",
+    "dc:creator": [
+        "VINCENEUX, P",
+        "POUCHOT, J"
+    ],
+    "dc:contributor": [
+        "ALNOT, J.-Y",
+        "AMOUROUX, J",
+        "BOURGEOIS, P",
+        "BOURNERIAS, I",
+        "BOYER, T",
+        "BUCKI, B",
+        "CAROIT, M",
+        "CAZALIS, P",
+        "CHAOUAT, D",
+        "CYWINER-GOLENZER, C",
+        "DELAUCHE-CAVALLIER, M.-C",
+        "DREYFUS, P",
+        "D'ANGLEJAN, G",
+        "DRYLL, A",
+        "FERNET, M",
+        "GARDES, P",
+        "GAUDOUEN, C",
+        "DE GENNES, C",
+        "GLIMET, T",
+        "GOUTALLIER, D",
+        "GUERIN, C",
+        "HAETTICH, B",
+        "HUBAULT, A",
+        "DE BANDT, M",
+        "HUBER-LEVERNIEUX, C",
+        "KAHN, M.-F",
+        "KAPLAN, G",
+        "KENESI, C",
+        "KOEGER, A.-C",
+        "KUNTZ, D",
+        "DE LADOUCETTE, A",
+        "LAREDO, J.-D",
+        "LE BAIL-DARNE, J.-L",
+        "LEMAIRE, V",
+        "BARD, H",
+        "LEQUESNE, M",
+        "LIOTE, F",
+        "LIOTE, H",
+        "MEYER, O",
+        "MIRAVET, L",
+        "NAVEAU, B",
+        "ORCEL, P",
+        "PAJUS, I",
+        "PALAZZO, E",
+        "PASQUIER, E",
+        "BARD, M",
+        "PELTIER, A.-P",
+        "PEREZ, C",
+        "PERROT, S",
+        "PERTUISET, E",
+        "PIAT, C",
+        "POUCHOT, J",
+        "RIBARD, P",
+        "ROUCOULES, J",
+        "SAMSON, M",
+        "SICRE, J",
+        "BARDIN, T",
+        "BELMATOUG, N",
+        "BERNAGEAU, J",
+        "BERNARD, J.-L"
+    ],
+    "dc:relation": "L' Actualité rhumatologique -- Actual. rhumatol, CODEN ACRHAK, ISSN 0065-1818, Vol. 28, pp. 169-179",
+    "dc:date": "1991",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "34 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Endocrinopathie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système ostéoarticulaire pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tumeur bénigne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exploration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hyperparathyroïdie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ostéopénie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Endocrinopathy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diseases of the osteoarticular system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Benign neoplasm"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Exploration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hyperparathyroidism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Osteopenia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Endocrinopatía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema osteoarticular patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tumor benigno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Exploración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hiperparatiroidismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Osteopenia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        "002B21D01: Pathologie non tumorale. Résistance tissu cible. Tumeurs bénignes / Non tumoral diseases. Target tissue resistance. Benign neoplasms"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4551884"
+}

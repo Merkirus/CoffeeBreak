@@ -1,0 +1,132 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "First-principles calculation of atomic structure and electrochemical potential of Li1+xV3O8",
+    "dc:creator": [
+        "BENEDEK, R",
+        "THACKERAY, M. M",
+        "YANG, L. H"
+    ],
+    "dc:contributor": [
+        "IRVINE, John T. S (Editor)",
+        "IMLB International Meeting on Lithium Batteries (9 ; Edinburgh 1998-07-12)"
+    ],
+    "dc:relation": [
+        "Journal of power sources -- J. power sources, CODEN JPSODZ, ISSN 0378-7753, Vol. 81-82, pp. 487-490",
+        "Proceedings of the Ninth International Meeting on Lithium Batteries"
+    ],
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Sequoia",
+    "dc:format": [
+        "print",
+        "18 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Accumulateur électrochimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Batterie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lithium Oxyde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lithium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau électrode"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété électrochimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure moléculaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vanadium Oxyde"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Secondary cell"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Battery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lithium Oxides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lithium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrode material"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrochemical properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Molecular structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vanadium Oxides"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acumulador electroquímico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Batería"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Litio Óxido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Litio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Material electrodo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad electroquímica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estructura molecular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vanadio Óxido"
+        },
+        "001D05I03E: Conversion électrochimique: piles et accumulateurs électrochimiques, piles à combustibles / Electrochemical conversion: primary and secondary batteries, fuel cells"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1960942"
+}

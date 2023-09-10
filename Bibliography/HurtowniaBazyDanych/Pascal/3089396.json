@@ -1,0 +1,80 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE GAS DISTRIBUTION IN THE CENTRAL REGION OF THE GALAXY. I: ATOMIC HYDROGEN",
+    "dc:creator": [
+        "BURTON WB",
+        "LISZT HS"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "ASTROPHYS. J.; USA; DA. 1978; VOL. 225; NO 3 PART. 1; PP. 815-842; BIBL. 41 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "GALAXIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GAZ INTERSTELLAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DISTRIBUTION SPATIALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MOUVEMENT INTERNE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NOYAU GALACTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RAIE 21 CM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MODELE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HYDROGENE ATOMIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GALAXY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTERSTELLAR GAS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SPATIAL DISTRIBUTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTERNAL MOTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GALACTIC NUCLEUS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "21CM-LINE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MODELS"
+        },
+        "001E03: Astronomie / Astronomy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7930171331"
+}

@@ -1,0 +1,68 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Electro-Magnetic Remote Sensing Defence Technology Centre (EMRS-DTC)",
+    "dc:contributor": [
+        "BAKER, C. J (Editor)",
+        "MULGREW, B (Editor)"
+    ],
+    "dc:relation": "IET radar, sonar & navigation (Print), ISSN 1751-8784, Vol. 1 (6)",
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Serial Issue"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institution of Engineering and Technology",
+    "dc:format": [
+        "print",
+        "91 p. ; dissem"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse signal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mesure sans contact"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Reconnaissance cible radar"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Télédétection radar"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Signal analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Non contact measurement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radar target recognition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radar remote sensing"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis de señal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medida sin contacto"
+        },
+        "001D04B05: Radiorepérage et radionavigation / Radiolocalization and radionavigation"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 19913749"
+}

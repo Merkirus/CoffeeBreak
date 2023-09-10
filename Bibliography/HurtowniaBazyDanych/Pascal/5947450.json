@@ -1,0 +1,208 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A letter to Cornelius",
+    "dc:creator": "HOUSTON, G. W",
+    "dc:contributor": "STEVENS, Norman D (Author of introductory parts)",
+    "dc:relation": "The Serials librarian -- Ser. libr, CODEN SELID4, ISSN 0361-526X, Vol. 26 (1) , pp. 101-106",
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Haworth Press",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bibliothéconomie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Edition électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technologie information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bibliothèque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Danger"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Document électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude générale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Journal électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prospective"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Siècle 21eme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "2059"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecrit"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lettre familière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Science fiction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Librarianship"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic publishing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information technology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Library"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Danger"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic document"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "General study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic journal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prospective"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Century 21th"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Written"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Science fiction"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biblioteconomía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Edición electrónica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tecnología información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biblioteca"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Peligro"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Documento electrónico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio general"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diario electrónico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prospectiva"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Siglo 21"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation",
+        "001A01D01: Documents primaires / Primary documents",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-E: Sources d'information spécialisée / Specialized information sources"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats Unis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estados Unidos"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2969117"
+}

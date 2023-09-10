@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>A 20-year Landsat water clarity census of Minnesota's 10,000 lakes</dc:title>
+  <dc:creator>OLMANSON, Leif G</dc:creator>
+  <dc:creator>BAUER, Marvin E</dc:creator>
+  <dc:creator>BREZONIK, Patrick L</dc:creator>
+  <dc:contributor>GOETZ, S. J (Editor)</dc:contributor>
+  <dc:contributor>GARDINER, N (Editor)</dc:contributor>
+  <dc:contributor>VIERS, J. H (Editor)</dc:contributor>
+  <dc:relation>Remote sensing of environment -- Remote sens. environ, CODEN RSEEA7, ISSN 0034-4257, Vol. 112 (11) , pp. 4086-4097</dc:relation>
+  <dc:date>2008</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Article</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>Elsevier</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>12 p. ; 1/2 p</dc:format>
+  <dc:subject xml:lang="fr">Amérique du Nord</dc:subject>
+  <dc:subject xml:lang="fr">Aire superficielle</dc:subject>
+  <dc:subject xml:lang="fr">Base de données</dc:subject>
+  <dc:subject xml:lang="fr">Echelon régional</dc:subject>
+  <dc:subject xml:lang="fr">Etat trophique</dc:subject>
+  <dc:subject xml:lang="fr">Fiabilité</dc:subject>
+  <dc:subject xml:lang="fr">Imagerie</dc:subject>
+  <dc:subject xml:lang="fr">Intervalle</dc:subject>
+  <dc:subject xml:lang="fr">LANDSAT</dc:subject>
+  <dc:subject xml:lang="fr">Lac</dc:subject>
+  <dc:subject xml:lang="fr">Mesure répétée</dc:subject>
+  <dc:subject xml:lang="fr">Moyenne</dc:subject>
+  <dc:subject xml:lang="fr">Profondeur</dc:subject>
+  <dc:subject xml:lang="fr">Précision</dc:subject>
+  <dc:subject xml:lang="fr">Qualité eau</dc:subject>
+  <dc:subject xml:lang="fr">Recensement</dc:subject>
+  <dc:subject xml:lang="fr">Thematic Mapper</dc:subject>
+  <dc:subject xml:lang="fr">Transparence</dc:subject>
+  <dc:subject xml:lang="fr">Télédétection spatiale</dc:subject>
+  <dc:subject xml:lang="fr">Utilisation terrain</dc:subject>
+  <dc:subject xml:lang="fr">Variation géographique</dc:subject>
+  <dc:subject xml:lang="fr">Clareté eau</dc:subject>
+  <dc:subject xml:lang="fr">ETM+</dc:subject>
+  <dc:subject xml:lang="fr">Ecorégion</dc:subject>
+  <dc:subject xml:lang="fr">Radiomètre Thematic Mapper Plus</dc:subject>
+  <dc:subject xml:lang="fr">Radiomètre Thematic Mapper</dc:subject>
+  <dc:subject xml:lang="fr">TM</dc:subject>
+  <dc:coverage xml:lang="fr">Etats Unis</dc:coverage>
+  <dc:coverage xml:lang="fr">Minnesota</dc:coverage>
+  <dc:subject xml:lang="en">North America</dc:subject>
+  <dc:subject xml:lang="en">Surface area</dc:subject>
+  <dc:subject xml:lang="en">data bases</dc:subject>
+  <dc:subject xml:lang="en">Regional scope</dc:subject>
+  <dc:subject xml:lang="en">Trophic status</dc:subject>
+  <dc:subject xml:lang="en">reliability</dc:subject>
+  <dc:subject xml:lang="en">imagery</dc:subject>
+  <dc:subject xml:lang="en">Interval</dc:subject>
+  <dc:subject xml:lang="en">Landsat</dc:subject>
+  <dc:subject xml:lang="en">lakes</dc:subject>
+  <dc:subject xml:lang="en">Repeated measurement</dc:subject>
+  <dc:subject xml:lang="en">Average</dc:subject>
+  <dc:subject xml:lang="en">depth</dc:subject>
+  <dc:subject xml:lang="en">accuracy</dc:subject>
+  <dc:subject xml:lang="en">water quality</dc:subject>
+  <dc:subject xml:lang="en">Census</dc:subject>
+  <dc:subject xml:lang="en">Thematic Mapper</dc:subject>
+  <dc:subject xml:lang="en">Transparency</dc:subject>
+  <dc:subject xml:lang="en">Space remote sensing</dc:subject>
+  <dc:subject xml:lang="en">land use</dc:subject>
+  <dc:subject xml:lang="en">Geographical variation</dc:subject>
+  <dc:subject xml:lang="en">Ecoregion</dc:subject>
+  <dc:subject xml:lang="en">Landsat</dc:subject>
+  <dc:subject xml:lang="en">Minnesota</dc:subject>
+  <dc:subject xml:lang="en">Regional</dc:subject>
+  <dc:subject xml:lang="en">Remote sensing</dc:subject>
+  <dc:subject xml:lang="en">Secchi depth transparency</dc:subject>
+  <dc:subject xml:lang="en">Trophic-state index</dc:subject>
+  <dc:subject xml:lang="en">Water clarity trends</dc:subject>
+  <dc:subject xml:lang="en">Water clarity</dc:subject>
+  <dc:subject xml:lang="en">Water quality</dc:subject>
+  <dc:coverage xml:lang="en">United States</dc:coverage>
+  <dc:coverage xml:lang="en">Minnesota</dc:coverage>
+  <dc:subject xml:lang="es">America del norte</dc:subject>
+  <dc:subject xml:lang="es">Area superficial</dc:subject>
+  <dc:subject xml:lang="es">Base dato</dc:subject>
+  <dc:subject xml:lang="es">Escala regional</dc:subject>
+  <dc:subject xml:lang="es">Estado trófico</dc:subject>
+  <dc:subject xml:lang="es">Fiabilidad</dc:subject>
+  <dc:subject xml:lang="es">Imaginería</dc:subject>
+  <dc:subject xml:lang="es">Intervalo</dc:subject>
+  <dc:subject xml:lang="es">Lago</dc:subject>
+  <dc:subject xml:lang="es">Medida repetida</dc:subject>
+  <dc:subject xml:lang="es">Promedio</dc:subject>
+  <dc:subject xml:lang="es">Profundidad</dc:subject>
+  <dc:subject xml:lang="es">Precisión</dc:subject>
+  <dc:subject xml:lang="es">Calidad agua</dc:subject>
+  <dc:subject xml:lang="es">Censo</dc:subject>
+  <dc:subject xml:lang="es">Transparencia</dc:subject>
+  <dc:subject xml:lang="es">Teledetección espacial</dc:subject>
+  <dc:subject xml:lang="es">Utilización terreno</dc:subject>
+  <dc:subject xml:lang="es">Variación geográfica</dc:subject>
+  <dc:coverage xml:lang="es">Estados Unidos</dc:coverage>
+  <dc:coverage xml:lang="es">Minesota</dc:coverage>
+  <dc:subject>001E01M04: Géophysique appliquée / Applied geophysics</dc:subject>
+  <dc:subject>001E01N01: Hydrologie / Hydrology</dc:subject>
+  <dc:subject>002A14A03: Télédétection, cartes de végétation / Teledetection and vegetation maps</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 20824266</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

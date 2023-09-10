@@ -1,0 +1,77 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "LOCALIZATION OF GENES FOR RIBOSOMAL RNA IN THE NUCLEI OF OXYTRICHIA FALLAX",
+    "dc:creator": [
+        "PLUTA AF",
+        "SPEAR BB"
+    ],
+    "dc:date": "1981",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "EXP. CELL RES.; ISSN 0014-4827; USA; DA. 1981; VOL. 135; NO 2; PP. 387-392; BIBL. 28 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CILIATA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NOYAU CELLULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DNA RIBOSOMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SYNTHESE DNA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARTE GENETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORGANISATION GENOME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROTOZOA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OXYTRICHIA FALLAX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENETIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANNOYANCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RIBOSOMAL DNA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENETIC MAPPING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENETICS"
+        },
+        "002A31C02: Techniques génétiques / Genetic technics",
+        "002A32: Agronomie. Sciences du sol et productions vegetales / Agronomy. Soil science and plant productions"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALZOOLINEINRA82X0112569"
+}

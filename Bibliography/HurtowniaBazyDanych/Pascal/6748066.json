@@ -1,0 +1,191 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Impurity production monitoring during RF experiments in Tore Supra",
+    "dc:creator": [
+        "MEYER, O",
+        "MONIER-GARBET, P",
+        "DEVYNCK, P",
+        "EKEDAHL, A",
+        "ODDON, P",
+        "PEGOURIE, B",
+        "VARTANIAN, S"
+    ],
+    "dc:contributor": [
+        "LOARTE, Alberto (Editor)",
+        "International Conference on Plasm-Surface Interactions in Controlled Fusion Devices (18 ; Toledo, Castilla-La Mancha 2008-05-26)"
+    ],
+    "dc:relation": [
+        "Journal of nuclear materials -- J. nucl. mater, CODEN JNUMAM, ISSN 0022-3115, Vol. 390-91, pp. 1013-1016",
+        "Plasma-Surface Interactions 18"
+    ],
+    "dc:date": "2009",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "4 p. ; 7 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Base de données"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Densité plasma"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fer"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Haute résolution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Impureté"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plasma"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Radiofréquence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réacteur fusion nucléaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réacteur nucléaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Temps réel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tokamak"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dispositif Tore Supra"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Data analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Database"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plasma density"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Iron"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High resolution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Impurity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plasma"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiofrequency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nuclear fusion reactor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nuclear reactor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Real time"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tokamak"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis datos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Base dato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Densidad plasma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hierro"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alta resolucion"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Impureza"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Plasma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radiofrecuencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reactor fusión nuclear"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reactor nuclear"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tiempo real"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tokamak"
+        },
+        "001D06: Energie / Energy",
+        "001D06B04: Combustibles nucléaires / Nuclear fuels",
+        "001D06D04D: Centrales nucléaires à fission / Fission nuclear power plants",
+        "001D06D04E: Centrales nucléaires à fusion / Controled nuclear fusion plants"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 21799536"
+}

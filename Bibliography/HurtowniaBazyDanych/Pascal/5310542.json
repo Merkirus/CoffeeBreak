@@ -1,0 +1,147 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Energy flow during disruptions in JET",
+    "dc:creator": [
+        "PALEY, J. I",
+        "ANDREW, P",
+        "COWLEY, S. C",
+        "FUNDAMENSKI, W",
+        "HUBER, A"
+    ],
+    "dc:contributor": [
+        "LIPSCHULTZ, Bruce (Editor)",
+        "HAASZ, Anthony A (Editor)",
+        "LABOMBARD, Brian (Editor)",
+        "STANGEBY, Peter C (Editor)",
+        "TERRY, James L (Editor)",
+        "ULRICKSON, Michael A (Editor)",
+        "Massachusetts Institute of Technology ; Plasma Science & Fusion Center (Funder/Sponsor)",
+        "PSI 2004 International Conference on Plasma Surface Interactions in Controlled Fusion Devices (16 ; Portland, Maine 2004-05-24)"
+    ],
+    "dc:relation": [
+        "Journal of nuclear materials -- J. nucl. mater, CODEN JNUMAM, ISSN 0022-3115, Vol. 337-39, pp. 702-706",
+        "Plasma-surface interactions 16"
+    ],
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "5 p. ; 15 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bilan énergétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Disruption"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecorceur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecoulement permanent"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interaction solide plasma"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plasma"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réacteur fusion nucléaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réacteur nucléaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dispositif JET"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Energy balance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Disruption"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Divertor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Steady flow"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface plasma interaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plasma"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nuclear fusion reactor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nuclear reactor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Balance energético"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Disrupción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Descortezador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Flujo permanente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interacción sólido plasma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Plasma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reactor fusión nuclear"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reactor nuclear"
+        },
+        "001D06: Energie / Energy",
+        "001D06B04: Combustibles nucléaires / Nuclear fuels",
+        "001D06D04D: Centrales nucléaires à fission / Fission nuclear power plants",
+        "001D06D04E: Centrales nucléaires à fusion / Controled nuclear fusion plants"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16617757"
+}

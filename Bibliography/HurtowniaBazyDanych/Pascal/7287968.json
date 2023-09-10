@@ -1,0 +1,149 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Optical diffusion of focused beam wave pulses in discrete random media",
+    "dc:creator": [
+        "KIM, Arnold D",
+        "ISHIMARU, Akira"
+    ],
+    "dc:contributor": [
+        "Duncan, Donald D (Editor)",
+        "Hollinger, Jeffrey O (Editor)",
+        "Jacques, Steven L (Editor)",
+        "Laser-tissue interaction. Conference (11 ; San Jose CA 2000-01-22)"
+    ],
+    "dc:relation": [
+        "SPIE proceedings series -- SPIE proc. ser, pp. 423-434",
+        "Laser-tissue interaction XI : photochemical, photothermal, and photomechanical (San Jose CA, 22-27 January 2000)"
+    ],
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "22 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Distribution énergie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etalement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude théorique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Faisceau optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Focalisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fonction Wigner"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Impulsion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu aléatoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu diffusant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propagation onde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété optique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Energy distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spreading"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Theoretical study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical beam"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Focusing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wigner function"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Linear momentum"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Random medium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Scattering medium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wave propagation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical properties"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Distribución energía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Escalonamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Haz óptico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Función Wigner"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio aleatorio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio difusor"
+        },
+        "001B40B25F: Diffraction et diffusion / Diffraction and scattering"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 782476"
+}

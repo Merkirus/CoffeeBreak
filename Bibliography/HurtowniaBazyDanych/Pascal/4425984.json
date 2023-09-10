@@ -1,0 +1,213 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "REACTIONS DE CONDENSATION DE L'ALDEHYDE SALICYLIQUE AVEC QUELQUES MOLECULES ORGANIQUES CONTENANT DES AMIDES (AMINES) SUR MATRICES DE CUII, NIII ET OXOVANADIUMIV",
+    "dc:creator": [
+        "SAMUS NM",
+        "REDA GAD EHBU EHL MAGD",
+        "BODYU VG"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "Z. NEORG. HIM.; ISSN 0044-457X; SUN; DA. 1980; VOL. 25; NO 7; PP. 1862-1867; BIBL. 11 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "COORDINAT ORGANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METAL DIVALENT COMPLEXE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METAL TRANSITION COMPLEXE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METAL TETRAVALENT COMPLEXE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPLEXE OXO"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REACTION CONDENSATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTRE IR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PARAMETRE CRISTALLIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REACTION CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALPHA -AMINOACIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE ALIPHATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE SATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CUIVRE II COMPLEXE!FIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NICKEL II COMPLEXE!FIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VANADIUM IV COMPLEXE!FIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STRUCTURE MOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE IR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETAT SOLIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METAL TRANSITION COMPOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPLEXE METALLIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPLEXE AMMINO"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COORDINAT AMINOACIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COORDINAT UREES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SALICYLALDEHYDE!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "UREE!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "THIOUREE!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GLYCINE!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACETAMIDE!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE MINERAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "UREE(BIS-SALICYLIDENE)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "THIOUREE(BIS-SALICYLIDENE)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACETAMIDE(N-SALICYLIDENE)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GLYCINE(N-SALICYLIDENE)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE MINERALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORGANIC LIGAND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OXO COMPLEX"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFRARED SPECTRA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LATTICE PARAMETERS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL REACTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ALIPHATIC COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SATURATED COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOLECULAR STRUCTURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFRARED SPECTROMETRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFRARED SPECTROSCOPY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID STATE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AMMINO COMPLEX"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INORGANIC COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INORGANIC CHEMISTRY"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8060459282"
+}

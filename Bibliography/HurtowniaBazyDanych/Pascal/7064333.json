@@ -1,0 +1,202 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Rehabilitation at Hondarribia Castle, Hondarribia, Guipuzcoa",
+    "dc:creator": "ABASOLO, A",
+    "dc:contributor": [
+        "Sánchez-Beitia, S (Editor)",
+        "Brebbia, C.A (Editor)",
+        "International conference on structural studies, repairs and maintenance of historical buildings (5 ; San Sebastian 1997-06)"
+    ],
+    "dc:relation": [
+        "Advances in architectures series, ISSN 1368-1435, pp. 549-558",
+        "STREMAH V : structural studies, repairs and maintenance of historical buildings (San Sebastian, June 1997)"
+    ],
+    "dc:date": "1997",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Computational Mechanics Publications",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse dommage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bâtiment ancien"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Château"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Congrès international"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Consolidation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude théorique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Historique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Inspection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie construction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recommandation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Renforcement mécanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réhabilitation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Failure analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Old building"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Castle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "International conference"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Consolidation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Theoretical study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Case history"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inspection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Building pathology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Recommendation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Strengthening"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rehabilitation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis avería"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Edificio anciano"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Castillo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Congreso internacional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Consolidación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio teórico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Histórica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inspección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Patología construcción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Recomendación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Refuerzo mecánico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rehabilitación"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works",
+        "001D14E03: Réparation (renforcement, consolidation) / Repair (reinforcement, strenthening)",
+        "001D14I03: Amélioration de l'habitat. Restauration / Housing improvement. Restoration"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Espagne"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spain"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "España"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2286935"
+}

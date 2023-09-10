@@ -1,0 +1,53 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "UEBER DIE EINSCHICHTIGE NAHT DER UTERUSWUNDE BEI SCHNITTENTBINDUNG AUF GRUND VON KLINISCHEN UND TIEREXPERIMENTELLEN ERFAHRUNGEN; SUTURE EN UN PLAN DE LA TRANCHE DE SECTION UTERINE AU COURS D'UNE CESARIENNE, D'APRES LES RESULTATS D'EXPERIMENTATION ANIMALE ET CLINIQUE",
+    "dc:creator": [
+        "CSUCS L",
+        "KOETT I",
+        "SOLT I"
+    ],
+    "dc:date": "1972",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "ZBL. GYNAEKOL.; DTSCH.; DA. 1972; VOL. 94; NO 34; PP. 1121-1126; BIBL. 22REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CESARIENNE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TECHNIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPLICATION TRAITEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RESULTAT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE STATISTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PATHOLOGIE EXP"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REPRODUCTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REPRODUCTION"
+        },
+        "002A29: Vertebres: reproduction / Vertebrates: reproduction"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7336103510"
+}

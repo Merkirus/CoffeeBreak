@@ -1,0 +1,85 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "An iterative algorithm for designing diffractive optical elements with regularization",
+    "dc:creator": [
+        "KOTLYAR, V. V",
+        "SERAPHIMOVICH, P. G",
+        "SOIFER, V. A"
+    ],
+    "dc:contributor": "SOIFER, V. A (Editor)",
+    "dc:relation": "Optics and lasers in engineering -- Opt. lasers eng, CODEN OLENDN, ISSN 0143-8166, Vol. 29 (4-5) , pp. 261-268",
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "Russian",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "16 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Algorithme adaptatif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conception"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Elément optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude théorique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode itérative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optique diffractive"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adaptive algorithm"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical elements"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Theoretical study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Iterative methods"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diffractive optics"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Algoritmo adaptativo"
+        },
+        "001B00G05F: Conception d'expériences / Design of experiments",
+        "001B40B79D: Réseaux / Gratings",
+        "0705F:  / Design of experiments",
+        "4279D:  / Gratings"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2340096"
+}

@@ -1,0 +1,185 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "UV-vis spectroelectrochemical and QCM studies of regioregular oligoalkylthiophene films",
+    "dc:creator": [
+        "LAPKOWSKI, M",
+        "ZAK, J",
+        "KOLODZIEJ-SADLOK, M",
+        "GUILLEREZ, S",
+        "BIDAN, G"
+    ],
+    "dc:contributor": [
+        "WU, C. Q (Editor)",
+        "CAO, Y (Editor)",
+        "SUN, X (Editor)",
+        "ZHU, D. B (Editor)",
+        "ICSM 2002 International Conference on Science and Technology of Synthetic Metals (Shanghai 2002-06-29)"
+    ],
+    "dc:relation": [
+        "Synthetic metals -- Synth. met, CODEN SYMEDZ, ISSN 0379-6779, Vol. 135-36, pp. 251-252",
+        "Proceedings of the International Conference on Science and Technology of Synthetic Metals, ICSM 2002, Shanghai, China, June 29-July 5, 2002. Part I"
+    ],
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Elsevier Science",
+        "Elsevier Science",
+        "Elsevier Science"
+    ],
+    "dc:format": [
+        "print",
+        "2 p. ; 4 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Oligomère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polymère conducteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polymère tête à queue"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Potentiel oxydoréduction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété électrochimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Relation masse moléculaire propriété"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réaction électrochimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thiophène dérivé polymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transfert matière avec réaction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thiophène(3-octyl) polymère"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oligomer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Conducting polymers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Head to tail polymer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Redox potential"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrochemical properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Molecular weight property relation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrochemical reaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thiophene derivative polymer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mass transfer with reaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "oligothiophenes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "regioregular oligomers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "solid state electrochemistry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "spectroelectrochemistry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "thin films"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Oligómero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polímero cabeza a cola"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Potencial redox"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad electroquímica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Relación masa molecular propiedad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reacción electroquímica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tiofeno derivado polímero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transferencia materia con reacción"
+        },
+        "001D09D04D: Propriétés électriques, magnétiques et optiques / Electrical, magnetic and optical properties"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14769042"
+}

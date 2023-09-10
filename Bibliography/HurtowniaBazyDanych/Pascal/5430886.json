@@ -1,0 +1,127 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Automatic generation of pen-and-ink drawings from photos",
+    "dc:creator": [
+        "JIATAO SONG",
+        "ZHERU CHI",
+        "JILIN LIU",
+        "HONG FU"
+    ],
+    "dc:contributor": "International Conference on Image Processing (Singapore 2004-10-24)",
+    "dc:relation": "2004 International Conference on Image Processing (ICIP 2004) -- 0ICIP 2004",
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "IEEE",
+    "dc:format": [
+        "print",
+        "Vol2, 1181-1184 ; 12 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse multirésolution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Détection contour"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Encre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Génération automatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Numérisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Texture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement image"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transformation ondelette"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multiresolution analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Edge detection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ink"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Automatic generation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Digitizing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Texture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Image processing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wavelet transformation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis multiresolución"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Detección contorno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tinta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Generación automatica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Numerización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Textura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Procesamiento imagen"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transformación ondita"
+        },
+        "001D02C03: Reconnaissance des formes. Traitement numérique des images. Géométrie algorithmique / Pattern recognition. Digital image processing. Computational geometry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17611645"
+}

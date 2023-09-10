@@ -1,0 +1,53 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "CONTRIBUTION A L'ETUDE DES FONCTIONS DENSITE DE NEUTRON ET DU MODELE OPTIQUE A TRES BASSE ENERGIE",
+    "dc:creator": "DELAROCHE JP",
+    "dc:date": "1972",
+    "dc:type": "Thesis",
+    "dc:language": "French",
+    "dc:format": "; S.L.; DA. 1972; PP. 1-98; BIBL. DISSEM.; (THESE DOCT. 3EME CYCLE, SPEC. PHYS. NUCL., OPTION PHYS. REACT.; PARIS-SUD)",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "NEUTRON INCIDENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REACTION NUCLEAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETAIN ISOTOPE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TELLURE ISOTOPE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "XENON ISOTOPE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FONCTION DENSITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HAMILTONIEN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE ORDRE 100 A 1000 KEV"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "E <OU= 1 MEV"
+        },
+        "001D16: Pollution / Pollution"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7315011347"
+}

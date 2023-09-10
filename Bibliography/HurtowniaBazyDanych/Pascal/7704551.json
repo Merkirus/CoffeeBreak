@@ -1,0 +1,115 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "El yacimiento de La Bérbola (Lugo de Llanera, Asturias). Una nueva estación del Paleolítico Inferior en Asturias; La Bérbola site (Lugo de Llanera, Asturias). A new Lower Palaeolithic site in Asturias",
+    "dc:creator": "ALVAREZ ALONSO, David",
+    "dc:relation": "Munibe. Antropologia-arkeologia -- Munibe. Antropol.-arkeol, ISSN 1132-2217 (58) , pp. 3-12",
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "Spanish, Castilian",
+    "dc:publisher": "Sociedad de Ciencias Aranzadi",
+    "dc:format": [
+        "print",
+        "10 p. ; 1 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Industrie lithique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Site archéologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Asturies"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "La Bérbola"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lugo de Llanera"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lithic industry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Archaeological site"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Acheulean"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cantabrian region"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Early Palaeolithic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lower Palaeolithic"
+        },
+        "525-: Prehistoire et protohistoire / Prehistory and protohistory",
+        "525-12: Méthodologie et études générales / Methodology and general studies",
+        "525-36: Industrie lithique / Lithic industry",
+        "525-46: Europe / Europe",
+        "525-88: Paléolithique inférieur et moyen / Lower and Middle palaeolithic"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Espagne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Acheuléen"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Paléolithique inférieur"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Acheulian"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lower Palaeolithic"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 21541045"
+}

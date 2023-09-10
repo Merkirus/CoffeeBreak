@@ -1,0 +1,58 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Phase shift of spin waves traveling through a 180° bloch-domain wall",
+    "dc:creator": [
+        "BAYER, Christian",
+        "SCHULTHEISS, Helmut",
+        "HILLEBRANDS, Burkard",
+        "STAMPS, Robert L"
+    ],
+    "dc:contributor": [
+        "IEEE Magnetics Society (Funder/Sponsor)",
+        "Magnetic Society of Japan (Funder/Sponsor)",
+        "International Magnetics Conference (Nagoya 2005-04-04)"
+    ],
+    "dc:relation": [
+        "IEEE transactions on magnetics -- IEEE trans. magn, CODEN IEMGAQ, ISSN 0018-9464, Vol. 41 (10) , pp. 3094-3096",
+        "Selected papers from the international magnetics conference (Intermag 2005), Nagoya, Japan, April 4-8, 2005"
+    ],
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institute of Electrical and Electronics Engineers",
+    "dc:format": [
+        "print",
+        "3 p. ; 5 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété magnétique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetic properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Domain wall"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "phase shift"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "spin wave"
+        },
+        "001B80A90: Divers / Other topics in materials science"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17230983"
+}

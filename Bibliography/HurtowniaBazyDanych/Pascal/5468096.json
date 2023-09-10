@@ -1,0 +1,317 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Factors associated with buying and selling syringes among injection drug users in a setting of one of north America's largest syringe exchange programs",
+    "dc:creator": [
+        "KUYPER, Laura M",
+        "KERR, Thomas",
+        "LI, Kathy",
+        "HOGG, Robert S",
+        "TYNDALL, Mark W",
+        "MONTANER, Julio S. G",
+        "WOOD, Evan"
+    ],
+    "dc:contributor": "STOPKA, Thomas (Editor)",
+    "dc:relation": "Substance use & misuse -- Subst. use misuse, CODEN SUMIFL, ISSN 1082-6084, Vol. 41 (6-7) , pp. 883-899",
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Taylor and Francis",
+    "dc:format": [
+        "print",
+        "17 p. ; 2 p.1/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunodéficit"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunopathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lentivirus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Retroviridae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Virose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Addiction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Association"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Echange"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Programme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Psychiatrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Psychologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SIDA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Seringue"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Toxicomanie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Virus immunodéficience humaine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Voie intraveineuse"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immune deficiency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immunopathology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lentivirus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Retroviridae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Viral disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Addiction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Association"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Exchange"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Program"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Psychiatry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Psychology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AIDS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Syringe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Drug addiction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human immunodeficiency virus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Intravenous administration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AIDS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HIV"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IDU"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "secondary syringe exchange"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "syringe buying"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "syringe selling"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunodeficiencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunopatología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Infección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lentivirus"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Retroviridae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Virosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adicción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asociación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cambio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Programa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Psiquiatría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Psicología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "SIDA"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Seringa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Toxicomanía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Human immunodeficiency virus"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vía intravenosa"
+        },
+        "002A27: Psychanalyse / Psychoanalysis",
+        "002B03: Toxicologie / Toxicology",
+        "002B18C05A: Toxicomanie / Drug addiction",
+        "770-: Psychologie. Psychanalyse. Psychiatrie / Psychology. Psychoanalysis. Psychiatry",
+        "770-C: PSYCHANALYSE / Psychoanalysis",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17882323"
+}

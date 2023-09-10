@@ -1,0 +1,54 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "MODELE STATISTIQUE DE SYSTEME RECIPROQUE DE SELS FONDUS. I. TRAITEMENT GENERAL D'UN SYSTEME (A,A'//B,B')",
+    "dc:creator": [
+        "GAUNE ESCARD M",
+        "MATHIEU JC",
+        "DESRE P",
+        "DOUCET Y"
+    ],
+    "dc:date": "1973",
+    "dc:type": "Serial Issue",
+    "dc:language": "French",
+    "dc:format": "J. CHIM. PHYS. PHYS.-CHIM. BIOL.; FR.; DA. 1973; VOL. 70; NO 6; PP. 1003-1012; ABS. ANGL.; BIBL. 10 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MELANGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MODELE MATHEMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPRIETE THERMODYNAMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHASE FONDUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE PHYSIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE GENERALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHYSICAL CHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENERAL CHEMISTRY"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7317035804"
+}

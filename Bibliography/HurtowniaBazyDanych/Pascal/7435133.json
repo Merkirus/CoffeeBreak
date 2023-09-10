@@ -1,0 +1,116 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Environnements sédimentaires et minéralogie des formations superficielles de la Plaine de la Ruzizi (Nord du lac Tanganyika)",
+    "dc:creator": "ILUNGA, L",
+    "dc:relation": "Geo-eco-trop, ISSN 1370-6071, Vol. 31, pp. 71-104",
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "34 p. ; 35 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Carte géomorphologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cône de déjection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Formation superficielle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Minéralogie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Paléo-environnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plaine côtière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plaine d'inondation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plaine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stratigraphie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sédimentation lacustre"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Geomorphological map"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Alluvial cone"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface deposits"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mineralogy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Palaeo-environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Coastal plain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Floodplain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stratigraphy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lacustrine sedimentation"
+        },
+        "531-: Bgi / Prodig / Bgi / Prodig",
+        "531-368: Afrique / Africa",
+        "531-417: Congo(ex-Zaïre) / Congo(former-Zaire)"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Congo RD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Congo DR"
+        }
+    ],
+    "dc:rights": [
+        "Bibliographie Géographique Internationale - Pôle de Recherche pour l'Organisation et la Diffusion de l'Information Géographique (PRODIG)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 21560913"
+}

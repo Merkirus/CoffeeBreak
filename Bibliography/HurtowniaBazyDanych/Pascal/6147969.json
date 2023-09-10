@@ -1,0 +1,130 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Assessment of energy impact of ventilation and infiltration on the french regulations for residential buildings; Evaluation des effets énergétiques de la ventilation et des infiltrations d'air sur la réglementation française pour les bâtiments d'habitation",
+    "dc:creator": [
+        "RIBERON, J",
+        "MILLET, J. R",
+        "VILLENAVE, J. G"
+    ],
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Report"
+    ],
+    "dc:identifier": [
+        "REPORTNUMBER CSTB - R55/93L",
+        "Inist-CNRS record number 6378459"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "CSTB",
+    "dc:format": [
+        "print",
+        "9 p. ; 8 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bâtiment habitation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fuite air"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Perte chaleur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réglementation construction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ventilation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dwelling building"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Air leak"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heat loss"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Building law"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ventilation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Edificio habitación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Escape aire"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pérdida calor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reglamentación construcción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ventilación"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works",
+        "001D14I02B3: Ventilation. Conditionnement d'air / Ventilation. Air conditioning"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francia"
+        }
+    ],
+    "dc:rights": [
+        "Centre Scientifique et Technique du Bâtiment (CSTB)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Evangelium vitae, St. Thomas Aquinas, and the death penalty",
+    "dc:creator": "LONG, S. A",
+    "dc:relation": "The Thomist -- Thomist, ISSN 0040-6325, Vol. 63 (4) , pp. 511-552",
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Thomist Press",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bien commun"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Catholicisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Culture profane"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Encyclique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enseignement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Peine de mort"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thomas d'Aquin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evangelium vitae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réductionisme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Common good"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Catholicism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Profane culture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Encyclical"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Teaching"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Death Penalty"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thomas Aquinas"
+        },
+        "527-: Histoire et sciences des religions / History and sciences of religions",
+        "527-865: Christianisme / Christianity",
+        "527-1328: Etudes littéraires. Textes. Editions / Literary studies. Texts. Editions"
+    ],
+    "dc:coverage": {
+        "@xml:lang": "fr",
+        "#text": "Siècle 20"
+    },
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1560313"
+}

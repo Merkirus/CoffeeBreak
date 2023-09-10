@@ -1,0 +1,319 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Prolonged rat cardiac allograft survival using adenoviral vector containing the CTLA4Ig gene",
+    "dc:creator": [
+        "KITA, Y",
+        "LI, X.-K",
+        "HAYASHI, S",
+        "FUNESHIMA, N",
+        "ENOSAWA, S",
+        "TAMURA, A",
+        "SUZUKI, K",
+        "KAZUI, T",
+        "AMEMIYA, H",
+        "SUZUKI, S"
+    ],
+    "dc:contributor": [
+        "BUSUTTIL, Ronald W (Editor)",
+        "NEUHAUS, Peter (Editor)",
+        "Physicians World Communications Group. Professional Postgraduate Services® (Funder/Sponsor)",
+        "The International Congress on Immunosuppression (Orlando, Florida 1997-12-11)"
+    ],
+    "dc:relation": [
+        "Transplantation proceedings -- Transplant. proc, CODEN TRPPA8, ISSN 0041-1345, Vol. 30 (4) , pp. 1079-1080",
+        "The International Congress on Immunosuppression"
+    ],
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "5 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Chirurgie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transplantation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Adenoviridae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Coeur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gène hybride"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homotransplantation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunité cellulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunomodulation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Inhibition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lymphocyte T"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Protéine fusion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Survie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thérapie génique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transfert génétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vecteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Antigène CD4"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gène CTLA4Ig"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surgery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transplantation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adenoviridae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heart"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hybrid gene"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Homotransplantation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cellular immunity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immunomodulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inhibition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "T-Lymphocyte"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fusion protein"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rat"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Survival"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gene therapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Genetic transfer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vector"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cirugía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trasplantación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adenoviridae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Corazón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gen híbrido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Homotrasplante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunidad celular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunomodulación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inhibición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Linfocito T"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Proteína fusionada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sobrevivencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Terapia génica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transferencia genética"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vector"
+        },
+        "002A06F: Immunologie de tissu, d'organe, des greffes / Tissue, organ and graft immunology",
+        "002A31: Biotechnologie / Biotechnology",
+        "002A31D01D: Thérapie génique / Gene therapy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2335205"
+}

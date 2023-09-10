@@ -1,0 +1,251 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Strug landslide in W Slovenia : A complex multi-process phenomenon",
+    "dc:creator": [
+        "MIKOS, Matjaz",
+        "BRILLY, Mitja",
+        "FAZARINC, Rok",
+        "RIBICIC, Mihael"
+    ],
+    "dc:contributor": [
+        "CROSTA, Giovannni B (Editor)",
+        "CLAGUE, John J (Editor)",
+        "European Geophysical Union (Organiser of meeting)",
+        "European Geophysical Union Conference (Nice 2004-04)"
+    ],
+    "dc:relation": [
+        "Engineering geology -- Eng. geol, CODEN EGGOAO, ISSN 0013-7952, Vol. 83 (1-3) , pp. 22-35",
+        "Large landslides: dating, triggering, modellling, and hazard assessment"
+    ],
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "14 p. ; 25 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Chute"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Congrès international"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Débris"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude cas"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Flysch"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Glissement terrain"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Géologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Instabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mécanique roche"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résultat mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Taux précipitation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fall"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "International conference"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Debris"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Case study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Flysch"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Landslide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Geology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Instability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rock mechanics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measurement result"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rainfall rate"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Debris flow"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Flysch"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Kosec"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Landslide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mitigation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rainfall"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rock fall"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rockslide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Scaglia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Slovenia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Caida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Congreso internacional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pedazos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio caso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Flysch(geología)"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desmoronamiento tierra"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Geología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inestabilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mecánica roca"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resultado medición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Indice pluviosidad"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works",
+        "001D14F02: Mécanique des sols. Mécanique des roches / Soil mechanics. Rocks mechanics",
+        "001E01O02: Risques naturels: prévisions, dommages, etc / Natural hazards: prediction, damages, etc"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Alpes"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Slovénie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Alps"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Slovenia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alpes"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Eslovenia"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17583863"
+}

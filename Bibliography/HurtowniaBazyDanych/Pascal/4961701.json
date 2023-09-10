@@ -1,0 +1,210 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Evaluation of fatigue criteria for asphalt binders. Discussion",
+    "dc:creator": [
+        "ANDERSON, David A",
+        "LE HIR, Yann M",
+        "MARASTEANU, Mihai O",
+        "PLANCHE, Jean-Pascal",
+        "MARTIN, Didier",
+        "GAUTHIER, Gilles"
+    ],
+    "dc:contributor": [
+        "SHENOY, Aroon (Commentator)",
+        "National Research Council ; Transportation Research Board (Funder/Sponsor)",
+        "Annual Meeting of the Transportation Research Board (80 ; Washington, DC 2001-01-07)"
+    ],
+    "dc:relation": [
+        "Transportation research record -- Transp. res. rec, CODEN TRREDM, ISSN 0361-1981 (1766) , pp. 48-56",
+        "Asphalt Binders 2001"
+    ],
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "National Research Council",
+    "dc:format": [
+        "print",
+        "19 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse mécanisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Asphalte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Charge répétée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Congrès international"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Critère fatigue"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Durée vie fatigue"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Déformation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet température"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai cisaillement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fissure fatigue"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Liant hydrocarboné"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau construction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rhéomètre"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mechanism analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asphalt"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Repeated charge"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "International conference"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fatigue criterion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fatigue life"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Deformation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Temperature effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Shear test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Evaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fatigue crack"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bituminous binder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Construction materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rheometer"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis mecánismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asfalto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carga repetida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Congreso internacional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Criterio fatiga"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Longevidad fatiga"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Deformación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efecto temperatura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo cortante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evaluación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fisura fatiga"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aglomerante hidrocarbonado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Material construcción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reometro"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works",
+        "001D14C01: Résistance des matériaux (élasticité, plasticité, flambage, etc.) / Strength of materials (elasticity, plasticity, buckling, etc.)",
+        "001D14G03: Bitumes. Goudrons. Liants et bétons hydrocarbonés / Bitumen. Tars. Bituminous binders and bituminous concretes"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 13619055"
+}

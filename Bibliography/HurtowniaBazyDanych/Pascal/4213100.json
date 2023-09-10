@@ -1,0 +1,87 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ETUDES EXPERIMENTALES, ET MODELE MATHEMATIQUE DU PROCESSUS DE CONDENSATION DE VAPEURS H2SO4 DANS UN TUBE REFROIDI",
+    "dc:creator": [
+        "AMELIN AG",
+        "YASHKE EV",
+        "MIKHAJLOV GV",
+        "KARPOVA RP",
+        "KHACHATUROVA TAVRIZYAN VM"
+    ],
+    "dc:date": "1983",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "KOLLOIDNYJ ZURNAL; ISSN 501549; SUN; DA. 1983; VOL. 45; NO 4; PP. 740-743; ABS. ENG; BIBL. 9 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "SULFURIQUE ACIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TUBE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REFROIDISSEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONDENSATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHASE VAPEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MODELE MATHEMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OPTIMISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUSTRIE CHIMIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SULFURIC ACID"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TUBE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COOLING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONDENSATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VAPOR PHASE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MATHEMATICAL MODEL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPTIMIZATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL INDUSTRY"
+        },
+        "001D07: Genie chimique / Chemical engineering"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0406973"
+}

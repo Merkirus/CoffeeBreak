@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "New Omics Information for Clinical Trial Utility in the Primary Setting",
+    "dc:creator": [
+        "DAMIA, Giovanna",
+        "BROGGINI, Massimo",
+        "MARSONI, Silvia",
+        "VENTURINI, Sergio",
+        "GENERALI, Daniele"
+    ],
+    "dc:contributor": [
+        "BOTTINI, Alberto (Editor)",
+        "BERRUTI, Alfredo (Editor)",
+        "GENERALI, Daniele (Editor)",
+        "DOGLIOTTI, Luigi (Editor)",
+        "International Consensus Conference: Primary Systemic Treatment in the Management of Operable Breast Cancer: Toward the Rapid Assessment of Therapy Efficacy (4 ; Cremona 2010-09-26)"
+    ],
+    "dc:relation": [
+        "Journal of the National Cancer Institute. Monographs -- J. Natl. Cancer Inst., Monogr, ISSN 1052-6773, Vol. 43, pp. 128-133",
+        "4th International Consensus Conference: Primary Systemic Treatment in the Management of Operable Breast Cancer: Toward the Rapid Assessment of Therapy Efficacy"
+    ],
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Oxford University Press",
+    "dc:format": [
+        "print",
+        "6 p. ; 38 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Cancérologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai clinique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Primaire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cancerology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Clinical trial"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Primary"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cancerología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo clínico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Primario"
+        },
+        "002B04: Tumeurs / Tumors"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 24765926"
+}

@@ -1,0 +1,184 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Polarization measurements in a UWB multipath channel",
+    "dc:creator": [
+        "SANGHYUN CHANG",
+        "SCHOLTZ, Robert A"
+    ],
+    "dc:contributor": [
+        "Institute of Electrical and Electronics Engineers (Organiser of meeting)",
+        "IEEE Communications Society (Organiser of meeting)",
+        "MILCOM 2004 (23 ; MontereyCA 2004-10-31)"
+    ],
+    "dc:relation": "MILCOM 2004 (2004 IEEE Military Communications Conference, 31 October - 03 November 2004, Monterey, CA) -- 0Military Communications Conference",
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "IEEE",
+    "dc:format": [
+        "print",
+        "Vol1, 192-196 ; 10 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Algorithme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Angle arrivée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Antenne réceptrice"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Canal trajet multiple"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Canal transmission"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Estimation canal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Estimation paramètre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Estimation signal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Signal composite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Temps arrivée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement signal réseau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transmission large bande"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ultra large bande"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Algorithm"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Arrival angle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Receiving antenna"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multipath channels"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transmission channel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Channel estimation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Parameter estimation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Signal estimation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Composite signal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Arrival time"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Array signal processing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wide band transmission"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ultra wide band"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Algoritmo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Angulo llegada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antena receptriz"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Canal transmisión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estimación canal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estimación parámetro"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estimación señal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Señal compuesta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tiempo llegada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transmisión banda ancha"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Banda ultraancha"
+        },
+        "001D04A04A2: Détection, estimation, filtrage, égalisation, prédiction / Detection, estimation, filtering, equalization, prediction",
+        "001D04A05D: Divers / Miscellaneous",
+        "001D04B02G: Transmission et modulation (techniques et équipements) / Transmission and modulation (techniques and equipments)",
+        "001D04B04D: Antennes / Antennas"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17624018"
+}

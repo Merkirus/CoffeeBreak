@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Comparative study of Cu(In,Ga)Se2/CdS and Cu(In,Ga)Se2/In2S3 systems by surface photovoltage techniques</dc:title>
+  <dc:creator>DITTRICH, Th</dc:creator>
+  <dc:creator>GONZALES, A</dc:creator>
+  <dc:creator>RADA, T</dc:creator>
+  <dc:creator>RISSOM, T</dc:creator>
+  <dc:creator>ZILLNER, E</dc:creator>
+  <dc:creator>SADEWASSER, S</dc:creator>
+  <dc:creator>LUX-STEINER, M</dc:creator>
+  <dc:contributor>EDOFF, Marika (Editor)</dc:contributor>
+  <dc:contributor>ROMEO, Alessandro (Editor)</dc:contributor>
+  <dc:contributor>SCHEER, Roland (Editor)</dc:contributor>
+  <dc:contributor>SHAFARMAN, William (Editor)</dc:contributor>
+  <dc:contributor>KATAGIRI, Hirono (Editor)</dc:contributor>
+  <dc:contributor>European Materials Research Society (E-MRS) (Organiser of meeting)</dc:contributor>
+  <dc:contributor>E-MRS Spring Meeting 2012. Symposium B Thin Film Chalcogenide Photovoltaic Materials (Strasbourg 2012-05-14)</dc:contributor>
+  <dc:relation>Thin solid films -- Thin solid films, CODEN THSFAP, ISSN 0040-6090, Vol. 535, pp. 357-361</dc:relation>
+  <dc:relation>E-MRS 2012 Symposium B</dc:relation>
+  <dc:date>2013</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Conference Paper</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>Elsevier</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>5 p. ; 15 ref</dc:format>
+  <dc:subject xml:lang="fr">Cellule solaire</dc:subject>
+  <dc:subject xml:lang="fr">Chalcopyrite</dc:subject>
+  <dc:subject xml:lang="fr">Condensateur</dc:subject>
+  <dc:subject xml:lang="fr">Couche tampon</dc:subject>
+  <dc:subject xml:lang="fr">Cuivre</dc:subject>
+  <dc:subject xml:lang="fr">Etat électronique surface</dc:subject>
+  <dc:subject xml:lang="fr">Etude comparative</dc:subject>
+  <dc:subject xml:lang="fr">Gallium</dc:subject>
+  <dc:subject xml:lang="fr">Ordre désordre</dc:subject>
+  <dc:subject xml:lang="fr">Oxyde de zinc</dc:subject>
+  <dc:subject xml:lang="fr">Semiconducteur</dc:subject>
+  <dc:subject xml:lang="fr">Sonde Kelvin</dc:subject>
+  <dc:subject xml:lang="fr">Sulfure d'indium</dc:subject>
+  <dc:subject xml:lang="fr">Sulfure de cadmium</dc:subject>
+  <dc:subject xml:lang="fr">Séparation charge</dc:subject>
+  <dc:subject xml:lang="fr">Transfert électron</dc:subject>
+  <dc:subject xml:lang="fr">Transformation ordre désordre</dc:subject>
+  <dc:subject xml:lang="fr">7320A</dc:subject>
+  <dc:subject xml:lang="fr">8432T</dc:subject>
+  <dc:subject xml:lang="fr">8460J</dc:subject>
+  <dc:subject xml:lang="fr">CdS</dc:subject>
+  <dc:subject xml:lang="fr">In2S3</dc:subject>
+  <dc:subject xml:lang="fr">ZnO</dc:subject>
+  <dc:subject xml:lang="en">Solar cell</dc:subject>
+  <dc:subject xml:lang="en">Chalcopyrite</dc:subject>
+  <dc:subject xml:lang="en">Capacitor</dc:subject>
+  <dc:subject xml:lang="en">Buffer layer</dc:subject>
+  <dc:subject xml:lang="en">Copper</dc:subject>
+  <dc:subject xml:lang="en">Surface electron state</dc:subject>
+  <dc:subject xml:lang="en">Comparative study</dc:subject>
+  <dc:subject xml:lang="en">Gallium</dc:subject>
+  <dc:subject xml:lang="en">Order disorder</dc:subject>
+  <dc:subject xml:lang="en">Zinc oxide</dc:subject>
+  <dc:subject xml:lang="en">Semiconductor materials</dc:subject>
+  <dc:subject xml:lang="en">Kelvin probe</dc:subject>
+  <dc:subject xml:lang="en">Indium sulfide</dc:subject>
+  <dc:subject xml:lang="en">Cadmium sulfide</dc:subject>
+  <dc:subject xml:lang="en">Charge separation</dc:subject>
+  <dc:subject xml:lang="en">Electron transfer</dc:subject>
+  <dc:subject xml:lang="en">Order disorder transformation</dc:subject>
+  <dc:subject xml:lang="en">Chalcopyrite solar cell</dc:subject>
+  <dc:subject xml:lang="en">Hetero-junction</dc:subject>
+  <dc:subject xml:lang="en">Surface photovoltage</dc:subject>
+  <dc:subject xml:lang="es">Célula solar</dc:subject>
+  <dc:subject xml:lang="es">Calcopirita</dc:subject>
+  <dc:subject xml:lang="es">Condensador</dc:subject>
+  <dc:subject xml:lang="es">Capa tampón</dc:subject>
+  <dc:subject xml:lang="es">Cobre</dc:subject>
+  <dc:subject xml:lang="es">Estado electrónico superficie</dc:subject>
+  <dc:subject xml:lang="es">Estudio comparativo</dc:subject>
+  <dc:subject xml:lang="es">Galio</dc:subject>
+  <dc:subject xml:lang="es">Orden desorden</dc:subject>
+  <dc:subject xml:lang="es">Zinc óxido</dc:subject>
+  <dc:subject xml:lang="es">Semiconductor(material)</dc:subject>
+  <dc:subject xml:lang="es">Sonda Kelvin</dc:subject>
+  <dc:subject xml:lang="es">Indio sulfuro</dc:subject>
+  <dc:subject xml:lang="es">Cadmio sulfuro</dc:subject>
+  <dc:subject xml:lang="es">Separación carga</dc:subject>
+  <dc:subject xml:lang="es">Transferencia electrón</dc:subject>
+  <dc:subject xml:lang="es">Transformación desorden-orden</dc:subject>
+  <dc:subject>001B70C20A: Etats de surface, structure de bande, densité d'états électroniques / Surface states, band structure, electron density of states</dc:subject>
+  <dc:subject>001D03D: Appareillage électronique et fabrication. Composants passifs, circuits imprimés, connectique / Electronic equipment and fabrication. Passive components, printed wiring boards, connectics</dc:subject>
+  <dc:subject>001D06: Energie / Energy</dc:subject>
+  <dc:subject>001D06C02D1: Cellules solaires. Cellules photoélectrochimiques / Solar cells. Photoelectrochemical cells</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 27477238</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

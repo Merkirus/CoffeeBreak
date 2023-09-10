@@ -1,0 +1,73 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ENTWICKLUNG IM INDUSTRIEBRENNERBAU; DEVELOPMENT IN THE BUILDING OF INDUSTRIAL BURNERS; DEVELOPPEMENT DANS LA CONSTRUCTION DES BRULURES INDUSTRIELS",
+    "dc:creator": "NIEPENBERG HP",
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "WAERME; DEU; DA. 1980; VOL. 86; NO 3; PP. 44-45",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "BRULEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONSTRUCTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FUEL OIL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BRULEUR GAZ"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BRULEUR COMBUSTIBLE LIQUIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BRULEUR COMBUSTIBLE SOLIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BURNER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONSTRUCTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FUEL OIL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GAS BURNER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIQUID FUEL BURNER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID FUEL BURNER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY"
+        },
+        "001D06: Energie / Energy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8130076702"
+}

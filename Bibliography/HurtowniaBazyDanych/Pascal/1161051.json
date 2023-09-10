@@ -1,0 +1,92 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "CONSTRAINED STOCHASTIC POWER FLOW ANALYSIS",
+    "dc:creator": [
+        "SAUER PW",
+        "HOVEIDA B"
+    ],
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "ELECTR. POWER SYST. RES.; ISSN 0378-7796; CHE; DA. 1982; VOL. 5; NO 2; PP. 87-95; BIBL. 11 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "RESEAU ELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMMANDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHARGE ELECTROENERGETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ECOULEMENT CHARGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE CALCUL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE STATISTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LINEARISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROMAGNETISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROTECHNIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRICAL NETWORK"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONTROL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POWER SYSTEM LOAD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LOAD FLOW"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CALCULATING METHOD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STATISTICAL METHOD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LINEARIZATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROMAGNETISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRICAL ENGINEERING"
+        },
+        "001D05: Electrotechnique. Electroenergetique / Electrical engineering. Electrical power engineering"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0058086"
+}

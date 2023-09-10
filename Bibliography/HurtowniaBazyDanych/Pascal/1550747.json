@@ -1,0 +1,84 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "EXPERIMENTAL AND THEORETICAL STUDIES RELATED TO A DYE LASER DIFFERENTIAL LIDAR SYSTEM FOR THE DETERMINATION OF ATMOSPHERIC SO2 AND NO2 CONCENTRATIONS.",
+    "dc:creator": [
+        "WOODS PT",
+        "JOLLIFFE BW"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "OPT. LASER TECHNOL.; G.B.; DA. 1978; VOL. 10; NO 1; PP. 25-28; BIBL. 12 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ATMOSPHERE TERRESTRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSITION CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE SOUFRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE AZOTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIOXYDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE ABSORPTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FAISCEAU LASER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SO2,NO2"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METEOROLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH ATMOSPHERE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL COMPOSITION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NITROGEN COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ABSORPTION SPECTROMETRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ABSORPTION SPECTROSCOPY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LASER BEAM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METEOROLOGY"
+        },
+        "001E02F: Géophysique. Techniques, méthodes, appareillage et modèles / Geophysics. Techniques, methods, instrumentation and models"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7830443118"
+}

@@ -1,0 +1,54 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A FUNCTIONAL STUDY OF THE RHEUMATOID ELBOW",
+    "dc:creator": [
+        "AMIS AA",
+        "HUGHES SJ",
+        "MILLER JH",
+        "WRIGHT V"
+    ],
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "RHEUMATOL. REHABIL.; ISSN 0300-3396; GBR; DA. 1982; VOL. 21; NO 3; PP. 151-157; BIBL. 7 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "POLYARTHRITE RHUMATOIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COUDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PATHOLOGIE OSTEOARTICULAIRE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RHEUMATOID ARTHRITIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELBOW"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BONE AND JOINT DISEASES"
+        },
+        "002B15: Pathologie osteoarticulaire / Diseases of the osteoarticular system"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0010603"
+}

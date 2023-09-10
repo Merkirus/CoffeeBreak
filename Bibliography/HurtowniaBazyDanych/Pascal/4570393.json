@@ -1,0 +1,57 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "I PREMISCELATI NELLA PREPARAZIONE DELLE TERRE SINTETICHE DI FONDERIA; LES PREMELANGES EN PREPARATION DES SABLES SYNTHETIQUES DE FONDERIE",
+    "dc:creator": "RIEGLER A",
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "Italian",
+    "dc:format": "FONDERIA ITAL.; ITAL.; DA. 1974; VOL. 23; NO 5; PP. 153-164 (5 P.)",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "SABLE FONDERIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PREPARATION SABLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ADJUVANT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LIANT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ARGILE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NOIR FONDERIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AGGLUTINANT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PREMELANGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METALLURGY"
+        },
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7574001265"
+}

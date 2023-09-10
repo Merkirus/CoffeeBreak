@@ -1,0 +1,53 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "CONTRIBUTION A L'ETUDE PHARMACOLOGIQUE DE F.3566, DIMALEATE DE N(-8(FLUORO-4-BENZOYL)PROPYL)N-((DIMETHYL CARBAMOYLOXY)-2 ETHYL)) PIPERAZINE",
+    "dc:creator": "FOUSSON C",
+    "dc:date": "1972",
+    "dc:type": "Thesis",
+    "dc:language": "French",
+    "dc:format": "; S.L.; DA. 1972; PP. (95P.); BIBL. 2P.; (THESE DOCT. PHARM.; UNIV. CLERMONT-FERRAND; 1972)",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "NEUROLEPTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HYPOTENSEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PIPERAZINE N-(GAMMA -(FLUORO-4 BENZOYL) PROPYL) N-((DIMETHYLCARBAMOYLOXY)-2 ETHYL)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACTIVITE PHARMACOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE EXP"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOURIS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RAT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHARMACOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHARMACOLOGY"
+        },
+        "002B02: Pharmacologie. Traitements medicamenteux / Pharmacology. Drug treatments"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL733309991"
+}

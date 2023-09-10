@@ -1,0 +1,106 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Track 1 : What's it all about ? Integrating the Web into the serials chain",
+    "dc:creator": [
+        "MOORE, W",
+        "RIOUX, M",
+        "JURRIES, E. F"
+    ],
+    "dc:contributor": [
+        "SIMSER, Charlene N (Editor)",
+        "SOMERS, Michael A (Editor)",
+        "North American Serials interest Group, Inc (Funder/Sponsor)",
+        "North American Serials Interest Group NASIG. Annual Conference (12 ; Ann Arbor, Michigan 1997-05-29)"
+    ],
+    "dc:relation": [
+        "The Serials librarian -- Ser. libr, CODEN SELID4, ISSN 0361-526X, Vol. 34 (1-2) , pp. 11-15",
+        "Experimentation and collaboration: creating serials for a new millennium. Part I"
+    ],
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Haworth Press",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bibliothécaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conception"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Formation professionnelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gestion bibliothèque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recommandation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Site Web"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Librarian"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Occupational training"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Library management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Recommendation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Web site"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bibliotecario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diseño"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Formación profesional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gestión biblioteca"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Recomendación"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation",
+        "001A01G02B: Applications (par exemple: numérisation,...) / Applications (e.g. Digitizing,...)",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-H: Technologie de la communication et de l'information / Information and communication technologies"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2318140"
+}

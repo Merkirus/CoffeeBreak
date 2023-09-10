@@ -1,0 +1,68 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Le compte rendu - fiche standardisée en pathologie cancérologique; Report of tumor sampling",
+    "dc:creator": "VOIGT, J. J",
+    "dc:contributor": [
+        "Société française de pathologie (Funder/Sponsor)",
+        "Carrefour Pathologie 2003 (Paris 2003-11-17)"
+    ],
+    "dc:relation": [
+        "Annales de pathologie (Paris) -- Ann. pathol. (Paris), CODEN ASPAD2, ISSN 0242-6498, Vol. NOV, pp. 1S50-1S63",
+        "Carrefour Pathologie 2003, du 17 au 21 novembre 2003 - Paris"
+    ],
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Masson",
+    "dc:format": [
+        "print",
+        "dissem"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prélèvement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tumeur"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Samplings"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tumor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Toma de muestra"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tumor"
+        },
+        "002B01: Generalites / General aspects"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15358224"
+}

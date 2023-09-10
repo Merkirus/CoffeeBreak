@@ -1,0 +1,122 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The multistream protocol: a highly flexible high-speed transport protocol",
+    "dc:creator": [
+        "LA PORTA, T. F",
+        "SCHWARTZ, M"
+    ],
+    "dc:contributor": [
+        "HAAS, Z (Editor)",
+        "COHEN, D (Editor)",
+        "PARULKAR, G. M (Editor)",
+        "TANTAWY, A. N (Editor)"
+    ],
+    "dc:relation": "IEEE journal on selected areas in communications -- IEEE j. sel. areas commun, CODEN ISACEM, ISSN 0733-8716, Vol. 11 (4) , pp. 519-530",
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institute of Electrical and Electronics Engineers",
+    "dc:format": [
+        "print",
+        "21 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "En parallèle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Flexibilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Multimedia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Processeur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Protocole transmission"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau télécommunication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transmission paquet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Couche transport"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Parallel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Flexibility"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multimedia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Processor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transmission protocol"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Telecommunication network"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Packet transmission"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "En paralelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Flexibilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Multimedia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Procesador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Protocolo transmisión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red telecomunicación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transmisión paquete"
+        },
+        "001D04B03A: Méthodes d'accès et protocoles, modèle osi / Access methods and protocols, osi model"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4875559"
+}

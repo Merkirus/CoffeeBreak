@@ -1,0 +1,77 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "OVERSTRESSED INTERATOMIC BONDS IN STRESSED POLYMERS",
+    "dc:creator": [
+        "VETTEGREN VI",
+        "NOVAK II",
+        "FRIEDLAND KJ"
+    ],
+    "dc:date": "1975",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "INTERNATION. J. FRACTURE; NETHERL.; DA. 1975; VOL. 11; NO 5; PP. 789-801; BIBL. 20 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE IR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONTRAINTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPENE POLYMERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETHYLENE TEREPHTALATE POLYMERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AMIDE 6 POLYMERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACRYLONITRILE POLYMERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PYROMELLITIMIDE POLYMERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FILM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONTRAINTE RUPTURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPRIETE MECANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE MACROMOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLYMERES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MACROMOLECULAR CHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLYMERS"
+        },
+        "001D09: Physicochimie des polymeres / Physicochemistry of polymers"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7678003603"
+}

@@ -1,0 +1,249 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Towards a new video compression scheme using super-resolution",
+    "dc:creator": [
+        "MOLINA, R",
+        "KATSAGGELOS, A. K",
+        "ALVAREZ, L. D",
+        "MATEOS, J"
+    ],
+    "dc:contributor": [
+        "Apostolopoulos, John G (Editor)",
+        "Said, Amir (Editor)",
+        "IS&T-The Society for Imaging Science and Technology (Organiser of meeting)",
+        "Society of photo-optical instrumentation engineers (Organiser of meeting)",
+        "Visula communications and image processing. Conference (San Jose CA 2006)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, pp. 607706.1-607706.13",
+        "Visual communications and image processing 2006 (17-19 January 2006, San Jose, California, USA)"
+    ],
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "IS&T",
+        "SPIE"
+    ],
+    "dc:format": [
+        "print",
+        "13 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Basse résolution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Codage image"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Codage vidéo"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Compression donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Compression image"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Décodage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Extensibilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Haute résolution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Qualité image"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résolution image"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résolution spatiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résolution temporelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Signal vidéo"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Superrésolution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Séquence image"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement image"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement signal vidéo"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conversion format"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Low resolution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Image coding"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Video coding"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Data compression"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Image compression"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Decoding"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Scalability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High resolution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Image quality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Image resolution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spatial resolution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Time resolution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Video signal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Superresolution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Image sequence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Image processing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Video signal processing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Format conversion"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Baja resolución"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Compresión dato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Compresión imagen"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desciframiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estensibilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alta resolucion"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Calidad imagen"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resolución imagen"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resolución espacial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resolución temporal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Señal video"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Superresolución"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Secuencia imagen"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Procesamiento imagen"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conversión de formato"
+        },
+        "001D04A04A2: Détection, estimation, filtrage, égalisation, prédiction / Detection, estimation, filtering, equalization, prediction",
+        "001D04A04B: Codage, codes / Coding, codes",
+        "001D04A05C: Traitement des images / Image processing"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18841302"
+}

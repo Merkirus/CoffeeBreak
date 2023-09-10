@@ -1,0 +1,200 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "IN VITRO TRANSFORMING ACTIVITY OF EBVI-ESTABLISHMENT AND PROPERTIES OF TWO EBV STRAINS (M81 AND M72) PRODUCED BY IMMORTALIZED CALLITHRIX JACCHUS LYMPHOCYTES.",
+    "dc:creator": [
+        "DESGRANGES C",
+        "LENOIR G",
+        "DE THE G",
+        "SEIGNEURIN JM",
+        "HILGERS J",
+        "DUBOUCH P"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "BIOMEDICINE; FR.; DA. 1976; VOL. 25; NO 9; PP. 349-352; ABS. FR.; BIBL. 11 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "VIRUS EPSTEIN BARR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOUCHE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LIBERATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LYMPHOCYTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SINGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSFORMATION CELLULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IN VITRO"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MULTIPLICATION VIRUS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ISOLEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LIGNEE CELLULAIRE ETABLIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CELLULE LYMPHOBLASTOIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TUMEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NASOPHARYNX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE COMPARATIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROSCOPIE ELECTRONIQUE TRANSMISSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EXPLORATION VIROLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CULTURE CELLULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORL PATHOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORIGINE HUMAINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORIGINE ANIMALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRIMATES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MAMMALIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CALLITHRIX JACCHUS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROBIOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EPSTEIN BARR VIRUS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STRAIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RELEASE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LYMPHOCYTE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MONKEY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CELL TRANSFORMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IN VITRO"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VIRUS MULTIPLICATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ESTABLISHED CELL LINE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LYMPHOBLASTOID CELL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TUMOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NASOPHARYNX"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COMPARATIVE STUDY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TRANSMISSION ELECTRON MICROSCOPY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VIROLOGICAL EXPLORATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CELL CULTURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENT DISEASE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN ORIGIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANIMAL ORIGIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROBIOLOGY"
+        },
+        "002B05: Pathologie infectieuse / Infectious diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7750204274"
+}

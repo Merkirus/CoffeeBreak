@@ -1,0 +1,101 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Implementation of X-Ray methods for investigation of nanosize semiconductor structures",
+    "dc:creator": "GERASIMENKO, Nikolay N",
+    "dc:contributor": [
+        "Kumakhov, Muradin Abubekirovich (Editor)",
+        "Society of photo-optical instrumentation engineers (Organiser of meeting)",
+        "X-ray and Neutron Capillary Optics. Conference (2 ; Zvenigorod 2004-09-22)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, pp. 78-101",
+        "X-ray and Neutron Capillary Optics II (22-26 September 2004, Zvenigorod, Russia)"
+    ],
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "Russian",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "24 p. ; 67 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Fil quantique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optique RX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optique polycapillaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Point quantique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rayonnement synchrotron"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4150"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lentille Kumakhov"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optique capillaire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quantum wires"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "X-ray optics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polycapillary optics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quantum dots"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Synchrotron radiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Kumakhov lens"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Capillary optics"
+        },
+        "001B40A50: Rayons x et optique rx / X-ray beams and x-ray optics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17528127"
+}

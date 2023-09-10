@@ -1,0 +1,36 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "RENDEMENT D'UNE RECOLTEUSE DE LIN",
+    "dc:creator": [
+        "DYIDENKO MK",
+        "VODYANITS'KIJ GP"
+    ],
+    "dc:date": "1973",
+    "dc:type": "Serial Issue",
+    "dc:language": "Ukrainian",
+    "dc:format": "VISN. SIL'SKOGOSPODAR. NAUKY; U.R.S.R.; DA. 1973; NO 8; PP. 36-39; ABS. RUSSE",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "LIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RECOLTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AGRONOMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AGRONOMY"
+        },
+        "002A35: Industries agroalimentaires / Food industries"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7338021381"
+}

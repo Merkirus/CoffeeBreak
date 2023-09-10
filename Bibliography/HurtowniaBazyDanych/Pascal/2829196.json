@@ -1,0 +1,64 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "STARTUP AND STABILITY OF SUBSONIC GAS TARGETS",
+    "dc:creator": [
+        "CHATOORGOON V",
+        "STANGEBY PC"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. ENERGY; USA; DA. 1978; VOL. 2; NO 4; PP. 254-256; BIBL. 6 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "SOURCE NEUTRON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CIBLE GAZEUSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "JET SUBSONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STABILITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE THEORIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METROLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NEUTRON SOURCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SUBSONIC JET"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STABILITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THEORETICAL PHYSICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MEASUREMENT SCIENCE"
+        },
+        "001B: Physique / Physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7930416631"
+}

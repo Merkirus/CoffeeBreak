@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Visual Saliency Based on Scale-Space Analysis in the Frequency Domain</dc:title>
+  <dc:creator>JIAN LI</dc:creator>
+  <dc:creator>LEVINE, Martin D</dc:creator>
+  <dc:creator>XIANGJING AN</dc:creator>
+  <dc:creator>XIN XU</dc:creator>
+  <dc:creator>HANGEN HE</dc:creator>
+  <dc:relation>IEEE transactions on pattern analysis and machine intelligence -- IEEE trans. pattern anal. mach. intell, CODEN ITPIDJ, ISSN 0162-8828, Vol. 35 (4) , pp. 996-1010</dc:relation>
+  <dc:date>2013</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Article</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>IEEE Computer Society</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>15 p. ; 47 ref</dc:format>
+  <dc:subject xml:lang="fr">Analyse Fourier</dc:subject>
+  <dc:subject xml:lang="fr">Analyse image</dc:subject>
+  <dc:subject xml:lang="fr">Attention visuelle</dc:subject>
+  <dc:subject xml:lang="fr">Banque image</dc:subject>
+  <dc:subject xml:lang="fr">Convolution</dc:subject>
+  <dc:subject xml:lang="fr">Détecteur image</dc:subject>
+  <dc:subject xml:lang="fr">Environnement encombré</dc:subject>
+  <dc:subject xml:lang="fr">Espace échelle</dc:subject>
+  <dc:subject xml:lang="fr">Modélisation</dc:subject>
+  <dc:subject xml:lang="fr">Mouvement oculaire poursuite</dc:subject>
+  <dc:subject xml:lang="fr">Méthode ascendante</dc:subject>
+  <dc:subject xml:lang="fr">Méthode domaine fréquence</dc:subject>
+  <dc:subject xml:lang="fr">Processus Gauss</dc:subject>
+  <dc:subject xml:lang="fr">Regard</dc:subject>
+  <dc:subject xml:lang="fr">Saillance du stimulus</dc:subject>
+  <dc:subject xml:lang="fr">Spectre amplitude</dc:subject>
+  <dc:subject xml:lang="fr">Traitement image</dc:subject>
+  <dc:subject xml:lang="fr">Transformation Fourier</dc:subject>
+  <dc:subject xml:lang="fr">Vision ordinateur</dc:subject>
+  <dc:subject xml:lang="fr">Scène naturelle</dc:subject>
+  <dc:subject xml:lang="en">Fourier analysis</dc:subject>
+  <dc:subject xml:lang="en">Image analysis</dc:subject>
+  <dc:subject xml:lang="en">Visual attention</dc:subject>
+  <dc:subject xml:lang="en">Image databank</dc:subject>
+  <dc:subject xml:lang="en">Convolution</dc:subject>
+  <dc:subject xml:lang="en">Image sensor</dc:subject>
+  <dc:subject xml:lang="en">Cluttered environment</dc:subject>
+  <dc:subject xml:lang="en">Scale space</dc:subject>
+  <dc:subject xml:lang="en">Modeling</dc:subject>
+  <dc:subject xml:lang="en">Pursuit eye movement</dc:subject>
+  <dc:subject xml:lang="en">Bottom up method</dc:subject>
+  <dc:subject xml:lang="en">Frequency domain method</dc:subject>
+  <dc:subject xml:lang="en">Gaussian process</dc:subject>
+  <dc:subject xml:lang="en">Gaze</dc:subject>
+  <dc:subject xml:lang="en">Stimulus salience</dc:subject>
+  <dc:subject xml:lang="en">Amplitude spectrum</dc:subject>
+  <dc:subject xml:lang="en">Image processing</dc:subject>
+  <dc:subject xml:lang="en">Fourier transformation</dc:subject>
+  <dc:subject xml:lang="en">Computer vision</dc:subject>
+  <dc:subject xml:lang="en">Natural scenes</dc:subject>
+  <dc:subject xml:lang="en">Visual attention</dc:subject>
+  <dc:subject xml:lang="en">eye tracking</dc:subject>
+  <dc:subject xml:lang="en">hypercomplex Fourier transform</dc:subject>
+  <dc:subject xml:lang="en">saliency</dc:subject>
+  <dc:subject xml:lang="en">scale space analysis</dc:subject>
+  <dc:subject xml:lang="es">Análisis Fourier</dc:subject>
+  <dc:subject xml:lang="es">Análisis imagen</dc:subject>
+  <dc:subject xml:lang="es">Atención visual</dc:subject>
+  <dc:subject xml:lang="es">Banco imagen</dc:subject>
+  <dc:subject xml:lang="es">Convolución</dc:subject>
+  <dc:subject xml:lang="es">Detector imagen</dc:subject>
+  <dc:subject xml:lang="es">Contexto atestado</dc:subject>
+  <dc:subject xml:lang="es">Espacio escala</dc:subject>
+  <dc:subject xml:lang="es">Modelización</dc:subject>
+  <dc:subject xml:lang="es">Movimiento ocular seguimiento</dc:subject>
+  <dc:subject xml:lang="es">Método ascendente</dc:subject>
+  <dc:subject xml:lang="es">Método dominio frecuencia</dc:subject>
+  <dc:subject xml:lang="es">Proceso Gauss</dc:subject>
+  <dc:subject xml:lang="es">Mirada</dc:subject>
+  <dc:subject xml:lang="es">Saliencia del estímulo</dc:subject>
+  <dc:subject xml:lang="es">Espectro amplitud</dc:subject>
+  <dc:subject xml:lang="es">Procesamiento imagen</dc:subject>
+  <dc:subject xml:lang="es">Transformación Fourier</dc:subject>
+  <dc:subject xml:lang="es">Visión ordenador</dc:subject>
+  <dc:subject xml:lang="es">Escena natural</dc:subject>
+  <dc:subject>001D02B07D: Systèmes d'information. Bases de données / Information systems. Data bases</dc:subject>
+  <dc:subject>001D02C03: Reconnaissance des formes. Traitement numérique des images. Géométrie algorithmique / Pattern recognition. Digital image processing. Computational geometry</dc:subject>
+  <dc:subject>002A26E03: Vision / Vision</dc:subject>
+  <dc:subject>770-B: Psychologie. Psychophysiologie / Psychology. Psychophysiology</dc:subject>
+  <dc:subject>770-B05C: Vision / Vision</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 27677804</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

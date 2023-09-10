@@ -1,0 +1,62 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Entstehung und Entwicklung des »Reallexikons für Antike und Christentum« und des Franz Joseph Dölger-Instituts in Bonn; Birth and Development of the Reallexikons für Antike und Christentum and the Franz Joseph Dölger-Institute in Bonn",
+    "dc:creator": "DASSMANN, E",
+    "dc:relation": "Jahrbuch für Antike und Christentum -- Jahrb. Antike Christ, ISSN 0075-2541, Vol. 40, pp. 5-17",
+    "dc:date": "1997",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "German",
+    "dc:publisher": "Aschendorffsche Verlagsbuchhandlung",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Institut"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lexique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bonn"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dölger (F. J.)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Siècle 20"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Institute"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lexicon"
+        },
+        "527-: Histoire et sciences des religions / History and sciences of religions",
+        "527-865: Christianisme / Christianity",
+        "527-893: Etudes littéraires. Textes. Editions / Literary studies. Texts. Editions"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Antiquité chrétienne"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Christian antiquity"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2465518"
+}

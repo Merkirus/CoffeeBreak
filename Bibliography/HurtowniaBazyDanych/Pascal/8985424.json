@@ -1,0 +1,75 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Competitiveness and human potential",
+    "dc:creator": "BONIME, W",
+    "dc:relation": "Journal of the American Academy of Psychoanalysis -- J. Am. Acad. Psychoanal, CODEN JAAPCC, ISSN 0090-3604, Vol. 14 (2) , pp. 149-166",
+    "dc:date": "1986",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Guilford",
+    "dc:format": [
+        "print",
+        "12 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interaction sociale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Psychanalyse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Relation interpersonnelle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Social interaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Psychoanalysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interpersonal relation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interaccion social"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Psicoanalisis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Relacion interpersonal"
+        },
+        "002A27C: Psychanalyse appliquée. Divers / Applied psychoanalysis. Miscellaneous",
+        "770-: Psychologie. Psychanalyse. Psychiatrie / Psychology. Psychoanalysis. Psychiatry",
+        "770-C: PSYCHANALYSE / Psychoanalysis"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 8018550"
+}

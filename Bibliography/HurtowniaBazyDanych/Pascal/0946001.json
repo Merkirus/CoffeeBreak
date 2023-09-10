@@ -1,0 +1,41 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "BICHARGEABLE ELECTROPHOTOGRAPHIC PAPER",
+    "dc:creator": [
+        "GAYNOR J",
+        "NOTLEY NT",
+        "LOGUE DR"
+    ],
+    "dc:date": "1972",
+    "dc:type": "Serial Issue",
+    "dc:language": "English",
+    "dc:format": "T.A.P.P.I.; U.S.A.; DA. 1972; VOL. 55; NO 10; PP. 1459-1462; BIBL. 18 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PAPIER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PAPIER ELECTROPHOTOGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TYPE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUSTRIE CHIMIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL INDUSTRY"
+        },
+        "001D07: Genie chimique / Chemical engineering"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7388006428"
+}

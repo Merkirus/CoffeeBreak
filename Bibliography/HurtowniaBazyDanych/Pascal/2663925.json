@@ -1,0 +1,53 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "RNA SYNTHESIS IN FIXED CELLS BY ENDOGENOUS RNA POLYMERASES.",
+    "dc:creator": "MOORE GPM",
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "EXPER. CELL RES.; U.S.A.; DA. 1978; VOL. 111; NO 2; PP. 317-326; BIBL. 40 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CELLULE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENZYME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ARN NUCLEOTIDYLTRANSFERASE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SYNTHESE ARN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CELLULE HELA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CYTOCHIMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CELL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENZYMES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CYTOCHEMISTRY"
+        },
+        "002A14: Ecologie animale, vegetale et microbienne / Animal, plant and microbial ecology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7850444522"
+}

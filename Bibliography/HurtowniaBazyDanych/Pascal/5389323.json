@@ -1,0 +1,165 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Language-sensitive search behaviour and the role of domain knowledge",
+    "dc:creator": [
+        "KRALISCH, A",
+        "BERENDT, B"
+    ],
+    "dc:contributor": [
+        "CUNLIFFE, Daniel (Editor)",
+        "HERRING, Susan C (Editor)"
+    ],
+    "dc:relation": "New review of hypermedia and multimedia -- New rev. hypermedia multimed, ISSN 1361-4568, Vol. 11 (2) , pp. 221-246",
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Taylor Graham",
+    "dc:format": [
+        "print",
+        "26 p. ; 2 p.1/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Accessibilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aptitude cognitive"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Comportement utilisateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude utilisateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude utilisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Langage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Langue maternelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Minorité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recherche information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Site Web"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Connaissance domaine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Accessibility"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cognitive ability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "User behavior"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "User study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Use study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Language"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mother language"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Minority"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information retrieval"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Web site"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Domain knowledge"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Accesibilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aptitud cognitiva"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Comportamiento usuario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio usuario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio utilización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lenguaje"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lengua materna"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Minoría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Búsqueda información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sitio Web"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation",
+        "001A01A05: Etudes d'utilisateurs et d'utilisation. Besoins d'information / Use and user studies. Information needs",
+        "001A01E03A: Aspects cognitifs / Cognitive aspects",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-B: Sciences de l'information et des bibliothèques. Etude d'ensemble / Library and information science. General aspects",
+        "790-F: Traitement et recherche d'information / Information processing and retrieval"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17331000"
+}

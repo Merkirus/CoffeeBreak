@@ -1,0 +1,201 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Variational formulation of the motion of an ideal fluid on the basis of gauge principle",
+    "dc:creator": "KAMBE, Tsutomu",
+    "dc:contributor": [
+        "EYINK, Gregory (Editor)",
+        "FRISCH, Uriel (Editor)",
+        "MOREAU, René (Editor)",
+        "SOBOLEVSKII, Andrei (Editor)",
+        "French Academy of Sciences (Organiser of meeting)",
+        "Berlin-Brandenburg Academy of Sciences (Organiser of meeting)",
+        "Swiss Academy of Sciences' Committee of the Euler Tercentenary (Organiser of meeting)",
+        "Observatory of Côte d'Azur, The Cassiopée Laboratory and the Wolfgang Döblin Institute (Organiser of meeting)",
+        "International Union of Theoretical and Applied Mechanics (Organiser of meeting)",
+        "J.-V. Poncelet Laboratory (Organiser of meeting)",
+        "Euler Equations: 250 Years On: International Conference (Aussois 2007-06-18)"
+    ],
+    "dc:relation": [
+        "Physica. D -- Physica, D, CODEN PDNPDT, ISSN 0167-2789, Vol. 237 (14-17) , pp. 2067-2071",
+        "Euler Equations: 250 Years On"
+    ],
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "Russian",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "5 p. ; 22 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Champ jauge"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Champ écoulement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Entropie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Equation Euler"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Equation continuité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Equation mouvement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hélicité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lagrangien"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phénomène non linéaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Principe action"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Théorie Chern Simons"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Théorie champ"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Théorème Noether"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Topologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vorticité"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gauge field"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Flow pattern"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Entropy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Euler equations"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Continuity equations"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Equations of motion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Helicity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lagrangian"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Non linear phenomenon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Action principle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chern-Simons theory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Field theories"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Noether theorem"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Topology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vorticity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chern-Simons term"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Euler's equation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gauge principle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Helicity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Variational formulation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Campo galgas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lagrangiano"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fenómeno no lineal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Principio acción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Teorema Noether"
+        },
+        "001B: Physique / Physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20598552"
+}

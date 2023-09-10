@@ -1,0 +1,60 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DICTYOSOMES SEEN WITH A LIGHT MICROSCOPE",
+    "dc:creator": [
+        "UEDA K",
+        "NOGUCHI T"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "BOT. MAG. TOKYO; JPN; DA. 1979; VOL. 92; NO 1026; PP. 135-138; BIBL. 6 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ALGAE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHLOROPHYCOPHYTA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CYTOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORGANITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOLOGIE VEGETALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ALGAE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHLOROPHYCOPHYTA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHLOROPHYTA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CYTOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PLANT BIOLOGY"
+        },
+        "002A10: Physiologie vegetale et developpement / Plant physiology and development"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8010076749"
+}

@@ -1,0 +1,221 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "New experimental data and kinetic rate expression for H2S pyrolysis and re-association",
+    "dc:creator": [
+        "HAWBOLDT, K. A",
+        "MONNERY, W. D",
+        "SVRCEK, W. Y"
+    ],
+    "dc:relation": "Chemical engineering science -- Chem. eng. sci, CODEN CESCAC, ISSN 0009-2509, Vol. 55 (5) , pp. 957-966",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "14 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Association chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cinétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Constante vitesse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Craquage thermique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude théorique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hydrogène Sulfure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hydrogène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle cinétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Procédé Claus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pyrolyse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réaction inverse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation numérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Soufre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Taux conversion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vitesse réaction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "H2S"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical association"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Kinetics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rate constant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermal cracking"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Theoretical study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hydrogen Sulfides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hydrogen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Kinetic model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Claus process"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pyrolysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reverse reaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Numerical simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sulfur"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Conversion rate"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reaction rate"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asociación química"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cinética"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Constante velocidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Craqueo térmico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio teórico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hidrógeno Sulfuro"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hidrógeno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo cinético"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pirólisis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reacción inversa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simulación numérica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Azufre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor conversión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Velocidad reacción"
+        },
+        "001C02A: Cinétique et mécanisme des réactions / Kinetics and mechanism of reactions"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1219254"
+}

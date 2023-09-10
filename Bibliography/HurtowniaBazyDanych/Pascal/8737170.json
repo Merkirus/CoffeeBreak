@@ -1,0 +1,54 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Redeeming American Political Theory",
+    "dc:creator": "SHKLAR, J. N",
+    "dc:relation": "American political science review -- Am. polit. sci. rev, ISSN 0003-0554, Vol. 85 (1) , pp. 3-15",
+    "dc:date": "1991",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "American Political Science Association",
+    "dc:format": [
+        "print",
+        "Illustration"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Attitude politique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Démocratisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Idéologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Libéralisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Science politique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Valeurs"
+        },
+        "521-36: Sociologie politique / Political sociology",
+        "521-37: Etudes générales. Idéologies / General studies. Ideologies"
+    ],
+    "dc:coverage": {
+        "@xml:lang": "fr",
+        "#text": "Etats-Unis"
+    },
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6135959"
+}

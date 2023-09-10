@@ -1,0 +1,126 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Online Maschinenüberwachung und Fehlerdiagnose von Rotating Equipment in der Erdgasaufbereitungsanlage Grossenkneten; Condition based inspection and maintenance of rotating equipment by use of offline/online control equipment and error diagnosis in the gas desulphurization plant grossenkneten",
+    "dc:creator": [
+        "BROD, R",
+        "ARNOLD, W",
+        "WINNER, M"
+    ],
+    "dc:relation": "Erdöl, Erdgas, Kohle -- Erdöl Erdgas Kohle, CODEN EEKOEY, ISSN 0179-3187, Vol. 116 (2) , pp. 85-88",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "Russian",
+    "dc:publisher": [
+        "Urban",
+        "Urban"
+    ],
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareillage contrôle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Désulfuration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Machine tournante"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Maintenance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Roulement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Usine traitement gaz"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Usure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vibration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Control instrumentation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Desulfurization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rotating machine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Maintenance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rolling (mechanics)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gas processing plant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wear"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vibration"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Instrumentación control"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desulfuración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Máquina tornante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mantenimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rodadura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fabrica tratamiento gas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desgaste"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vibración"
+        },
+        "001D06: Energie / Energy",
+        "001D06B03B: Traitements et conditionnement des gaz. Désulfuration. Liquéfaction / Gas conditioning and treatments. Desulphurization. Liquefaction"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1256314"
+}

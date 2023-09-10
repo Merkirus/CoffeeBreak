@@ -1,0 +1,94 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Anaerobic digestion and dewatering characteristics of mechanically disintegrated excess sludge",
+    "dc:creator": [
+        "KOPP, J",
+        "MÜLLER, J",
+        "DICHTL, N",
+        "SCHWEDES, J"
+    ],
+    "dc:contributor": [
+        "Balmer, P (Editor)",
+        "Spinosa, L (Editor)",
+        "Bien, J.B (Editor)",
+        "Kempa, E.S (Editor)",
+        "International specialized conference on sludge management (Czestochowa 1997-03-17)",
+        "International workshop on the rheology of sludges (Bari 1997-03-17)"
+    ],
+    "dc:relation": [
+        "Water science and technology -- Water sci. technol, CODEN WSTED4, ISSN 0273-1223, pp. 129-136",
+        "Sludge rheology and sludge management (Bari, 17 March 1997 ; Czestochowa, 26-28 June 1997)"
+    ],
+    "dc:date": "1997",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Pergamon Press",
+        "Pergamon Press"
+    ],
+    "dc:format": [
+        "print",
+        "17 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Boue résiduaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Digestion anaérobie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Déshydratation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement mécanique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sewage sludge"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Anaerobic digestion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dehydration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mechanical treatment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lodo residual"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Digestión anaerobia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Deshidratación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento mecánico"
+        },
+        "001D16B06: Autres déchets industriels. Boues résiduaires / Other industrial wastes. Sewage sludge",
+        "002A31: Biotechnologie / Biotechnology",
+        "002A31D07B: Traitement biologique des boues résiduaires et des déchets / Biological treatment of sewage sludges and wastes"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2038157"
+}

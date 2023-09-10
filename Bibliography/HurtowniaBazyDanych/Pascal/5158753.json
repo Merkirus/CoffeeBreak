@@ -1,0 +1,299 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Low temperature processing of SiO2 thin films by HD-PECVD technique for gate dielectric applications",
+    "dc:creator": [
+        "JOSHI, P. C",
+        "MORIGUCHI, M",
+        "CROWDER, M. A",
+        "DROES, S",
+        "FLORES, J. S",
+        "VOUTSAS, A. T",
+        "HARTZELL, J. W"
+    ],
+    "dc:contributor": [
+        "Voutsas, Apostolos T (Editor)",
+        "International Society for Optical Engineering (Organiser of meeting)",
+        "Poly-silicon thin film transistor technology and applications in displays and other novel technology areas. Conference (Santa Clara CA 2003-01-21)"
+    ],
+    "dc:relation": [
+        "SPIE proceedings series -- SPIE proc. ser, pp. 105-112",
+        "Poly-silicon thin film transistor technology and pplications in displays and other novel technology areas (Santa Clara CA, 21-22 January 2003)"
+    ],
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "8 p. ; 12 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Caractéristique capacité tension"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Caractéristique optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Caractéristique électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Condensateur MOS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Couche mince"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Densité plasma"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Densité élevée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diélectrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecoulement gaz"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation performance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fabrication microélectronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Indice réfraction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microstructure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode PECVD"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optimisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pastille électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plasma couplé inductivement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polycristal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Procédé fabrication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Semiconducteur type p"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transistor couche mince"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vitesse gravure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Voltage capacity curve"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical characteristic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrical characteristic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOS capacitor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thin film"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plasma density"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High density"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dielectric materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gas flow"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Performance evaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microelectronic fabrication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Refraction index"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microstructure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plasma enhanced chemical vapor deposition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optimization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wafer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inductively coupled plasma"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polycrystal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Manufacturing process"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "p type semiconductor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thin film transistor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Etching rate"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Característica capacidad tensión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Característica óptica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Característica eléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Capacidad MOS"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Capa fina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Densidad plasma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Densidad elevada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dieléctrico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Flujo gas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evaluación prestación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fabricación microeléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Indice refracción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Microestructura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Optimización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pastilla electrónica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Policristal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Procedimiento fabricación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Semiconductor tipo p"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transistor capa delgada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Velocidad grabado"
+        },
+        "001D03F02: Dispositifs à structure composée / Compound structure devices",
+        "001D03F04: Transistors / Transistors",
+        "001D03F17: Fabrication microélectronique (technologie des matériaux et des surfaces) / Microelectronic fabrication (materials and surfaces technology)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15302672"
+}

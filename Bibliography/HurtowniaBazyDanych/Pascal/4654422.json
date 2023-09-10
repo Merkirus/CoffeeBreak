@@ -1,0 +1,56 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "VSESOYUZNAYA KONFERENTSIYA FIZIKA DIEHLEKTRIKOV I PERSPEKTIVY CE RAZVITIZA. MATERIALY. I-III; LENINGRAD; 1973.; CONGRES INTERREPUBLIQUES. PHYSIQUE DES DIELECTRIQUES ET PERSPECTIVES DE SON DEVELOPPEMENT. MATIERES. I-III; LENINGRAD; 1973",
+    "dc:date": "sd",
+    "dc:type": "Conference Proceedings",
+    "dc:language": "Russian",
+    "dc:format": "; S.L.; DA. S.D.; PP. (810P.); BIBL. DISSEM.; 3 VOL",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DIELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONGRES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "URSS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LENINGRAD"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "1973"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE SOLIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIELECTRIC MATERIALS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONGRESS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "USSR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID PHYSICS"
+        },
+        "001B60: Etat condense: structure, proprietes mecaniques et thermiques / Condensed matter: structure, mechanical and thermal properties"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7730080120"
+}

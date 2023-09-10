@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>JStar : Towards Practical Verification for Java</dc:title>
+  <dc:creator>DISTEFANO, Dino</dc:creator>
+  <dc:creator>PARKINSON, Matthew J</dc:creator>
+  <dc:contributor>Annual ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA 2008) (23 ; Nashville, Tennessee 2008-10-19)</dc:contributor>
+  <dc:relation>ACM SIGPLAN notices -- ACM SIGPLAN not, ISSN 1523-2867, Vol. 43 (10) , pp. 213-226</dc:relation>
+  <dc:relation>Proceedings of the 23rd Annual ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA 2008)</dc:relation>
+  <dc:date>2008</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Conference Paper</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>Association for Computing Machinery</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>14 p. ; 30 ref</dc:format>
+  <dc:subject xml:lang="fr">Analyse statique</dc:subject>
+  <dc:subject xml:lang="fr">Démonstration automatique</dc:subject>
+  <dc:subject xml:lang="fr">Démonstration théorème</dc:subject>
+  <dc:subject xml:lang="fr">Développement logiciel</dc:subject>
+  <dc:subject xml:lang="fr">Interprétation abstraite</dc:subject>
+  <dc:subject xml:lang="fr">Langage JAVA</dc:subject>
+  <dc:subject xml:lang="fr">Langage programmation</dc:subject>
+  <dc:subject xml:lang="fr">Logique booléenne</dc:subject>
+  <dc:subject xml:lang="fr">Métamodèle</dc:subject>
+  <dc:subject xml:lang="fr">Observateur</dc:subject>
+  <dc:subject xml:lang="fr">Orienté objet</dc:subject>
+  <dc:subject xml:lang="fr">Patron conception</dc:subject>
+  <dc:subject xml:lang="fr">Réutilisation</dc:subject>
+  <dc:subject xml:lang="fr">Système modulaire</dc:subject>
+  <dc:subject xml:lang="fr">Théorie preuve</dc:subject>
+  <dc:subject xml:lang="fr">Usine fabrication</dc:subject>
+  <dc:subject xml:lang="fr">Vérification programme</dc:subject>
+  <dc:subject xml:lang="en">Static analysis</dc:subject>
+  <dc:subject xml:lang="en">Automatic proving</dc:subject>
+  <dc:subject xml:lang="en">Theorem proving</dc:subject>
+  <dc:subject xml:lang="en">Software development</dc:subject>
+  <dc:subject xml:lang="en">Abstract interpretation</dc:subject>
+  <dc:subject xml:lang="en">JAVA language</dc:subject>
+  <dc:subject xml:lang="en">Programming language</dc:subject>
+  <dc:subject xml:lang="en">Boolean logic</dc:subject>
+  <dc:subject xml:lang="en">Metamodel</dc:subject>
+  <dc:subject xml:lang="en">Observer</dc:subject>
+  <dc:subject xml:lang="en">Object oriented</dc:subject>
+  <dc:subject xml:lang="en">Design pattern</dc:subject>
+  <dc:subject xml:lang="en">Reuse</dc:subject>
+  <dc:subject xml:lang="en">Modular system</dc:subject>
+  <dc:subject xml:lang="en">Proof theory</dc:subject>
+  <dc:subject xml:lang="en">Factory</dc:subject>
+  <dc:subject xml:lang="en">Program verification</dc:subject>
+  <dc:subject xml:lang="en">Classes</dc:subject>
+  <dc:subject xml:lang="en">Design Patterns</dc:subject>
+  <dc:subject xml:lang="en">Languages</dc:subject>
+  <dc:subject xml:lang="en">Modularity</dc:subject>
+  <dc:subject xml:lang="en">Theory</dc:subject>
+  <dc:subject xml:lang="en">Verification Separation Logic</dc:subject>
+  <dc:subject xml:lang="es">Análisis estática</dc:subject>
+  <dc:subject xml:lang="es">Demostración automática</dc:subject>
+  <dc:subject xml:lang="es">Demostración teorema</dc:subject>
+  <dc:subject xml:lang="es">Desarrollo logicial</dc:subject>
+  <dc:subject xml:lang="es">Interpretación Abstracta</dc:subject>
+  <dc:subject xml:lang="es">Lenguaje JAVA</dc:subject>
+  <dc:subject xml:lang="es">Lenguaje programación</dc:subject>
+  <dc:subject xml:lang="es">Lógica booleana</dc:subject>
+  <dc:subject xml:lang="es">Metamodelo</dc:subject>
+  <dc:subject xml:lang="es">Observador</dc:subject>
+  <dc:subject xml:lang="es">Orientado objeto</dc:subject>
+  <dc:subject xml:lang="es">Patrón Concepción</dc:subject>
+  <dc:subject xml:lang="es">Reutilización</dc:subject>
+  <dc:subject xml:lang="es">Sistema modular</dc:subject>
+  <dc:subject xml:lang="es">Teoría demonstración</dc:subject>
+  <dc:subject xml:lang="es">Fábrica</dc:subject>
+  <dc:subject xml:lang="es">Verificación programa</dc:subject>
+  <dc:subject>001A02A01F: Théorie de la preuve et mathématiques constructives / Proof theory and constructive mathematics</dc:subject>
+  <dc:subject>001D02B02: Langages de programmation / Programming languages</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 20863897</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

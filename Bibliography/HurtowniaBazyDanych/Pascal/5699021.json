@@ -1,0 +1,119 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Description des propriétés optiques des cristaux photoniques à l'aide d'une méthode basée sur des fonctions localisées; Description of photonic crystals optical properties by a method based on localised functions",
+    "dc:creator": "Monge, David",
+    "dc:contributor": [
+        "Jouanin, Christian (Advisor (for a thesis or dissertation))",
+        "Université de Montpellier 2 (Degree-grantor)"
+    ],
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Thesis"
+    ],
+    "dc:identifier": [
+        "NNT 00 MON2 0137",
+        "Inist-CNRS record number 208459"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "75 p. ; 74 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bande interdite photonique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cristal photonique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diélectrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Défaut"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude théorique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fonction Wannier"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure bande"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transmission onde électromagnétique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photonic band gap"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photonic crystal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dielectric materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Defects"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Theoretical study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wannier functions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Band structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electromagnetic wave transmission"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cristal fotónico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dieléctrico"
+        },
+        "001B40B70Q: Matériaux à bande interdite photonique interdite / Photonic bandgap materials",
+        "4270Q:  / Photonic bandgap materials"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

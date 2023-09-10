@@ -1,0 +1,192 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Formats in cited references in goelogical journal literature, 1965-1985",
+    "dc:creator": [
+        "BUTKOVICH, N. J",
+        "GOMEZ, J",
+        "BAKER, V"
+    ],
+    "dc:relation": "Collection management -- Collect. manage, CODEN COMADF, ISSN 0146-2679, Vol. 16 (2) , pp. 61-73",
+    "dc:date": "1992",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Haworth Press",
+    "dc:format": [
+        "print",
+        "57 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bibliométrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bibliothéconomie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse citation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Besoin utilisateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chercheur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diversité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Développement collection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evolution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Format enregistrement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Géologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude utilisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Utilisation document"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bibliometrics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Librarianship"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Citation analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Statistical analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "User need"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Research worker"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diversity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Collection development"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Evolution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Record format"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Geology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Use study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Use document"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bibliometría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biblioteconomía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis cita"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis estadístico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Necesidad usuario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Investigator"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diversidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desarrollo colección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evolución"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Formato grabación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Geología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation",
+        "001A01D01: Documents primaires / Primary documents",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-E: Sources d'information spécialisée / Specialized information sources"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4898304"
+}

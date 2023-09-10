@@ -1,0 +1,149 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Laser pulse length dependence of internal energy transfer in UV-MALDI-MS",
+    "dc:creator": [
+        "VERTES, A",
+        "LUO, G",
+        "YE, L",
+        "CHEN, Y",
+        "MARGINEAN, I"
+    ],
+    "dc:contributor": [
+        "FOTAKIS, C (Editor)",
+        "KOINUMA, H (Editor)",
+        "LOWNDES, D (Editor)",
+        "STUKE, M (Editor)",
+        "COLA'03 International Conference on Laser Ablation (7 ; Crete 2003-10-05)"
+    ],
+    "dc:relation": [
+        "Applied physics. A, Materials science & processing (Print) -- Appl. phys., A Mater. sci. process. (Print), ISSN 0947-8396, Vol. 79 (4-6) , pp. 823-825",
+        "Special Issue on Laser Ablation"
+    ],
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "3 p. ; 26 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé organique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Désorption"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Faisceau laser"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fluence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Impulsion laser"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ionisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rayonnement UV"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectrométrie masse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transfert énergie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Organic compounds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Desorption"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laser beam"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fluence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laser pulse"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ionization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ultraviolet radiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mass spectrometry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Energy transfer"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Compuesto orgánico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desorción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Haz láser"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fluencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Impulsión láser"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ionización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radiación ultravioleta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Espectrometría masa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transferencia energía"
+        },
+        "001C01A02: Théorie des réactions, cinétique générale / Theory of reactions, general kinetics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16015156"
+}

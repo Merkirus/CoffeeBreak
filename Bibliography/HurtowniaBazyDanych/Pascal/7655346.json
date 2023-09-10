@@ -1,0 +1,65 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Avances en la historia de la geometría contemporánea española durante el ´ultimo cuarto de siglo; Advances in contemporary history of geometry in Spain during the last quarter of the century",
+    "dc:creator": "ESPANOL GONZALEZ, Luis",
+    "dc:relation": "Llull -- Llull, ISSN 0210-8615, Vol. 26 (57) , pp. 809-836",
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "Spanish, Castilian",
+    "dc:publisher": "Sociedad Española de Historia de las Ciencias y de las Tecnicas",
+    "dc:format": [
+        "print",
+        "28 p. ; 7 p.3/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Géométrie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Geometry"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "GeometrÍa"
+        },
+        "522-: Histoire des sciences et des techniques / History of science and technology",
+        "522-57: Sciences et techniques mathematiques / Mathematical sciences and techniques",
+        "522-68: XXe siècle / 20th century"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Espagne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Siècle 20"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Century 20"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "España"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Siglo 20"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16623743"
+}

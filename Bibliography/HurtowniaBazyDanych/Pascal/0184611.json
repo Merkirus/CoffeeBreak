@@ -1,0 +1,97 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SUR QUELQUES OSTRACODES DU LIAS DU BASSIN PARISIEN.",
+    "dc:creator": "BIZON JJ",
+    "dc:date": "1960",
+    "dc:type": "Miscellaneous",
+    "dc:language": "French",
+    "dc:format": "REV. MICROPALEONTOL.- FR; FRA; 1960(3), VOL. 2, NUM. 0004, P. 203 A 211",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "OSTRACODA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LIAS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CALVADOS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RANVILLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PALEONTOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CRUSTACEA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ARTHROPODA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INVERTEBRATA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SECONDAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BASSIN PARISIEN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FRANCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EUROPE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OSTRACODA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIAS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CALVADOS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PALEONTOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        "001E01Q: Paléontologie / Paleontology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number GEODEBRGMFR2073784"
+}

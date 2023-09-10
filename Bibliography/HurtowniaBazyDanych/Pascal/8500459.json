@@ -1,0 +1,110 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Boileau and the sound of satire",
+    "dc:creator": "WYGANT, A",
+    "dc:relation": "Forum for modern language studies -- Forum mod. lang. stud, ISSN 0015-8518, Vol. 31 (2) , pp. 128-139",
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Scottish Academic Press",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Boileau (N.)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mot"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Musicalité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Musique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Opéra"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Poésie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rime"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Satire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prologue d'opéra"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Boileau (N.)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Word"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Musicality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Music"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Opera"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Poetry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rhyme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Satire"
+        },
+        "523-: Histoire et sciences de la litterature / History and sciences of litterature",
+        "523-36: Histoire de la littérature / History of literature",
+        "523-170: Anonymes. Auteurs / Anonymous writers. Authors"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Siècle 17"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Century 17"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3280301"
+}

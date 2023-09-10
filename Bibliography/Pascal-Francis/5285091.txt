@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Optimization of the base electrode for InGaAs/InP DHBT structures with a buried emitter-base junction</dc:title>
+  <dc:creator>KOPF, R. F</dc:creator>
+  <dc:creator>HAMM, R. A</dc:creator>
+  <dc:creator>RYAN, R. W</dc:creator>
+  <dc:creator>TATE, A</dc:creator>
+  <dc:creator>BURM, J</dc:creator>
+  <dc:contributor>GHOSH, G (Editor)</dc:contributor>
+  <dc:contributor>KANG, S (Editor)</dc:contributor>
+  <dc:contributor>MURTY, K. L (Editor)</dc:contributor>
+  <dc:contributor>NOTIS, M (Editor)</dc:contributor>
+  <dc:contributor>Minerals, Metals &amp; Materials Society's EMPMD Electronic Packaging and Interconnection Materials Committee (Funder/Sponsor)</dc:contributor>
+  <dc:contributor>Interfacial Reactions, Solid State Transformations and Thermal Management. Symposium (San Antonio, TX 1998-02)</dc:contributor>
+  <dc:relation>Journal of electronic materials -- J. electron. mater, CODEN JECMA5, ISSN 0361-5235, Vol. 27 (11) , pp. 1244-1247</dc:relation>
+  <dc:relation>Interfacial Reactions, Solid State Transformations and Thermal Management. Symposium</dc:relation>
+  <dc:date>1998</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Conference Paper</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>Institute of Electrical and Electronics Engineers</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>8 ref</dc:format>
+  <dc:subject xml:lang="fr">Base transistor</dc:subject>
+  <dc:subject xml:lang="fr">Composé III-V</dc:subject>
+  <dc:subject xml:lang="fr">Composé binaire</dc:subject>
+  <dc:subject xml:lang="fr">Composé ternaire</dc:subject>
+  <dc:subject xml:lang="fr">Densité courant</dc:subject>
+  <dc:subject xml:lang="fr">Diffusion</dc:subject>
+  <dc:subject xml:lang="fr">Fabrication microélectronique</dc:subject>
+  <dc:subject xml:lang="fr">Fiabilité</dc:subject>
+  <dc:subject xml:lang="fr">Fréquence</dc:subject>
+  <dc:subject xml:lang="fr">Gallium Arséniure</dc:subject>
+  <dc:subject xml:lang="fr">Hétérojonction double</dc:subject>
+  <dc:subject xml:lang="fr">Indium Arséniure</dc:subject>
+  <dc:subject xml:lang="fr">Indium Phosphure</dc:subject>
+  <dc:subject xml:lang="fr">Métallisation</dc:subject>
+  <dc:subject xml:lang="fr">Recuit</dc:subject>
+  <dc:subject xml:lang="fr">Résistance contact</dc:subject>
+  <dc:subject xml:lang="fr">Résistivité couche</dc:subject>
+  <dc:subject xml:lang="fr">Rétrodiffusion Rutherford</dc:subject>
+  <dc:subject xml:lang="fr">Transistor bipolaire</dc:subject>
+  <dc:subject xml:lang="fr">Transistor hétérojonction</dc:subject>
+  <dc:subject xml:lang="fr">As Ga In</dc:subject>
+  <dc:subject xml:lang="fr">In P</dc:subject>
+  <dc:subject xml:lang="fr">InGaAs</dc:subject>
+  <dc:subject xml:lang="fr">InP</dc:subject>
+  <dc:subject xml:lang="en">Transistor base</dc:subject>
+  <dc:subject xml:lang="en">III-V compound</dc:subject>
+  <dc:subject xml:lang="en">Binary compound</dc:subject>
+  <dc:subject xml:lang="en">Ternary compound</dc:subject>
+  <dc:subject xml:lang="en">Current density</dc:subject>
+  <dc:subject xml:lang="en">Diffusion</dc:subject>
+  <dc:subject xml:lang="en">Microelectronic fabrication</dc:subject>
+  <dc:subject xml:lang="en">Reliability</dc:subject>
+  <dc:subject xml:lang="en">Frequency</dc:subject>
+  <dc:subject xml:lang="en">Gallium Arsenides</dc:subject>
+  <dc:subject xml:lang="en">Double heterojunction</dc:subject>
+  <dc:subject xml:lang="en">Indium Arsenides</dc:subject>
+  <dc:subject xml:lang="en">Indium Phosphides</dc:subject>
+  <dc:subject xml:lang="en">Metallizing</dc:subject>
+  <dc:subject xml:lang="en">Annealing</dc:subject>
+  <dc:subject xml:lang="en">Contact resistance</dc:subject>
+  <dc:subject xml:lang="en">Sheet resistivity</dc:subject>
+  <dc:subject xml:lang="en">Rutherford backscattering</dc:subject>
+  <dc:subject xml:lang="en">Bipolar transistor</dc:subject>
+  <dc:subject xml:lang="en">Heterojunction transistor</dc:subject>
+  <dc:subject xml:lang="es">Base transistor</dc:subject>
+  <dc:subject xml:lang="es">Compuesto III-V</dc:subject>
+  <dc:subject xml:lang="es">Compuesto binario</dc:subject>
+  <dc:subject xml:lang="es">Compuesto ternario</dc:subject>
+  <dc:subject xml:lang="es">Densidad corriente</dc:subject>
+  <dc:subject xml:lang="es">Difusión</dc:subject>
+  <dc:subject xml:lang="es">Fabricación microeléctrica</dc:subject>
+  <dc:subject xml:lang="es">Fiabilidad</dc:subject>
+  <dc:subject xml:lang="es">Frecuencia</dc:subject>
+  <dc:subject xml:lang="es">Galio Arseniuro</dc:subject>
+  <dc:subject xml:lang="es">Heterounión doble</dc:subject>
+  <dc:subject xml:lang="es">Indio Arseniuro</dc:subject>
+  <dc:subject xml:lang="es">Indio Fosfuro</dc:subject>
+  <dc:subject xml:lang="es">Metalización</dc:subject>
+  <dc:subject xml:lang="es">Recocido</dc:subject>
+  <dc:subject xml:lang="es">Resistencia contacto</dc:subject>
+  <dc:subject xml:lang="es">Resistividad capa</dc:subject>
+  <dc:subject xml:lang="es">Retrodifusión Rutherford</dc:subject>
+  <dc:subject xml:lang="es">Transistor bipolar</dc:subject>
+  <dc:subject xml:lang="es">Transistor heterounión</dc:subject>
+  <dc:subject>001D03F17: Fabrication microélectronique (technologie des matériaux et des surfaces) / Microelectronic fabrication (materials and surfaces technology)</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 1634265</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

@@ -1,0 +1,111 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Controllable time dependent and dual band emission infrared source to test missile warning systems in-flight: system characterization",
+    "dc:creator": [
+        "CABIB, Dario",
+        "DAVIDZON, Larry",
+        "GIL, Amir"
+    ],
+    "dc:contributor": [
+        "Holst, Gerald C (Editor)",
+        "SPIE (Organiser of meeting)",
+        "Infrared imaging systems (20 ; Orlando FL 2009)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, Vol. 7300",
+        "Infrared imaging systems (design, analysis, modeling, and testing XX)"
+    ],
+    "dc:date": "2009",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "73000W.1-73000W.7 ; 7 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Application militaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Détecteur IR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Détecteur rayonnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Imagerie thermique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rayonnement IR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Source IR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Source rayonnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0130C"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0757K"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "8920D"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Military application"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infrared detectors"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiation detectors"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermal imaging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infrared radiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infrared sources"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiation sources"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aplicación militar"
+        },
+        "001B00A30C: Actes de congrès / Conference proceedings",
+        "001B00G57K: Bolomètres; récepteurs et détecteurs en infrarouge, onde submillimétrique, hyperfréquence et radiofréquence / Bolometer; infrared, submillimeter wave, microwave and radiowave receivers and detectors",
+        "001D17: Techniques et industries diverses / Other techniques and industries"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 22180324"
+}

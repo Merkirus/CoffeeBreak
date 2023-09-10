@@ -1,0 +1,84 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "LE COUPLE ELECTROMAGNETIQUE D'UN FREIN A FAIBLE INERTIE A ROTOR AMAGNETIQUE CREUX DE CONFIGURATION COMPLEXE",
+    "dc:creator": [
+        "KHAJRULLIN I KH",
+        "AFANAS'EV YU V"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "ELEKTRICHESTVO; S.S.S.R.; DA. 1977; NO 4; PP. 42-47; BIBL. 10 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "FREINAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FREIN ELECTROMAGNETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COUPLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE CALCUL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHAMP MAGNETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EFFET BORD"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MACHINE CIRCUIT AMAGNETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROMAGNETISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROTECHNIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROMAGNETIC BRAKE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CALCULATING METHOD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MAGNETIC FIELD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EDGE EFFECT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IRONLESS CIRCUIT MACHINE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROMAGNETISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRICAL ENGINEERING"
+        },
+        "001D05: Electrotechnique. Electroenergetique / Electrical engineering. Electrical power engineering"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7730340911"
+}

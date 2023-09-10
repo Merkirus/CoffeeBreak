@@ -1,0 +1,257 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Investigation of flow and heat transfer in corrugated-undulated plate heat exchangers",
+    "dc:creator": [
+        "CIOFALO, M",
+        "DI PIAZZA, I",
+        "STASIEK, J. A"
+    ],
+    "dc:relation": "Heat and mass transfer -- Heat mass transf -- Wärme - und Stoffübertragung, ISSN 0947-7411, Vol. 36 (5) , pp. 449-462",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Springer",
+        "Springer"
+    ],
+    "dc:format": [
+        "print",
+        "17 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Champ écoulement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Coefficient frottement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Coefficient transfert chaleur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Corrélation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dispositif cristaux liquides"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Echangeur plaque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Multigrille"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode volume fini"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nombre Nusselt"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nombre Reynolds faible"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Perte charge"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plaque ondulée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation numérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure turbulence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Surface cannelée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thermographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transfert chaleur"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Flow field"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Friction coefficient"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heat transfer coefficient"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Correlation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Liquid crystal devices"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plate heat exchanger"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multigrid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Finite volume method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nusselt number"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Low Reynolds number"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pressure drop"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Corrugated plate"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Numerical simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Turbulence structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Corrugated surface"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heat transfer"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Campo flujo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Coeficiente roce"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Coeficiente transmisión calor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Correlación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Intercambiador placas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Multigrilla"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método volumen finito"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Número Nusselt"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Número Reynolds débil"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pérdida carga"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Placa ondulada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simulación numérica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estructura turbulencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Superficie acanalada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Termografía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transferencia térmica"
+        },
+        "001D06: Energie / Energy",
+        "001D06D07D: Echangeurs de chaleur (y compris transformateurs de chaleur, tours de refroidissement, condenseurs) / Heat exchangers (included heat transformers, condensers, cooling towers)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1483499"
+}

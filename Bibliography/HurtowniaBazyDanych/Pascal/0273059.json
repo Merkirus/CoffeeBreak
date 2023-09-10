@@ -1,0 +1,62 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DER EINFLUSS DER ABKUEHLUNGSGESCHWINDIGKEIT AUF DIE RISSEMPFINDLICHKEIT DES WAELZLAGERSTAHLS; INFLUENCE DE LA VITESSE DE REFROIDISSEMENT SUR LA SENSIBILITE A LA FISSURATION DE L'ACIER POUR PALIERS DE ROULEMENT",
+    "dc:creator": [
+        "TSUSHIMA N",
+        "KATO O",
+        "MURO H",
+        "HACKENBERG P"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "HAERT.-TECH. MITT.; DEU; DA. 1979; VOL. 34; NO 2; PP. 72-82; BIBL. 6 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ACIER POUR ROULEMENTS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TREMPE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VITESSE REFROIDISSEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FISSURATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TAPURE TREMPE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "QUENCHING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COOLING RATE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "QUENCH CRACK"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METALLURGY"
+        },
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7900361527"
+}

@@ -1,0 +1,60 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "PHEOCHROMOCYTOMA: CURRENT DIAGNOSIS AND MANAGEMENT",
+    "dc:creator": [
+        "SCOTT HW JR",
+        "OATES JA",
+        "NIES AS",
+        "BURKO H",
+        "PAGE DL",
+        "RHAMY RK"
+    ],
+    "dc:date": "1975",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "BULL. SOC. INTERNATION. CHIR.; BELG.; DA. 1975; VOL. 34; NO 5; PP. 443-447; ABS. FR.; BIBL. 8 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PHEOCHROMOCYTOME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETIOPATHOGENIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TUMEUR MALIGNE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SURRENALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIAGNOSTIC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENDOCRINOPATHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SURRENALE PATHOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENDOCRINOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENDOCRINOLOGY"
+        },
+        "002A29: Vertebres: reproduction / Vertebrates: reproduction"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7650292550"
+}

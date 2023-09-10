@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Dynamic heap type inference for program understanding and debugging</dc:title>
+  <dc:creator>POLISHCHUK, Marina</dc:creator>
+  <dc:creator>LIBLIT, Ben</dc:creator>
+  <dc:creator>SCHUIZE, W</dc:creator>
+  <dc:contributor>Association for Computing Machinery (ACM), Special Interest Group on Programming Languages (SIGPLAN)Special Interest Group on Algorithms and Computation Theory (SIGACT) (Organiser of meeting)</dc:contributor>
+  <dc:contributor>POPL® 2007 ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages® (34 ; Nice 2007-01-17)</dc:contributor>
+  <dc:relation>ACM SIGPLAN notices -- ACM SIGPLAN not, ISSN 1523-2867, Vol. 42 (1) , pp. 39-46</dc:relation>
+  <dc:relation>POPL® 2007: The 34th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages®: Papers presented at the Symposium, January 17-19, 2007, Nice, France</dc:relation>
+  <dc:date>2007</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Conference Paper</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>ACM</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>8 p. ; 25 ref</dc:format>
+  <dc:subject xml:lang="fr">Accès mémoire</dc:subject>
+  <dc:subject xml:lang="fr">Analyse information</dc:subject>
+  <dc:subject xml:lang="fr">Analyse symbolique</dc:subject>
+  <dc:subject xml:lang="fr">Annotation</dc:subject>
+  <dc:subject xml:lang="fr">Débogage</dc:subject>
+  <dc:subject xml:lang="fr">Facteur humain</dc:subject>
+  <dc:subject xml:lang="fr">Fiabilité</dc:subject>
+  <dc:subject xml:lang="fr">Gestion mémoire</dc:subject>
+  <dc:subject xml:lang="fr">Langage programmation</dc:subject>
+  <dc:subject xml:lang="fr">Localisation</dc:subject>
+  <dc:subject xml:lang="fr">Programme débogage</dc:subject>
+  <dc:subject xml:lang="fr">Ramasse-miettes</dc:subject>
+  <dc:subject xml:lang="fr">Soustype</dc:subject>
+  <dc:subject xml:lang="fr">Sécurité</dc:subject>
+  <dc:subject xml:lang="fr">Théorie type</dc:subject>
+  <dc:subject xml:lang="fr">Visualisation</dc:subject>
+  <dc:subject xml:lang="en">Storage access</dc:subject>
+  <dc:subject xml:lang="en">Information analysis</dc:subject>
+  <dc:subject xml:lang="en">Symbolic analysis</dc:subject>
+  <dc:subject xml:lang="en">Annotation</dc:subject>
+  <dc:subject xml:lang="en">Debugging</dc:subject>
+  <dc:subject xml:lang="en">Human factor</dc:subject>
+  <dc:subject xml:lang="en">Reliability</dc:subject>
+  <dc:subject xml:lang="en">Storage management</dc:subject>
+  <dc:subject xml:lang="en">Programming language</dc:subject>
+  <dc:subject xml:lang="en">Localization</dc:subject>
+  <dc:subject xml:lang="en">Debugging program</dc:subject>
+  <dc:subject xml:lang="en">Garbage collector</dc:subject>
+  <dc:subject xml:lang="en">Subtype</dc:subject>
+  <dc:subject xml:lang="en">Safety</dc:subject>
+  <dc:subject xml:lang="en">Type theory</dc:subject>
+  <dc:subject xml:lang="en">Visualization</dc:subject>
+  <dc:subject xml:lang="en">Algorithms</dc:subject>
+  <dc:subject xml:lang="en">Human Factors</dc:subject>
+  <dc:subject xml:lang="en">Languages</dc:subject>
+  <dc:subject xml:lang="en">Reliability</dc:subject>
+  <dc:subject xml:lang="en">conservative garbage collection</dc:subject>
+  <dc:subject xml:lang="en">constraints</dc:subject>
+  <dc:subject xml:lang="en">debugging tools</dc:subject>
+  <dc:subject xml:lang="en">dynamic type inference</dc:subject>
+  <dc:subject xml:lang="en">heap visualization</dc:subject>
+  <dc:subject xml:lang="en">physical subtyping</dc:subject>
+  <dc:subject xml:lang="es">Acceso memoria</dc:subject>
+  <dc:subject xml:lang="es">Análisis simbolico</dc:subject>
+  <dc:subject xml:lang="es">Anotación</dc:subject>
+  <dc:subject xml:lang="es">Puesta a punto programa</dc:subject>
+  <dc:subject xml:lang="es">Factor humano</dc:subject>
+  <dc:subject xml:lang="es">Fiabilidad</dc:subject>
+  <dc:subject xml:lang="es">Gestión memoria</dc:subject>
+  <dc:subject xml:lang="es">Lenguaje programación</dc:subject>
+  <dc:subject xml:lang="es">Localización</dc:subject>
+  <dc:subject xml:lang="es">Programa puesta a punto</dc:subject>
+  <dc:subject xml:lang="es">Recogemigas</dc:subject>
+  <dc:subject xml:lang="es">Subtipo</dc:subject>
+  <dc:subject xml:lang="es">Seguridad</dc:subject>
+  <dc:subject xml:lang="es">Visualización</dc:subject>
+  <dc:subject>001D02B02: Langages de programmation / Programming languages</dc:subject>
+  <dc:subject>001D02B07C: Gestion des mémoires et des fichiers (y compris la protection et la sécurité des fichiers) / Memory and file management (including protection and security)</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 18600637</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

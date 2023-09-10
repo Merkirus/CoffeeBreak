@@ -1,0 +1,266 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Prise en charge de l'hépatite C à la prison d'Aiton",
+    "dc:creator": "PIERRE, Sophie",
+    "dc:contributor": "Université Joseph Fourier Grenoble 1. Saint Martin d'Hères (Degree-grantor)",
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Thesis"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "71 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Flaviviridae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hepacivirus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Virose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Accessibilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Demande"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hépatite virale C"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu carcéral"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Refus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Service santé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Soin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Toxicomanie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Virus hépatite C"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Flaviviridae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hepacivirus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Viral disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Accessibility"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Demand"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Viral hepatitis C"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Carceral environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Refusal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Health service"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Care"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Drug addiction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hepatitis C virus"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Flaviviridae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hepacivirus"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Infección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Virosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Accesibilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Petición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hepatitis virica C"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio carcelario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rehuso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Servicio sanidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuidado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Toxicomanía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hepatitis C virus"
+        },
+        "002B30A11: Divers / Miscellaneous"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rhône Alpes"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Isère"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rhône Alpes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Isere"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rhône Alpes"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Isere"
+        }
+    ],
+    "dc:rights": [
+        "Banque de données en santé publique - Ecole des hautes études en santé publique (BDSP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17133051"
+}

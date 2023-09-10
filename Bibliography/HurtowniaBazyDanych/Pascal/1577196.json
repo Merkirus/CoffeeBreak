@@ -1,0 +1,57 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "FAMILIES OF PERIODIC COLLISION ORBITS IN THE GENERAL THREE-BODY PROBLEM",
+    "dc:creator": "DELIBALTAS P",
+    "dc:date": "1983",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "CELESTIAL MECHANICS; ISSN 0008-8714; NLD; DA. 1983; VOL. 29; NO 2; PP. 191-204; BIBL. 5 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PROBLEME 3 CORPS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORBITE PERIODIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COLLISION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REGULARISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ASTRONOMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THREE BODY PROBLEM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PERIODIC ORBIT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COLLISION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REGULARIZATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ASTRONOMY"
+        },
+        "001E03: Astronomie / Astronomy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0423620"
+}

@@ -1,0 +1,73 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "HEMODYNAMIQUE DU SUJET SAIN DANS DIVERS CAS DE PRESSION NEGATIVE AU NIVEAU DE LA MOITIE INFERIEURE DU CORPS",
+    "dc:creator": [
+        "ANDRIYAKO L YA",
+        "VOLOSHIN VG",
+        "DEGTYAREV VA"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "KOSM. BIOL. AVIAKOSM. MED.; S.S.S.R.; DA. 1977; VOL. 11; NO 1; PP. 50-54; ABS. ANGL.; BIBL. 24 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRESSION NEGATIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MEMBRE PELVIEN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HEMODYNAMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DEBIT SANGUIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RELATION AVEC"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NEGATIVE PRESSURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HINDLIMB"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEMODYNAMICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BLOOD FLOW"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEART"
+        },
+        "002A14: Ecologie animale, vegetale et microbienne / Animal, plant and microbial ecology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7750418461"
+}

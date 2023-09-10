@@ -1,0 +1,70 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ANEMIA APLASTICA IN CORSO DI EPATITE VIRALE.; ANEMIE APLASTIQUE AU COURS DE L'HEPATITE VIRALE",
+    "dc:creator": [
+        "GRILLONE W",
+        "PASQUALE A",
+        "VEGLIO V",
+        "BENDISCIOLI L"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "Italian",
+    "dc:format": "G. MAL. INFETT. PARASSIT.; ITAL.; DA. 1977; VOL. 29; NO 12; PP. 1030-1033; H.T. 1; ABS. ANGL.; BIBL. 31 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "HEPATITE VIRALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANEMIE APLASIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPLICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VIROSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HEMATOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VIRAL HEPATITIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "APLASTIC ANEMIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COMPLICATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VIRAL DISEASE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEMATOLOGY"
+        },
+        "002B19: Hemopathies / Hematologic and hematopoietic diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7850342313"
+}

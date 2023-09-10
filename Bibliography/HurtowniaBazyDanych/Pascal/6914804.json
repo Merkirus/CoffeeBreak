@@ -1,0 +1,189 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Discharge and fluvial sediment transport in a semi-arid high mountain catchment, Agua Negra, San Juan, Argentina",
+    "dc:creator": [
+        "BARSCH, D",
+        "HAPPOLDT, H",
+        "MÄUSBACHER, R",
+        "SCHROTT, L",
+        "SCHUKRAFT, G"
+    ],
+    "dc:contributor": [
+        "Schmidt, Karl-Heinz (Editor)",
+        "Ergenzinger, Peter (Editor)",
+        "International Geographical Union, Commission on Measurement, Theory and Application in Geomorphology (Organiser of meeting)",
+        "COMTAG-workshop on dynamics and geomorphology of mountain rivers (1992-06)"
+    ],
+    "dc:relation": [
+        "Lecture notes in earth sciences -- Lect. notes earth sci, ISSN 0930-0317, pp. 213-224",
+        "Dynamics and geomorphology of mountain rivers (Monastery of Benediktbeuern, June 1992)"
+    ],
+    "dc:date": "1994",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Springer Verlag",
+        "Springer Verlag"
+    ],
+    "dc:format": [
+        "print",
+        "Illustration ; 14 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bassin versant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Charge fond"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Débit rivière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Massif montagneux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matière en suspension"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu semi aride"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "San Juan"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transport fluviatile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Variation diurne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rivière Agua Negra"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "drainage basins"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "bedload"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "river discharge"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "mountains"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "suspended materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "semi-arid environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "San Juan"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "stream transport"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "diurnal variations"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuenca"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carga fondo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Caudal río"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Macizo montañoso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Materia en suspensión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio semi árido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transporte fluvial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Variación diurna"
+        },
+        "001E01P02: Quaternaire marin et continental / Marine and continental quaternary"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Sud"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Andes Argentine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Argentine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "South America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Argentine Andes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Argentina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del sur"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Andes Argentina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Argentina"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4034588"
+}

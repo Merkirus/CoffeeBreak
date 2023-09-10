@@ -1,0 +1,50 @@
+[
+    {
+        "position": 0,
+        "title": "On the welding of pyroclasts from very low-viscosity magmas: examples from kimberlite volcanoes",
+        "result_id": "I38NleUWGe0J",
+        "link": "https://www.journals.uchicago.edu/doi/abs/10.1086/588832",
+        "snippet": "\u2026 , structural, and petrographic evidence from two kimberlite \u2026 kimberlite bodies are present in many kimberlite pipes and the \u2026 foliations of silicic welded rocks (eg, eutaxitic textures, fiamme, \u2026",
+        "publication_info": {
+            "summary": "RJ Brown, B Buse, RSJ Sparks\u2026 - The Journal of \u2026, 2008 - journals.uchicago.edu",
+            "authors": [
+                {
+                    "name": "RJ Brown",
+                    "link": "https://scholar.google.com/citations?user=mmDupF8AAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=mmDupF8AAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "mmDupF8AAAAJ"
+                },
+                {
+                    "name": "RSJ Sparks",
+                    "link": "https://scholar.google.com/citations?user=Eq7l0AIAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Eq7l0AIAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "Eq7l0AIAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "researchgate.net",
+                "file_format": "PDF",
+                "link": "https://www.researchgate.net/profile/Richard-Brown-33/publication/252400855_On_the_Welding_of_Pyroclasts_from_Very_Low-Viscosity_Magmas_Examples_from_Kimberlite_Volcanoes/links/0c96052723e114fbf4000000/On-the-Welding-of-Pyroclasts-from-Very-Low-Viscosity-Magmas-Examples-from-Kimberlite-Volcanoes.pdf"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=I38NleUWGe0J",
+            "cited_by": {
+                "total": 47,
+                "link": "https://scholar.google.com/scholar?cites=17084711836710698787&as_sdt=5,33&sciodt=0,33&hl=en",
+                "cites_id": "17084711836710698787",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C33&cites=17084711836710698787&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:I38NleUWGe0J:scholar.google.com/&scioq=EUTAXITIC+STRUCTURES+IN+KIMBERLITIC+ROCKS+FROM+SOME+PIPES+OF+YAKUTIA.&hl=en&as_sdt=0,33",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C33&engine=google_scholar&hl=en&q=related%3AI38NleUWGe0J%3Ascholar.google.com%2F",
+            "versions": {
+                "total": 6,
+                "link": "https://scholar.google.com/scholar?cluster=17084711836710698787&hl=en&as_sdt=0,33",
+                "cluster_id": "17084711836710698787",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C33&cluster=17084711836710698787&engine=google_scholar&hl=en"
+            }
+        }
+    }
+]

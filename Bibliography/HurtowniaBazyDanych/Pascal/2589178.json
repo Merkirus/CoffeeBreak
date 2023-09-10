@@ -1,0 +1,60 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "RECONSTRUCTION OF A POLARIZED BRIGHTNESS DISTRIBUTION BY THE MAXIMUM ENTROPY METHOD",
+    "dc:creator": [
+        "NITYANANDA R",
+        "NARAYAN R"
+    ],
+    "dc:date": "1983",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "ASTRONOMY AND ASTROPHYSICS; ISSN 0004-6361; DEU; DA. 1983; VOL. 118; NO 1; PP. 194-196; BIBL. 12 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE MESURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LUMINOSITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE ENTROPIE MAXIMUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLARISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ASTRONOMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MEASUREMENT METHOD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LUMINOSITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METHOD OF MAXIMUM ENTROPY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLARIZATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ASTRONOMY"
+        },
+        "001E03: Astronomie / Astronomy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0280519"
+}

@@ -1,0 +1,127 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Zertifizierung von Softwareprodukten nach DIN ISO/IEC 12119; Attestation of software products after DIN ISO/IEC 12119",
+    "dc:creator": "KNORR, G",
+    "dc:relation": "Computer und Recht (Köln) -- Comput. Recht (Köln), ISSN 0179-1990, Vol. 13 (3) , pp. 180-181",
+    "dc:date": "1997",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "German",
+    "dc:publisher": "Schmidt",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Description"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gestion qualité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Logiciel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Norme ISO"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technologie information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIN ISO/IEC 12119"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Description"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quality management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Software"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ISO standard"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information technology"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Descripción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gestión calidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Logicial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Norma ISO"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tecnología información"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation",
+        "001A01A07: Aspects juridiques : propriété intellectuelle, responsabilité du producteur. Ethique / Legal aspects : intellectual property, producer responsability. Ethics",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-B: Sciences de l'information et des bibliothèques. Etude d'ensemble / Library and information science. General aspects"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Allemagne"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Germany"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alemania"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2613665"
+}

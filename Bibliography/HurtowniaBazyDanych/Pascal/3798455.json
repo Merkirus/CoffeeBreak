@@ -1,0 +1,76 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "LA SUTURE MECANIQUE APRES RESECTION ANTERIEURE DANS LES CANCERS DE LA JONCTION RECTO-SIGMOIDIENNE ET DU HAUT RECTUM",
+    "dc:creator": [
+        "GAUTIER BENOIT C",
+        "HODIN B"
+    ],
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "CHIRURGIE; FR.; DA. 1974; VOL. 100; NO 10; PP. 746-749; ABS. ANGL.; BIBL. 6REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TUMEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COLON SIGMOIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RECTUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RESECTION ANTERIEURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SUTURE CHIRURGICALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SUTURE MECANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIRURGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OBSERVATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TECHNIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RESULTAT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PATHOLOGIE DIGESTIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GASTROENTEROLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GASTROENTEROLOGY"
+        },
+        "002B13: Gastroenterologie. Foie. Pancreas. Abdomen / Gastroenterology. Liver. Pancreas. Abdomen"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7535402269"
+}

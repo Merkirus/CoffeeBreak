@@ -1,0 +1,69 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "INTERPRETATION DES PARAMETRES D'ORDRE DANS LE CAS DE CARBURES NON POLAIRES ORIENTES DANS LE POLYETHYLENE ETIRE",
+    "dc:creator": "LAMOTTE M",
+    "dc:date": "1975",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "J. CHIM. PHYS. PHYS.-CHIM. BIOL.; FR.; DA. 1975; VOL. 72; NO 6; PP. 803-808; ABS. ANGL.; BIBL. 28 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ETHYLENE POLYMERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FEUILLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETIRAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DICHROISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HYDROCARBURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE AROMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANISOTROPIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORIENTATION MOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SORPTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE MACROMOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLYMERES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MACROMOLECULAR CHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLYMERS"
+        },
+        "001D09: Physicochimie des polymeres / Physicochemistry of polymers"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7578013641"
+}

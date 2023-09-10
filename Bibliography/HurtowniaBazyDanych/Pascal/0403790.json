@@ -1,0 +1,85 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "LOETEN VON STAHL MIT KUPFER UNTER VAKUUM; LE BRASAGE SOUS VIDE DE L'ACIER AVEC LE CUIVRE",
+    "dc:creator": "SOLTAN S",
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "SCHWEISSTECHNIK; DDR; DA. 1978; VOL. 28; NO 9; PP. 393-397; ABS. ENG/RUS; LOC. IS",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "BRASAGE AU FOUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METAUX DISSEMBLABLES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CUIVRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACIER CONSTRUCTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PARAMETRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE EXPERIMENTALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROCEDE UTILISE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BRASAGE SOUS VIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOUDAGE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VACUUM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DISSIMILAR METALS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COPPER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STRUCTURAL STEEL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PARAMETER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXPERIMENTAL STUDY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WELDING"
+        },
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALSOUDAGE7900145346"
+}

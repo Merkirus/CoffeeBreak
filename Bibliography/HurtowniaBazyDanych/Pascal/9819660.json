@@ -1,0 +1,163 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Analysis of interlaboratory performance in the determination of total selenium in water",
+    "dc:creator": [
+        "STEINHOFF, P. J",
+        "SMITH, B. W",
+        "WARNER, D. W",
+        "MÖLLER, G"
+    ],
+    "dc:relation": "Journal of AOAC International -- J. AOAC Int, ISSN 1060-3271, Vol. 82 (6) , pp. 1466-1473",
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "AOAC International",
+    "dc:format": [
+        "print",
+        "19 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Elément minéral"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Toxique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eau usée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude comparative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fiabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode analyse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pollution eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résultat mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sélénium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inorganic element"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Poison"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Statistical analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Waste water"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reliability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Analysis method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water pollution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measurement result"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Selenium"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Elemento inorgánico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tóxico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis estadístico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agua residual"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio comparativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fiabilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método análisis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contaminación agua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resultado medición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Selenio"
+        },
+        "001D16A04A: Méthodes d'analyse / Analysis methods",
+        "002A14D05C: Ecosystèmes terrestres, sol, air / Terrestrial environment, soil, air"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1261262"
+}

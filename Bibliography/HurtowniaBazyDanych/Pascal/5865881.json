@@ -1,0 +1,302 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SITES ET SOLS POLLUÉS. TECHNIQUES DE DÉPOLLUTION EX SITU OU ON SITE; Polluted sites and soils: Techniques of ex situ or on site cleanup",
+    "dc:relation": "Le Moniteur des travaux publics et du bâtiment -- Monit. trav. publics bâtim, CODEN MTPUAS, ISSN 0026-9700 (5675)",
+    "dc:date": "2012",
+    "dc:type": [
+        "Text",
+        "Serial Issue"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Groupe Moniteur",
+    "dc:format": [
+        "print",
+        "33 p. ; CAH2"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Compostage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Coût"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Critère sélection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effluent gazeux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effluent liquide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude méthode"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Excavation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gestion déchet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Granulométrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Incinération"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lavage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lutte antipollution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode biologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode physique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode thermique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Piégeage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polluant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pollution sol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Solidification"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stabilisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stockage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thermodésorption"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Composting"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Costs"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Selection criterion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gaseous effluent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Liquid effluent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Method study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Excavating"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Waste management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Grain size analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Incineration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Washing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pollution control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biological method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Physical method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermal method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Trapping"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pollutant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Soil pollution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Solidification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stabilization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Storage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Technology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermodesorption"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Compostaje"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Coste"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Criterio selección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efluente gaseoso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efluente líquido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio método"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Excavación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento desperdicios"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Granulometría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Incineración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lavado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lucha anticontaminación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método biológico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método físico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método térmico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Captura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contaminante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polución suelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Solidificación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estabilización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Almacenamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tecnología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desabsorción térmica"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works",
+        "001D14F07: Divers / Miscellaneous",
+        "001D16D05: Décontamination. Divers / Decontamination. Miscellaneous"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 26221560"
+}

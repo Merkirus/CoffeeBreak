@@ -1,0 +1,115 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "PHOTOCHROMIE DES PERI-ARYLOXY-N-QUINONES. DETERMINATION DES COEFFICIENTS MOLAIRES D'ABSORPTION DES PHENOXY-6 NAPHTACENQUINONES-6,11",
+    "dc:creator": [
+        "GERASIMENKO YU E",
+        "PARSHUTKIN AA",
+        "POTELESHCHENKO NT",
+        "POTELESHCHENKO VP",
+        "ROMANOV VV"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "ZH. PRIKL. SPEKTROSK.; BYS; DA. 1979; VOL. 30; NO 5; PP. 954-956; ABS. ENG; BIBL. 3 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "QUINONE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE TETRACYCLIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOLUTION CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EFFET SUBSTITUANT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTRE VISIBLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DEPLACEMENT SPECTRAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHOTOCHROMISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE EXPERIMENTALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NAPHTACENEQUINONE-5,11(PHENOXY-6)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE ORGANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE MOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE ATOMIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "QUINONE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TETRACYCLIC COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL SOLUTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SUBSTITUENT EFFECT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VISIBLE SPECTRUM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SPECTRAL SHIFT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHOTOCHROMISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXPERIMENTAL STUDY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORGANIC COMPOUNDS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOLECULAR PHYSICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ATOMIC PHYSICS"
+        },
+        "001B30: Physique atomique et moleculaire / Atomic and molecular physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7940374059"
+}

@@ -1,0 +1,175 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Citoyenneté et éducation: vers une pratique significative",
+    "dc:contributor": "TEDESCO, J.C (Author of introductory parts)",
+    "dc:creator": [
+        "GINTIS, H",
+        "GARCIA, T",
+        "KOULANINGA, A",
+        "VELDHUIS, R",
+        "ALBALA-BERTRAND, L",
+        "INGLEHART, R",
+        "NIEMI, R.G",
+        "JUNN, J",
+        "BIRZEA, C",
+        "GARRETON, M.A",
+        "DOISE, W",
+        "PITHA, P"
+    ],
+    "dc:relation": "Perspectives - Unesco -- Perspectives - Unesco, ISSN 0304-3045 (100) , pp. 666-831",
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Serial Issue"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Unesco",
+    "dc:format": [
+        "print",
+        "dissem"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Communisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enseignement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude comparée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mutation de la société"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pays en développement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Relations avec les administrés"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tchèque (République)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Citoyenneté"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Communism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Teaching"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative Study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metamorphosis of Society"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Developing Country"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Relations with Citizens"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Czech (Republic)"
+        },
+        "528-: Science administrative / Administrative science",
+        "528-37: Structure administrative / Administrative structures",
+        "528-194: Généralités / General concepts"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Afrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Sud"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique latine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats-Unis"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nicaragua"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "République Centrafricaine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Scandinavie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Africa"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "South America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Latin America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States of America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nicaragua"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central African Republic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Scandinavia"
+        }
+    ],
+    "dc:rights": [
+        "Centre d'Etude et de Recherche en Sciences Administratives (CERSA)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6284277"
+}

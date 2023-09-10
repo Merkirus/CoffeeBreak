@@ -1,0 +1,96 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SPIN-CIPSI CALCULATIONS ON H2CO.",
+    "dc:creator": [
+        "GOUYET JF",
+        "PRAT MT"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. CHEM. PHYS.; U.S.A.; DA. 1976; VOL. 64; NO 3; PP. 946-955; BIBL. 20 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE ALIPHATIQUE SATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALDEHYDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETAT FONDAMENTAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETAT EXCITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORBITALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORBITALE GAUSSIENNE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE TOTALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSITION ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE TRANSITION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE AB INITIO"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE SCF"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTERACTION CONFIGURATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FORMALDEHYDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE THEORIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE ORGANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE ATOMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE MOLECULAIRE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ATOMIC PHYSICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOLECULAR PHYSICS"
+        },
+        "001B30: Physique atomique et moleculaire / Atomic and molecular physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7640186182"
+}

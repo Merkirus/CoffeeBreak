@@ -1,0 +1,257 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Intermediate band position modulated by Zn addition in Ti doped CuGaS2",
+    "dc:creator": [
+        "SEMINOVSKI, Y",
+        "PALACIOS, P",
+        "WAHNON, P"
+    ],
+    "dc:contributor": [
+        "ROMEO, Alessandro (Editor)",
+        "SCHEER, Roland (Editor)",
+        "GUILLEMOLEs, Jean François (Editor)",
+        "YAMADA, Akira (Editor)",
+        "ABOU-RAS, Daniel (Editor)",
+        "the European Materials Research Society E-MRS (Organiser of meeting)",
+        "EMRS Spring Meeting Symposium M: Thin Film Chalcogenide Photovoltaic Materials (10 ; Strasbourg 2010-06-07)"
+    ],
+    "dc:relation": [
+        "Thin solid films -- Thin solid films, CODEN THSFAP, ISSN 0040-6090, Vol. 519 (21) , pp. 7517-7521",
+        "Proceedings of the EMRS 2010 Spring Meeting Symposium M: Thin Film Chalcogenide Photovoltaic Materials Strasbourg, France"
+    ],
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "5 p. ; 18 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Addition zinc"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bande interdite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Calcul ab initio"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cellule solaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chalcopyrite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Densité état électron"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dopage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude théorique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gallium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode fonctionnelle densité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Semiconducteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sulfure de cuivre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sulfure de gallium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Titane"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "7115M"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "7320A"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "7350"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "8460J"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CuGaS2"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Zinc addition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Energy gap"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ab initio calculations"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Solar cell"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chalcopyrite"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic density of states"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Doping"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Theoretical study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gallium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Density functional method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Semiconductor materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Copper sulfide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gallium sulfide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Titanium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chalcopyrite"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Intermediate band materials"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adición zinc"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Banda prohibida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Célula solar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Calcopirita"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Doping"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio teórico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Galio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad electrónica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Semiconductor(material)"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estructura electrónica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cobre sulfuro"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Galio sulfuro"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Titanio"
+        },
+        "001B70A15: Méthodes de calcul de structure électronique / Methods of electronic structure calculations",
+        "001B70C20A: Etats de surface, structure de bande, densité d'états électroniques / Surface states, band structure, electron density of states",
+        "001B70C50: Phénomènes de transport électronique dans les couches minces et les structures de basse dimensionnalité / Electronic transport phenomena in thin films and low-dimensional structures",
+        "001D06: Energie / Energy",
+        "001D06C02D1: Cellules solaires. Cellules photoélectrochimiques / Solar cells. Photoelectrochemical cells"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 24536638"
+}

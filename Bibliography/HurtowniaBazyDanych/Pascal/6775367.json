@@ -1,0 +1,175 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Lithium and Boron Based Semiconductors for Thermal Neutron Counting",
+    "dc:creator": [
+        "KARGAR, Alireza",
+        "TOWER, Joshua",
+        "HUICONG HONG",
+        "CIRIGNANO, Leonard",
+        "HIGGINS, William",
+        "SHAH, Kanai"
+    ],
+    "dc:contributor": [
+        "Franks, Larry A (Editor)",
+        "James, Ralph B (Editor)",
+        "Burger, Arnold (Editor)",
+        "SPIE (Organiser of meeting)",
+        "Hard x-ray, gamma-ray, and neutron detector physics. Conference (13 ; San Diego CA 2011-08-22)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, Vol. 8142",
+        "Hard x-ray, gamma-ray, and neutron detector physics XIII (22-24 August 2011, San Diego, California, United States)"
+    ],
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "81421P.1-81421P.8 ; 6 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Caractéristique courant tension"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé ternaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dispositif semiconducteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Détecteur neutron"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Détecteur rayonnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Détecteur thermique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ethylène polymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lithium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rayonnement gamma"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rayonnement ionisant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Source gamma"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Source rayonnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Séléniure d'indium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Séléniure de lithium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0130C"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0785F"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "In Li Se"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LiInSe2"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IV characteristic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ternary compounds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Semiconductor devices"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neutron detectors"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiation detectors"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermal detector"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polyethylenes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lithium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gamma radiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ionizing radiations"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gamma sources"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiation sources"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Indium selenides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lithium selenides"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Detector térmico"
+        },
+        "001B00A30C: Actes de congrès / Conference proceedings",
+        "001B00G85F: Sources, miroirs, réseaux et détecteurs dans le domaine x et γ / X- and γ-ray sources, mirrors, gratings and detectors"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 25441083"
+}

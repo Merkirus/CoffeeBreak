@@ -1,0 +1,147 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Ritzzeichnungen auf Keramik vom keltischen Oppidum Staré Hradisko",
+    "dc:creator": "CIŽMÁŘ, M",
+    "dc:relation": "Germania, Vol. 70 (2) , pp. 427-429",
+    "dc:date": "1992",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "German",
+    "dc:format": [
+        "print",
+        "Illustration"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Art"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Céramique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Décor"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecriture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fibule"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Figuration d'objet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gravure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Iconographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Parure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Signe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Art"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ceramic (culture);Ceramics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Decoration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Writing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fibula"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Representation of object"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Engraving"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Iconography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ornament"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sign"
+        },
+        "525-46: Europe / Europe",
+        "525-119: La Tène / La Tene"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Malé Hradisko"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Staré Hradisko"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tchécoslovaquie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fer"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "La Tène II"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Czechoslovakia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Iron"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "La Tene II"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6513181"
+}

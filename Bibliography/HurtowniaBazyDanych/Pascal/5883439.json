@@ -1,0 +1,198 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Status of the GAMMA-400 project",
+    "dc:creator": [
+        "GALPER, A. M",
+        "ADRIANI, O",
+        "FRADKIN, M. I",
+        "KACHANOV, V. A",
+        "KAPLIN, V. A",
+        "KHEYMITS, M. D",
+        "LEONOV, A. A",
+        "LONGO, F",
+        "MAESTRO, P",
+        "MARROCCHESI, P",
+        "MAZETS, E. P",
+        "MOCCHIUTTI, E",
+        "APTEKAR, R. L",
+        "MOISEEV, A. A",
+        "MORI, N",
+        "MOSKALENKO, I",
+        "NAUMOV, P. Yu",
+        "PAPINI, P",
+        "PICOZZA, P",
+        "RODIN, V. G",
+        "RUNTSO, M. F",
+        "SPARVOLI, R",
+        "SPILLANTINI, P",
+        "ARKHANGELSKAJA, I. V",
+        "SUCHKOV, S. I",
+        "TAVANI, M",
+        "TOPCHIEV, N. P",
+        "VACCHI, A",
+        "VANNUCCINI, E",
+        "YURKIN, Yu. T",
+        "ZAMPA, N",
+        "ZVEREV, V. G",
+        "ARKHANGELSKIY, A. I",
+        "BOEZIO, M",
+        "BONVICINI, V",
+        "BOYARCHUK, K. A",
+        "GUSAKOV, Yu. V",
+        "FARBER, M. O"
+    ],
+    "dc:contributor": "SPARVOLI, Roberta (Editor)",
+    "dc:relation": "Advances in space research -- Adv. space res, CODEN ASRSDW, ISSN 0273-1177, Vol. 51 (2) , pp. 297-300",
+    "dc:date": "2013",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "Russian",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "4 p. ; 3/4 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Domaine énergie MeV"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Electron cosmique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Emission gamma"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matière sombre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Observatoire spatial"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Positon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Proton"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rayonnement cosmique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rayonnement gamma"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recherche spatiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Source Rγ extragalactique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sursaut Rγ"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MeV range"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cosmic electrons"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gamma emission"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dark matter"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spatial observatory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Positrons"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Protons"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cosmic radiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gamma radiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Space research"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Extragalactic γ ray source"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gamma ray burst"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cosmic rays"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrons"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gamma rays"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nuclei"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Positrons"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Emisión gamma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Observatorio espacial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fuente Rγ extragaláctica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arrebato Rγ"
+        },
+        "001E02: Geophysique externe / External geophysics",
+        "001E03: Astronomie / Astronomy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 26904824"
+}

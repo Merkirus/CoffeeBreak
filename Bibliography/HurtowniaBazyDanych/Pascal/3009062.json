@@ -1,0 +1,49 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE COINCIDENCE SITE LATTICE (CSL) AND GRAIN BOUNDARY (DSC) DISLOCATIONS FOR THE HEXAGONAL LATTICE.",
+    "dc:creator": "WARRINGTON DH",
+    "dc:date": "1975",
+    "dc:type": "Conference Paper",
+    "dc:language": "English",
+    "dc:format": "J. PHYS., COLLOQ.; FR.; DA. 1975; VOL. 36; NO 4; PP. C4.87-C4.95; ABS. FR.; BIBL. 19 REF.; (COLLOQ. INT. JOINTS INTERGRANULAIRES METAUX; SAINT-ETIENNE; 1975)",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "METAL HEXAGONAL COMPACT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "JOINT GRAIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DISLOCATION INTERFACIALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VECTEUR BURGERS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RESEAU SITE COINCIDENCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE THEORIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CRISTALLOGRAPHIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CRISTALLOGRAPHY"
+        },
+        "001B60A: Structure des liquides et des solides; cristallographie / Structure of solids and liquids; crystallography"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7640167592"
+}

@@ -1,0 +1,404 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Baromètre sur les principaux débats de santé. Résultats 2010 et évolutions observées depuis 2006",
+    "dc:creator": [
+        "Cercle Santé Société. (C.S.S.). Paris",
+        "Europ Assistance. Paris"
+    ],
+    "dc:date": "2010",
+    "dc:type": [
+        "Text",
+        "Report"
+    ],
+    "dc:identifier": [
+        "REPORTNUMBER RP",
+        "Inist-CNRS record number 23806020"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Cercle Santé",
+    "dc:format": [
+        "print",
+        "15 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Autonomie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dépendance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude comparative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evolution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Financement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Formation permanente"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Formation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Information biomédicale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Innovation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Morbidité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Médecin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Opinion publique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Perception"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prévention"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Qualité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Soin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sondage statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système santé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Travail"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Autonomy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dependence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Evolution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Financing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Continuing education"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Formation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biomedical information"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Innovation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Morbidity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Physician"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public opinion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Perception"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prevention"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Care"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sample survey"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Health system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Technology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Work"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Autonomía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dependencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio comparativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evolución"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Financiación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Educación continua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Formación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Información biomédical"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Innovación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Morbilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Médico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Opinión pública"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Percepción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prevención"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Calidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuidado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ecuesta estadística"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema salud"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tecnología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trabajo"
+        },
+        "002B30A11: Divers / Miscellaneous"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Allemagne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Autriche"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats-Unis"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Italie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pologne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Royaume-Uni"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Suède"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Germany"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Austria"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Italy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Poland"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United Kingdom"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sweden"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alemania"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Austria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estados Unidos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Italia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polonia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reino Unido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Suecia"
+        }
+    ],
+    "dc:rights": [
+        "Banque de données en santé publique - Ecole des hautes études en santé publique (BDSP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

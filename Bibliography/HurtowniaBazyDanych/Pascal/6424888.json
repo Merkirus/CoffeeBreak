@@ -1,0 +1,209 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Self oriented growth of GaN films on molten gallium",
+    "dc:creator": [
+        "HONGWEI LI",
+        "CHANDRASEKARAN, Hari",
+        "SUNKARA, Mahendra K",
+        "STUKOWSKI, Michael",
+        "RAJAN, Krishna"
+    ],
+    "dc:contributor": [
+        "Ng, H.M (Editor)",
+        "Baca, A.G (Editor)",
+        "Electrochemical Society, Electronics Division (Organiser of meeting)",
+        "Nitride and wide bandgap semiconductors for sensors, photonics, and electronics. Symposium (5 ; Honolulu HI 2004-10-03)",
+        "State-of-the-art program on compound semiconductors. Symposium (41 ; Honolulu HI 2004-10-03)"
+    ],
+    "dc:relation": [
+        "Proceedings - Electrochemical Society -- Proc., Electrochem. Soc, ISSN 0161-6374, pp. 496-503",
+        "State-of-the-art program on compound semiconductors XLI -- Nitride and wide bandgap semiconductors for sensors, photonics, and electronics V (Honolulu HI, 3-8 October 2004)"
+    ],
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Electrochemical Society",
+    "dc:format": [
+        "print",
+        "8 p. ; 24 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Basse pression"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé binaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Couche épaisse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffraction RX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffraction électron"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dislocation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Faisceau électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gallium nitrure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau amorphe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microscopie électronique balayage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nitruration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Semiconducteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Silicium oxyde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ga N"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GaN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "O Si"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SiO2"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Low pressure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Binary compound"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thick film"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "X ray diffraction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electron diffraction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dislocation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electron beam"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gallium nitride"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Amorphous material"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Scanning electron microscopy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nitriding"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Semiconductor materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Silicon oxides"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Baja presión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Compuesto binario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Capa espesa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Difracción RX"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Difracción electrónica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dislocación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Haz electrónico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Galio nitruro"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Material amorfo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Microscopía electrónica barrido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nitruración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Semiconductor(material)"
+        },
+        "001D03C: Matériaux / Materials"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16546324"
+}

@@ -1,0 +1,61 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE FORD PROCO ENGINE UPDATE",
+    "dc:creator": [
+        "SCUSSEL AJ",
+        "SIMKO AO",
+        "WADE WR"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "S.A.E. TRANS.; USA; DA. 1978 PUBL. 1979; VOL. 87; SECT. 3; PP. 2706-2725; BIBL. 5 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MOTEUR COMBUSTION INTERNE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MOTEUR ESSENCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHARGE STRATIFIEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INJECTION CARBURANT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUSTRIE MECANIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTERNAL COMBUSTION ENGINE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GASOLINE ENGINE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STRATIFIED CHARGE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FUEL INJECTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MECHANICAL ENGINEERING"
+        },
+        "001D12: Genie mecanique. Construction mecanique / Mechanical engineering. Machine design"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8080119323"
+}

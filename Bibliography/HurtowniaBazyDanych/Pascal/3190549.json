@@ -1,0 +1,109 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE ROLE OF FILTER FEEDERS IN FLOWING WATERS.",
+    "dc:creator": [
+        "WALLACE JB",
+        "WEBSTER JR",
+        "WOODALL WR"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "ARCH. HYDROBIOL.; DTSCH.; DA. 1977; VOL. 79; NO 4; PP. 506-532; ABS. ALLEM.; BIBL. 3 P. 1/2",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "FILTRATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALIMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LARVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EVOLUTION BIOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MILIEU DULCAQUICOLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COURS EAU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PREFERENCE ALIMENTAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ECOSYSTEME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INVERTEBRATA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INSECTA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRICHOPTERA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANIMAL DETRITIVORE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ECOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FILTRATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FOOD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LARVA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOLOGIC EVOLUTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FRESHWATER ENVIRONMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STREAMS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FOOD SELECTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ECOSYSTEMS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ECOLOGY"
+        },
+        "002A14: Ecologie animale, vegetale et microbienne / Animal, plant and microbial ecology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7850072204"
+}

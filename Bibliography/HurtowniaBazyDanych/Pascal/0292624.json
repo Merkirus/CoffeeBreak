@@ -1,0 +1,57 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DIE F-WELLE IM KINDESALTER",
+    "dc:creator": "GORKE W",
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "E.E.G.-E.M.G.; DTSCH.; DA. 1974; VOL. 5; NO 3; PP. 159-164; ABS. ANGL.; BIBL. 11REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "VITESSE CONDUCTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NERF CUBITAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NERF TIBIAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENFANT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRODIAGNOSTIC NEUROMUSCULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NERF PERIPHERIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EXPLORATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NEUROLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NEUROLOGY"
+        },
+        "002B17: Neurologie / Neurology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7535601826"
+}

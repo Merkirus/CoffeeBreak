@@ -1,0 +1,49 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "FINITE WORD LENGTH EFFECTS IN FREQUENCY SAMPLING DIGITAL FILTERS.",
+    "dc:creator": "SEKEY AA",
+    "dc:date": "sd",
+    "dc:type": "Conference Paper",
+    "dc:language": "English",
+    "dc:format": "IN: FLORENCE CONF. DIGITAL SIGNAL PROCESS. PROC.; FLORENCE; 1975; S.L.; DA. S.D.; PP. 85-102; BIBL. 11 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "FILTRAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FILTRE NUMERIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FILTRE ECHANTILLONNAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "QUANTIFICATION SIGNAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INFORMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATHEMATIQUES APPLIQUEES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COMPUTER SCIENCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "APPLIED MATHEMATICS"
+        },
+        "001A02: Mathematiques / Mathematics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7630252007"
+}

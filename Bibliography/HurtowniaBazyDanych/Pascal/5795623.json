@@ -1,0 +1,154 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Semiconducting oxide heterostructures",
+    "dc:creator": [
+        "BRANDT, Matthias",
+        "VON WENCKSTERN, Holger",
+        "STÖLZEL, Marko",
+        "HOCHMUTH, Holger",
+        "LORENZ, Michael",
+        "GRUNDMANN, Marius"
+    ],
+    "dc:contributor": "BIMBERG, Dieter (Editor)",
+    "dc:relation": "Semiconductor science and technology -- Semicond. sci. technol, CODEN SSTEET, ISSN 0268-1242, Vol. 26 (1)",
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institute of Physics",
+    "dc:format": [
+        "print",
+        "014040.1-014040.9 ; 101 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Croissance pseudomorphique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet Hall quantique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet Stark confinement quantique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epitaxie jet moléculaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gaz électron 2 dimensions"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hétérostructure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Magnésium Zinc Oxyde Mixte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mécanisme croissance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nanostructure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Oxyde de zinc"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Puits quantique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Semiconducteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MgxZn1-xO"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ZnO"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pseudomorphic growth"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quantum Hall effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quantum confined Stark effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Molecular beam epitaxy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Two-dimensional electron gas"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heterostructures"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnesium Zinc Oxides Mixed"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Growth mechanism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nanostructures"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Zinc oxide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quantum wells"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Semiconductor materials"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Crecimiento pseudomórfico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mixto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mecanismo crecimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Zinc óxido"
+        },
+        "001B60H65: Structures de basse dimensionnalité (superréseaux, puits quantiques, multicouches): structure et propriétés non électroniques / Low-dimensional structures (superlattices, quantum well structures, multilayers): structure, and nonelectronic properties",
+        "001B70C40H: Effet hall quantique (y compris fractionnaire) / Quantum hall effect (including fractional)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 23807645"
+}

@@ -1,0 +1,86 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Line blanketed non-LTE atmosphere models for Wolf-Rayet stars",
+    "dc:creator": "SCHMUTZ, W",
+    "dc:contributor": [
+        "VANBEVEREN, D (Editor)",
+        "VAN RENSBERGEN, W (Editor)",
+        "DE LOORE, C (Editor)",
+        "The evolution of massive stars. Meeting (Brussels 1993-08-03)"
+    ],
+    "dc:relation": [
+        "Space science reviews -- Space sci. rev, CODEN SPSRA4, ISSN 0038-6308, Vol. 66 (1-4) , pp. 253-261",
+        "The evolution of massive stars. Meeting"
+    ],
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "16 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Etoile séquence principale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecart équilibre thermodynamique local"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etoile type Wolf Rayet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle atmosphère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode Monte Carlo"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectrométrie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Main sequence stars"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Non-LTE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wolf-Rayet stars"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Atmosphere model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Monte Carlo method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spectroscopy"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo atmósfera"
+        },
+        "001E03C30E: Etoiles à raies d'émission (étoiles of, be, variables bleues lumineuses, wolf-rayet, etc.) / Emission-line stars (of, be, luminous blue variables, wolf-rayet, etc.)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4085894"
+}

@@ -1,0 +1,57 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE FERROELECTRIC PHASE TRANSITION AND DIELECTRIC ANOMALY IN TRI-GLYCINE SULFATE.",
+    "dc:creator": [
+        "CERVENKA PO",
+        "PRASAD RAO AD",
+        "PORTO SPS"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "FERROELECTRICS; G.B.; DA. 1976; VOL. 11; NO 3-4; PP. 511-517; BIBL. 10 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSITION FERROELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FERROELECTRICITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TEMPERATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANOMALIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIFFUSION RAMAN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONSTANTE DIELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRIGLYCINE SULFATE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE SOLIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID PHYSICS"
+        },
+        "001B60: Etat condense: structure, proprietes mecaniques et thermiques / Condensed matter: structure, mechanical and thermal properties"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7630295679"
+}

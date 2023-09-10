@@ -1,0 +1,130 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Modèle de données de référence et processus de spécialisation pour l'intégration des activités de conception en Génie Automatique; Reference data model and specialisation process for integration of design activities in Automation Engineering",
+    "dc:creator": "Couffin, Florent",
+    "dc:contributor": [
+        "Frachet, Jean-Paul (Advisor (for a thesis or dissertation))",
+        "Ecole normale suprieure de Cachan (Degree-grantor)"
+    ],
+    "dc:date": "1997",
+    "dc:type": [
+        "Text",
+        "Thesis"
+    ],
+    "dc:identifier": [
+        "NNT 97 DENS 0005",
+        "Inist-CNRS record number 180877"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "335 p. ; 191 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Automatisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Intégration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle entité relation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle référence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Productique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système production"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BASE-PTA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CIM-OSA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Génie automatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métamodèle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Processus spécialisation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Automation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Integration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Entity relationship model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reference model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computer integrated manufacturing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Production system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Control engineering"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Automatización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Integración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo entidad relación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo referencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Robótica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema producción"
+        },
+        "001D02D09: Commande des processus. Productique / Process control. Computer integrated manufacturing"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

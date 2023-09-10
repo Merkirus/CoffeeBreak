@@ -1,0 +1,131 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Local magnetic properties in grain-oriented electrical steel measured by the modified needle probe method",
+    "dc:creator": [
+        "SENDA, K",
+        "KUROSAWA, M",
+        "ISHIDA, M",
+        "KOMATSUBARA, M",
+        "YAMAGUCHI, T"
+    ],
+    "dc:contributor": [
+        "VARGA, Lajos K (Editor)",
+        "BAKONY, Imre (Editor)",
+        "European Physical Society (Funder/Sponsor)",
+        "Roland Eötvös Physical Society of Hungary (Funder/Sponsor)",
+        "International Symposium on Soft Magnetic Materials (14 ; Balatonfüred 1999-09-08)"
+    ],
+    "dc:relation": [
+        "Journal of magnetism and magnetic materials -- J. magn. magn. mater, CODEN JMMMDC, ISSN 0304-8853, Vol. 215-16, pp. 136-139",
+        "Proceedings of the 14th International Symposium on Soft Magnetic Materials (SMM14)"
+    ],
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "5 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Densité flux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Direction laminage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Flux magnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Joint grain"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Orientation grain"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Perte magnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure domaine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tôle magnétique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Flux density"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rolling direction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetic flux"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Grain boundaries"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Grain orientation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Iron loss"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Domain structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetic sheet"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dirección laminación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pérdida magnética"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Walzrichtung"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Magnetischer Verlust"
+        },
+        "001B70E60C: Structure des domaines et parois de domaines / Domain walls and domain structure",
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy",
+        "7560C:  / Domain walls and domain structure"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1442944"
+}

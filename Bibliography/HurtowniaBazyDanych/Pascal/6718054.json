@@ -1,0 +1,108 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Freezing of supercooled water droplets impinging upon solid surfaces",
+    "dc:creator": [
+        "MATSUSHIMA, Koji",
+        "MORI, Yasuhiko H"
+    ],
+    "dc:contributor": [
+        "Taine, Jean (Editor)",
+        "International heat transfer conference (12 ; Grenoble 2002)"
+    ],
+    "dc:relation": "Heat transfer 2002 (proceedings of the Twelfth International Heat Transfer Conference, Grenoble, France, August 18-23. volume 1, Keynote lectures, transfer modes under local thermal non-equilibrium. volume 2, Single phase heat transfer, heat transfer in nonhomogeneous media (part 1). volume 3, Heat transfer in nonhomogeneous media (part 2), heat transfer in two-phase flow. volume 4, Heat transfer in engineering systems)",
+    "dc:date": "2002",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Elsevier",
+        "Elsevier",
+        "Elsevier"
+    ],
+    "dc:format": [
+        "print",
+        "6 p. ; 1/4 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Congélation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Givrage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gouttelette"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interaction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Liquide sous refroidi"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Paroi"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transfert chaleur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4435"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Freezing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Icing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Droplets"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interactions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Supercooled liquids"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Walls"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heat transfer"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Capa escarcha"
+        },
+        "001B40D30: Transfert de chaleur dans les milieux inhomogènes, dans les milieux poreux et à travers les interfaces / Heat transfer in inhomogeneous media, in porous media, and through interfaces"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 19207047"
+}

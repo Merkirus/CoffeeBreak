@@ -1,0 +1,73 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "T CELL MEMORY FOR THE CYTOTOXIC RESPONSE TO HAPTEN-MODIFIED TARGET CELLS",
+    "dc:creator": [
+        "KOREN HS",
+        "WUNDERLICH JR",
+        "INMAN JK"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. IMMUNOL.; U.S.A.; DA. 1976; VOL. 116; NO 2; PP. 403-408; BIBL. 29 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "LYMPHOCYTE T"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CYTOTOXICITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MEMOIRE IMMUNOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CELLULE CIBLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MODIFICATION CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HAPTENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOURIS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IMMUNITE CELLULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANIMAL EXPERIENCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RODENTIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MAMMALIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IMMUNOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IMMUNOLOGY"
+        },
+        "002B05: Pathologie infectieuse / Infectious diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7650220443"
+}

@@ -1,0 +1,105 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Semiactive vibration suppression by variable-damping members",
+    "dc:creator": [
+        "ONODA, J",
+        "MINESUGI, K"
+    ],
+    "dc:contributor": "AIAA : American Institute of Aeronautics and Astronautics/ASME. Adaptive Structures Forum (Hilton Head, SC 1994-04-21)",
+    "dc:relation": [
+        "AIAA journal -- AIAA j, CODEN AIAJAH, ISSN 0001-1452, Vol. 34 (2) , pp. 355-361",
+        "AIAA : American Institute of Aeronautics and Astronautics/ASME. Adaptive Structures Forum (Hilton Head, SC 1994-04-21)"
+    ],
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "American Institute of Aeronautics and Astronautics",
+    "dc:format": [
+        "print",
+        "12 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amortissement visqueux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Application spatiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrôle vibration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode numérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure en treillis"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système actif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système passif"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Viscous damping"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Space applications"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vibration control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Numerical methods"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Truss structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Active system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Passive system"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Amortiguación viscosa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estructura celosia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema activo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema pasivo"
+        },
+        "001B40F30M: Vibration, onde mécanique, stabilité dynamique (aéroélasticité, contrôle vibration...) / Vibration, mechanical wave, dynamic stability (aeroelasticity, vibration control...)",
+        "4640:  / Vibrations and mechanical waves"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3068648"
+}

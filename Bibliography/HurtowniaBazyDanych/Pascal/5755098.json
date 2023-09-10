@@ -1,0 +1,368 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Dépistage de la Leptospirose: performance de la trousse Sérion Elisa classic Leptospira IgM®; Leptospirosis screening: Performance of the Serion Elisa Classic Leptospira IgM® KIT",
+    "dc:creator": [
+        "TROMBERT-PAOLANTONI, S",
+        "THOMAS, P",
+        "HERMET, F",
+        "CLAIRET, V",
+        "LITOU, N",
+        "MAURY, L"
+    ],
+    "dc:relation": "Pathologie et biologie -- Pathol. biol, ISSN 0369-8114, Vol. 58 (1) , pp. 95-99",
+    "dc:date": "2010",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "5 p. ; 14 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bactérie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bactériose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Leptospiraceae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spirochaetales"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spirochétose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Anticorps"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bactériologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dépistage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation performance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exploration microbiologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gène onc cellulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IgM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunoglobuline"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Kit"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Leptospira"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Leptospirose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mycologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode analytique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode immunoenzymatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Performance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Protooncogène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réaction chaîne polymérase"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sensibilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sérologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technique ELISA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IgM Elisa"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Leptospirose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PCR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sensibilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spécificité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sérologie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bacteria"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bacteriosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Leptospiraceae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spirochaetales"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spirochaetosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antibody"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bacteriology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Medical screening"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Performance evaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microbiological investigation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "C-Onc gene"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IgM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immunoglobulins"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Kit"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Leptospira"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Leptospirosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mycology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Analytical method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Enzyme immunoassay"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Performance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Protooncogene"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polymerase chain reaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sensitivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Serology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELISA assay"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bacteria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bacteriosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Infección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Leptospiraceae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Spirochaetales"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Espiroquetosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anticuerpo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bacteriología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Descubrimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evaluación prestación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis microbiológico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gen onc celular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "IgM"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunoglobulina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Kit"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Leptospira"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Leptospirosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Micología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método analítico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método inmunoenzimático"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rendimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Protooncogen"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reacción cadena polimerasa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sensibilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Serología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Técnica ELISA"
+        },
+        "002B05B02P: Divers / Miscellaneous"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 22427459"
+}

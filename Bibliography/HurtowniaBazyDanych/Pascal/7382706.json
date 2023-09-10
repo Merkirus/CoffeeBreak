@@ -1,0 +1,119 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Solar advance gas turbine Brayton power conversion assembly",
+    "dc:creator": "ANSON, B",
+    "dc:contributor": "Parabolic dish solar thermal power program review. 4 (Pasadena 1982-11-30)",
+    "dc:relation": "Parabolic dish solar thermal power program review. 4",
+    "dc:date": "1983",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Jet Propulsion Laboratory",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Centrale solaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conception"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Construction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cycle Brayton"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Energie solaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats Unis"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Filière thermodynamique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Installation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Monographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Turbine gaz"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Collecteurs distribués"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Groupe générateur"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Solar power plant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Construction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Brayton cycle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Solar energy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermodynamic system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Installation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Monographs"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gas turbine"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Energia solar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estados Unidos"
+        },
+        "001D06C02: Energie solaire / Solar energy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 8852389"
+}

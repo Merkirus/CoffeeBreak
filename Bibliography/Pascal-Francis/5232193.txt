@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>ATOM a system for building customized program analysis tools</dc:title>
+  <dc:creator>SRIVASTAVA, Amitabh</dc:creator>
+  <dc:creator>EUSTACE, Alan</dc:creator>
+  <dc:contributor>MCKINLEY, Kathryn S (Editor)</dc:contributor>
+  <dc:relation>ACM SIGPLAN notices -- ACM SIGPLAN not, ISSN 1523-2867, Vol. 39 (4) , pp. 530-539</dc:relation>
+  <dc:date>2004</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Article</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>ACM</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>10 p. ; 14 ref</dc:format>
+  <dc:subject xml:lang="fr">Analyse programme</dc:subject>
+  <dc:subject xml:lang="fr">Antémémoire</dc:subject>
+  <dc:subject xml:lang="fr">Appel procédure</dc:subject>
+  <dc:subject xml:lang="fr">Exécution programme</dc:subject>
+  <dc:subject xml:lang="fr">Instruction branchement</dc:subject>
+  <dc:subject xml:lang="fr">Personnalisation</dc:subject>
+  <dc:subject xml:lang="fr">Processeur pipeline</dc:subject>
+  <dc:subject xml:lang="fr">Processus communication</dc:subject>
+  <dc:subject xml:lang="fr">Programme application</dc:subject>
+  <dc:subject xml:lang="fr">Analysis tool with OM (ATOM)</dc:subject>
+  <dc:subject xml:lang="fr">Prédiction branchement</dc:subject>
+  <dc:subject xml:lang="en">Program analysis</dc:subject>
+  <dc:subject xml:lang="en">Cache memory</dc:subject>
+  <dc:subject xml:lang="en">Procedure call</dc:subject>
+  <dc:subject xml:lang="en">Program execution</dc:subject>
+  <dc:subject xml:lang="en">Branch instruction</dc:subject>
+  <dc:subject xml:lang="en">Customization</dc:subject>
+  <dc:subject xml:lang="en">Pipeline processor</dc:subject>
+  <dc:subject xml:lang="en">Communication process</dc:subject>
+  <dc:subject xml:lang="en">Application program</dc:subject>
+  <dc:subject xml:lang="en">Branch predictor</dc:subject>
+  <dc:subject xml:lang="es">Análisis programa</dc:subject>
+  <dc:subject xml:lang="es">Antememoria</dc:subject>
+  <dc:subject xml:lang="es">Llamada procedimiento</dc:subject>
+  <dc:subject xml:lang="es">Ejecución programa</dc:subject>
+  <dc:subject xml:lang="es">Instrucción ramificación</dc:subject>
+  <dc:subject xml:lang="es">Personalización</dc:subject>
+  <dc:subject xml:lang="es">Procesador oleoducto</dc:subject>
+  <dc:subject xml:lang="es">Proceso comunicación</dc:subject>
+  <dc:subject xml:lang="es">Programa aplicación</dc:subject>
+  <dc:subject xml:lang="es">Predicción ramificación</dc:subject>
+  <dc:subject>001D02A02: Théorie des langages et analyse syntaxique / Language theory and syntactical analysis</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 15859958</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

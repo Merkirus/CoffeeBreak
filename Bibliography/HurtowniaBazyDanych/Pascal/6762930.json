@@ -1,0 +1,142 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Investigation of aging mechanisms of high power Li-ion cells used for hybrid electric vehicles",
+    "dc:creator": [
+        "BOURLOT, Sandrine",
+        "BLANCHARD, Philippe",
+        "ROBERT, Stéphanie"
+    ],
+    "dc:contributor": [
+        "ZAGHIB, K (Editor)",
+        "JULIEN, C (Editor)",
+        "International Meeting on Lithium Batteries (IMLB) (15 ; Montréal 2010-06-27)"
+    ],
+    "dc:relation": [
+        "Journal of power sources (Print) -- J. power sources (Print), CODEN JPSODZ, ISSN 0378-7753, Vol. 196 (16) , pp. 6841-6846",
+        "15th International Meeting on Lithium Batteries (IMLB)"
+    ],
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "6 p. ; 6 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Accumulateur alcalin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Accumulateur électrochimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Véhicule hybride"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Véhicule électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Batterie lithium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grande puissance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vieillissement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Véhicule électrique hybride"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Alkaline storage battery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Secondary cell"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hybrid vehicle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electric vehicle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lithium battery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High power"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ageing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hybrid electric powered vehicles"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEV"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lithium-ion battery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Post-life analyses"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acumulador alcalino"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acumulador electroquímico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vehículo híbrido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vehículo eléctrico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gran potencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Envejecimiento"
+        },
+        "001D05I03E: Conversion électrochimique: piles et accumulateurs électrochimiques, piles à combustibles / Electrochemical conversion: primary and secondary batteries, fuel cells",
+        "001D15C: Transports et trafic routiers / Road transportation and traffic"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 24346609"
+}

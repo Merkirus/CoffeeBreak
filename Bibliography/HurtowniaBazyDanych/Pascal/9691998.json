@@ -1,0 +1,410 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Tardive dystonia",
+    "dc:creator": [
+        "VAN HARTEN, P. N",
+        "KAHN, R. S"
+    ],
+    "dc:relation": "Schizophrenia bulletin -- Schizophr. bull, CODEN SCZBB3, ISSN 0586-7614, Vol. 25 (4) , pp. 741-748",
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Oxford University Press",
+    "dc:format": [
+        "print",
+        "3 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Enzyme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Extrapyramidal syndrome"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hydrolases"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Metalloendopeptidases"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mouvement involontaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Muscle strié pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Peptidases"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système nerveux pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble neurologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Antagoniste"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Article synthèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Atypique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bontoxilysin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Complication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diagnostic différentiel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dyskinésie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dystonie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epidémiologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "International"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Long terme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Neuroleptique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phénoménologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prévalence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Psychotrope"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Récepteur dopaminergique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé mentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé publique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tardif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Utilisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Changement médicament"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Enzyme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Extrapyramidal syndrome"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hydrolases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metalloendopeptidases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Involuntary movement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Striated muscle disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Peptidases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nervous system diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neurological disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antagonist"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Review"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Atypical"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bontoxilysin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Complication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Differential diagnostic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dyskinesia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dystonia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Epidemiology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "International"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Long term"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neuroleptic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phenomenology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prevalence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Psychotropic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dopamine receptor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mental health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Late"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Use"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Drug switching"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enzima"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Extrapiramidal síndrome"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hydrolases"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metalloendopeptidases"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Movimiento involuntario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Músculo estriado patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Peptidases"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno neurológico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antagonista"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Artículo síntesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Atípico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bontoxilysin"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Complicación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diagnóstico diferencial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Disquinesia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Distonía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Epidemiología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Internacional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Largo plazo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Neuroléptico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fenomenología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prevalencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Psicotropo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Receptor dopaminérgico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud mental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud pública"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tardío"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Utilización"
+        },
+        "002B02B03: Psycholeptiques: tranquillisant, neuroleptique. / Psycholeptics: tranquillizer, neuroleptic.",
+        "770-: Psychologie. Psychanalyse. Psychiatrie / Psychology. Psychoanalysis. Psychiatry",
+        "770-E: Psychopharmacologie / Psychopharmacology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1218913"
+}

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Development of highly accurate global polygonal drainage basin data</dc:title>
+  <dc:creator>MASUTOMI, Yuji</dc:creator>
+  <dc:creator>INUI, Yusuke</dc:creator>
+  <dc:creator>TAKAHASHI, Kiyoshi</dc:creator>
+  <dc:creator>MATSUOKA, Yuzuru</dc:creator>
+  <dc:contributor>YAMASHIKI, Yosuke (Editor)</dc:contributor>
+  <dc:contributor>TSUJIMURA, Maki (Editor)</dc:contributor>
+  <dc:relation>Hydrological processes (Print) -- Hydrol. process. (Print), CODEN HYPRE3, ISSN 0885-6087, Vol. 23 (4) , pp. 572-584</dc:relation>
+  <dc:date>2009</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Article</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>Wiley</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>13 p. ; 1 p.1/4</dc:format>
+  <dc:subject xml:lang="fr">Amérique du Nord</dc:subject>
+  <dc:subject xml:lang="fr">Australasie</dc:subject>
+  <dc:subject xml:lang="fr">Base de données</dc:subject>
+  <dc:subject xml:lang="fr">Bassin versant</dc:subject>
+  <dc:subject xml:lang="fr">Correction</dc:subject>
+  <dc:subject xml:lang="fr">Cours eau</dc:subject>
+  <dc:subject xml:lang="fr">Distribution spatiale</dc:subject>
+  <dc:subject xml:lang="fr">Drainage</dc:subject>
+  <dc:subject xml:lang="fr">Débit rivière</dc:subject>
+  <dc:subject xml:lang="fr">Débit</dc:subject>
+  <dc:subject xml:lang="fr">Erreur</dc:subject>
+  <dc:subject xml:lang="fr">Haute résolution</dc:subject>
+  <dc:subject xml:lang="fr">Jaugeage</dc:subject>
+  <dc:subject xml:lang="fr">Modèle numérique élévation</dc:subject>
+  <dc:subject xml:lang="fr">Modèle</dc:subject>
+  <dc:subject xml:lang="fr">Monde</dc:subject>
+  <dc:subject xml:lang="fr">Polygone</dc:subject>
+  <dc:subject xml:lang="fr">Précision</dc:subject>
+  <dc:subject xml:lang="fr">Rivière</dc:subject>
+  <dc:coverage xml:lang="fr">Asie</dc:coverage>
+  <dc:coverage xml:lang="fr">Extrême Orient</dc:coverage>
+  <dc:coverage xml:lang="fr">Australie</dc:coverage>
+  <dc:coverage xml:lang="fr">Canada</dc:coverage>
+  <dc:coverage xml:lang="fr">Corée</dc:coverage>
+  <dc:coverage xml:lang="fr">Etats Unis</dc:coverage>
+  <dc:coverage xml:lang="fr">Japon</dc:coverage>
+  <dc:subject xml:lang="en">North America</dc:subject>
+  <dc:subject xml:lang="en">Australasia</dc:subject>
+  <dc:subject xml:lang="en">data bases</dc:subject>
+  <dc:subject xml:lang="en">drainage basins</dc:subject>
+  <dc:subject xml:lang="en">corrections</dc:subject>
+  <dc:subject xml:lang="en">streams</dc:subject>
+  <dc:subject xml:lang="en">spatial distribution</dc:subject>
+  <dc:subject xml:lang="en">drainage</dc:subject>
+  <dc:subject xml:lang="en">river discharge</dc:subject>
+  <dc:subject xml:lang="en">discharge</dc:subject>
+  <dc:subject xml:lang="en">errors</dc:subject>
+  <dc:subject xml:lang="en">high resolution</dc:subject>
+  <dc:subject xml:lang="en">gauging</dc:subject>
+  <dc:subject xml:lang="en">digital elevation models</dc:subject>
+  <dc:subject xml:lang="en">models</dc:subject>
+  <dc:subject xml:lang="en">global</dc:subject>
+  <dc:subject xml:lang="en">polygons</dc:subject>
+  <dc:subject xml:lang="en">accuracy</dc:subject>
+  <dc:subject xml:lang="en">rivers</dc:subject>
+  <dc:subject xml:lang="en">discharge gauging stations</dc:subject>
+  <dc:subject xml:lang="en">drainage basins</dc:subject>
+  <dc:subject xml:lang="en">global drainage basin database (GDBD)</dc:subject>
+  <dc:subject xml:lang="en">global polygonal drainage basin data</dc:subject>
+  <dc:subject xml:lang="en">manual corrections</dc:subject>
+  <dc:subject xml:lang="en">ridge fencing</dc:subject>
+  <dc:subject xml:lang="en">stream burning</dc:subject>
+  <dc:subject xml:lang="en">streamlines</dc:subject>
+  <dc:coverage xml:lang="en">Asia</dc:coverage>
+  <dc:coverage xml:lang="en">Far East</dc:coverage>
+  <dc:coverage xml:lang="en">Australia</dc:coverage>
+  <dc:coverage xml:lang="en">Canada</dc:coverage>
+  <dc:coverage xml:lang="en">Korea</dc:coverage>
+  <dc:coverage xml:lang="en">United States</dc:coverage>
+  <dc:coverage xml:lang="en">Japan</dc:coverage>
+  <dc:subject xml:lang="es">America del norte</dc:subject>
+  <dc:subject xml:lang="es">Australasia</dc:subject>
+  <dc:subject xml:lang="es">Base dato</dc:subject>
+  <dc:subject xml:lang="es">Cuenca</dc:subject>
+  <dc:subject xml:lang="es">Corrección</dc:subject>
+  <dc:subject xml:lang="es">Curso agua</dc:subject>
+  <dc:subject xml:lang="es">Distribución espacial</dc:subject>
+  <dc:subject xml:lang="es">Caudal río</dc:subject>
+  <dc:subject xml:lang="es">Gasto</dc:subject>
+  <dc:subject xml:lang="es">Error</dc:subject>
+  <dc:subject xml:lang="es">Alta resolucion</dc:subject>
+  <dc:subject xml:lang="es">Aforo</dc:subject>
+  <dc:subject xml:lang="es">Modelo</dc:subject>
+  <dc:subject xml:lang="es">Mundo</dc:subject>
+  <dc:subject xml:lang="es">Precisión</dc:subject>
+  <dc:subject xml:lang="es">Río</dc:subject>
+  <dc:coverage xml:lang="es">Asia</dc:coverage>
+  <dc:coverage xml:lang="es">Extremo Oriente</dc:coverage>
+  <dc:coverage xml:lang="es">Australia</dc:coverage>
+  <dc:coverage xml:lang="es">Canada</dc:coverage>
+  <dc:coverage xml:lang="es">Corea</dc:coverage>
+  <dc:coverage xml:lang="es">Estados Unidos</dc:coverage>
+  <dc:coverage xml:lang="es">Japón</dc:coverage>
+  <dc:subject>001E01J02: Cartes géologiques, cartographie / Geologic maps, cartography</dc:subject>
+  <dc:subject>001E01N01: Hydrologie / Hydrology</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 21173881</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

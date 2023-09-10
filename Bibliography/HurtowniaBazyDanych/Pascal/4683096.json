@@ -1,0 +1,155 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Modeling four-directional pedestrian flows",
+    "dc:creator": [
+        "BLUE, Victor J",
+        "ADLER, Jeffrey L"
+    ],
+    "dc:contributor": [
+        "National Research Council ; Transportation Research Board (Funder/Sponsor)",
+        "Annual Meeting of the Transportation Research Board (79 ;  2000-01)"
+    ],
+    "dc:relation": [
+        "Transportation research record -- Transp. res. rec, CODEN TRREDM, ISSN 0361-1981 (1710) , pp. 20-27",
+        "Traffic flow theory and highway capacity 2000"
+    ],
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "National Research Council",
+    "dc:format": [
+        "print",
+        "21 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Conflit"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Congrès international"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Densité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Direction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecoulement trafic"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Implémentation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation numérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trafic piéton"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trafic routier"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vitesse déplacement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Conflict"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "International conference"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Density"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Direction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Traffic flow"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Implementation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Numerical simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pedestrian traffic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Road traffic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Speed"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conflicto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Congreso internacional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Densidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dirección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Flujo tráfico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ejecución"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simulación numérica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tráfico peatones"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tráfico carretera"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Velocidad desplazamiento"
+        },
+        "001D15C: Transports et trafic routiers / Road transportation and traffic"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1101459"
+}

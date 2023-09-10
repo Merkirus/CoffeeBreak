@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "LASER SCANNING OF ACTIVE INTEGRATED CIRCUITS AND DISCRETE SEMICONDUCTOR DEVICES.",
+    "dc:creator": [
+        "SAWYER DE",
+        "BERNING DW",
+        "LEWIS DC"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "SOLID STATE TECHNOL.; U.S.A.; DA. 1977; VOL. 20; NO 6; PP. 37-48 (6P.); BIBL. 11 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CIRCUIT INTEGRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CIRCUIT ACTIF"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DISPOSITIF ETAT SOLIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DISPOSITIF SEMICONDUCTEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FAISCEAU LASER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ESSAI"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BBALAYAGE FAISCEAU LASER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ESSAI NON DESTRUCTIF"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTEGRATED CIRCUIT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ACTIVE CIRCUIT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID STATE DEVICE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SEMICONDUCTOR DEVICE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LASER BEAM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TEST"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NONDESTRUCTIVE TEST"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONICS"
+        },
+        "001D03: Electronique / Electronics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7830281831"
+}

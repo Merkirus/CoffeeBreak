@@ -1,0 +1,185 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Si/SiGe hetero-junction solar cell with optimization design and theoretical analysis",
+    "dc:creator": [
+        "CHANG, S. T",
+        "LIAO, M. H",
+        "LIN, W.-K"
+    ],
+    "dc:contributor": [
+        "ZHANG, Sam (Editor)",
+        "GOH, Gregory K.L (Editor)",
+        "WONG CHEE CHEONG (Editor)",
+        "ZHONG CHEN (Editor)",
+        "GUOJUN QI (Editor)",
+        "LIU, Erjia (Editor)",
+        "Thin Films Society (Organiser of meeting)",
+        "Internatinal Conference on Advanced Polymer Matrix Composites (COMPO2010) (1 ; Harbin 2010-07-12)",
+        "International Conference on Technological Advances of Thin Films & Coatings (ThinFilms2010) (5 ; Harbin 2010-07-12)"
+    ],
+    "dc:relation": [
+        "Thin solid films -- Thin solid films, CODEN THSFAP, ISSN 0040-6090, Vol. 519 (15) , pp. 5022-5025",
+        "5th International Conference on Technological Advances of Thin Films & Coatings"
+    ],
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "4 p. ; 9 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Alliage Ge Si"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bande interdite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cellule solaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Densité courant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Germanium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optimisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Silicium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation numérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "7320"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "8460J"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ge Si"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Si"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SiGe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Substrat silicium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ge-Si alloys"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Energy gap"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Solar cell"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Current density"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Germanium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optimization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Silicon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Numerical simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hetero-junction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SiGe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Solar cell"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Banda prohibida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Célula solar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Densidad corriente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Germanio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Optimización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad electrónica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Silicio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simulación numérica"
+        },
+        "001B70C20: Etats électroniques de surface et d'interface / Surface and interface electron states",
+        "001D06: Energie / Energy",
+        "001D06C02D1: Cellules solaires. Cellules photoélectrochimiques / Solar cells. Photoelectrochemical cells"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 24346724"
+}

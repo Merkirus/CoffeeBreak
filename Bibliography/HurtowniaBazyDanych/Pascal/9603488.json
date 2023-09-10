@@ -1,0 +1,126 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Närradio - from boom to crisis",
+    "dc:creator": "LINDL, Stefanie",
+    "dc:relation": "Information Wissenschaft und Praxis -- Inf. Wiss. Prax, ISSN 1434-4653, Vol. 56 (4) , pp. 251-252",
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Deutsche Gesellschaft für Dokumentation",
+    "dc:format": [
+        "print",
+        "2 p. ; 11 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Crise"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffusion information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mass media"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Publicité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Radiodiffusion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Station radiodiffusion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Crisis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information dissemination"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mass media"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Advertising"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Broadcasting"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radio station"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Crisis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Difusión información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medios comunicación de masas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Publicidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radiodifusión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estación radiodifusion"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation",
+        "001A01H05: Autres medias de diffusion. Multimedia / Other dissemination media. Multimedia",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-I: Edition, diffusion et reproduction de l'information / Information publishing, dissemination and reproduction"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Suède"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sweden"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Suecia"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16948585"
+}

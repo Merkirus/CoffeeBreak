@@ -1,0 +1,370 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "L'impact de l'évolution des nouvelles réalités sociales et des structures familiales sur les systèmes de sécurité sociale",
+    "dc:creator": [
+        "WOODS, M.J",
+        "Conseil de l'Europe. Strasbourg"
+    ],
+    "dc:contributor": "4ème conférence des ministres européens responsables de la sécurité sociale (1989-04-12)",
+    "dc:date": "1989",
+    "dc:type": [
+        "Text",
+        "Conference Proceedings"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Conseil de l'Europe",
+    "dc:format": [
+        "print",
+        "71 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immigrant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vieillard"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Action sociale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chômeur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conjoncture économique et sociale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Famille"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Loi"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Protection sociale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sécurité sociale"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immigrant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Elderly"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmigrante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anciano"
+        },
+        "002B30A11: Divers / Miscellaneous"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Allemagne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Asie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Allemagne(république fédérale)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Autriche"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Belgique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chypre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Danemark"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Espagne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Finlande"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grèce"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Irlande"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Italie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Luxembourg"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Malte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Norvège"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pays Bas"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Portugal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Royaume Uni"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Suisse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Suède"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Turquie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Germany"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "West Germany"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Austria"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Belgium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cyprus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Denmark"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Finland"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Greece"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ireland"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Italy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Luxembourg"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Malta"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Norway"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Netherlands"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Portugal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United Kingdom"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Switzerland"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sweden"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Turkey"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alemania"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alemania(República Federal)"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Austria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Belgica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Chipre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dinamarca"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "España"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Finlandia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Grecia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Irlanda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Italia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Luxemburgo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Malta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Noruega"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Holanda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Portugal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reino Unido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Suiza"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Suecia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Turquía"
+        }
+    ],
+    "dc:rights": [
+        "Banque de données en santé publique - Ecole des hautes études en santé publique (BDSP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6427145"
+}

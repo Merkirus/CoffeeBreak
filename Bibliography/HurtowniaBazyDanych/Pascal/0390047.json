@@ -1,0 +1,47 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "KLINISCHE BEDEUTUNG DER QUANTITATIVEN IMMUNGLOBULINBESTIMMUNG; IMPORTANCE CLINIQUE DE LA DETERMINATION QUANTITATIVE DES IMMUNOGLOBULINES",
+    "dc:creator": [
+        "ZIMMERMANN S",
+        "LEWICKI I",
+        "KRATZSCH KH",
+        "BAUCH K",
+        "SCHIRMER K"
+    ],
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "FOLIA HAEMATOL.; ALLEM.; DA. 1974; VOL. 101; NO 5; PP. 765-770; ABS. ANGL. FR. RUSSE; BIBL. 20REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "IMMUNOGLOBULINOPENIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SECONDAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REVUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HEMATOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEMATOLOGY"
+        },
+        "002B19: Hemopathies / Hematologic and hematopoietic diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7535901592"
+}

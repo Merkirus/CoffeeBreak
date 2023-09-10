@@ -1,0 +1,90 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Geomorphic traces of Quaternary climates in the Cordillera Central, Dominican Republic",
+    "dc:creator": [
+        "ORVIS, K",
+        "CLARK, G",
+        "HORN, S",
+        "KENNEDY, L"
+    ],
+    "dc:relation": "Mountain research and development -- Mt. res. dev, ISSN 0276-4741, Vol. 17 (4) , pp. 323-331",
+    "dc:date": "1997",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "United Nations University",
+    "dc:format": [
+        "print",
+        "Illustration ; 32 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Glaciaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Héritage géomorphologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Montagne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Paléoclimat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Photo-interprétation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Quaternaire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Glacial features"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inherited features"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mountain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Palaeoclimate"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photointerpretation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quaternary"
+        },
+        "531-: Bgi / Prodig / Bgi / Prodig",
+        "531-452: Amerique / America",
+        "531-493: République dominicaine / Dominican Republic"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Dominicaine, république"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dominican Republic"
+        }
+    ],
+    "dc:rights": [
+        "Bibliographie Géographique Internationale - Pôle de Recherche pour l'Organisation et la Diffusion de l'Information Géographique (PRODIG)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6203894"
+}

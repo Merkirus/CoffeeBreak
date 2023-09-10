@@ -1,0 +1,257 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The impact of brief teacher training on classroom management and child behavior in at-risk preschool settings: Mediators and treatment utility",
+    "dc:creator": [
+        "SNYDER, James",
+        "LOW, Sabina",
+        "SCHULTZ, Tara",
+        "BARNER, Stacy",
+        "MORENO, Desirae",
+        "GARST, Meladee",
+        "LEIKER, Ryan",
+        "SWINK, Nathan",
+        "SCHREPFERMAN, Lynn"
+    ],
+    "dc:relation": "Journal of applied developmental psychology -- J. appl. dev. psychol, ISSN 0193-3973, Vol. 32 (6) , pp. 336-345",
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "10 p. ; 1/2 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interaction sociale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble du comportement social"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Age préscolaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Comportement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enfant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enseignant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur risque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Formation professionnelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gestion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu scolaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Relation interpair"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Relation élève enseignant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Salle cours"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble des conduites"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Utilité"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Social interaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Social behavior disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Preschool age"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Behavior"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Child"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Teacher"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Risk factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Occupational training"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "School environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Peer relation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Teacher pupil relation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Classroom"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Conduct disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Utility"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "At-risk preschool children"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Child conduct problems"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Peer group"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Teacher behavior management training"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interacción social"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno comportamiento social"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Edad preescolar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conducta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Niño"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Docente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor riesgo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Formación profesional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gestión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio escolar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Relación interpar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Relación alumno docente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aula clase"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno conducta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Utilidad"
+        },
+        "002A26K04: Enseignant / Teacher",
+        "770-B: Psychologie. Psychophysiologie / Psychology. Psychophysiology",
+        "770-B11D: Enseignant / Teacher"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 25314353"
+}

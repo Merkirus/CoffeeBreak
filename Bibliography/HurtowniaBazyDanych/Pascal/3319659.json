@@ -1,0 +1,48 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "TUBERCULOSIS OF THE TONSIL: CASE REPORT AND REVIEW; TUBERCULOSE DE L'AMYGDALE: UNE OBSERVATION ET REVUE",
+    "dc:date": "1972",
+    "dc:type": "Serial Issue",
+    "dc:language": "English",
+    "dc:format": "TUBERCLE; G.B.; DA. 1972; VOL. 53; NO 4; PP. 255-258; ABS. FR. ESP. ALLEM.; BIBL. 18REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TUBERCULOSE AMYGDALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TUBERCULOSE ORL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BACTERIOSE CAVITE BUCCALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OBSERVATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STOMATOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STOMATOLOGY"
+        },
+        "002B13: Gastroenterologie. Foie. Pancreas. Abdomen / Gastroenterology. Liver. Pancreas. Abdomen"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL733472330"
+}

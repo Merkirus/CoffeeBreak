@@ -1,0 +1,243 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Effect of Intermolecular Dipole-Dipole Interactions on Interfacial Supramolecular Structures of C3-Symmetric Hexa-peri-hexabenzocoronene Derivatives",
+    "dc:creator": [
+        "ZHONGCHENG MU",
+        "QI SHAO",
+        "JUN YE",
+        "ZEBING ZENG",
+        "YANG ZHAO",
+        "HUEY HOON HNG",
+        "YIN CHIANG BOEY, Freddy",
+        "JISHAN WU",
+        "XIAODONG CHEN"
+    ],
+    "dc:contributor": [
+        "ZHANG, Xi (Author of introductory parts)",
+        "WHITTEN, David G (Author of introductory parts)"
+    ],
+    "dc:relation": "Langmuir -- Langmuir, CODEN LANGD5, ISSN 0743-7463, Vol. 27 (4) , pp. 1314-1318",
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "American Chemical Society",
+    "dc:format": [
+        "print",
+        "5 p. ; 29 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Assemblage moléculaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Autoassemblage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dynamique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Graphite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Groupe fonctionnel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hydrogène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interaction dipôle dipôle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interaction intermoléculaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Liquide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microscopie tunnel balayage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Oxyde d'azote"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Solide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure nid abeille"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure supramoléculaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Surstructure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Molecular assembly"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Self assembly"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dynamics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Graphite"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Functional group"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hydrogen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dipole dipole interaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Intermolecular interaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interface"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Liquid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Scanning tunneling microscopy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nitrogen oxide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Solid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Honeycomb structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Supramolecular structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Superstructure"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensamble molecular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Autoensamble"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dinámica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Grafito"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Grupo funcional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hidrógeno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interacción dipolo dipolo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interacción intermolecular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interfase"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Líquido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Microscopía túnel barrido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nitrógeno óxido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simulación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sólido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estructura alveolar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estructura supramolecular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Superestructura"
+        },
+        "001C01I: Physicochimie de surface / Surface physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 23986044"
+}

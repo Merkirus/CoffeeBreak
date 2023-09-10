@@ -1,0 +1,101 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A COMPREHENSIVE CLINICAL SYSTEM FOR FOUR DIMENSIONAL MOTION ANALYSIS.",
+    "dc:creator": [
+        "SIMON SR",
+        "NUZZO RM",
+        "KOSKINEN MF"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "BULL. HOSP. JOINT DIS.; U.S.A.; DA. 1977; VOL. 38; NO 1; PP. 41-44",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CINEMATOGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROMYOGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MARCHE A PIED"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRAITEMENT INFORMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CAMERA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENREGISTREMENT VIDEO"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SYSTEME OSTEOARTICULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORDINATEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PATHOLOGIE OSTEOARTICULAIRE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CINEMATOGRAPHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROMYOGRAPHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WALKING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COMPUTERIZED PROCESSING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CAMERA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VIDEO RECORDING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OSTEOARTICULAR SYSTEM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COMPUTERS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BONE AND JOINT DISEASES"
+        },
+        "002B15: Pathologie osteoarticulaire / Diseases of the osteoarticular system"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7850246548"
+}

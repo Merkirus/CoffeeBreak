@@ -1,0 +1,77 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "EIN MATHEMATISCHES SCHWINGUNGSMODELL FUER DAS MENSCHLICHE HAND-ARM-SYSTEM; UN MODELE MATHEMATIQUE DES VIBRATIONS DU SYSTEME BRAS-MAIN CHEZ L'HOMME",
+    "dc:creator": [
+        "MELTZER G",
+        "MELZIG THIEL R",
+        "SCHATTE M"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "MASCHINENBAUTECHNIK; DDR; DA. 1980; VOL. 29; NO 2; PP. 54-58; ABS. RUS/ENG; BIBL. 15 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "SQUELETTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MEMBRE THORACIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BRAS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MAIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VIBRATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MODELE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SKELETON"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FORELIMB"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ARM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HAND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VIBRATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MODELS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        "002A14: Ecologie animale, vegetale et microbienne / Animal, plant and microbial ecology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8050422049"
+}

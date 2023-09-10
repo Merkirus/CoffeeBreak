@@ -1,0 +1,72 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "PHENCYCLIDINE: A BIBLIOGRAPHY OF BIOMEDICAL AND BEHAVIORAL RESEARCH",
+    "dc:creator": [
+        "BALSTER RL",
+        "PROSS RS"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. PSYCHED. DRUGS; USA; DA. 1978; VOL. 10; NO 1; PP. 1-15; BIBL. 14 P.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TOXICOMANIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PSYCHODYSLEPTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIBLIOGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PSYCHOTROPE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHENCYCLIDINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TOXICOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SUBSTANCE ABUSE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PSYCHODYSLEPTIC"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIBLIOGRAPHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PSYCHOTROPIC"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TOXICOLOGY"
+        },
+        "002B02: Pharmacologie. Traitements medicamenteux / Pharmacology. Drug treatments"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7950107509"
+}

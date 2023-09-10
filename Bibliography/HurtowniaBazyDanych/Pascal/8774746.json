@@ -1,0 +1,92 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Co-authorship in the Corinthian correspondence",
+    "dc:creator": "MURPHY-O'CONNOR, J",
+    "dc:relation": "Revue biblique -- Rev. biblique, ISSN 0035-0907, Vol. 100 (4) , pp. 562-579",
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Gabalda",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Auteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "I Corinthiens"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "II Corinthiens"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Participation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Paternité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rédaction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Adresse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sosthène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Timothée"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Author"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "I Corinthians"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "II Corinthians"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Participation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Paternity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Writing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sosthenes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Timothy"
+        },
+        "527-: Histoire et sciences des religions / History and sciences of religions",
+        "527-1410: Exégèse biblique et critique biblique / Exegesis and biblical criticism",
+        "527-1474: Généralités / General subjects"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4292836"
+}

@@ -1,0 +1,179 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The Architecture of Madness and the Good of Paternalism",
+    "dc:creator": "SINE, David M",
+    "dc:relation": "Psychiatric services (Washington, D.C.) -- Psychiatr. serv. (Wash. D.C.), ISSN 1075-2730, Vol. 59 (9) , pp. 1060-1062",
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "American Psychiatric Association",
+    "dc:format": [
+        "print",
+        "3 p. ; 19 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Architecture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Article synthèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Autonomie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ethique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude critique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hôpital psychiatrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prise de décision"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé mentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé publique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble psychiatrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Droits malade hospitalisé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Paternalisme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Architecture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Review"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Autonomy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ethics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Critical study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Psychiatric hospital"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Decision making"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mental health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mental disorder"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arquitectura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Artículo síntesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Autonomía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Etica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio crítico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hospital psiquiátrico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Toma decision"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud mental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud pública"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno psiquiátrico"
+        },
+        "002B18H08: Divers / Miscellaneous",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry",
+        "770-D08H: Divers / Miscellaneous"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20637598"
+}

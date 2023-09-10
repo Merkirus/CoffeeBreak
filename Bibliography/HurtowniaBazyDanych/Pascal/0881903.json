@@ -1,0 +1,87 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "APPLICATION OF DIGITAL FILTERING AND AUTOMATIC PEAK DETECTION TO BRAIN STEM AUDITORY EVOKED POTENTIAL",
+    "dc:creator": [
+        "FRIDMAN J",
+        "JOHN ER",
+        "BERGELSON M",
+        "KAISER JB",
+        "BAIRD HW"
+    ],
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "ELECTROENCEPHALOGR. CLIN. NEUROPHYSIOL.; ISSN 0013-4694; NLD; DA. 1982; VOL. 53; NO 4; PP. 405-416; BIBL. 8 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "FILTRAGE NUMERIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POTENTIEL EVOQUE AUDITIF"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRAITEMENT INFORMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AUTOMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACTIVITE ELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENREGISTREMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SYSTEME NERVEUX PATHOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENIE BIOMEDICAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIGITAL FILTERING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AUDITORY EVOKED POTENTIAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COMPUTERIZED PROCESSING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AUTOMATIC"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRICAL ACTIVITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RECORDING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NERVOUS SYSTEM PATHOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOMEDICAL ENGINEERING"
+        },
+        "002B26: Radiotherapie. Traitement instrumental. Physiotherapie. Reeducation. Readaptation, orthophonie, crenotherapie. Traitement dietetique et traitements divers (generalites) / Radiotherapy. Instrumental treatment. Physiotherapy. Reeducation. Rehabilitation, orthophony, crenotherapy. Diet therapy and various other treatments (general aspects)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL82X0236482"
+}

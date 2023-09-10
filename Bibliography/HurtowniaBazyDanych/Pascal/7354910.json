@@ -1,0 +1,224 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Activités bactériostatiques et bactéricides des cyclines, macrolides et fluoroquinolones sur Chlamydi trachomatis",
+    "dc:creator": [
+        "DAILLOUX, M",
+        "VILLEMAIN, P"
+    ],
+    "dc:contributor": [
+        "Société Française de Microbiologie. section des agents antimicrobiens (Funder/Sponsor)",
+        "Société de Pathologie Infectieuse de Langue Française (Funder/Sponsor)",
+        "Réunion interdisciplinaire de chimiothérapie anti-infectieuse (Paris 1991-12-05)"
+    ],
+    "dc:relation": [
+        "Pathologie et biologie -- Pathol. biol, ISSN 0369-8114, Vol. 40 (5) , pp. 455-460",
+        "Réunion interdisciplinaire de chimiothérapie anti-infectieuse"
+    ],
+    "dc:date": "1992",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "18 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bactérie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chlamydiaceae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chlamydiales"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Antibiotique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil génital pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bactéricidie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bactériostase"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chlamydia trachomatis"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude comparative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Isolat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Macrolide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sensibilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tétracycline dérivé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fluoroquinolone"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Quinolone"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bacteria"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chlamydiaceae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chlamydiales"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antibiotic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Genital diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bactericidal effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bacteriostasis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chlamydia trachomatis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Isolate"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Macrolide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sensitivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tetracycline derivatives"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bacteria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Chlamydiaceae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Chlamydiales"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antibiótico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato genital patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bactericidia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bacteriostasis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Chlamydia trachomatis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio comparativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Infección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aislado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Macrólido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sensibilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tetraciclina derivado"
+        },
+        "002B05B: Bactérioses / Bacterial diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4645279"
+}

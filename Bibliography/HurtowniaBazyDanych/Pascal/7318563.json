@@ -1,0 +1,96 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Study of electrical resistance on apples",
+    "dc:creator": "PUCHALSKI, C",
+    "dc:contributor": [
+        "Universität Bonn. Institut für Landtechnick (Funder/Sponsor)",
+        "Deutsche physikalische Gesellschaft (Funder/Sponsor)",
+        "European Agricultural Engineering Society (Funder/Sponsor)",
+        "American Society of Agricultural Engineers (Funder/Sponsor)",
+        "International Commission of Agricultural Engineering (Funder/Sponsor)",
+        "ICPPAM: international conference on physical properties of agricultural materials. Part III (5 ; Bonn 1993-09-06)"
+    ],
+    "dc:relation": [
+        "International agrophysics -- Int. agrophys, CODEN INAGEX, ISSN 0236-8722, Vol. 8 (3) , pp. 439-444",
+        "Physical properties of fruits, vegetables and root crops"
+    ],
+    "dc:date": "1994",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Polish Academy of Sciences, Institute of Agrophysics",
+    "dc:format": [
+        "print",
+        "6 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse corrélation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fermeté"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pomme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résistivité électrique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Correlation analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Firmness"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measurement method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Apple"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electric resistivity"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis correlación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Firmeza"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método medida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Manzana"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resistividad eléctrica"
+        },
+        "002A35B09: Industries des fruits et légumes / Fruit and vegetable industries"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4245265"
+}

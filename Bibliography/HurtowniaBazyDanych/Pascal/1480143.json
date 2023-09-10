@@ -1,0 +1,92 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "EN RUSSE.; ANEUPLOIDES DANS LA DESCENDANCE DE BETTERAVES A SUCRE TRIPLOIDES",
+    "dc:creator": [
+        "NEGOVSKIJ NA",
+        "LITVINENKO II"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "CITOL. I GENET., U.S.S.R.; S.S.S.R.; DA. 1976; VOL. 10; NO 6; PP. 524-528; ABS. ANGL.; BIBL. 20 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DICOTYLEDONES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRIPLOIDIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANEUPLOIDIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLYPLOIDIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ABERRATION CHROMOSOMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHENOPODIACEAE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PLANTE CULTIVEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VEGETAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BETA VULGARIS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENETIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TRIPLOIDY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANEUPLOIDY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLYPLOIDY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHROMOSOMAL ABERRATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CULTIVATED PLANT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VEGETALS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BETA VULGARIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENETICS"
+        },
+        "002A31C02: Techniques génétiques / Genetic technics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7850045987"
+}

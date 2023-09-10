@@ -1,0 +1,108 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "INTERETS DE LA FERMENTATION ANAEROBIE APPLIQUEE AUX EAUX RESIDUAIRES A FORTE CONCENTRATION EN CARBONE",
+    "dc:creator": [
+        "BORIES A",
+        "MAUGENET J"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "C.R. ACAD. AGRIC. FR.; FRA; DA. 1979; VOL. 65; NO 5; PP. 453-460; BIBL. 9 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "EPURATION EAU USEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EAU USEE INDUSTRIELLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "USINE ALIMENTAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DISTILLERIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIGESTION ANAEROBIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHANE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RECUPERATION ENERGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EPURATION BIOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NUISANCES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLLUTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WASTE WATER PURIFICATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INDUSTRIAL EFFLUENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FOOD FACTORY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DISTILLERY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WINE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANAEROBIC DIGESTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METHANE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY RECOVERY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOLOGICAL PURIFICATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NUISANCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLLUTION"
+        },
+        "001D16: Pollution / Pollution"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7960453310"
+}

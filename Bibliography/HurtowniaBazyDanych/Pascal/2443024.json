@@ -1,0 +1,70 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "POST-DRYOUT HEAT TRANSFER: PHYSICAL MECHANISMS AND A SURVEY OF PREDICTION METHODS.; TRANSFERT DE CHALEUR AU-DELA DU REGIME CRITIQUE D'EBULLITION: MECANISMES PHYSIQUES ET REVUE DES METHODES DE PREVISION",
+    "dc:creator": "GROENEVELD DC",
+    "dc:date": "1975",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "NUCL. ENGNG DESIGN; NETHERL.; DA. 1975; VOL. 32; NO 3; PP. 283-294; BIBL. 92 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSFERT CHALEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHANGEMENT ETAT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EBULLITION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE CALCUL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE COMPARATIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DOMAINE SUPERCRITIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSITION PHASE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METROLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE THEORIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MEASUREMENT SCIENCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THEORETICAL PHYSICS"
+        },
+        "001B: Physique / Physics",
+        "001D06: Energie / Energy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7670013640"
+}

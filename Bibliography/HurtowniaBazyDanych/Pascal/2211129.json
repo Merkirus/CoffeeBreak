@@ -1,0 +1,91 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "NORMAL GRANULOCYTE TRANSFUSION THERAPY. TREATMENT OF SEPTICEMIA DUE TO GRAM-NEGATIVE BACTERIA; TRAITEMENT PAR TRANSFUSION DE GRANULOCYTE NORMAL DANS LES SEPTICEMIES A GRAM NEGATIF",
+    "dc:creator": [
+        "GRAW RG JR",
+        "HERZIG G",
+        "PERRY S",
+        "HENDERSON ES"
+    ],
+    "dc:date": "1972",
+    "dc:type": "Serial Issue",
+    "dc:language": "English",
+    "dc:format": "NEW ENGL. J. MED.; U.S.A.; DA. 1972; VOL. 287; NO 8; PP. 367-371; BIBL. 28 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSFUSION LEUCOCYTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRAITEMENT ASSOCIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SEPTICEMIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LEUCOPENIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BACTERIE GRAM NEGATIF"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BACTERIOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANTIBIOTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDICATION THERAPEUTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DONNEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NORMAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BACTERIE GRAM NEGATIF INFECTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TECHNIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROBIOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HEMATOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROBIOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEMATOLOGY"
+        },
+        "002B05: Pathologie infectieuse / Infectious diseases",
+        "002B19: Hemopathies / Hematologic and hematopoietic diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL733409038"
+}

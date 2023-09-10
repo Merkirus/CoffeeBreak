@@ -1,0 +1,65 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "OFFENTLICHKEITSARBEIT MIT JUGENDLICHEN IM STAATSARCHIV LEIPZIG; TRAVAIL DE PUBLICITE AVEC DES JEUNES AUX ARCHIVES D'ETAT DE LEIPZIG",
+    "dc:creator": "ROTHE C",
+    "dc:date": "1981",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "ARCHIVMITTEILUNGEN; ISSN 0004-038X; DDR; DA. 1981; VOL. 31; NO 5; PP. 181-182",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ARCHIVES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIFFUSION INFORMATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EDUCATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ASPECT POLITIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALLEMAGNE(REPUBLIQUE DEMOCRATIQUE)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCE INFORMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ARCHIVES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFORMATION DISSEMINATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EDUCATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLITICAL ASPECT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EAST GERMANY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFORMATION SCIENCE"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8130528716"
+}

@@ -1,0 +1,49 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "BREVET DISPOSITIF DE FILTRATION D'AIR POUR MOTEUR A COMBUSTION INTERNE",
+    "dc:creator": "MOTOREN- UND TURBINEN-UNION FRIEDRICHSHAFEN GMBH",
+    "dc:date": "1979",
+    "dc:type": "Patent",
+    "dc:language": "French",
+    "dc:format": "; FRA; DA. 1979-04-27; FR/A1/2.401.324; DEP.78-24591/1978-08-24; PR. DE/P-2738293.0/1977-08-25",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MOTEUR COMBUSTION INTERNE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ADMISSION MOTEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FILTRE AIR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUSTRIE MECANIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTERNAL COMBUSTION ENGINE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENGINE INTAKE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AIR FILTER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MECHANICAL ENGINEERING"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7980346418"
+}

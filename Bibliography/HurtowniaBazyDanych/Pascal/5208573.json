@@ -1,0 +1,253 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "La nécropole néolithique de Sant Pau del Camp (Barcelona) : interprétation socio-économique à partir du traitement statistique du mobilier des sépultures; The Neolithic Cemetery of Sant Pau del Camp (Barcelona): A Socio-Economic Interpretation Based on the Statistical Treatment of Grave Goods",
+    "dc:creator": [
+        "WÜNSCH, Germa",
+        "GIBAJA BAO, Juan Francisco"
+    ],
+    "dc:contributor": [
+        "CHAMBON, Philippe (Editor)",
+        "LECLERC, J (Editor)",
+        "Société préhistorique française (SPF) (Funder/Sponsor)",
+        "Table Ronde SPF (Saint-Germain-en-Laye 2001-06-15)"
+    ],
+    "dc:relation": [
+        "Mémoires de la Société préhistorique française -- Mém. Soc. préhist. fr, ISSN 0081-1246, Vol. 33, pp. 115-123",
+        "Les pratiques funéraires néolithiques avant 3500 av. J.-C. en France et dans les régions limitrophes"
+    ],
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Pôle éditorial archéologique de l'Ouest",
+    "dc:format": [
+        "print",
+        "9 p. ; 16 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Artisanat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Congrès"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Céramique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Economie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude du matériel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Faune"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Industrie osseuse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Inhumation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interprétation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mobilier funéraire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nécropole"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Organisation de la recherche"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Organisation sociale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Outillage lithique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Parure objet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rite funéraire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Répartition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sépulture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tombe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Différenciation sexuelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Différenciation sociale"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Craft activities"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Congress"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ceramics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Economy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Finds study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fauna"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bone industry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inhumation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interpretation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Grave goods"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Necropolis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Research organization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Social organization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lithic tool"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ornament"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Burial rites"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Statistics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Burial"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Grave"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        "525-: Prehistoire et protohistoire / Prehistory and protohistory",
+        "525-46: Europe / Europe",
+        "525-93: Néolithique / Neolithic"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Espagne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Barcelona"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "La Bòbila Madurel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sant Pau del Camp"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Néolithique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neolithic"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15702132"
+}

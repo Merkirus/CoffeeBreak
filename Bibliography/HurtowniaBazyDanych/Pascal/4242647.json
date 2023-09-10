@@ -1,0 +1,105 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "HYSTERESIS DU CHAMP CRITIQUE DANS LES COUCHES DE NI-CO EN TORSION ALTERNEE",
+    "dc:creator": [
+        "DE SABATA C",
+        "MARCU C"
+    ],
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "Romanian",
+    "dc:format": "BUL. STI. TEH. INST. POLITEH. \"TRAIAN VUIA\". TIMISOARA, MAT., FIZ. MEC. TEOR. APL.; ROMAN.; DA. 1974; VOL. 19; NO 1; PP. 43-52; ABS. RUSSE ANGL.; BIBL. 9 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "FERROMAGNETISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HYSTERESIS MAGNETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COUCHE MINCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TORSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DEFORMATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALLIAGE NICKEL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALLIAGE COBALT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INVERSION AIMANTATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALLIAGE COBALT NICKEL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NICKEL 50-100"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COBALT 01-10"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPRIETE MAGNETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHAMP COERCITIF"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CYCLE HYSTERESIS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AIMANTATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ESSAI TORSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONTRAINTE ALTERNEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE SOLIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID PHYSICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METALLURGY"
+        },
+        "001B60: Etat condense: structure, proprietes mecaniques et thermiques / Condensed matter: structure, mechanical and thermal properties",
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7530106498"
+}

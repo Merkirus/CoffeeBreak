@@ -1,0 +1,230 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Mini-puberty and true puberty: Differences in testicular function",
+    "dc:creator": "REY, Rodolfo A",
+    "dc:contributor": "Journées internationales d'Endocrinologie clinique, Henri Pierre KLOTZ (57 ; Paris 2014-06-05)",
+    "dc:relation": [
+        "Annales d'endocrinologie -- Ann. endocrinol -- Annals of endocrinology, CODEN ANENAG, ISSN 0003-4266, Vol. 75 (2) , pp. 58-63",
+        "The testis through the ages"
+    ],
+    "dc:date": "2014",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Masson",
+    "dc:format": [
+        "print",
+        "6 p. ; 40 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Androgène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil génital mâle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hormone stéroïde sexuelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hormone testiculaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Maladie congénitale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Malformation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie de l'appareil génital mâle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie de l'appareil génital"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie du testicule"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cryptorchidie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gonadotrophine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hypogonadisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Puberté"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Testicule"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Testostérone"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AMH"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cryptorchidie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gonadotrophines"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hypogonadisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Testostérone"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Androgen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Male genital system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sex steroid hormone"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Testicular hormone"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Congenital disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Malformation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Male genital diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Genital diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Testicular diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cryptorchidism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gonadotropin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hypogonadism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Puberty"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Testicle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Testosterone"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Andrógeno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato genital macho"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hormona esteroide sexual"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hormona testicular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enfermedad congénita"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Malformación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato genital macho patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato genital patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Testículo patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Criptorquidia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gonadotropina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hipogonadismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pubertad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Testículo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Testosterona"
+        },
+        "002A28: Vertebres: endocrinologie / Vertebrates: endocrinology",
+        "002B20B01: Pathologie non tumorale / Non tumoral diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 28565665"
+}

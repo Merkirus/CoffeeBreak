@@ -1,0 +1,194 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A robust imputation method for surrogate outcome data",
+    "dc:creator": "CHEN, Yi-Hau",
+    "dc:relation": "Biometrika -- Biometrika, CODEN BIOKAX, ISSN 0006-3444, Vol. 87 (3) , pp. 711-716",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Oxford University Press",
+    "dc:format": [
+        "print",
+        "6 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse régression"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Consistance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Estimation linéaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Estimation non paramétrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Estimation statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Normalité asymptotique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Robustesse estimateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Régression linéaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Régression statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Série Taylor"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Validation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Développement taylor"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Echantillon validation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résultat auxiliaire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Regression analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Consistency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Linear estimation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Non parametric estimation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Statistical estimation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asymptotic normality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Estimator robustness"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Linear regression"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Statistical regression"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Taylor series"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Validation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Taylor expansion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Validation sample"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surrogate outcome"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis regresión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Consistencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estimación lineal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estimación no paramétrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estimación estadística"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Normalidad asintótica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Robustez estimador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Regresión lineal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Regresión estadística"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simulación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Serie Taylor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Validación"
+        },
+        "001A02H02H: Inférence non paramétrique / Nonparametric inference",
+        "001A02H02J: Inférence linéaire, régression / Linear inference, regression"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1520326"
+}

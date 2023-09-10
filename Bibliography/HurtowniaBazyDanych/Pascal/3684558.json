@@ -1,0 +1,73 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ESTIMATION DE LA REPARTITION DES CHARGES ENTRE RADIER ET PIEUX POUR UNE FONDATION MIXTE",
+    "dc:creator": "KNABE W",
+    "dc:date": "1980",
+    "dc:type": "Conference Paper",
+    "dc:language": "French",
+    "dc:format": "COOPERATION FRANCO-POLONAISE MECANIQUE DES SOLS-MECANIQUE DES ROCHES. COLLOQUE/1979/PARIS; FRA; PARIS: LAB. CENT. PONTS CHAUSSEES; DA. 1980; PP. 87-102; BIBL. 10 REF.; ILL.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MODELE MATHEMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FONDATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PIEU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONTRAINTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE INGENIEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MATHEMATICAL MODELS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FOUNDATIONS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PILES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENGINEERING GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        "001E01N: Hydrologie. Hydrogéologie / Hydrology. Hydrogeology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALGEODEBRGM8120337434"
+}

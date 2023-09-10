@@ -1,0 +1,153 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Resistivity of antiferromagnetic Ce0.8La0.2(Ru0.85Rh0.15)2Si2 under pressure",
+    "dc:creator": [
+        "ISODA, Ayano",
+        "SHIMADA, Satomi",
+        "KANDA, Yuji",
+        "MURAYAM, Shigeyuki",
+        "TAKANO, Hideaki",
+        "NAKANO, Tomohito",
+        "HEDO, Masato",
+        "UWATOKO, Yoshiya"
+    ],
+    "dc:contributor": [
+        "VON LÖHNEYSEN, H (Editor)",
+        "GOLL, G (Editor)",
+        "PFLEIDERER, C (Editor)",
+        "SüRGERS, C (Editor)",
+        "UHLARZ, M (Editor)",
+        "SCES '04 The International Conference on Strongly Correlated Electron Systems 2004 (Karlsruhe 2004-07-26)"
+    ],
+    "dc:relation": [
+        "Physica. B, Condensed matter -- Physica, B Condens. matter, ISSN 0921-4526, Vol. 359-61, pp. 169-171",
+        "Proceedings of the International Conference on Strongly Correlated Electron Systems, SCES 2004"
+    ],
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "3 p. ; 7 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Antiferromagnétisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bande interdite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conductivité électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet température"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etat localisé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Onde densité spin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pression hydrostatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Restauration(propriété)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Surface Fermi"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "75"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antiferromagnetism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Energy gap"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrical conductivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Temperature effects"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Localized states"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spin density waves"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hydrostatic pressure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Recovery(properties)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fermi surface"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "71.27.+a"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "75.30.Fv"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "75.30.Kz"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "75.30.Mb Ce(Ru0.85Rh0.15)2Si2"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pressure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Resistivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spin density wave"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Restauración(propiedad)"
+        },
+        "001B70E: Propriétés et matériaux magnétiques / Magnetic properties and materials"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16832070"
+}

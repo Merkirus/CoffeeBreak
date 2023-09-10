@@ -1,0 +1,201 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Chlamydomonas and Arabidopsis. A dynamic duo",
+    "dc:creator": [
+        "GUTMAN, Benjamin L",
+        "NIYOGI, Krishna K"
+    ],
+    "dc:contributor": [
+        "BARTEL, Bonnie (Author of introductory parts)",
+        "LAST, Robert L (Author of introductory parts)"
+    ],
+    "dc:relation": "Plant physiology (Bethesda) -- Plant physiol. (Bethesda), CODEN PPHYA5, ISSN 0032-0889, Vol. 135 (2) , pp. 607-610",
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "American Society of Plant Physiologists",
+    "dc:format": [
+        "print",
+        "4 p. ; 36 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Algae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Angiospermae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chlorophyceae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chlorophyta"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cruciferae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dicotyledones"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle biologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spermatophyta"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thallophyta"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Arabidopsis thaliana"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chlamydomonas"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Physiologie comparée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Relation structure fonction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Algae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Angiospermae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chlorophyceae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chlorophyta"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cruciferae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dicotyledones"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biological model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spermatophyta"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thallophyta"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Arabidopsis thaliana"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chlamydomonas"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gene"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative physiology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Structure function relationship"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Algae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Angiospermae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Chlorophyceae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Chlorophyta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cruciferae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dicotyledones"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo biológico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Spermatophyta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Thallophyta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arabidopsis thaliana"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Chlamydomonas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gen"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fisiología comparada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Relación estructura función"
+        },
+        "002A04C02: Gènes. Génome / Genes. Genome",
+        "002A10A: Généralités, méthodes / General aspects, methods"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15902832"
+}

@@ -1,0 +1,90 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE INFLUENCE OF THE INTERFACE POTENTIAL ON THE REACTIONS OF HYDRATED ELECTRONS AND NEUTRAL RADICALS WITH ACCEPTORS IN MICELLES",
+    "dc:creator": [
+        "FRANK AJ",
+        "GRATZEL M",
+        "HENGLEIN A",
+        "JANATA E"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "BER. BUNSENGESELLSCH. PHYS. CHEM.; DTSCH.; DA. 1976; VOL. 80; NO 6; PP. 547-551; ABS. ALLEM.; BIBL. 17 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "AGENT SURFACE IONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICELLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOLUTION AQUEUSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSFERT ELECTRON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DOUBLE COUCHE ELECTROCHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EFFET TUNNEL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROPHILE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REACTION ELECTROCHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRON HYDRATE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOLUBILISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETHANOL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROCHIMIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE PHYSIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE GENERALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROCHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHYSICAL CHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENERAL CHEMISTRY"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7617029253"
+}

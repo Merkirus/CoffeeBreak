@@ -1,0 +1,66 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Preparation of a state bibliography of geology; Préparation d'une bibliographie en géologie par Etat",
+    "dc:creator": "SMYTH, P",
+    "dc:contributor": "Geoscience information society. Meeting. 17 (New Orleans 1982-10-17)",
+    "dc:relation": "Geoscience information society. Meeting. 17",
+    "dc:date": "1984",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Geoscience Information Society",
+    "dc:format": [
+        "print",
+        "6 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats Unis"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bibliographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Géologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ohio"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bibliography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Geology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ohio"
+        },
+        "001E01K: Géologie générale / General geology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 9042736"
+}

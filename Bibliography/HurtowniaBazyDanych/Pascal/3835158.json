@@ -1,0 +1,49 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "LES EQUIPEMENTS LOURDS",
+    "dc:creator": "LAVAL JEANTET M",
+    "dc:date": "1983",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "TECH. HOSP. MED.-SOC. SANIT.; ISSN 0040-1374; FRA; DA. 1983; VOL. 38; NO 448; PP. 19-21; BIBL. 5 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "HOPITAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EQUIPEMENT BIOMEDICAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE ECONOMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INFORMATIQUE BIOMEDICALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HOSPITAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOMEDICAL EQUIPMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ECONOMIC STUDY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOMEDICAL COMPUTER APPLICATIONS"
+        },
+        "002B28: Informatique, statistique et modelisations biomedicales / Computerized, statistical medical data processing and models in biomedicine"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0142701"
+}

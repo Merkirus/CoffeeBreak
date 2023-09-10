@@ -1,0 +1,77 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SEPARATION ET MESURE DES CHALEURS DE TRANSFORMATIONS DANS CCL4",
+    "dc:creator": [
+        "LEBLOND F",
+        "BARBERI P"
+    ],
+    "dc:date": "sd",
+    "dc:type": "Conference Paper",
+    "dc:language": "French",
+    "dc:format": "IN: JOURN. CALORIMETRIE ANAL. THERM.; RENNES; 1974; S.L.; ASSOC. FR. CALORIMETRIE ANAL. THERM.; DA. S.D.; PP. 3.40-3.47; BIBL. 17 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "METHANE DERIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSITION PHASE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPRIETE THERMODYNAMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "(TETRACHLORO)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE THERMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CALORIMETRIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARBONE TETRACHLORURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROCALORIMETRIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE PHYSIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE GENERALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHYSICAL CHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENERAL CHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry",
+        "001D06: Energie / Energy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7517011057"
+}

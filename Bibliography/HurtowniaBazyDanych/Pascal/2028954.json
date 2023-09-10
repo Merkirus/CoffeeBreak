@@ -1,0 +1,48 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "MAJOR DEPRESSIVE EPIDOSE AND LOW DOSE DEXAMETHASONE SUPPRESSION TEST",
+    "dc:creator": [
+        "SARAI M",
+        "TANIGUCHI N",
+        "KAGOMOTO T",
+        "KAMEDA H",
+        "UEMA T",
+        "HISHIKAWA Y"
+    ],
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "FOLIA PSYCHIATR. NEUROL. JPN.; ISSN 0015-5721; JPN; DA. 1982; VOL. 36; NO 2; PP. 109-114; BIBL. 9 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PSYCHIATRIE BIOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PSYCHOSE MANIACODEPRESSIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PSYCHIATRIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOLOGICAL PSYCHIATRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MANIC DEPRESSIVE PSYCHOSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PSYCHIATRY"
+        },
+        "002A26: Psychologie. Psychophysiologie / Psychology. Psychophysiology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0128335"
+}

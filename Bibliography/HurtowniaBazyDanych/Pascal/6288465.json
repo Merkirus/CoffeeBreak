@@ -1,0 +1,54 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Common fragrance and flavor materials. Preparation, properties and uses; Composés des flaveurs et fragrances courantes. Préparation, propriétés et utilisation",
+    "dc:creator": [
+        "BAUER, K",
+        "GARBE, D"
+    ],
+    "dc:date": "1985",
+    "dc:type": [
+        "Text",
+        "Book"
+    ],
+    "dc:identifier": [
+        "ISBN 3-527-26038-2",
+        "Inist-CNRS record number 9300784"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "VCH Verlagsgesellschaft mbH",
+    "dc:format": [
+        "print",
+        "213 p. ; 270 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Arôme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Huile essentielle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Monographie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aroma"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Essential oil"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Monographs"
+        },
+        "002A35B13: Industries des arômes / Aroma and flavouring agent industries"
+    ],
+    "dc:rights": [
+        "Centre de Documentation International des Industries Utilisatrices de Produits Agricoles (CDIUPA)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

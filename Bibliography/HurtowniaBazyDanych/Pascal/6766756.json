@@ -1,0 +1,261 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "JStar : Towards Practical Verification for Java",
+    "dc:creator": [
+        "DISTEFANO, Dino",
+        "PARKINSON, Matthew J"
+    ],
+    "dc:contributor": "Annual ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA 2008) (23 ; Nashville, Tennessee 2008-10-19)",
+    "dc:relation": [
+        "ACM SIGPLAN notices -- ACM SIGPLAN not, ISSN 1523-2867, Vol. 43 (10) , pp. 213-226",
+        "Proceedings of the 23rd Annual ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA 2008)"
+    ],
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Association for Computing Machinery",
+    "dc:format": [
+        "print",
+        "14 p. ; 30 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse statique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Démonstration automatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Démonstration théorème"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Développement logiciel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interprétation abstraite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Langage JAVA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Langage programmation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Logique booléenne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métamodèle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Observateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Orienté objet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Patron conception"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réutilisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système modulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Théorie preuve"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Usine fabrication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vérification programme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Static analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Automatic proving"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Theorem proving"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Software development"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Abstract interpretation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "JAVA language"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Programming language"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Boolean logic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metamodel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Observer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Object oriented"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Design pattern"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reuse"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modular system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Proof theory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Factory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Program verification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Classes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Design Patterns"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Languages"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modularity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Theory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Verification Separation Logic"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis estática"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Demostración automática"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Demostración teorema"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desarrollo logicial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interpretación Abstracta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lenguaje JAVA"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lenguaje programación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lógica booleana"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metamodelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Observador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Orientado objeto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Patrón Concepción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reutilización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema modular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Teoría demonstración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fábrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Verificación programa"
+        },
+        "001A02A01F: Théorie de la preuve et mathématiques constructives / Proof theory and constructive mathematics",
+        "001D02B02: Langages de programmation / Programming languages"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20863897"
+}

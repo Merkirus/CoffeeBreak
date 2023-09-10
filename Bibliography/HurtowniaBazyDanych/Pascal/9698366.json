@@ -1,0 +1,129 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The Internet : an introduction for legal practitioners",
+    "dc:creator": "WIDDISON, R",
+    "dc:relation": "Computers and law -- Comput. law, ISSN 0140-3249, Vol. 6 (6) , pp. 7-12",
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Society for Computers and Law",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Technologie information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Description"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Edition électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Internet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Législation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Navigation information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transmission information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Utilisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Communication électronique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information technology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Description"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic publishing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Internet"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Legislation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information browsing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information transmission"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Use"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic communication"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tecnología información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Descripción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Edición electrónica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Internet"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Legislación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Navegacíon informacíon"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transmisión información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Utilización"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation",
+        "001A01A07: Aspects juridiques : propriété intellectuelle, responsabilité du producteur. Ethique / Legal aspects : intellectual property, producer responsability. Ethics",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-B: Sciences de l'information et des bibliothèques. Etude d'ensemble / Library and information science. General aspects"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2495536"
+}

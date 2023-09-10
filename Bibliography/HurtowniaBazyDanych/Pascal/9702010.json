@@ -1,0 +1,238 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The anxiolytic effects of the 5-hydroxytryptamine-1A agonist tandospirone before otolaryngologic surgery",
+    "dc:creator": [
+        "OSHIMA, Tsutomu",
+        "KASUYA, Yoshiko",
+        "TERAZAWA, Etsuji",
+        "NAGASE, Kiyoshi",
+        "SAITOH, Yuhji",
+        "DOHI, Shuji"
+    ],
+    "dc:relation": "Anesthesia and analgesia -- Anesth. analg, CODEN AACRAT, ISSN 0003-2999, Vol. 93 (5) , pp. 1214-1216",
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Lippincott",
+    "dc:format": [
+        "print",
+        "13 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Agoniste"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Angoisse anxiété"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Benzodiazépine dérivé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chimiothérapie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chirurgie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diazépam"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude comparative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prémédication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Préopératoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Psychotrope"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Récepteur sérotoninergique 5-HT1A"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tandospirone"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tranquillisant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Voie orale"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Agonist"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Anxiety"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Benzodiazepine derivatives"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemotherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surgery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diazepam"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Premedication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Preoperative"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Psychotropic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "5-HT1A Serotonine receptor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tandospirone"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tranquillizer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oral administration"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agonista"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Angustia ansiedad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Benzodiazepina derivado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Quimioterapia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cirugía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diazepam"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio comparativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "ORL"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Premedicación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Preoperatorio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Psicotropo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Receptor serotoninérgico 5-HT1A"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tandospirona"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tranquilizante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vía oral"
+        },
+        "002B02B03: Psycholeptiques: tranquillisant, neuroleptique. / Psycholeptics: tranquillizer, neuroleptic.",
+        "770-: Psychologie. Psychanalyse. Psychiatrie / Psychology. Psychoanalysis. Psychiatry",
+        "770-E: Psychopharmacologie / Psychopharmacology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14071317"
+}

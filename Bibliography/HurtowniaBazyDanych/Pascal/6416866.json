@@ -1,0 +1,166 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Role of the Go/i signaling network in the regulation of neurite outgrowth",
+    "dc:creator": [
+        "HE, John Cijiang",
+        "NEVES, Susana R",
+        "DEDRICK JORDAN, J",
+        "LYENGAR, Ravi"
+    ],
+    "dc:contributor": [
+        "SRIVASTAVA, Ashok (Editor)",
+        "ANAND-SRIVASTAVA, Madhu (Editor)",
+        "University of Calgary (Organiser of meeting)",
+        "McGill Cancer Centre (Organiser of meeting)",
+        "McGill University Health Centre (Organiser of meeting)",
+        "Université de Montréal (Organiser of meeting)",
+        "Centre Hospitalier de l'Université de Montréal, Centre de Recherche (Organiser of meeting)",
+        "Canadian Institutes of Health Research (Organiser of meeting)",
+        "Gouvernement du Québec, Développement économique et régional et Recherche (Organiser of meeting)",
+        "Second messengers and phosphoproteins. International conference (12 ; Montreal, PQ 2004)",
+        "Les seconds messagers et les phosphoprotéines. Congrès international (12 ; Montréal, PQ 2004)"
+    ],
+    "dc:relation": [
+        "Canadian journal of physiology and pharmacology -- Can. j. physiol. pharmacol -- Journal canadien de physiologie et pharmacologie, CODEN CJPPA3, ISSN 0008-4212, Vol. 84 (7) , pp. 687-694",
+        "Second messengers and phosphoproteins - 12th international conference -- Les seconds messagers et les phosphoprotéines - 12e congrès international"
+    ],
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "National Research Council of Canada",
+    "dc:format": [
+        "print",
+        "8 p. ; 1 p.3/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Congrès"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Croissance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Messager secondaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Neurite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Protéine G"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Récepteur cannabinoïde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transduction signal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "excroissance des neurites"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "protéine G"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "récepteur cannabinoïde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "signalisation cellulaire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Congress"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Growth"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Second messenger"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neurite"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "G protein"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cannabinoid receptor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Signal transduction"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Congreso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Crecimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mensajero segundo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Proteína G"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Receptor canabinoide"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transducción señal"
+        },
+        "002A16: Vertebres: anatomie et physiologie, organisme dans son ensemble ou etude de plusieurs organes ou systemes / Vertebrates: anatomy and physiology, studies on body, several organs or systems"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18285157"
+}

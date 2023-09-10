@@ -1,0 +1,282 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Evaluation et gestion des risques liés à Pseudomonas aeruginosa dans les établissements de thermalisme",
+    "dc:creator": [
+        "BESSE, Florian",
+        "DE MONPEZAT, Aurélie",
+        "DUPUIS, Cédric"
+    ],
+    "dc:contributor": "Ecole Nationale de la Santé Publique. (E.N.S.P.). Rennes (Degree-grantor)",
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Thesis"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "38 p. ; 2 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Legionellaceae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pseudomonadaceae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pseudomonadales"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse risque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bactérie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contamination"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Crénothérapie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eau minérale naturelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exploration bactériologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exposition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gestion risque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Legionella"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Population"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pseudomonas"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Risque élevé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Risque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Surveillance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Toxique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Legionellaceae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pseudomonadaceae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pseudomonadales"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Risk analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bacteria"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Contamination"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Crenotherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Natural mineral water"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Evaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bacteriological investigation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Exposure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Risk management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Legionella"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Population"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pseudomonas"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High risk"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Risk"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surveillance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Poison"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Legionellaceae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pseudomonadaceae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pseudomonadales"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis riesgo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bacteria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contaminación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Crenoterapia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agua mineral natural"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evaluación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis bacteriológico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Exposición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gestión riesgo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Legionella"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Población"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pseudomonas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Riesgo alto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Riesgo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vigilancia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tóxico"
+        },
+        "002B30A11: Divers / Miscellaneous"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francia"
+        }
+    ],
+    "dc:rights": [
+        "Banque de données en santé publique - Ecole des hautes études en santé publique (BDSP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18482258"
+}

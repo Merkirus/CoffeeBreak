@@ -1,0 +1,93 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE EFFECT OF HYDROXYETHYL STARCH ON THE RHEOLOGICAL PROPERTIES OF HUMAN ERYTHROCYTE SUSPENSIONS",
+    "dc:creator": [
+        "CORRY WD",
+        "JACKSON LJ",
+        "SEAMAN GVF"
+    ],
+    "dc:date": "1981",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "BIORHEOLOGY (OXF.); ISSN 0006-355X; GBR; DA. 1981; VOL. 18; NO 3-6; PP. 517-529; BIBL. 32 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ERYTHROCYTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPRIETE RHEOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VISCOSITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AGREGATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CRYOCONSERVATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OXYGENATEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COAGULATION SANGUINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CELLULE SANGUINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HYDROXYETHYL AMIDON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENIE BIOMEDICAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RED BLOOD CELL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RHEOLOGICAL PROPERTIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VISCOSITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CRYOPRESERVATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OXYGENATOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BLOOD COAGULATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BLOOD CELL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOMEDICAL ENGINEERING"
+        },
+        "002B26: Radiotherapie. Traitement instrumental. Physiotherapie. Reeducation. Readaptation, orthophonie, crenotherapie. Traitement dietetique et traitements divers (generalites) / Radiotherapy. Instrumental treatment. Physiotherapy. Reeducation. Rehabilitation, orthophony, crenotherapy. Diet therapy and various other treatments (general aspects)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8110490325"
+}

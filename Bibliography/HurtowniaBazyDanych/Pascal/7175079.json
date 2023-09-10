@@ -1,0 +1,153 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Développement et utilisation d'un système de mesure par sondes aérodynamiques rapides pour les turbomachines; Development and application of a fast-response aerodynamic probe measurement system for turbomachinery",
+    "dc:creator": [
+        "KUPFERSCHMIED, P",
+        "GYARMATHY, G"
+    ],
+    "dc:contributor": [
+        "Société française des mécaniciens (Funder/Sponsor)",
+        "Fédération française de mécanique (Funder/Sponsor)",
+        "Groupement pour l'avancement de la mécanique (Funder/Sponsor)",
+        "Journées SFM sur les problèmes multidisciplinaires dans les turbomachines (Courbevoie 1997-12-09)"
+    ],
+    "dc:relation": [
+        "R.F.M. Revue française de mécanique -- RFM, Rev. franç. méc, CODEN RFMQAQ, ISSN 0373-6601 (2) , pp. 121-131",
+        "Journées SFM sur les problèmes multidisciplinaires dans les turbomachines"
+    ],
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Groupement pour l'avancement des méthodes d'analyse des contraintes",
+    "dc:format": [
+        "print",
+        "17 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Compresseur centrifuge"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Débitmétrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mesure débit écoulement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mesure température"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mesure vitesse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microcapteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pression dynamique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pression statique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Turbine gaz"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Centrifugal compressor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Flowmetry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Flow measurement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Temperature measurement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Velocity measurement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measurements"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microsensor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dynamic pressure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Static pressure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measuring system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gas turbines"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Compresor centrífugo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Caudalimetría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Microcaptador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Presión dinámica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Presión estática"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema medida"
+        },
+        "001B40G80: Appareillage et mesures / Instrumentation for fluid dynamics",
+        "001D12C01: Généralités / General",
+        "001D12F02: Moteurs à cycles continus: turbines à vapeur, à gaz, propulseurs à réaction / Continuous cycle engines: steam and gas turbines, jet engines",
+        "001D12G: Pompes et compresseurs (turbocompresseurs, ventilateurs, etc.) / Pump and compressors (turbocompressors, fans, etc.)",
+        "4780:  / Instrumentation for fluid dynamics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2323905"
+}

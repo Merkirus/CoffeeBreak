@@ -1,0 +1,181 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Promoting U.S. census data in a academic environment: opportunities and challenges",
+    "dc:creator": "RAGAINS, P",
+    "dc:relation": "Journal of government information -- J. gov. inf, ISSN 1352-0237, Vol. 22 (4) , pp. 321-335",
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Pergamon",
+        "Pergamon"
+    ],
+    "dc:format": [
+        "print",
+        "15 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Source information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bibliothèque enseignement supérieur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CDROM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Démographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enquête"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Logiciel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recensement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Service utilisateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Utilisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BCID (Business and Industrie Data Center)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information source"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Higher education library"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CDROM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Demography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inquiry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Software"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Census"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "User service"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Use"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fuente información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biblioteca enseñanza superior"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "CDROM"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Demografía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Encuesta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Logicial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Censo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Servicio usuario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Utilización"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation",
+        "001A01D02B: Bases de données non bibliographiques, mixtes. Banques de données / Nonbibliographic databases. Databanks",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-E: Sources d'information spécialisée / Specialized information sources"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats Unis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estados Unidos"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3097895"
+}

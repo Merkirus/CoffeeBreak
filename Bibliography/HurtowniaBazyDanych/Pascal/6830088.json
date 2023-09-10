@@ -1,0 +1,93 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Standard semi-rigid PU foam specimens: size effect on compression response",
+    "dc:creator": [
+        "REHKOPF, J. D",
+        "MCNEICE, G. M",
+        "RUDIN, A"
+    ],
+    "dc:contributor": "SPE Antec (Detroit MI 1992-05-03)",
+    "dc:relation": [
+        "Journal of cellular plastics -- J. cell. plast, CODEN JCUPAM, ISSN 0021-955X, Vol. 30 (1) , pp. 34-43",
+        "SPE Antec (Detroit MI 1992-05-03)"
+    ],
+    "dc:date": "1994",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Technomic",
+    "dc:format": [
+        "print",
+        "5 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété mécanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Alvéolaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet dimensionnel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résistance compression"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Uréthanne polymère"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mechanical properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Foam(plastics)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Size effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Compressive strength"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polyurethane"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad mecánica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alveolar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efecto dimensional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resistencia compresión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Uretano polímero"
+        },
+        "001D10A06A: Alvéolaires / Cellular"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3990543"
+}

@@ -1,0 +1,56 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "UNTERSUCHUNGEN AN KARBONYLEISENPROBEN NACH IMPULSVERCHICHTUNG MIT HOHEN GESCHWINDIGKEITEN; RECHERCHES SUR DES ECHANTILLONS DE FER CARBONYLE COMPACTES PAR CHOC A GRANDE VITESSE",
+    "dc:creator": [
+        "BERTOLDI W",
+        "ERINSKI D"
+    ],
+    "dc:date": "1973",
+    "dc:type": "Serial Issue",
+    "dc:language": "German",
+    "dc:format": "NEUE HUTTE; DTSCH.; DA. 1973; VOL. 18; NO 4; PP. 227-230; BIBL. 11 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "FER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POUDRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPACTAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FER CARBONYLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHOC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DENSITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE POUDRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METALLURGY"
+        },
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7374015509"
+}

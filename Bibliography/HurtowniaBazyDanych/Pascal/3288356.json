@@ -1,0 +1,41 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "TOWN GAS AND THE INDUSTRIAL ENVIRONMENT. II; LE GAZ DE VILLE ET L'ENVIRONNEMENT INDUSTRIEL. II",
+    "dc:creator": "FORDER FC",
+    "dc:date": "1973",
+    "dc:type": "Serial Issue",
+    "dc:language": "English",
+    "dc:format": "OIL GAS FIRG; G.B.; DA. 1973; VOL. 7; NO 6; PP. 12-16 (3 P.)",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "POLLUTION AIR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PREVENTION POLLUTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GAZ COMBUSTIBLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GAZ VILLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY"
+        },
+        "001D06: Energie / Energy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7373012800"
+}

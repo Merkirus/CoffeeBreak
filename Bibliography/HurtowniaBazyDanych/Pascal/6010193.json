@@ -1,0 +1,129 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Reactor dismantling by abrasive water jet cutting system",
+    "dc:creator": [
+        "HARADA, M",
+        "YOKOTA, I",
+        "NISHI, K",
+        "NAKAMURA, K",
+        "YOKOTA, M",
+        "SATO, F"
+    ],
+    "dc:relation": "JSME international journal. Series B, fluids and thermal engineering -- JSME int. j., Ser. B Fluids therm. eng, ISSN 1340-8054, Vol. 36 (3) , pp. 499-504",
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Japan Society of Mechanical Engineers",
+    "dc:format": [
+        "print",
+        "3 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Blindage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Déclassement installation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Découpage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Démontage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Installation démonstration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Jet eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réacteur nucléaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Téléaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Shielding"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Decommissioning"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cutting"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Disassembling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Demonstration unit"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water jet"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nuclear reactor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Remote operation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Blindaje"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desclasificación instalación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Troquelado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desmontaje"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Instalación demostración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Chorro agua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reactor nuclear"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Teleacción"
+        },
+        "001D06: Energie / Energy",
+        "001D06D04D: Centrales nucléaires à fission / Fission nuclear power plants"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4028382"
+}

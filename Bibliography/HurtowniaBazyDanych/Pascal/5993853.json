@@ -1,0 +1,64 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "La destruction par les mots; Destruction by words",
+    "dc:creator": "AGRON, P",
+    "dc:relation": "Terminologie et traduction -- Terminol. trad, ISSN 0256-7873 (1) , pp. 235-259",
+    "dc:date": "1991",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Commission des communautés européennes",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Créativité lexicale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Emprunts"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Français"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Influence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Langue de spécialité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Norme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Terminologie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Specialist Language"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Norm"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Terminology"
+        },
+        "524-: Sciences du langage / Linguistics",
+        "524-49: Etudes descriptives et applications des théories / Descriptive studies and applied theories",
+        "524-55: Lexicologie / Lexicology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3726433"
+}

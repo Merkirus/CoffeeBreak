@@ -1,0 +1,60 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "MOLECULAR FIELD THEORY OF NEMATICS: DENSITY FUNCTIONAL APPROACH. I: BULK EFFECTS",
+    "dc:creator": [
+        "SLUCKIN TJ",
+        "SHUKLA P"
+    ],
+    "dc:date": "1983",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "JOURNAL OF PHYSICS A: MATHEMATICAL AND GENERAL; ISSN 0305-4470; GBR; DA. 1983; VOL. 16; NO 7; PP. 1539-1553; BIBL. 32 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CRISTAL LIQUIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETAT NEMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSFORMATION PHASE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "APPROXIMATION CHAMP MOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CRISTALLOGRAPHIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIQUID CRYSTALS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NEMATIC STATE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHASE TRANSFORMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOLECULAR FIELD APPROXIMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CRISTALLOGRAPHY"
+        },
+        "001B60A: Structure des liquides et des solides; cristallographie / Structure of solids and liquids; crystallography"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0442527"
+}

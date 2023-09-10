@@ -1,0 +1,205 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Medical Sociology and Health Services Research: Past Accomplishments and Future Policy Challenges",
+    "dc:creator": [
+        "WRIGHT, Eric R",
+        "PERRY, Brea L"
+    ],
+    "dc:contributor": [
+        "HANKIN, Janet R (Editor)",
+        "WRIGHT, Eric R (Editor)"
+    ],
+    "dc:relation": "Journal of health and social behavior -- J. health soc. behav, CODEN JHSBA5, ISSN 0022-1465, Vol. 51",
+    "dc:date": "2010",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Sage Publications",
+    "dc:format": [
+        "print",
+        "S107-S119 ; 3 p.3/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur sociodémographique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé publique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Coût financement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Inégalité sociale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Politique sanitaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Qualité service"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Service santé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sociologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Statut socioéconomique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système santé"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sociodemographic factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Financing cost"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Social Inequality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Health policy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Service quality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Health service"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sociology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Socioeconomic status"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Health system"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor sociodemográfico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud pública"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Costo financiero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desigualdad social"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Política sanitaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Calidad servicio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Servicio sanidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sociología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estatuto socioeconómico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema salud"
+        },
+        "002B18H05A: Prévention. Politique sanitaire. Planification / Prevention. Health policy. Planification",
+        "002B30A01B: Systèmes de santé. Protection sociale / Health systems. Social services",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry",
+        "770-D08E01: Prévention. Politique sanitaire. Planification / Prevention. Health policy. Planification"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats-Unis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estados Unidos"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 23454197"
+}

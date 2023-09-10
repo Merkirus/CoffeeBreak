@@ -1,0 +1,80 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ANALYTICAL STOCHASTIC MODELLING FOR THE CONTROL OF INTERSECTIONS IN AUTOMATED GUIDEWAY SYSTEMS",
+    "dc:creator": [
+        "STRONG SL",
+        "KORNHAUSER AL"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "HIGH SPEED GROUND TRANSPORT. J.; USA; DA. 1978; VOL. 12; NO 1; PP. 41-76; BIBL. 6 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "SYSTEME TRANSPORT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VEHICULE GUIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AUTOMATISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONTROLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROCESSUS STOCHASTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PREVENTION ACCIDENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSPORT URBAIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSPORTS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TRANSPORTATION SYSTEM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GUIDED VEHICLE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AUTOMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STOCHASTIC PROCESSES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ACCIDENT PREVENTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "URBAN TRANSPORTATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TRANSPORTATION"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7980170694"
+}

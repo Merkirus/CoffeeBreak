@@ -1,0 +1,48 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "PRODUZIONE DI GHISA SFEROIDALE MEDIANTE SIVIERA ROTANTE; PRODUCTION DE FONTE SPHEROIDALE EN POCHE DE COULEE TOURNANTE",
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "Italian",
+    "dc:format": "FONDERIA; ITA; DA. 1978; VOL. 27; NO 10; PP. 70",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "FONTE NODULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELABORATION FONTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRAITEMENT EN POCHE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POCHE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PIG IRON MANUFACTURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LADLE TREATMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METALLURGY"
+        },
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7900162452"
+}

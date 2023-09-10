@@ -1,0 +1,245 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Pulse-echo NDT of adhesively bonded joints in automotive assemblies",
+    "dc:creator": [
+        "TITOV, Sergey A",
+        "MAEV, Roman Gr",
+        "BOGACHENKOV, Alexey N"
+    ],
+    "dc:contributor": [
+        "SACHSE, Wolfgang (Editor)",
+        "International Congress on Ultrasonics 2007 (Vienna 2007-04-09)"
+    ],
+    "dc:relation": [
+        "Ultrasonics (Guildford) -- Ultrasonics (Guildford), CODEN ULTRA3, ISSN 0041-624X, Vol. 48 (6-7) , pp. 537-546",
+        "Selected Papers from ICU 2007"
+    ],
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "Russian",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "10 p. ; 22 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Acier"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aluminium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Assemblage collé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Assemblage mécanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Automobile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Délaminage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epaisseur couche"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai non destructif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai ultrason"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Inversion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Montage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode écho impulsion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Onde plane"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tôle mince"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Steel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aluminium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adhesive joint"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mechanical joint"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Motor car"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Delamination"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Layer thickness"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Non destructive test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ultrasonic control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inversion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Assembly"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pulse echo method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plane wave"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thin sheet"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "43.20.Ye"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "43.35.Zc"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adhesively-bonded joint"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Automotive assembly"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Disbond"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phase inversion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reference waveform"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aluminio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensambladura pegada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensamblaje mecánico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Automóvil"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Delaminación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Espesor capa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo no destructivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo ultrasonido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inversión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Montaje"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método eco impulsión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Onda plana"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Chapa fina"
+        },
+        "001B40F30R: Méthodes de mesure et d'essai / Measurement and testing methods",
+        "001B80A70: Essais sur les matériaux / Materials testing"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20902492"
+}

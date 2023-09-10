@@ -1,0 +1,268 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Optimization of a refolding step for a therapeutic fusion protein in the quality by design (QbD) paradigm",
+    "dc:creator": [
+        "BADE, Pratap D",
+        "KOTU, Susmitha P",
+        "RATHORE, Anurag S"
+    ],
+    "dc:contributor": "LAMMERHOFER, Michael (Author of introductory parts)",
+    "dc:relation": "Journal of separation science (Print) -- J. sep. sci. (print), ISSN 1615-9306, Vol. 35 (22) , pp. 3160-3169",
+    "dc:date": "2012",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Wiley",
+    "dc:format": [
+        "print",
+        "10 p. ; 41 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Médicament"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Biomédicament"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Changement conformation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chimiométrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chromatographie HPLC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chromatographie gel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chromatographie phase inverse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrôle pureté"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrôle qualité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cytokine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dynamique conformationnelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Détecteur UV"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur stimulant colonie granulocyte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optimisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plan expérience"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Protéine fusion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Protéine recombinante"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Repliement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RP HPLC"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Drug"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biopharmaceuticals"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Conformational changes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemometrics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HPLC chromatography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gel permeation chromatography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reversed phase chromatography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Purity control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quality control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cytokine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Conformational dynamics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ultraviolet detector"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Granulocyte colony stimulating factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optimization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fusion protein"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Recombinant protein"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Refolding"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Design of Experiment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Design space"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Granulocyte colony stimulating factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quality by design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Refolding"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medicamento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biomedicamento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Quimiometría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cromatografía HPLC"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cromatografía gel"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cromatografía fase inversa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Verificación pureza"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Control de calidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Citoquina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dinámica conformacional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Detector UV"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor estimulante colonia granulocito"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Optimización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Plan experiencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Proteína fusionada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Proteína recombinante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Repliegue"
+        },
+        "002A31: Biotechnologie / Biotechnology",
+        "002A31C09C: Autres / Others",
+        "002B02A02: Méthodes de contrôle / Analysis"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 26850132"
+}

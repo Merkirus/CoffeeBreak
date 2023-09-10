@@ -1,0 +1,227 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Eine Schwefelkiesknolle aus dem Aurignacien vom Vogelherd, Baden-Württemberg-Zu den Anfängen der Feuererzeugung im europäischen Paläolithikum",
+    "dc:creator": [
+        "WEINER, Jürgen",
+        "FLOSS, Harald"
+    ],
+    "dc:relation": "Archäologische Informationen -- Archäol. Inf, ISSN 0341-2873, Vol. 27 (1) , pp. 59-78",
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "German",
+    "dc:publisher": "Deutsche Gesellschaft für Ur- und Frühgeschichte",
+    "dc:format": [
+        "print",
+        "20 p. ; 4 p.1/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Briquet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Feu"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grotte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Histoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Historique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Littérature"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pyrite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Science"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Site"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trace d'utilisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trace"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lighter"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cave"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "History"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "History"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Literature"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Finds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pyrite"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Science"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Site"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Use-wear trace"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Trace"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aurignacian"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Firemaking"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Middle Palaeolithic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Upper Palaeolithic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "lighter"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "marcasite"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "pyrite"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "strike-a-light"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "sulphuric iron"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "tinder"
+        },
+        "525-: Prehistoire et protohistoire / Prehistory and protohistory",
+        "525-12: Méthodologie et études générales / Methodology and general studies",
+        "525-38: Industrie métallique / Metal industry",
+        "525-1: Généralités / Generalities",
+        "525-2: Bibliographie / Bibliography",
+        "525-6: Organisation et histoire de la recherche / Organisation and history of research"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Belgique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aurignacien"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fer"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Magdalénien"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Paléolithique moyen"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Paléolithique supérieur"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Belgium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aurignacian"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Iron"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magdalenian"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Middle Palaeolithic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Upper Palaeolithic"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17186401"
+}

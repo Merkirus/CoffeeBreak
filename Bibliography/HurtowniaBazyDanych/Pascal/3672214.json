@@ -1,0 +1,84 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "EFFET TOXIQUE DU CHAMPIGNON ASCOMYCETE CORDYCEPS MILITARIS SUR LES CELLULES DU DIPTERE AEDES ALBOPICTUS CULTIVEES IN VITRO.",
+    "dc:creator": [
+        "BELLONCIK S",
+        "GHARBI SAID R"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "ENTOMOPHAGA; FR.; DA. 1977; VOL. 22; NO 3; PP. 243-246; ABS. ANGL.; BIBL. 8 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "INFECTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MYCOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CULTURE CELLULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTOXICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INVERTEBRATA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INSECTA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIPTERA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MOUSTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AEDES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CULICIDAE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFECTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MYCOSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CELL CULTURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POISONING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AEDES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CULICIDAE"
+        },
+        "002A14: Ecologie animale, vegetale et microbienne / Animal, plant and microbial ecology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7850041614"
+}

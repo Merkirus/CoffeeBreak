@@ -1,0 +1,137 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Magnetic Field Measurements on a Shake-Hands Lap Joint Sample of Cable-In-Conduit Conductors for JT-60SA EF Coil",
+    "dc:creator": [
+        "OBANA, T",
+        "TAKAHATA, K",
+        "MITO, T",
+        "IMAGAWA, S",
+        "KIZU, K",
+        "MURAKAMI, H",
+        "YOSHIDA, K"
+    ],
+    "dc:contributor": [
+        "Institute of Electrical and Electronic Engineers (IEEE) (Organiser of meeting)",
+        "International Conference on Magnet Technology (MT) (21 ; Hefei, Anhui 2009-10-18)"
+    ],
+    "dc:relation": [
+        "IEEE transactions on applied superconductivity -- IEEE trans. appl. supercond, ISSN 1051-8223, Vol. 20 (3) , pp. 1471-1474",
+        "THE TWENTY-FIRST INTERNATIONAL CONFERENCE ON MAGNET TECHNOLOGY, Hefei, Anhui, China, October 18-23, 2009"
+    ],
+    "dc:date": "2010",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institute of Electrical and Electronics Engineers",
+    "dc:format": [
+        "print",
+        "4 p. ; 3 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Champ extérieur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Champ magnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conducteur électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Câble sous tube"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Distribution courant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Joint recouvrement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mesure champ magnétique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "External field"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetic field"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrical conductor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pipe cable"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Current distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lap joint"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetic field measurement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cable-in-conduit conductor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "JT-60SA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "magnetic field measurement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "shake-hands lap joint"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Campo exterior"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Campo magnético"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conductor eléctrico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cable bajo tubo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Distribución corriente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Junta recubierta"
+        },
+        "001D05G01: Electroaimants / Electromagnets",
+        "001D05G04: Eléments de connexion. Câblage. Filerie / Electric connection. Cables. Wiring"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 22862807"
+}

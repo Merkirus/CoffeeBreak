@@ -1,0 +1,113 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Hard-to-reach nuclei studied with deep-inelastic heavy-ion reactions",
+    "dc:creator": [
+        "BRODA, R",
+        "FORNAL, B",
+        "KROLAS, W",
+        "PAWLAT, T",
+        "WRZESINSKI, J",
+        "BAZZACCO, D",
+        "DE ANGELIS, G",
+        "LUNARDI, S",
+        "ROSSI ALVAREZ, C"
+    ],
+    "dc:contributor": [
+        "DE ANGELIS, Giacomo (Editor)",
+        "GADEA, Andrés (Editor)",
+        "LENZI, Silvia M (Editor)",
+        "LUNARDI, Santo (Editor)",
+        "MENEGAZZO, Roberto (Editor)",
+        "NAPOLI, Daniel R (Editor)",
+        "University of Padova ; Department of Physics (Funder/Sponsor)",
+        "Istituto Nazionale di Fisica Nucleare (INFN) ; Legnaro National Laboratories (Funder/Sponsor)",
+        "Nuclear Structure with Large Gamma-Arrays. International Conference (Legnaro-Padua 2002-09-23)"
+    ],
+    "dc:relation": [
+        "The European physical journal. A, Hadrons and nuclei, ISSNNV 1434-6001, Vol. 20 (1) , pp. 145-150",
+        "International Conference on Nuclear Structure with Large Gamma-Arrays, NS2002, September 23-27, 2002, Legnaro (Padova), Italy"
+    ],
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "6 p. ; 31 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Etat spin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Isomère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Isotope riche neutron"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réaction ion lourd profondément inélastique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectrométrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transition isomère"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spin state"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Isomers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neutron-rich isotopes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Models"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Deep inelastic heavy ion reactions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spectroscopy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Isomeric transitions"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estado espín"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo"
+        },
+        "001B20: Physique nucleaire / Nuclear physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15702536"
+}

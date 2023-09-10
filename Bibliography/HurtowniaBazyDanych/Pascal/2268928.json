@@ -1,0 +1,61 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ON THE ELECTRONIC STRUCTURE OF THE PLANAR ETHYLENE",
+    "dc:creator": "TANAKA K",
+    "dc:date": "1972",
+    "dc:type": "Serial Issue",
+    "dc:language": "English",
+    "dc:format": "INTERNATION. J. QUANTUM CHEM.; U.S.A.; DA. 1972; VOL. 6; NO 6; PP. 1087-1100; ABS. FR. ALLEM.; BIBL. 12 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ETHYLENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MOLECULE PLANE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STRUCTURE ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POTENTIEL IONISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSITION ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE TRANSITION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTERACTION CONFIGURATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE MOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE ATOMIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOLECULAR PHYSICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ATOMIC PHYSICS"
+        },
+        "001B30: Physique atomique et moleculaire / Atomic and molecular physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7316508070"
+}

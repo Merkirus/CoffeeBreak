@@ -1,0 +1,309 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Les patients hospitalisés en psychiatrie ont-ils un médecin traitant ? : Les temps modernes; Do hospitalised patients in psychiatric wards in Paris have primary healthcare physicians?",
+    "dc:creator": [
+        "MONTARIOL, Philippe",
+        "GUILLARD, Michel",
+        "BOLLENGIER, Olivier",
+        "ESCAFFRE-GROUSSARD, Noëlle",
+        "HALLOUCHE, Nabil",
+        "PETITDEMANGE, Marielle",
+        "GREACEN, Tim"
+    ],
+    "dc:relation": "Information psychiatrique -- Inf. psychiatr, CODEN IPSYBI, ISSN 0020-0204, Vol. 82 (10) , pp. 793-800",
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "John Libbey Eurotext",
+    "dc:format": [
+        "print",
+        "8 p. ; 30 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Environnement social"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Personnel sanitaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé publique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Association morbide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diagnostic"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur risque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hospitalisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu urbain"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Médecin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé mentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Service hospitalier"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Soin santé primaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Temps séjour"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble psychiatrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Maladie somatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "comorbidité somatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "facteurs de risque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "hospitalisation psychiatrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "médecin référent"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "soins primaires"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Social environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Health staff"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Concomitant disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diagnosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Risk factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hospitalization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Urban environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Physician"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mental health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hospital ward"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Primary health care"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Residence time"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mental disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Somatic disease"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contexto social"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Personal sanitario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud pública"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asociación morbosa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diagnóstico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor riesgo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hospitalización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio urbano"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Médico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud mental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Servicio hospitalario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuidados salud primaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tiempo estancia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno psiquiátrico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enfermedad somatica"
+        },
+        "002B18I09: Thérapie institutionnelle. Traitement hospitalier / Institution therapy. Inpatient treatment",
+        "770-: Psychologie. Psychanalyse. Psychiatrie / Psychology. Psychoanalysis. Psychiatry",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ile de France"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Paris"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ile-de-France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Paris"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ile de France"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "París"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18450500"
+}

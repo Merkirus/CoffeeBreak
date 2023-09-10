@@ -1,0 +1,236 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Stochastic minority on graphs",
+    "dc:creator": [
+        "ROUQUIER, Jean-Baptiste",
+        "REGNAULT, Damien",
+        "THIERRY, Eric"
+    ],
+    "dc:contributor": "KARI, Jarkko (Editor)",
+    "dc:relation": "Theoretical computer science -- Theor. comput. sci, CODEN TCSCDI, ISSN 0304-3975, Vol. 412 (30) , pp. 3947-3963",
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "17 p. ; 42 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Arbre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Asynchrone"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Asynchronisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Automate cellulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Comportement asymptotique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Convergence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Energie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude comparative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Graphe régulier"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Informatique théorique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Maillage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Marche aléatoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode séquentielle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stabilisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Topologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vertex"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "05C05"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "68R10"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pire cas"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tree"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asynchronous"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asynchronism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cellular automaton"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asymptotic behavior"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Convergence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Energy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Regular graph"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computer theory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Grid pattern"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Random walk"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sequential method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stabilization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Topology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertex"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arbol"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asincrono"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asincronia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Autómata celular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Comportamiento asintótico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Convergencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Energía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio comparativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Grafo regular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Informática teórica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Celdarada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Marcha aleatoria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método secuencial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estabilización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Topología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vértice"
+        },
+        "001A02B01C: Théorie des graphes / Graph theory",
+        "001D02A06: Recherche information. Graphe / Information retrieval. Graph",
+        "001D02A08: Divers / Miscellaneous"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 24321534"
+}

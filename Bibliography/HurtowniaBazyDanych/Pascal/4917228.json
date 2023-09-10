@@ -1,0 +1,134 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Intermediate wettability by chemical treatment",
+    "dc:creator": [
+        "FLEURY, M",
+        "BRANLARD, P",
+        "LENORMAND, R",
+        "ZARCONE, C"
+    ],
+    "dc:contributor": [
+        "MORROW, Norman (Editor)",
+        "International Symposium on Evaluation of Reservoir Wettability and Its Effect on Oil Recovery (5 ; Trondheim 1998-06-22)"
+    ],
+    "dc:relation": [
+        "Journal of petroleum science & engineering -- J. pet. sci. eng, CODEN JPSEE6, ISSN 0920-4105, Vol. 24 (2-4) , pp. 123-130",
+        "Evaluation of reservoir wettability"
+    ],
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "20 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Champ pétrole"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mouillabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Perméabilité relative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pression capillaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche magasin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Silane"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement chimique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oil field"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wettability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Relative permeability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Capillary pressure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reservoir rock"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Silane"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical treatment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Campo petróleo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Remojabilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Permeabilidad relativa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Presión capilar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Roca reservorio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Silano"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento químico"
+        },
+        "001D06: Energie / Energy",
+        "001D06B02B5B: Caractéristiques des couches productrices. Géologie de réservoir. Fluides en place / Characteristics of producing layers. Reservoir geology. In situ fluids"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1319879"
+}

@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DETERMINATION OF THE DIURETIC BUMETANIDE IN BIOLOGICAL FLUIDS BY HIGH-PERFORMANCE LIQUID CHROMATOGRAPHY",
+    "dc:creator": [
+        "MARCANTONIO LA",
+        "AULD WHR",
+        "SKELLERN GG"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. CHROMATOGR.; NLD; DA. 1980; VOL. 183; NO 1; PP. 118-123; BIBL. 5 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DOSAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIURETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LIQUIDE BIOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHROMATOGRAPHIE COLONNE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHASE LIQUIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE FLUORESCENCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BUMETANIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHROMATOGRAPHIE HPL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHARMACOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANALYTICAL DETERMINATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIURETIC"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOLOGICAL FLUID"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COLUMN CHROMATOGRAPHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIQUID PHASE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FLUORESCENCE SPECTROMETRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FLUORIMETRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHARMACOLOGY"
+        },
+        "002B02: Pharmacologie. Traitements medicamenteux / Pharmacology. Drug treatments"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8050453578"
+}

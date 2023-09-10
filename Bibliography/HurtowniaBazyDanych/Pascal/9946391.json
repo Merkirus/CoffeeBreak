@@ -1,0 +1,305 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Granulocyte colony-stimulating factor in a neutropenic infant with cervical lymphadenitis",
+    "dc:creator": [
+        "AFZAL, Muhammad",
+        "ABBAS, Rukhsana",
+        "FRIERI, Marianne"
+    ],
+    "dc:relation": "Annals of allergy, asthma, & immunology -- Ann. allergy asthma immunol, ISSN 1081-1206, Vol. 86 (6) , pp. 616-621",
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "American College of Allergy, Asthma, & Immunology",
+    "dc:format": [
+        "print",
+        "28 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil respiratoire pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cytokine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hémopathie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Leucopénie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polypeptide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Voie respiratoire supérieure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Adénopathie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Antibiotique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Apoptose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chimiothérapie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cou"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diagnostic différentiel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enfant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude cas"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur stimulant colonie granulocyte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Femelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mort cellulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Neutrophile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Neutropénie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Voie respiratoire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Respiratory disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cytokine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hemopathy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Leukopenia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polypeptide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Upper respiratory tract"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adenopathy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antibiotic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Apoptosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemotherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neck"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Differential diagnostic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Child"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Case study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Granulocyte colony stimulating factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Female"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cell death"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neutrophil"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neutropenia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Respiratory tract"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato respiratorio patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Citoquina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hemopatía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Leucopenia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polipéptido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vía respiratoria superior"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adenopatía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antibiótico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Apoptosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Quimioterapia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuello"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diagnóstico diferencial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Niño"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio caso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor estimulante colonia granulocito"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hembra"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Infección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Muerte celular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Neutrófilo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Neutropenia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vía respiratoria"
+        },
+        "002B11D: Appareil respiratoire : syndromes et maladies diverses / Respiratory system : syndromes and miscellaneous diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1022837"
+}

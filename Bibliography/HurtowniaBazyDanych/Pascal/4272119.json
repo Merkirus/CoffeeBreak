@@ -1,0 +1,81 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "INTEGRALE RELATIVISTE, ORBITALE, DE DERIVE, POUR LE MOUVEMENT DE L'ELECTRON DANS UN CHAMP ELECTROMAGNETIQUE TOURNANT",
+    "dc:creator": "KURAEV AA",
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "RADIOTEKH. I ELEKTRON.; SUN; DA. 1982; VOL. 27; NO 4; PP. 794-798; BIBL. 6 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TUBE HYPERFREQUENCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHAMP ELECTROMAGNETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHAMP TOURNANT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EFFET RELATIVISTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "THEORIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTERACTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROWAVE TUBE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROMAGNETIC FIELD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ROTATING FIELD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RELATIVISTIC EFFECT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THEORY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTERACTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONICS"
+        },
+        "001D03: Electronique / Electronics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL82X0257942"
+}

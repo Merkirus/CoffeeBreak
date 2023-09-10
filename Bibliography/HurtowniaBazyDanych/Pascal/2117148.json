@@ -1,0 +1,63 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "MODIFICATION OF A VARIAN HA60-IL N.M.R. SPECTROMETER FOR MEASUREMENT OF CARBON-13 SPECTRA BY AUDIO-SIDEBAND SWEEPING.",
+    "dc:creator": [
+        "DODDRELL DM",
+        "HANSON FB",
+        "KENNY RJ",
+        "MARKER A",
+        "RIGGS NV"
+    ],
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "AUSTRAL. J. CHEM.; AUSTRAL.; DA. 1974; VOL. 27; NO 10; PP. 2175-2190; BIBL. 30 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CARBONE 13"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE HERTZIENNE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE RMN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FREQUENCE AUDIBLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BALAYAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METROLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE THEORIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MEASUREMENT SCIENCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THEORETICAL PHYSICS"
+        },
+        "001B: Physique / Physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7530102006"
+}

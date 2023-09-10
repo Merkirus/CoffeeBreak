@@ -1,0 +1,113 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Interference suppression of sound in smoothly horizontally varying ocean waveguides",
+    "dc:creator": [
+        "BORODINA, E. L",
+        "PETUKHOV, Yu. V"
+    ],
+    "dc:relation": "Acoustics letters -- Acoust. lett, CODEN ACLEDI, ISSN 0140-1599, Vol. 22 (12) , pp. 230-234",
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "Russian",
+    "dc:publisher": "Multi Science",
+    "dc:format": [
+        "print",
+        "16 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Acoustique sous marine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Approximation adiabatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bathymétrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cohérence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Distribution vitesse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Guide onde multimode"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Underwater acoustics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adiabatic approximation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bathymetry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Coherence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Velocity distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multimode waveguide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acústica submarina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aproximación adiabática"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Batimetría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Coherencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Distribución velocidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Guía onda multimodo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        "001B40C30: Acoustique sous-marine / Underwater sound",
+        "4330:  / Underwater sound"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1461042"
+}

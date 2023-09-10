@@ -1,0 +1,100 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SUR L'INVERSION DES MORPHISMES D'ARBRES.",
+    "dc:creator": [
+        "ARNOLD A",
+        "DAUCHET M"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Conference Paper",
+    "dc:language": "French",
+    "dc:format": "LECTURE NOTES COMPUTER SCI.; GERM.; DA. 1978; NO 62; PP. 26-35; BIBL. 1 P. 1/2; (AUTOM. LANG. PROGRAM. COLLOQ. 5; UDINE; 1978)",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "LANGAGE FORMEL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MORPHISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ARBRE GRAPHE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE SYNTAXIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FORET GRAPHE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MONOIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSDUCTEUR SYNTAXIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RECONNAISSANCE AUTOMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INFORMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATHEMATIQUES APPLIQUEES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FORMAL LANGUAGE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MORPHISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TREE(GRAPH)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SYNTACTIC ANALYSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FOREST(GRAPH)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MONOID"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SYNTACTIC TRANSDUCER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AUTOMATIC RECOGNITION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COMPUTER SCIENCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "APPLIED MATHEMATICS"
+        },
+        "001A02: Mathematiques / Mathematics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7830445524"
+}

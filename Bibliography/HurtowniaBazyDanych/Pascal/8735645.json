@@ -1,0 +1,64 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Medieval Chaul",
+    "dc:creator": "KULKARNI, A. R",
+    "dc:relation": "Studia (Lisboa) -- Studia (Lisb.), ISSN 0870-0028 (48) , pp. 163-186",
+    "dc:date": "1989",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "IICT",
+    "dc:format": [
+        "print",
+        "Illustration"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Histoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Port"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Société"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ville"
+        },
+        "526-118: Asie / Asia",
+        "526-132: Période indo-musulmane / Indo-muslim period"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Chaul"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Inde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chronologie Inde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Siècle 17 apr. J.-C"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Siècle 18 apr. J.-C"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6145159"
+}

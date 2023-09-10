@@ -1,0 +1,57 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "EIN NEUES VERFAHREN ZUR BESTIMMUNG DER UEBERTRAGUNGSFUNKTION G(S) AUS DEN ZUSTANDSRAUM-PARAMETERN; UNE NOUVELLE METHODE POUR LA DETERMINATION DE LA FONCTION G(S) D'APRES LES PARAMETRES DE LA REPRESENTATION DANS L'ESPACE D'ETAT",
+    "dc:creator": "ZEISKE K",
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "REGELUNGSTECHNIK; DEU; DA. 1979; VOL. 27; NO 2; PP. 52-58; ABS. ENG; BIBL. 22 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "SYSTEME LINEAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FONCTION TRANSFERT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REPRESENTATION SYSTEME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AUTOMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATHEMATIQUES APPLIQUEES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LINEAR SYSTEM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TRANSFER FUNCTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SYSTEM REPRESENTATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONTROL THEORY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "APPLIED MATHEMATICS"
+        },
+        "001A02: Mathematiques / Mathematics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8030046944"
+}

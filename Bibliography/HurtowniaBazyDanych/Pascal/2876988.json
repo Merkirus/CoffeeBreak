@@ -1,0 +1,76 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "STUDIES ON DATA VARIABILITY AND THE USE OF POLYNOMIALS TO DESCRIBE PLANT GROWTH.",
+    "dc:creator": [
+        "ELIAS CO",
+        "CAUSTON DR"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "NEW PHYTOLOGIST; G.B.; DA. 1976; VOL. 77; NO 2; PP. 421-430; BIBL. 11 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DICOTYLEDONES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CROISSANCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MODELE MATHEMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BLACKSTONIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IMPATIENS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DAUCUS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOLOGIE VEGETALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DICOTYLEDONES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DICOTYLEDONEAE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GROWTH"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MATHEMATICAL MODELS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IMPATIENS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DAUCUS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PLANT BIOLOGY"
+        },
+        "002A10: Physiologie vegetale et developpement / Plant physiology and development"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7710093275"
+}

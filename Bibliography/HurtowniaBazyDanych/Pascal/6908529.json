@@ -1,0 +1,92 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Current-carrying capability for industrial underground cable installations",
+    "dc:creator": [
+        "HEGYI, J",
+        "KLESTOFF, A. Y"
+    ],
+    "dc:contributor": "Industry applications society annual meeting (Toronto 1985)",
+    "dc:relation": [
+        "IEEE transactions on industry applications -- IEEE trans. ind. appl, CODEN ITIACR, ISSN 0093-9994, Vol. 24 (1) , pp. 99-105",
+        "Industry applications society annual meeting (Toronto 1985)"
+    ],
+    "dc:date": "1988",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institute of Electrical and Electronics Engineers",
+    "dc:format": [
+        "print",
+        "8 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Capacité charge"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Câble électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Installation industrielle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Installation électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Normalisation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Load capacity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrical cable"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Industrial installation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrical installation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Standardization"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Capacidad carga"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cable eléctrico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Instalación industrial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Instalación eléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Normalización"
+        },
+        "001D05I01G: Raccordement des usagers. Installations intérieures / Users connections and in door installation"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 7010543"
+}

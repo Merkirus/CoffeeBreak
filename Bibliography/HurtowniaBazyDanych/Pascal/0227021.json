@@ -1,0 +1,97 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ANPASSUNG DER VIERPARAMETRIGEN POTENZNORMALVERTEILUNG AN EMPIRISCHE VERTEILUNGEN EINIGER KLIMAGROSSEN.; ADAPTATION DE LA LOI DE PROBABILITE EN SERIE DE PUISSANCE, A 4 PARAMETRES, A LA DISTRIBUTION EMPIRIQUE DE GRANDEURS CLIMATIQUES",
+    "dc:creator": "FINKE W",
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "ACTA HYDROPHYS.; ALLEM.; DA. 1976; VOL. 21; NO 2; PP. 65-91; ABS. ANGL. RUSSE; BIBL. 12 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DISTRIBUTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TEMPERATURE AIR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRECIPITATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HUMIDITE AIR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HUMIDITE RELATIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRESSION VAPEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VARIATION MENSUELLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENSOLEILLEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DESCRIPTION PAR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LOI PROBABILITE SERIE PUISSANCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METEOROLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DISTRIBUTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AIR TEMPERATURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PRECIPITATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AIR HUMIDITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RELATIVE HUMIDITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VAPOR PRESSURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MONTHLY VARIATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INSOLATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METEOROLOGY"
+        },
+        "001E02F: Géophysique. Techniques, méthodes, appareillage et modèles / Geophysics. Techniques, methods, instrumentation and models"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7730117548"
+}

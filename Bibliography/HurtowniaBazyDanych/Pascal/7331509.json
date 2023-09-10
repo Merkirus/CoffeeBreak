@@ -1,0 +1,104 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The jackson cross cylinder: a reappraisal",
+    "dc:creator": [
+        "DEL PRIORE, L. V",
+        "GUYTON, D. L"
+    ],
+    "dc:contributor": "American academy of ophthalmology. Annual meeting",
+    "dc:relation": [
+        "Ophthalmology (Rochester, MN) -- Ophthalmology (Rochester MN), CODEN OPHTDG, ISSN 0161-6420, Vol. 93 (11) , pp. 1461-1465",
+        "American academy of ophthalmology. Annual meeting"
+    ],
+    "dc:date": "1986",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "7 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Astigmatisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exploration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Oeil pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réfraction oculaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble réfraction oculaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vision"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Astigmatism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Exploration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Eye disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ocular refraction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Refractive error"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vision"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Astigmatismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Exploracion"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ojo patologia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Refraccion ocular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno refraccion ocular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vision"
+        },
+        "002B24K: Exploration de la fonction oculaire et visuelle / Investigative techniques of ocular function and vision"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 7988505"
+}

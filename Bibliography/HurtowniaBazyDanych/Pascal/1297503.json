@@ -1,0 +1,69 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DIFFERENTIAL INHIBITION OF THE EXCHANGE REACTIONS ASSOCIATED WITH OXIDATIVE PHOSPHORYLATION; INHIBITION DIFFERENTIELLE DES REACTIONS D'ECHANGE ASSOCIEES AVEC LA PHOSPHORYLATION OXYDATIVE",
+    "dc:creator": [
+        "HOLLAND PC",
+        "LABELLE WC",
+        "LARDY HA"
+    ],
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "BIOCHEMISTRY; U.S.A.; DA. 1974; VOL. 13; NO 22; PP. 4549-4553; BIBL. 25REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PHOSPHORYLATION OXYDATIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ATP ANALOGUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MITOCHONDRIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FOIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RAT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PARTICULE MITOCHONDRIALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INHIBITION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MAMMALIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ECHANGE ATP"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACTIVITE BIOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOCHIMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOCHEMISTRY"
+        },
+        "002A02: Biochimie analytique, structurale et metabolique / Analytical, structural and metabolic biochemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7532007046"
+}

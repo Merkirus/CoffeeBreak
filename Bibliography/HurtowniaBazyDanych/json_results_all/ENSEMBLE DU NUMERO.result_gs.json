@@ -1,0 +1,391 @@
+[
+    {
+        "position": 0,
+        "title": "Le \u201cscandale\u201d du bilinguisme",
+        "result_id": "LOYqdlKWJVsJ",
+        "type": "Html",
+        "link": "https://www.cairn.info/revue-langage-et-societe-2006-2-page-9.htm",
+        "snippet": "\u2026 Ce texte constitue une pr\u00e9sentation de l\u2019ensemble du num\u00e9ro, montrant comment les diff\u00e9rents articles qui le composent s\u2019inscrivent dans des questionnements g\u00e9n\u00e9raux sur le \u2026",
+        "publication_info": {
+            "summary": "F Gadet, G Varro - Langage & soci\u00e9t\u00e9, 2006 - cairn.info",
+            "authors": [
+                {
+                    "name": "F Gadet",
+                    "link": "https://scholar.google.com/citations?user=3ZizmpkAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=3ZizmpkAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "3ZizmpkAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "cairn.info",
+                "file_format": "HTML",
+                "link": "https://www.cairn.info/revue-langage-et-societe-2006-2-page-9.htm"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=LOYqdlKWJVsJ",
+            "html_version": "https://www.cairn.info/revue-langage-et-societe-2006-2-page-9.htm",
+            "cited_by": {
+                "total": 99,
+                "link": "https://scholar.google.com/scholar?cites=6567820912503744044&as_sdt=2005&sciodt=0,5&hl=en",
+                "cites_id": "6567820912503744044",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6567820912503744044&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:LOYqdlKWJVsJ:scholar.google.com/&scioq=ENSEMBLE+DU+NUMERO.&hl=en&as_sdt=0,5",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3ALOYqdlKWJVsJ%3Ascholar.google.com%2F",
+            "versions": {
+                "total": 12,
+                "link": "https://scholar.google.com/scholar?cluster=6567820912503744044&hl=en&as_sdt=0,5",
+                "cluster_id": "6567820912503744044",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=6567820912503744044&engine=google_scholar&hl=en"
+            }
+        }
+    },
+    {
+        "position": 1,
+        "title": "Les principes des math\u00e9matiques et le probl\u00e8me des ensembles",
+        "result_id": "yPhKI-TivCAJ",
+        "type": "Pdf",
+        "link": "https://philarchive.org/archive/RICLPD-16",
+        "snippet": "\u2026 num\u00e9ro du HO mars 1905, la Revue si gnale certaines contradictions qu\u2019on rencontre dans la th\u00e9orie g\u00e9n\u00e9rale des ensembles\u2026 ceci : L\u2019ensemble de l\u2019ensemble E et du nombre N forme \u2026",
+        "publication_info": {
+            "summary": "J Richard - 1905 - philarchive.org"
+        },
+        "resources": [
+            {
+                "title": "philarchive.org",
+                "file_format": "PDF",
+                "link": "https://philarchive.org/archive/RICLPD-16"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=yPhKI-TivCAJ",
+            "cited_by": {
+                "total": 150,
+                "link": "https://scholar.google.com/scholar?cites=2359009774307834056&as_sdt=2005&sciodt=0,5&hl=en",
+                "cites_id": "2359009774307834056",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=2359009774307834056&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:yPhKI-TivCAJ:scholar.google.com/&scioq=ENSEMBLE+DU+NUMERO.&hl=en&as_sdt=0,5",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AyPhKI-TivCAJ%3Ascholar.google.com%2F",
+            "versions": {
+                "total": 2,
+                "link": "https://scholar.google.com/scholar?cluster=2359009774307834056&hl=en&as_sdt=0,5",
+                "cluster_id": "2359009774307834056",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=2359009774307834056&engine=google_scholar&hl=en"
+            },
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:yPhKI-TivCAJ:scholar.google.com/+ENSEMBLE+DU+NUMERO.&hl=en&as_sdt=0,5"
+        }
+    },
+    {
+        "position": 2,
+        "title": "Autour du lexique et de la phras\u00e9ologie des \u00e9crits scientifiques.",
+        "result_id": "MzLqXG1ZsqQJ",
+        "link": "https://hal.science/hal-01336284/",
+        "snippet": "\u2026 Les marques du m\u00e9tadiscours scientifique et le lexique m\u00e9tascientifique ne forment pas deux ensembles disjoints. Par \u2026 Pr\u00e9sentation des contributions du num\u00e9ro \u2026",
+        "publication_info": {
+            "summary": "A Tutin - Revue fran\u00e7aise de linguistique appliqu\u00e9e, 2007 - hal.science",
+            "authors": [
+                {
+                    "name": "A Tutin",
+                    "link": "https://scholar.google.com/citations?user=Pqt-ZG0AAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Pqt-ZG0AAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "Pqt-ZG0AAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "hal.science",
+                "file_format": "PDF",
+                "link": "https://hal.science/hal-01336284/file/RFLA_122_0005.pdf"
+            },
+            {
+                "title": "Full View",
+                "link": "https://scholar.google.com/scholar?output=instlink&q=info:MzLqXG1ZsqQJ:scholar.google.com/&hl=en&as_sdt=0,5&scillfp=7591092471500870791&oi=lle"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=MzLqXG1ZsqQJ",
+            "cited_by": {
+                "total": 109,
+                "link": "https://scholar.google.com/scholar?cites=11867646294319837747&as_sdt=2005&sciodt=0,5&hl=en",
+                "cites_id": "11867646294319837747",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=11867646294319837747&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:MzLqXG1ZsqQJ:scholar.google.com/&scioq=ENSEMBLE+DU+NUMERO.&hl=en&as_sdt=0,5",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AMzLqXG1ZsqQJ%3Ascholar.google.com%2F",
+            "versions": {
+                "total": 6,
+                "link": "https://scholar.google.com/scholar?cluster=11867646294319837747&hl=en&as_sdt=0,5",
+                "cluster_id": "11867646294319837747",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=11867646294319837747&engine=google_scholar&hl=en"
+            },
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:MzLqXG1ZsqQJ:scholar.google.com/+ENSEMBLE+DU+NUMERO.&hl=en&as_sdt=0,5"
+        }
+    },
+    {
+        "position": 3,
+        "title": "Les renouvellements g\u00e9n\u00e9rationnels du f\u00e9minisme: mais pour quel sujet politique?",
+        "result_id": "o2fxEiTR6OQJ",
+        "type": "Html",
+        "link": "https://www.cairn.info/revue-l-homme-et-la-societe-2005-4-page-11.htm",
+        "snippet": "\u2026 num\u00e9ro \u00e0 la fois les continuit\u00e9s, les h\u00e9ritages l\u00e9gu\u00e9s, capt\u00e9s ou vol\u00e9s, les ruptures, les tensions et les mutations du \u2026 91-104, ainsi que l\u2019ensemble du num\u00e9ro 25 de la revue Nouvelles \u2026",
+        "publication_info": {
+            "summary": "M Bessin, E Dorlin - L'Homme et la soci\u00e9t\u00e9, 2005 - cairn.info",
+            "authors": [
+                {
+                    "name": "M Bessin",
+                    "link": "https://scholar.google.com/citations?user=tA7qOtUAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=tA7qOtUAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "tA7qOtUAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "cairn.info",
+                "file_format": "HTML",
+                "link": "https://www.cairn.info/revue-l-homme-et-la-societe-2005-4-page-11.htm"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=o2fxEiTR6OQJ",
+            "html_version": "https://www.cairn.info/revue-l-homme-et-la-societe-2005-4-page-11.htm",
+            "cited_by": {
+                "total": 68,
+                "link": "https://scholar.google.com/scholar?cites=16494663588111280035&as_sdt=2005&sciodt=0,5&hl=en",
+                "cites_id": "16494663588111280035",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=16494663588111280035&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:o2fxEiTR6OQJ:scholar.google.com/&scioq=ENSEMBLE+DU+NUMERO.&hl=en&as_sdt=0,5",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3Ao2fxEiTR6OQJ%3Ascholar.google.com%2F",
+            "versions": {
+                "total": 7,
+                "link": "https://scholar.google.com/scholar?cluster=16494663588111280035&hl=en&as_sdt=0,5",
+                "cluster_id": "16494663588111280035",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=16494663588111280035&engine=google_scholar&hl=en"
+            }
+        }
+    },
+    {
+        "position": 4,
+        "title": "L'effacement \u00e9nonciatif dans les discours rapport\u00e9s et ses effets pragmatiques",
+        "result_id": "mh9-Z-rfdGwJ",
+        "type": "Html",
+        "link": "https://www.cairn.info/revue-langages-2004-4-page-3.htm",
+        "snippet": "\u2026 du caract\u00e8re programmatique de la probl\u00e9matique, cette introduction pr\u00e9sentera les articles du num\u00e9ro \u2026 h\u00e9t\u00e9rog\u00e9n\u00e9it\u00e9 montr\u00e9e), un sous-ensemble du premier, davantage travers\u00e9 par l\u2019\u2026",
+        "publication_info": {
+            "summary": "A Rabatel - Langages, 2004 - cairn.info",
+            "authors": [
+                {
+                    "name": "A Rabatel",
+                    "link": "https://scholar.google.com/citations?user=ZNH9KwEAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ZNH9KwEAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "ZNH9KwEAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "cairn.info",
+                "file_format": "HTML",
+                "link": "https://www.cairn.info/revue-langages-2004-4-page-3.htm"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=mh9-Z-rfdGwJ",
+            "html_version": "https://www.cairn.info/revue-langages-2004-4-page-3.htm",
+            "cited_by": {
+                "total": 277,
+                "link": "https://scholar.google.com/scholar?cites=7815117451246313370&as_sdt=2005&sciodt=0,5&hl=en",
+                "cites_id": "7815117451246313370",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7815117451246313370&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:mh9-Z-rfdGwJ:scholar.google.com/&scioq=ENSEMBLE+DU+NUMERO.&hl=en&as_sdt=0,5",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3Amh9-Z-rfdGwJ%3Ascholar.google.com%2F",
+            "versions": {
+                "total": 13,
+                "link": "https://scholar.google.com/scholar?cluster=7815117451246313370&hl=en&as_sdt=0,5",
+                "cluster_id": "7815117451246313370",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=7815117451246313370&engine=google_scholar&hl=en"
+            }
+        }
+    },
+    {
+        "position": 5,
+        "title": "Savoirs de la litt\u00e9rature",
+        "result_id": "SE80Bx0w4rkJ",
+        "link": "https://www.jstor.org/stable/40929985",
+        "snippet": "\u2026 Plus generalement, l'ensemble du numero peut etre lu comme une reflexion sur les circulations croisees entre la litterature et les sciences sociales : de nombreux ecrivains nourrissent \u2026",
+        "publication_info": {
+            "summary": "\u00c9 Anheim, A Lilti - Annales, 2010 - JSTOR",
+            "authors": [
+                {
+                    "name": "A Lilti",
+                    "link": "https://scholar.google.com/citations?user=0S4oeH8AAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=0S4oeH8AAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "0S4oeH8AAAAJ"
+                }
+            ]
+        },
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=SE80Bx0w4rkJ",
+            "cited_by": {
+                "total": 45,
+                "link": "https://scholar.google.com/scholar?cites=13394321142986329928&as_sdt=2005&sciodt=0,5&hl=en",
+                "cites_id": "13394321142986329928",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=13394321142986329928&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:SE80Bx0w4rkJ:scholar.google.com/&scioq=ENSEMBLE+DU+NUMERO.&hl=en&as_sdt=0,5",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3ASE80Bx0w4rkJ%3Ascholar.google.com%2F"
+        }
+    },
+    {
+        "position": 6,
+        "title": "Un syst\u00e8me de dictionnaires \u00e9lectroniques pour les mots simples du fran\u00e7ais",
+        "result_id": "plWMOWjJTh4J",
+        "link": "https://www.jstor.org/stable/41558553",
+        "snippet": "\u2026 Mathieu-Colas sur l'ensemble des mots du frangais (ap rassemblees dans cette etude \u2026 leur ajoute les terminaisons correspondant au numero de code du DELAS. Une particularity de ce \u2026",
+        "publication_info": {
+            "summary": "B Courtois - Langue fran\u00e7aise, 1990 - JSTOR"
+        },
+        "resources": [
+            {
+                "title": "persee.fr",
+                "file_format": "HTML",
+                "link": "https://www.persee.fr/doc/lfr_0023-8368_1990_num_87_1_6323"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=plWMOWjJTh4J",
+            "html_version": "https://www.persee.fr/doc/lfr_0023-8368_1990_num_87_1_6323",
+            "cited_by": {
+                "total": 195,
+                "link": "https://scholar.google.com/scholar?cites=2183904318800549286&as_sdt=2005&sciodt=0,5&hl=en",
+                "cites_id": "2183904318800549286",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=2183904318800549286&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:plWMOWjJTh4J:scholar.google.com/&scioq=ENSEMBLE+DU+NUMERO.&hl=en&as_sdt=0,5",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AplWMOWjJTh4J%3Ascholar.google.com%2F",
+            "versions": {
+                "total": 4,
+                "link": "https://scholar.google.com/scholar?cluster=2183904318800549286&hl=en&as_sdt=0,5",
+                "cluster_id": "2183904318800549286",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=2183904318800549286&engine=google_scholar&hl=en"
+            }
+        }
+    },
+    {
+        "position": 7,
+        "title": "L'analyse localis\u00e9e du politique",
+        "result_id": "gkgz7HyrM10J",
+        "type": "Html",
+        "link": "https://www.persee.fr/doc/polix_0295-2319_1989_num_2_7_1392",
+        "snippet": "\u2026 analyses du \"\u2026 du \"local\", force est de se demander si l'analyse localis\u00e9e du politique poss\u00e8de un objet propre, d\u00e9fini autrement que comme simple reliquat. L'ensemble de ce num\u00e9ro \u2026",
+        "publication_info": {
+            "summary": "JL Briquet, F Sawicki - Politix. Revue des sciences sociales du politique, 1989 - persee.fr",
+            "authors": [
+                {
+                    "name": "F Sawicki",
+                    "link": "https://scholar.google.com/citations?user=q4XiixQAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=q4XiixQAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "q4XiixQAAAAJ"
+                }
+            ]
+        },
+        "resources": [
+            {
+                "title": "persee.fr",
+                "file_format": "HTML",
+                "link": "https://www.persee.fr/doc/polix_0295-2319_1989_num_2_7_1392"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=gkgz7HyrM10J",
+            "html_version": "https://www.persee.fr/doc/polix_0295-2319_1989_num_2_7_1392",
+            "cited_by": {
+                "total": 193,
+                "link": "https://scholar.google.com/scholar?cites=6715900022366619778&as_sdt=2005&sciodt=0,5&hl=en",
+                "cites_id": "6715900022366619778",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=6715900022366619778&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:gkgz7HyrM10J:scholar.google.com/&scioq=ENSEMBLE+DU+NUMERO.&hl=en&as_sdt=0,5",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3Agkgz7HyrM10J%3Ascholar.google.com%2F",
+            "versions": {
+                "total": 4,
+                "link": "https://scholar.google.com/scholar?cluster=6715900022366619778&hl=en&as_sdt=0,5",
+                "cluster_id": "6715900022366619778",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=6715900022366619778&engine=google_scholar&hl=en"
+            }
+        }
+    },
+    {
+        "position": 8,
+        "title": "Quarante ans plus tard: R\u00e9flexions sur \u00eatre ensemble",
+        "result_id": "mR3YQYFus-IJ",
+        "type": "Pdf",
+        "link": "https://cjsae.library.dal.ca/index.php/cjsae/article/download/5664/4605",
+        "snippet": "\u2026 du nombre de soumissions en fran\u00e7ais et de num\u00e9ros th\u00e9matiques de langue fran\u00e7aise. Nous tenons \u00e0 c\u00e9l\u00e9brer la publication du num\u00e9ro \u2026 et les th\u00e8mes de ses num\u00e9ros au cours des \u2026",
+        "publication_info": {
+            "summary": "H Shan, C Hanson - Canadian Journal for the Study of Adult \u2026, 2021 - cjsae.library.dal.ca"
+        },
+        "resources": [
+            {
+                "title": "dal.ca",
+                "file_format": "PDF",
+                "link": "https://cjsae.library.dal.ca/index.php/cjsae/article/download/5664/4605"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=mR3YQYFus-IJ",
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:mR3YQYFus-IJ:scholar.google.com/&scioq=ENSEMBLE+DU+NUMERO.&hl=en&as_sdt=0,5",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AmR3YQYFus-IJ%3Ascholar.google.com%2F",
+            "versions": {
+                "total": 2,
+                "link": "https://scholar.google.com/scholar?cluster=16335521774837439897&hl=en&as_sdt=0,5",
+                "cluster_id": "16335521774837439897",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=16335521774837439897&engine=google_scholar&hl=en"
+            },
+            "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:mR3YQYFus-IJ:scholar.google.com/+ENSEMBLE+DU+NUMERO.&hl=en&as_sdt=0,5"
+        }
+    },
+    {
+        "position": 9,
+        "title": "Discours sur l'ensemble du positivisme",
+        "result_id": "Qk2V81alzSwJ",
+        "type": "Book",
+        "link": "https://books.google.com/books?hl=en&lr=&id=G5AGipFj33sC&oi=fnd&pg=PA2&dq=ENSEMBLE+DU+NUMERO.&ots=88yF15UFv5&sig=GmTgDVcXtAl0Dqm3RfX9CTyf7XY",
+        "snippet": "\u2026 -titres, avec leurs num\u00e9ros d'ordre. Ces sous-titres ne sont pas d'Auguste Comte. Ils ont \u00e9t\u00e9 ajout\u00e9s pour faciliter la lecture et l'\u00e9tude de l'ouvrage du Ma\u00eetre. Les manchettes ins\u00e9r\u00e9es par \u2026",
+        "publication_info": {
+            "summary": "A Comte - 1907 - books.google.com"
+        },
+        "resources": [
+            {
+                "title": "google.com",
+                "file_format": "HTML",
+                "link": "https://books.google.com/books?hl=en&lr=&id=G5AGipFj33sC&oi=fnd&pg=PA2&dq=ENSEMBLE+DU+NUMERO.&ots=88yF15UFv5&sig=GmTgDVcXtAl0Dqm3RfX9CTyf7XY"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=Qk2V81alzSwJ",
+            "html_version": "https://books.google.com/books?hl=en&lr=&id=G5AGipFj33sC&oi=fnd&pg=PA2&dq=ENSEMBLE+DU+NUMERO.&ots=88yF15UFv5&sig=GmTgDVcXtAl0Dqm3RfX9CTyf7XY",
+            "cited_by": {
+                "total": 221,
+                "link": "https://scholar.google.com/scholar?cites=3228418300766932290&as_sdt=2005&sciodt=0,5&hl=en",
+                "cites_id": "3228418300766932290",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=3228418300766932290&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:Qk2V81alzSwJ:scholar.google.com/&scioq=ENSEMBLE+DU+NUMERO.&hl=en&as_sdt=0,5",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&q=related%3AQk2V81alzSwJ%3Ascholar.google.com%2F",
+            "versions": {
+                "total": 4,
+                "link": "https://scholar.google.com/scholar?cluster=3228418300766932290&hl=en&as_sdt=0,5",
+                "cluster_id": "3228418300766932290",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=3228418300766932290&engine=google_scholar&hl=en"
+            }
+        }
+    }
+]

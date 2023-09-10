@@ -1,0 +1,55 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Maurice Blondel : le défi de l'action à l'athéisme actuel",
+    "dc:creator": "TEXIER, R",
+    "dc:relation": "Nouvelle revue théologique -- Nouv. rev. théol, ISSN 0029-4845, Vol. 114 (5) , pp. 708-725",
+    "dc:date": "1992",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Casterman, Editions",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Action (philosophie de l')"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Athéisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aujourd'hui"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Blondel, M"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Philosophy of Action"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Atheism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nowadays"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Blondel, M"
+        },
+        "519-1: Etudes historiques (Histoire de la philosophie. Histoire des idées) / Historical studies (History of philosophy. History of ideas)",
+        "519-1K: XXe siècle / 20th century"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6096585"
+}

@@ -1,0 +1,118 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "On-orbit operations of NiMH cells for space applications",
+    "dc:creator": [
+        "IWABUCHI, T",
+        "TAKAHASHI, K",
+        "HIROSE, K",
+        "TAJIMA, M",
+        "ADACHI, M",
+        "KUDOH, M",
+        "ISHIKAWA, Y",
+        "INAFUKU, H"
+    ],
+    "dc:contributor": [
+        "European Space Agency (Organiser of meeting)",
+        "Universidade do Porto, Faculdade de Engenharia (Organiser of meeting)",
+        "European space power conference (6 ; Porto 2002-05-06)"
+    ],
+    "dc:relation": [
+        "ESA SP (Print) -- ESA SP (Print), ISSN 0379-6566, pp. 635-640",
+        "Sixth European space power conference (ESPC) (Porto, 6-10 May 2002)"
+    ],
+    "dc:date": "2002",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "ESA Publications Division",
+    "dc:format": [
+        "print",
+        "6 p. ; 3 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Accumulateur électrochimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Batterie électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau léger"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métal Hydrure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nickel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Performance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Planète Mars"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Secondary cell"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electric batteries"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lighweight material"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metal Hydrides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nickel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Performance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mars planet"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acumulador electroquímico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Material ligero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metal Hidruro"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Niquel"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rendimiento"
+        },
+        "001D05I03E: Conversion électrochimique: piles et accumulateurs électrochimiques, piles à combustibles / Electrochemical conversion: primary and secondary batteries, fuel cells"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14559320"
+}

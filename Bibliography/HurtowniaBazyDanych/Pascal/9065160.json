@@ -1,0 +1,108 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "La Hongrie aux portes de l'Europe",
+    "dc:creator": "FORTUIT, J.-C",
+    "dc:relation": "La GéoGraphie, ISSN 1627-4911, Vol. 175 (1509) , pp. 37-46",
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "10 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Délimitation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Frontière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gestion de l'eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Géographie politique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Histoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu naturel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Peuplement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plaine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Relation homme-environnement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Delimitation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Frontier"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Political geography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "History"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Natural environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Settlement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Man-environment relations"
+        },
+        "531-: Bgi / Prodig / Bgi / Prodig",
+        "531-153: Europe / Europe",
+        "531-305: Géographie humaine / Human geography"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Hongrie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hungary"
+        }
+    ],
+    "dc:rights": [
+        "Bibliographie Géographique Internationale - Pôle de Recherche pour l'Organisation et la Diffusion de l'Information Géographique (PRODIG)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15243936"
+}

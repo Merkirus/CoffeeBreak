@@ -1,0 +1,158 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Nortel-reinventing IS",
+    "dc:creator": [
+        "VOLKOFF, O",
+        "NEWSON, E. F. P"
+    ],
+    "dc:contributor": [
+        "SAUER, Chris (Editor)",
+        "WILLCOCKS, Leslie (Editor)"
+    ],
+    "dc:relation": "JIT. Journal of information technology (Print) -- JIT, J. inf. technol. (Print), CODEN JINTEB, ISSN 0268-3962, Vol. 14 (3) , pp. 277-286",
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Taylor and Francis",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Besoin utilisateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evolution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Implémentation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transformation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Télécommunication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nortel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "User need"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Evolution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Implementation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Models"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transformation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Telecommunication"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Necesidad usuario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evolución"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ejecución"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transformación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Telecomunicación"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation",
+        "001A01F01: Conception et modélisation des systèmes / System design and modelling",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-G: Système de recherche documentaire. Système de gestion documentaire et d'information / Information retrieval systems. Information and document management system"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Canada"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Canada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Canada"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1231123"
+}

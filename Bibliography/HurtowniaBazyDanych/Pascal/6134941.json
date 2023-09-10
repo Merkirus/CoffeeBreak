@@ -1,0 +1,79 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Benchmarking European software management best practices; Analyse comparative des meilleurs pratiques en matière de gestion en génie logiciel",
+    "dc:creator": [
+        "DUTTA, S",
+        "KULANDAISWAMY, S",
+        "VAN WASSENHOVE, L"
+    ],
+    "dc:contributor": "Institut Européen d'Administration des Affaires. (INSEAD) (Editor)",
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Book"
+    ],
+    "dc:language": "English",
+    "dc:format": [
+        "print",
+        "24 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "EFFICACITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENIE LOGICIEL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GESTION DE PROJET"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EFFECTIVENESS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOFTWARE ENGINEERING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PROJECT MANAGEMENT"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "EFICACIA"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "CIENCIA DE PROGRAMACION"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "GESTION DE PROYECTO"
+        },
+        "616-: Doge / Gestion des entreprises / Doge / Company management",
+        "616-1: Politique générale de l'entreprise / Business policy"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "EUROPE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EUROPE"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "EUROPA"
+        }
+    ],
+    "dc:rights": [
+        "Documentation en Gestion des Entreprises - Eurofidai (institut européen de données financières) (DOGE)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6326742"
+}

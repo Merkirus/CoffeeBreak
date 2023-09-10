@@ -1,0 +1,112 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "NIVEAUX A ALGUES DANS LE THANETIEN DES PYRENEES.",
+    "dc:creator": [
+        "RECH FROLLO M",
+        "SEGONZAC M"
+    ],
+    "dc:date": "1958",
+    "dc:type": "Miscellaneous",
+    "dc:language": "French",
+    "dc:format": "BULL. SOC. HIST. NAT. TOULOUSE; FRA; 1958, VOL. 93, P. 117 A 120",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "THANETIEN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FLORE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALGAE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AUDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CALMETTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RIUEL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STRATIGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PALEOCENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PALEOGENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TERTIAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "THALLOPHYTA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PYRENEES FRANCAISES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FRANCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EUROPE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THANETIAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FLORA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ALGAE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AUDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STRATIGRAPHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        "001E01I: Stratigraphie / Stratigraphy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number GEODEBRGMFR1118232"
+}

@@ -1,0 +1,61 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE SENSORY COMPONENT OF THE FACIAL NERVE OF A REPTILE (LACERTA VIRIDIS)",
+    "dc:creator": "JACOBS VL",
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. COMP. NEUROL.; USA; DA. 1979; VOL. 184; NO 3; PP. 537-546; BIBL. 29 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "REPTILIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SAURIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NERF FACIAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANATOMIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SYSTEME NERVEUX PERIPHERIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LACERTA VIRIDIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REPTILIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SAURIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FACIAL NERVE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANATOMY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PERIPHERAL NERVOUS SYSTEM"
+        },
+        "002A14: Ecologie animale, vegetale et microbienne / Animal, plant and microbial ecology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7950391975"
+}

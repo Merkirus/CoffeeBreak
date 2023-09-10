@@ -1,0 +1,145 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "An agent-based simulator for electricity markets: Seller, Buyer, and Trader players",
+    "dc:creator": [
+        "PRACA, Isabel",
+        "RAMOS, Carlos",
+        "VALE, Zita",
+        "CORDEIRO, Manuel"
+    ],
+    "dc:contributor": [
+        "Marik, Vladimir (Editor)",
+        "McFarlane, Duncan (Editor)",
+        "Valckenaers, Paul (Editor)",
+        "International conference on industrial applications of holonic and multi-agent systems (1 ; Prague 2003-09-01)"
+    ],
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 290-301",
+        "HoloMAS 2003 : holonic and multi-agent systems for manufacturing (Prague, 1-3 September 2003)"
+    ],
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "12 p. ; 13 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Caractéristique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Consommateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Economie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "En ligne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Marché acheteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Puissance électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sciences économiques"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système multiagent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Characteristic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Consumer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Economy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "On line"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Buyers market"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electric power"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Economics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Simulator"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multiagent system"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Característica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Consumidor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Economía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "En línea"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Potencia eléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ciencias económicas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simulador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema multiagente"
+        },
+        "001D02B01: Généralités / General",
+        "001D02C02: Apprentissage et systèmes adaptatifs / Learning and adaptive systems",
+        "001D02D09: Commande des processus. Productique / Process control. Computer integrated manufacturing"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15672933"
+}

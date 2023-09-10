@@ -1,0 +1,60 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SURFACE CONCENTRATION CONTROL OF ZN IN GAAS",
+    "dc:creator": [
+        "KENDALL DL",
+        "BARTNING AM"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "BOL. INST. TONANTZINLA; MEX; DA. 1977; VOL. 2; NO 3; PP. 257-264; ABS. SPA; BIBL. 13 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DOSAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE QUANTITATIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE SURFACE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ZINC!ACT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GERMANIUM ARSENIURE!SUB"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE ANALYTIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANALYTICAL DETERMINATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "QUANTITATIVE ANALYSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SURFACE ANALYSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANALYTICAL CHEMISTRY"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7960204569"
+}

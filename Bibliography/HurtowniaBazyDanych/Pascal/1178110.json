@@ -1,0 +1,97 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "CONYLIANCE OF FLEXIBLE TUBES",
+    "dc:creator": "KRESCH E",
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. BIOMED.; GBR; DA. 1979; VOL. 12; NO 11; PP. 825-839; BIBL. 12 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MODELE MATHEMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VAISSEAU SANGUIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELASTICITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RHEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOMECANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPRIETE MECANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MODELE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HEMODYNAMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "APPAREIL CIRCULATOIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INFORMATIQUE BIOMEDICALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MATHEMATICAL MODELS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BLOOD VESSEL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELASTICITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RHEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOMECHANICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MECHANICAL PROPERTIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MODELS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEMODYNAMICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CIRCULATORY SYSTEM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOMEDICAL COMPUTER APPLICATIONS"
+        },
+        "002B26: Radiotherapie. Traitement instrumental. Physiotherapie. Reeducation. Readaptation, orthophonie, crenotherapie. Traitement dietetique et traitements divers (generalites) / Radiotherapy. Instrumental treatment. Physiotherapy. Reeducation. Rehabilitation, orthophony, crenotherapy. Diet therapy and various other treatments (general aspects)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8050226902"
+}

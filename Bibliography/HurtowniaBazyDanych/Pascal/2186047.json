@@ -1,0 +1,73 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "NEW PATHWAYS IN ANALYTICAL CHEMISTRY",
+    "dc:creator": [
+        "GOPALA RAO G",
+        "SURYANARAYANA M",
+        "SARADA M"
+    ],
+    "dc:date": "1973",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "PROC. NATION. ACAD. SCI. INDIA, A; INDIA; DA. 1973; VOL. 43; NO 1-2; PP. 52-56; BIBL. 11 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE ABSORPTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHOSPHATE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SILICATE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MOLYBDENE VI ION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REDUCTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CATALYMETRIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE TRACE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REACTION PHOTOCHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CATALYSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DOSAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE ANALYTIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANALYTICAL CHEMISTRY"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7517019763"
+}

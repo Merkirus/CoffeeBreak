@@ -1,0 +1,229 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Computer modelling of multifingers hand driven by muscle activation and application to artificial upper-limb system",
+    "dc:creator": [
+        "TSUTA, T",
+        "IWAMOTO, T",
+        "NAKAYA, T",
+        "TAKEDA, Y",
+        "ISHIKAWA, K"
+    ],
+    "dc:contributor": [
+        "Brebbia, C. A (Editor)",
+        "Sucharov, Lance J (Editor)",
+        "Pascolo, P (Editor)",
+        "International Conference on Design and Nature (1 ; Udine 2002-09)"
+    ],
+    "dc:relation": [
+        "Design and nature, pp. 313-325",
+        "Design and nature (comparing design in nature with science and engineering)"
+    ],
+    "dc:date": "2002",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "WIT",
+    "dc:format": [
+        "print",
+        "13 p. ; 3 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Biomimétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Commande électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conception ingénierie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Doigt"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dynamique solide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Manipulateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Manipulation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Membre supérieur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Moteur pas à pas"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Moteur électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Muscle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Préhenseur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Solution similitude"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système n corps"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biomimetics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Engineering design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Finger"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Solid dynamic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Manipulator"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Manipulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Upper limb"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stepping motor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electric motor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Muscle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gripper"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Similarity solution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "N body system"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Control electrónico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Concepción ingeniería"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dedo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dinàmico sólido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Manipulador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Manipulación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Miembro superior"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Motor paso a paso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Motor eléctrico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Músculo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prensor(robot)"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Solución semejanza"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema n cuerpos"
+        },
+        "001B40F10: Dynamique des solides (balistique, collision, système n corps, stabilisation...) / Solid dynamics (ballistics, collision, multibody system, stabilization...)",
+        "001D12: Genie mecanique. Construction mecanique / Mechanical engineering. Machine design"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17626081"
+}

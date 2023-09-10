@@ -1,0 +1,134 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Homogeneous-charge compression-ignition (HCCI) of gasoline-like fuels in a single-cylinder diesel engine",
+    "dc:creator": "SIEWERT, Robert M",
+    "dc:contributor": [
+        "Duret, Pierre (Editor)",
+        "IFP. International congress (Rueil Malmaison 2001-11-26)"
+    ],
+    "dc:relation": "A new generation of engine combustion processes for the future ? (Rueil Malmaison, 26-27 November 2001)",
+    "dc:date": "2002",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Editions Technip",
+    "dc:format": [
+        "print",
+        "20 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrôle combustion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gaz échappement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Injection carburant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Moteur combustion interne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Moteur diesel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Moteur monocylindre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rendement thermique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rendement énergétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Taux compression"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Combustion control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Exhaust gas"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Motor fuel injection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Internal combustion engine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diesel engine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Single cylinder engine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermal efficiency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Energetic efficiency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Compression ratio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gas escape"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inyección carburante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Motor explosión interna"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Motor diesel"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Motor monocilindro"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rendimiento térmico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rendimiento energético"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Relación compresión"
+        },
+        "001D06: Energie / Energy",
+        "001D06D03D: Moteurs et turbines / Engines and turbines"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14176221"
+}

@@ -1,0 +1,101 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "STELLERIDE DU CENOMANIEN MOYEN D'INDRE-ET-LOIRE.",
+    "dc:creator": "DOLLFUS RP",
+    "dc:date": "1958",
+    "dc:type": "Miscellaneous",
+    "dc:language": "French",
+    "dc:format": "BULL. SOC. GEOL. FR; FRA; 1958, VOL. 8, P. 65 A 68",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ECHINODERMATA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ARCHASTROPECTEN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CENOMANIEN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDRE ET LOIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BRASLOU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHAVEIGNES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PALEONTOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INVERTEBRATA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CRETACE SUP"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SECONDAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BASSIN PARISIEN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FRANCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EUROPE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ECHINODERMATA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CENOMANIAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INDRE ET LOIRE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PALEONTOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        "001E01Q: Paléontologie / Paleontology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number GEODEBRGMFR2009401"
+}

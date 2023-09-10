@@ -1,0 +1,218 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Modeling of jointed plain concrete pavement fatigue cracking in PaveSpec 3.0",
+    "dc:creator": [
+        "KHAZANOVICH, Lev",
+        "YU, H. Thomas"
+    ],
+    "dc:contributor": [
+        "Transportation Research Board (Funder/Sponsor)",
+        "Annual Meeting of the Transportation Research Board (80 ; Washington, DC 2001-01-07)"
+    ],
+    "dc:relation": [
+        "Transportation research record -- Transp. res. rec, CODEN TRREDM, ISSN 0361-1981 (1778) , pp. 33-42",
+        "Design and rehabilitation of pavements 2001"
+    ],
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "National Research Council",
+    "dc:format": [
+        "print",
+        "10 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse dommage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Béton non armé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Calcul construction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chaussée rigide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Congrès international"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Construction routière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrainte thermique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Distribution contrainte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Développement logiciel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fissuration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fissure fatigue"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Joint dilatation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode calcul"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation numérique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Failure analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Statistical analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plain concrete"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Structural design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rigid pavement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "International conference"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Road construction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermal stress"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stress distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Software development"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cracking"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fatigue crack"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Expansion joint"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computing method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Numerical simulation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis avería"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis estadístico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hormigón no armado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cálculo construcción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Calzada rígida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Congreso internacional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Construcción carretera"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tensión térmica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Campo restricción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desarrollo logicial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agrietamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fisura fatiga"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Junta dilatación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método cálculo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simulación numérica"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works",
+        "001D14C01: Résistance des matériaux (élasticité, plasticité, flambage, etc.) / Strength of materials (elasticity, plasticity, buckling, etc.)",
+        "001D14G02A: Généralités (composition, classification, performances, normes, brevets, etc.) / General (composition, classification, performance, standards, patents, etc.)",
+        "001D14O03A: Généralités / General"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 13623118"
+}

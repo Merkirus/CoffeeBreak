@@ -1,0 +1,65 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A PRELIMINARY EXPLORATION OF THE GULF STREAM SYSTEM WITH SOFAR FLOATS",
+    "dc:creator": [
+        "SCHMITZ WJ JR",
+        "PRICE JF",
+        "RICHARDSON PL",
+        "OWENS WB",
+        "WEBB DC",
+        "CHENEY RE",
+        "ROSSBY HT"
+    ],
+    "dc:date": "1981",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. PHYS. OCEANOGR.; ISSN 0022-3670; USA; DA. 1981; VOL. 11; NO 9; PP. 1194-1204; BIBL. 46 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "GULF STREAM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OBSERVATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE CINETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FLOTTEUR SOFAR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COURANT MARIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CALCUL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OCEANOGRAPHIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OBSERVATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "KINETIC ENERGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OCEANOGRAPHY"
+        },
+        "001E02F: Géophysique. Techniques, méthodes, appareillage et modèles / Geophysics. Techniques, methods, instrumentation and models"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL82X0134937"
+}

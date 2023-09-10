@@ -1,0 +1,222 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "New inverse spinel cathode materials for rechargeable lithium batteries",
+    "dc:creator": [
+        "FEY, G. T. K",
+        "WANG, K. S",
+        "YANG, S. M"
+    ],
+    "dc:contributor": [
+        "YAMAMOTO, O (Editor)",
+        "OGUMI, Z (Editor)",
+        "MORITA, M (Editor)",
+        "Electrochemical Society of Japan ; Committee of Battery Technology (Funder/Sponsor)",
+        "Electrochemical Society, Inc. ; Battery Division (Funder/Sponsor)",
+        "Osaka Science and Technology Center (OSTEC) (Funder/Sponsor)",
+        "Lithium Battery Energy Storage Technology Research Association (LIBES) (Funder/Sponsor)",
+        "IMLB-8 International Meeting on Lithium Batteries (8 ; Nagoya 1996-06-16)"
+    ],
+    "dc:relation": [
+        "Journal of power sources -- J. power sources, CODEN JPSODZ, ISSN 0378-7753, Vol. 68 (1) , pp. 159-165",
+        "IMLB-8 International Meeting on Lithium Batteries"
+    ],
+    "dc:date": "1997",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Sequoia",
+    "dc:format": [
+        "print",
+        "11 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Batterie accumulateur électrochimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Batterie lithium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Capacité spécifique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Caractéristique électrochimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cobalt oxyde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé n éléments"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cycle charge décharge"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Efficacité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lithium oxyde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau électrode"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microstructure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nickel oxyde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Processus fabrication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spinelles"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure cristalline"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vanadium oxyde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Co Li Ni O V"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LiNiyCo1-yVO4"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Secondary batteries"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lithium batteries"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Specific capacity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrochemical characteristic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cobalt oxide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multi-element compound"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Discharge charge cycle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Efficiency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lithium oxide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrode material"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microstructure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nickel oxide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Production process"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spinels"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Crystal structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vanadium oxide"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Capacidad específica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Característica electroquímica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cobalto óxido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Compuesto n elementos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ciclo carga descarga"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Litio óxido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Material electrodo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Níquel óxido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Proceso fabricación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Espinelas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vanadio óxido"
+        },
+        "001D05I03E: Conversion électrochimique: piles et accumulateurs électrochimiques, piles à combustibles / Electrochemical conversion: primary and secondary batteries, fuel cells"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2100003"
+}

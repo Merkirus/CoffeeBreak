@@ -1,0 +1,109 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Capacity of an integrated LCD/UDD WCDMA cellular network",
+    "dc:creator": "BURLEY, S",
+    "dc:contributor": [
+        "Institution of Electrical Engineers (Organiser of meeting)",
+        "International conference on 3G mobile communication technologies (2 ; London 2001-03-26)"
+    ],
+    "dc:relation": [
+        "IEE conference publication -- IEE conf. publ, CODEN IECPB4, ISSN 0537-9989, pp. 58-62",
+        "3G mobile communication technologies (London, 26-28 March 2001)"
+    ],
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "IEE",
+    "dc:format": [
+        "print",
+        "5 p. ; 4 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Accès multiple code"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Capacité canal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dimensionnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation performance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau cellulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Télécommunication sans fil"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Capacité réseau"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Code division multiple access"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Channel capacity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dimensioning"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Performance evaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cell network"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wireless telecommunication"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acceso múltiple codificado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Capacidad canal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dimensionamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evaluación prestación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red celular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Telecomunicación sin hilo"
+        },
+        "001D04B02B: Télétrafic / Teletraffic",
+        "001D04B04G2: Radiocommunications du service mobile / Mobile radiocommunication systems"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15204157"
+}

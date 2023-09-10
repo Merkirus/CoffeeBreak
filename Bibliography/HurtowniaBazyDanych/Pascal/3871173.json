@@ -1,0 +1,92 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "MICRODOSAGE DU PLOMB, DU CADMIUM, DU ZINC ET DE L'ETAIN DANS LES MILIEUX BIOLOGIQUES PAR SPECTROMETRIE D'ABSORPTION ATOMIQUE APRES MINERALISATION ET EXTRACTION",
+    "dc:creator": [
+        "BOITEAU HL",
+        "METAYER C"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "ANALUSIS; FRA; DA. 1978; VOL. 6; NO 8; PP. 350-358; ABS. ENG; BIBL. 11 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DOSAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PLOMB"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CADMIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ZINC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETAIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATERIEL BIOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE ABSORPTION ATOMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TOXICOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANALYTICAL DETERMINATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LEAD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CADMIUM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ZINC"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOLOGICAL MATERIAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ATOMIC ABSORPTION SPECTROMETRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TOXICOLOGY"
+        },
+        "002B02: Pharmacologie. Traitements medicamenteux / Pharmacology. Drug treatments"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7950118317"
+}

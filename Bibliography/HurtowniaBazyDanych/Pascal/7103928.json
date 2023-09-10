@@ -1,0 +1,98 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Study of the interaction of highly charged ions with SiO2 surface",
+    "dc:creator": [
+        "PENG, H. B",
+        "CHENG, R",
+        "YANG, X. Y",
+        "HAN, Y. C",
+        "ZHAO, Yt",
+        "YANG, J",
+        "WANG, S. W",
+        "FANG, Y",
+        "WANG, T. S"
+    ],
+    "dc:contributor": [
+        "KOTHARI, D. C (Editor)",
+        "BAGLIN, John E. E (Editor)",
+        "ENSINGER, W (Editor)",
+        "SUNDARARAMAN, M (Editor)",
+        "University of Mumbai and Materials Research Society of India (MRSI) (Organiser of meeting)",
+        "Bhabha Atomic Research Centre (BARC) (Organiser of meeting)",
+        "Tata Institute of Fundamental Research Research Centre (BARC) (Organiser of meeting)",
+        "International Conference on Surface Modification of Materils by Ion Beams (SMMIB) (Mumbai 2007-09-30)"
+    ],
+    "dc:relation": [
+        "Surface & coatings technology -- Surf. coat. technol, CODEN SCTEEJ, ISSN 0257-8972, Vol. 203 (17-18) , pp. 2387-2389",
+        "Proceedings of the 15th International Conference on Surface Modification of Materils by Ion Beams"
+    ],
+    "dc:date": "2009",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "3 p. ; 17 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Acide chlorhydrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pulvérisation irradiation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Silice"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement surface"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hydrochloric acid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sputtering"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Silica"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface treatments"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "79.20"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Highly charged ions (HCls)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sputtering yield"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sputtering"
+        },
+        "001B80A65: Traitements de surface / Surface treatments",
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy",
+        "001D11C06: Traitements de surface / Surface treatment"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 21794713"
+}

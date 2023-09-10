@@ -1,0 +1,69 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "EPSS-DESIGN CONCEPTS.",
+    "dc:creator": "DRAKE P",
+    "dc:date": "1976",
+    "dc:type": "Conference Paper",
+    "dc:language": "English",
+    "dc:format": "IN: MINICOMPUT. SMALL BUS. SYST. INT. CONF.; LONDON; 1976; UXBRIDGE; ON LINE; DA. 1976; PP. 323-342; BIBL. 9 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSMISSION DONNEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RESEAU TRANSMISSION DONNEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMMUTATION PAQUET"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONCEPTION SYSTEME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OFFICE DES POSTES BRITANNIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INFORMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATHEMATIQUES APPLIQUEES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DATA TRANSMISSION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DATA TRANSMISSION NETWORK"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PACKET SWITCHING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SYSTEM DESIGN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COMPUTER SCIENCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "APPLIED MATHEMATICS"
+        },
+        "001A02: Mathematiques / Mathematics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7830301802"
+}

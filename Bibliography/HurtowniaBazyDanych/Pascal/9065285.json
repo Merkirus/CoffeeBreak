@@ -1,0 +1,96 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "La Russie et l'Europe : une intégration économique encore à venir ?",
+    "dc:creator": [
+        "RICHARD, Y",
+        "TOBELEM ZANIN, C"
+    ],
+    "dc:relation": "Cybergeo -- Cybergeo, ISSN 1278-3366 (402)",
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "CNRS",
+    "dc:format": [
+        "print",
+        "5 p. ; en notes"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Commerce international"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Economie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Flux économique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Intégration régionale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Intégration économique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Régionalisation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "International trade"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Economy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Economic flow"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Regional integration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Economic integration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Regionalization"
+        },
+        "531-: Bgi / Prodig / Bgi / Prodig",
+        "531-153: Europe / Europe",
+        "531-323: Fédération de Russie / Russian Federation"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Russie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Russia"
+        }
+    ],
+    "dc:rights": [
+        "Bibliographie Géographique Internationale - Pôle de Recherche pour l'Organisation et la Diffusion de l'Information Géographique (PRODIG)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20395099"
+}

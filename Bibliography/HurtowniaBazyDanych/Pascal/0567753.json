@@ -1,0 +1,88 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "(1,2,5) THIADIAZOLE (3,4-C) (1,2,5) THIADIAZOLE, C2-N4S2",
+    "dc:creator": [
+        "KANE J",
+        "SCHAEFFER K"
+    ],
+    "dc:date": "1981",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "CRYST. STRUCT. COMMUN.; ISSN 0302-1742; ITA; DA. 1981; VOL. 10; NO 4; PP. 1403-1404; BIBL. 1 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE ORGANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE EXPERIMENTALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIFFRACTION RX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STRUCTURE CRISTALLINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STRUCTURE MOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HETEROCYCLE SOUFRE AZOTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE TRICYCLIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "THIADIAZOLO THIADIAZOLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CRISTALLOGRAPHIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORGANIC COMPOUNDS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXPERIMENTAL STUDY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "X RAY DIFFRACTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CRYSTALLINE STRUCTURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOLECULAR STRUCTURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SULFUR NITROGEN HETEROCYCLE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TRICYCLIC COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CRISTALLOGRAPHY"
+        },
+        "001B60A: Structure des liquides et des solides; cristallographie / Structure of solids and liquids; crystallography"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL82X0111901"
+}

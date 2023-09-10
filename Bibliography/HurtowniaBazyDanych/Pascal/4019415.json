@@ -1,0 +1,45 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ANALYSE GENETIQUE DU CARACTERE ABSENCE D'EPINES CHEZ LA FRAMBOISE",
+    "dc:creator": "MIKHAJLOV TS",
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "Bulgarian",
+    "dc:format": "GENET. I SELEK.; BALG.; DA. 1974; VOL. 7; NO 4; PP. 292-301; ABS. RUSSE ANGL.; BIBL. 17REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DETERMINISME GENETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MUTATION SPINEDNESS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RUBUS IDAEUS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARACTERE MORPHOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DICOTYLEDONES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENETIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENETICS"
+        },
+        "002A31C02: Techniques génétiques / Genetic technics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7536303364"
+}

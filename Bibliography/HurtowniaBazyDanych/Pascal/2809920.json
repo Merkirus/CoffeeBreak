@@ -1,0 +1,57 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SPECTROPHOTOMETRIC STUDY OF THE URANYL-STREPTOMYCIN COMPLEX",
+    "dc:creator": [
+        "AGRAWAL JK",
+        "HARMALKAR SG",
+        "VIJAYAVARGIYA R"
+    ],
+    "dc:date": "1975",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "PROC. INDIAN ACAD. SCI., A; INDIA; DA. 1975; VOL. 82; NO 2; PP. 65-69; BIBL. 9 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE ABSORPTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSITION CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONSTANTE STABILITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "THERMODYNAMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "URANYLE VI COMPLEXE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COORDINAT ORGANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STREPTOMYCINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE MINERALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INORGANIC CHEMISTRY"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7617010258"
+}

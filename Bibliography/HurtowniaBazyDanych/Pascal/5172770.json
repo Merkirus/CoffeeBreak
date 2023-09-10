@@ -1,0 +1,95 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Actuation development and evaluation for INSTAR: Inertially stabilized rifle",
+    "dc:creator": [
+        "BREI, Diann",
+        "VENDLINSKI, James",
+        "FRECKER, Mary",
+        "BHARTI, Smita"
+    ],
+    "dc:contributor": [
+        "Baz, Amr M (Editor)",
+        "International Society for Optical Engineering (Organiser of meeting)",
+        "Smart structures and integrated systems (San Diego CA 2003-03-03)"
+    ],
+    "dc:relation": [
+        "SPIE proceedings series -- SPIE proc. ser, pp. 338-355",
+        "Smart structures and integrated systems (San Diego CA, 3-6 March 2003)"
+    ],
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "18 p. ; 82 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Actionneur piézoélectrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Suspension véhicule"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système actif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transducteur piézoélectrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Actionneur recourbé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Inertially stabilized rifle (INSTAR)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rifle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Piezoelectric actuators"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vehicle suspension"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Active system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Piezoelectric sensor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Suspensión vehículo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema activo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transductor piezoelectrico"
+        },
+        "001D03F14: Dispositifs à ondes acoustiques, piézoélectriques, piézorésistifs / Acoustic wave devices, piezoelectric and piezoresistive devices",
+        "001D12E05: Variateurs de vitesse, convertisseurs de couple. Systèmes de commande et de transmission hydrauliques et pneumatiques, fluides et composants correspondants, moteurs hydrauliques et pneumatiques / Speed variators, torque converters. Hydraulic drives and controls, pneumatic drives and controls, fluids and components, hydraulic motors, pneumatic motors"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15415404"
+}

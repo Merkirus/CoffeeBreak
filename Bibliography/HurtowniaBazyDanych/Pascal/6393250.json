@@ -1,0 +1,138 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Pulsed electrothermal technique for the characterization of dielectric films",
+    "dc:creator": [
+        "BAUER-GOGONEA, S",
+        "BAUER, S",
+        "WIRGES, W"
+    ],
+    "dc:contributor": [
+        "Włochowicz, Andrzej (Editor)",
+        "Targosz-Wrona, Elżbieta (Editor)",
+        "International Society for Optical Engineering (Organiser of meeting)",
+        "Polymers and liquid crystals. Conference (Szczyrk 1998-09-24)"
+    ],
+    "dc:relation": [
+        "SPIE proceedings series -- SPIE proc. ser, pp. 18-25",
+        "Polymers and liquid crystals (Szczyrk, 24-27 September 1998)"
+    ],
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "16 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ferroélectrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polarisation électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété piézoélectrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété pyroélectrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode électrothermique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ferroelectric materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical material"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measurement method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrical polarization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polymer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Piezoelectric properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pyroelectric properties"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Material ferroeléctrico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Material óptico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método medida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polarización eléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polímero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad piezoeléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad piroeléctrica"
+        },
+        "001D09D04D: Propriétés électriques, magnétiques et optiques / Electrical, magnetic and optical properties"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1379919"
+}

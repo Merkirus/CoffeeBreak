@@ -1,0 +1,70 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Karl Barth et Dostoïevski; Karl Barth and Dostoïevski",
+    "dc:creator": "ROUSSEL, J.-F",
+    "dc:relation": "Laval théologique et philosophique -- Laval théol. philos, ISSN 0023-9054, Vol. 49 (1) , pp. 37-55",
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Université Laval",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Barth (K.)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dostoïevski (F. M.)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réception"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réformateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Théologie dialectique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Théologie réformée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Théologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Römerbrief"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thurneysen (E.)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Barth (K.)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dostoevsky (F. M.)"
+        },
+        "527-: Histoire et sciences des religions / History and sciences of religions",
+        "527-1: Sciences des religions / Studies in religion",
+        "527-3A: Philosophie de la religion / Philosophy of religion",
+        "527-865: Christianisme / Christianity",
+        "527-1336: Dieu / God"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4937300"
+}

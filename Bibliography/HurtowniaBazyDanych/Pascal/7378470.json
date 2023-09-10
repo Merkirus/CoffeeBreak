@@ -1,0 +1,56 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Sistemi di ventilazione di macchine per carta e cartone; Ventilation systems of paper- and paperboard machines",
+    "dc:creator": [
+        "ESKELINEN, P",
+        "LINDBERG, K"
+    ],
+    "dc:contributor": "Riunione annuale ATICELCA (33 ; Montecatini Terme 1991-10)",
+    "dc:relation": [
+        "Industria della Carta -- Ind. Carta, CODEN ICAMA4, ISSN 0019-7548, Vol. 30 (3) , pp. 125-131",
+        "Riunione annuale ATICELCA (33 ; Montecatini Terme 1991-10)"
+    ],
+    "dc:date": "1992",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "Italian",
+    "dc:publisher": "Assocarte",
+    "dc:format": [
+        "print",
+        "3 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Machine papier"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ventilation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Paper machine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ventilation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Máquina papel"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ventilación"
+        },
+        "001D10C03C: Fabrication des papiers et cartons / Paper and paperboard manufacturing"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 5219086"
+}

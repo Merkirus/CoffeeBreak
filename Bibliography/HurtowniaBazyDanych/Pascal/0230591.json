@@ -1,0 +1,135 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ART DER GEBURTSBEENDING, ZUSTANDSDIAGNOSTIK UND KINDLICHER AUSGANG BEI FRUEHGEBURT; LE MODE D'ACCOUCHEMENT, LA CONDITION POST-NATALE ET L'ETAT DU NOUVEAU-NE CHEZ LE PREMATURE",
+    "dc:creator": [
+        "RUCKHAEBERLE KE",
+        "VIEHWEG B",
+        "SCHLEGEL C",
+        "VOGTMANN C",
+        "BOETTCHER H",
+        "SCHUERER K",
+        "RUCKHAEBERLE B",
+        "WEISSBACH R",
+        "WOLFF C"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "ZBL. GYNAEKOL.; DDR; DA. 1979; VOL. 101; NO 8; PP. 532-542; ABS. ENG; BIBL. 21 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ACCOUCHEMENT PREMATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TECHNIQUE OBSTETRICALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AGE GESTATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EPISIOTOMIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PREMATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FOETUS PATHOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NOUVEAU NE PATHOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NEONATOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GESTATION PATHOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PREVENTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OBSTETRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REPRODUCTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PREMATURE DELIVERY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OBSTETRICAL TECHNIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GESTATIONAL AGE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EPISIOTOMY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PREMATURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FETAL DISEASES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NEW BORN DISEASES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NEONATOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PREGNANCY DISORDERS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PREVENTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OBSTETRIC"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REPRODUCTION"
+        },
+        "002A29: Vertebres: reproduction / Vertebrates: reproduction"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7950473634"
+}

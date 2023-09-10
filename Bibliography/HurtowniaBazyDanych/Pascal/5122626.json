@@ -1,0 +1,294 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Histopathological damages caused by the copepod Mytilicola orientalis in the oyster Crassostrea gigas from the Bay of Brest (Brittany, France)",
+    "dc:creator": [
+        "LE PENNEC, Gaël",
+        "LE PENIREC, Marcel"
+    ],
+    "dc:contributor": [
+        "Société française de malacologie (Funder/Sponsor)",
+        "Malacologie 2000. Congrès (Caen 2001)"
+    ],
+    "dc:relation": [
+        "Haliotis (Paris) -- Haliotis (Paris), CODEN HALIDP, ISSN 0397-765X, Vol. 32, pp. 73-80",
+        "Articles issus du XIème congrès Malacologie 2000 de la Société Française de Malacologie (Caen, 2001)"
+    ],
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Société française de malacologie",
+    "dc:format": [
+        "print",
+        "8 p. ; 1 p.3/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Arthropoda"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bivalvia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Copepoda"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Crustacea"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Invertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu saumâtre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mollusca"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Baie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Crassostrea gigas"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Histopathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lésion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mollusque comestible"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Morphologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Organisme benthique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ostréiculture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Parasite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Parasitisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Zoopathogène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mytilicola orientalis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Arthropoda"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bivalvia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Copepoda"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Crustacea"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Invertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Brackish water environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mollusca"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bay"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Crassostrea gigas"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Histopathology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lesion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Edible mollusc"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Morphology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Benthic organism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oyster farming"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Parasite"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Parasitism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Zoopathogen"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arthropoda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bivalvia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Copepoda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Crustacea"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Invertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio salobre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mollusca"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bahía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Crassostrea gigas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Histopatología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lesión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Molusco comestible"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Morfología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Organismo bénthico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ostricultura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Parásito"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Parasitismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Zoopatógeno"
+        },
+        "002A12F04: Pathologie / Pathology",
+        "002A36B02A: Mollusca / Mollusca"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bretagne"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bretagne"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bretagne"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14945502"
+}

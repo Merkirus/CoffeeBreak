@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Spatial and temporal patterns of surface water quality and ichthyotoxicity in urban and rural river basins in Texas</dc:title>
+  <dc:creator>VANLANDEGHEM, Matthew M</dc:creator>
+  <dc:creator>MEYER, Matthew D</dc:creator>
+  <dc:creator>COX, Stephen B</dc:creator>
+  <dc:creator>SHARMA, Bibek</dc:creator>
+  <dc:creator>PATINO, Reynaldo</dc:creator>
+  <dc:contributor>RAUCH, Wolfgang (Editor)</dc:contributor>
+  <dc:contributor>LEDIN, Anna (Editor)</dc:contributor>
+  <dc:contributor>ERIKSSON, Eva (Editor)</dc:contributor>
+  <dc:contributor>DELETIC, Ana (Editor)</dc:contributor>
+  <dc:contributor>HUNT, William (Editor)</dc:contributor>
+  <dc:relation>Water research (Oxford) -- Water res. (Oxf.), CODEN WATRAG, ISSN 0043-1354, Vol. 46 (20) , pp. 6638-6651</dc:relation>
+  <dc:date>2012</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Article</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>Elsevier</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>14 p. ; 1 p.3/4</dc:format>
+  <dc:subject xml:lang="fr">Analyse composante principale</dc:subject>
+  <dc:subject xml:lang="fr">Analyse régression</dc:subject>
+  <dc:subject xml:lang="fr">Analyse statistique</dc:subject>
+  <dc:subject xml:lang="fr">Cours eau</dc:subject>
+  <dc:subject xml:lang="fr">Dureté eau</dc:subject>
+  <dc:subject xml:lang="fr">Eau pluie</dc:subject>
+  <dc:subject xml:lang="fr">Eau ruissellement</dc:subject>
+  <dc:subject xml:lang="fr">Eau surface</dc:subject>
+  <dc:subject xml:lang="fr">Eau usée</dc:subject>
+  <dc:subject xml:lang="fr">Effluent</dc:subject>
+  <dc:subject xml:lang="fr">Essai biologique</dc:subject>
+  <dc:subject xml:lang="fr">Montagne</dc:subject>
+  <dc:subject xml:lang="fr">Méthode statistique</dc:subject>
+  <dc:subject xml:lang="fr">Norme qualité eau</dc:subject>
+  <dc:subject xml:lang="fr">Nutriment</dc:subject>
+  <dc:subject xml:lang="fr">Qualité eau</dc:subject>
+  <dc:subject xml:lang="fr">Régression multiple</dc:subject>
+  <dc:subject xml:lang="fr">Répartition spatiale</dc:subject>
+  <dc:subject xml:lang="fr">Salinité</dc:subject>
+  <dc:subject xml:lang="fr">Surverse orage</dc:subject>
+  <dc:subject xml:lang="fr">Toxine</dc:subject>
+  <dc:subject xml:lang="fr">Toxique</dc:subject>
+  <dc:subject xml:lang="fr">Turbidité</dc:subject>
+  <dc:subject xml:lang="fr">Variation temporelle</dc:subject>
+  <dc:subject xml:lang="fr">Zone rurale</dc:subject>
+  <dc:subject xml:lang="fr">Zone urbaine</dc:subject>
+  <dc:coverage xml:lang="fr">Amérique du Nord</dc:coverage>
+  <dc:coverage xml:lang="fr">Amérique</dc:coverage>
+  <dc:coverage xml:lang="fr">Etats-Unis</dc:coverage>
+  <dc:coverage xml:lang="fr">Texas</dc:coverage>
+  <dc:subject xml:lang="en">Principal component analysis</dc:subject>
+  <dc:subject xml:lang="en">Regression analysis</dc:subject>
+  <dc:subject xml:lang="en">Statistical analysis</dc:subject>
+  <dc:subject xml:lang="en">Stream</dc:subject>
+  <dc:subject xml:lang="en">Water hardness</dc:subject>
+  <dc:subject xml:lang="en">Rain water</dc:subject>
+  <dc:subject xml:lang="en">Runoff water</dc:subject>
+  <dc:subject xml:lang="en">Surface water</dc:subject>
+  <dc:subject xml:lang="en">Waste water</dc:subject>
+  <dc:subject xml:lang="en">Effluent</dc:subject>
+  <dc:subject xml:lang="en">Bioassay</dc:subject>
+  <dc:subject xml:lang="en">Mountain</dc:subject>
+  <dc:subject xml:lang="en">Statistical method</dc:subject>
+  <dc:subject xml:lang="en">Water quality standard</dc:subject>
+  <dc:subject xml:lang="en">Nutrient</dc:subject>
+  <dc:subject xml:lang="en">Water quality</dc:subject>
+  <dc:subject xml:lang="en">Multiple regression</dc:subject>
+  <dc:subject xml:lang="en">Spatial distribution</dc:subject>
+  <dc:subject xml:lang="en">Salinity</dc:subject>
+  <dc:subject xml:lang="en">Storm water</dc:subject>
+  <dc:subject xml:lang="en">Toxin</dc:subject>
+  <dc:subject xml:lang="en">Poison</dc:subject>
+  <dc:subject xml:lang="en">Turbidity</dc:subject>
+  <dc:subject xml:lang="en">Time variation</dc:subject>
+  <dc:subject xml:lang="en">Rural area</dc:subject>
+  <dc:subject xml:lang="en">Urban area</dc:subject>
+  <dc:subject xml:lang="en">Golden alga</dc:subject>
+  <dc:subject xml:lang="en">Ichthyotoxicity</dc:subject>
+  <dc:subject xml:lang="en">Runoff</dc:subject>
+  <dc:subject xml:lang="en">Stormwater</dc:subject>
+  <dc:subject xml:lang="en">Water hardness</dc:subject>
+  <dc:subject xml:lang="en">Water quality</dc:subject>
+  <dc:coverage xml:lang="en">North America</dc:coverage>
+  <dc:coverage xml:lang="en">America</dc:coverage>
+  <dc:coverage xml:lang="en">United States</dc:coverage>
+  <dc:coverage xml:lang="en">Texas</dc:coverage>
+  <dc:subject xml:lang="es">Análisis componente principal</dc:subject>
+  <dc:subject xml:lang="es">Análisis regresión</dc:subject>
+  <dc:subject xml:lang="es">Análisis estadístico</dc:subject>
+  <dc:subject xml:lang="es">Curso agua</dc:subject>
+  <dc:subject xml:lang="es">Dureza agua</dc:subject>
+  <dc:subject xml:lang="es">Agua llovediza</dc:subject>
+  <dc:subject xml:lang="es">Escorrentía</dc:subject>
+  <dc:subject xml:lang="es">Agua superficie</dc:subject>
+  <dc:subject xml:lang="es">Agua residual</dc:subject>
+  <dc:subject xml:lang="es">Efluente</dc:subject>
+  <dc:subject xml:lang="es">Prueba biológica</dc:subject>
+  <dc:subject xml:lang="es">Montaña</dc:subject>
+  <dc:subject xml:lang="es">Método estadístico</dc:subject>
+  <dc:subject xml:lang="es">Norma calidad agua</dc:subject>
+  <dc:subject xml:lang="es">Nutriente</dc:subject>
+  <dc:subject xml:lang="es">Calidad agua</dc:subject>
+  <dc:subject xml:lang="es">Regresión múltiple</dc:subject>
+  <dc:subject xml:lang="es">Distribución espacial</dc:subject>
+  <dc:subject xml:lang="es">Salinidad</dc:subject>
+  <dc:subject xml:lang="es">Agua lluvia</dc:subject>
+  <dc:subject xml:lang="es">Toxina</dc:subject>
+  <dc:subject xml:lang="es">Tóxico</dc:subject>
+  <dc:subject xml:lang="es">Turbiedad</dc:subject>
+  <dc:subject xml:lang="es">Variación temporal</dc:subject>
+  <dc:subject xml:lang="es">Zona rural</dc:subject>
+  <dc:subject xml:lang="es">Zona urbana</dc:subject>
+  <dc:coverage xml:lang="es">America del norte</dc:coverage>
+  <dc:coverage xml:lang="es">America</dc:coverage>
+  <dc:coverage xml:lang="es">Estados Unidos</dc:coverage>
+  <dc:coverage xml:lang="es">Texas</dc:coverage>
+  <dc:subject>001D16A: Traitement et pollution des eaux / Water treatment and pollution</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 26821886</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

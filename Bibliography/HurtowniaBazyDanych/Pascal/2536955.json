@@ -1,0 +1,57 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "QUALITATIVE AND QUANTITATIVE INVESTIGATIONS ON THE REACTIONS OF NORMAL AND MYELOMA IGG WITH ANTISERA TO IGG",
+    "dc:creator": [
+        "MORELL A",
+        "SKVARIL F",
+        "BARANDUN S"
+    ],
+    "dc:date": "1973",
+    "dc:type": "Serial Issue",
+    "dc:language": "English",
+    "dc:format": "CLIN. EXPER. IMMUNOL.; G.B.; DA. 1973; VOL. 13; NO 2; PP. 293-302; BIBL. 14REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "IGG"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IGG MONOCLONALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MYELOME MULTIPLE IGG"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IMMUNOCHIMIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE COMPARATIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IMMUNODIFFUSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IMMUNODIFFUSION RADIALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IMMUNOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IMMUNOLOGY"
+        },
+        "002B05: Pathologie infectieuse / Infectious diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7334028531"
+}

@@ -1,0 +1,196 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Off-loading application controlled data prefetching in numerical codes for multi-core processors",
+    "dc:creator": [
+        "WEIDENDORFER, J",
+        "TRINITIS, C"
+    ],
+    "dc:contributor": [
+        "BADER, Michael (Editor)",
+        "BUNGARTZ, Hans-Joachim (Editor)",
+        "RÜDE, Ulrich (Editor)",
+        "Arbeitsgemeinschaft Simulation (ASIM) (Organiser of meeting)",
+        "Federation of European Simulation Societies (EUROSIM) (Organiser of meeting)",
+        "Symposium on Simulation Technique. Minisymposium on Implementation aspects in scientific computing (19 ; Hannover 2006-09-12)"
+    ],
+    "dc:relation": [
+        "International journal of computational science and engineering (Print), ISSN 1742-7185, Vol. 4 (1) , pp. 22-28",
+        "Implementation Aspects in Scientific Computing"
+    ],
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Inderscience Publishers",
+    "dc:format": [
+        "print",
+        "7 p. ; 1/4 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Accès mémoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Antémémoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Calcul réparti"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Charge travail"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Compilateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gestion mémoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Haute performance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Localité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Multiprocesseur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Multitraitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Processeur multicoeur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Préchargement donnée"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Storage access"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cache memory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Distributed computing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Workload"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Compiler"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Storage management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High performance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Locality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multiprocessor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multiprocessing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multicore processor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prefetching"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "cache optimisation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "chip multiprocessing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "multi-core"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "prefetching"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acceso memoria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antememoria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cálculo repartido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carga trabajo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Compilador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gestión memoria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alto rendimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Multiprocesador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Multitratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Procesador MultiNúcleo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Precargamento dato"
+        },
+        "001D02B04: Systèmes informatiques et systèmes répartis. Interface utilisateur / Computer systems and distributed systems. User interface",
+        "001D02B07C: Gestion des mémoires et des fichiers (y compris la protection et la sécurité des fichiers) / Memory and file management (including protection and security)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 21025402"
+}

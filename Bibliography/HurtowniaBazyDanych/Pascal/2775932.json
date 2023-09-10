@@ -1,0 +1,158 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SOLVOMERCURATION-DEMERCURATION. VII: REGIO- AND STEREOCHEMISTRY OF THE OXYMERCURATION-DEMERCURATION OF ALKYL-SUBSTITUTED CYCLOHEXENES AND CYCLOPENTENES",
+    "dc:creator": [
+        "BROWN HC",
+        "LYNCH GJ",
+        "HAMMAR WJ",
+        "LIU LC"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. ORG. CHEM.; USA; DA. 1979; VOL. 44; NO 12; PP. 1910-1915; BIBL. 33 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DEMERCURATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HYDRATATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STEREOSELECTIVITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REGIOSELECTIVITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE MONOCYCLIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE ETHYLENIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HYDROCARBURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE SATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALCOOL SECONDAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALCOOL TERTIAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SODIUM TETRAHYDROBORATE!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OXYMERCURATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CYCLOHEXENE(METHYL-4)!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CYCLOHEXENE(T-BUTYL-3)!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CYCLOPENTENE(METHYL-3)!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CYCLOPENTENE(T-BUTYL-4)!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CYCLOHEXANOL(METHYL-4)!FIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CYCLOHEXANOL(T-BUTYL-3)!FIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CYCLOPENTANOL(T-BUTYL-2)!FIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CYCLOPENTENE(DIMETHYL-3,4)!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MERCURE II ACETATE!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE ORGANIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DEMERCURATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HYDRATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STEREOSELECTIVITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REGIOSELECTIVITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MONOCYCLIC COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ETHYLENIC COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HYDROCARBON"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SATURATED COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SECONDARY ALCOHOL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TERTIARY ALCOHOL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OXYMERCURATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORGANIC CHEMISTRY"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7960445460"
+}

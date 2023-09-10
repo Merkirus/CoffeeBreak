@@ -1,0 +1,178 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Extension de la méthode nodale à la modélisation des transferts couplés conduction/convection dans un canal : application à la thermique du bâtiment et aux cartes électroniques",
+    "dc:creator": "Ferraz Bastos, Jose Luis",
+    "dc:contributor": [
+        "Saulnier, Jean-Bernard (Advisor (for a thesis or dissertation))",
+        "Université de Poitiers (Degree-grantor)"
+    ],
+    "dc:date": "1988",
+    "dc:type": [
+        "Text",
+        "Thesis"
+    ],
+    "dc:identifier": [
+        "NNT 88 POIT 2310",
+        "Inist-CNRS record number 130813"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "177 p. ; 43 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Boîtier"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bâtiment"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Canal rectangulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conduction thermique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Convection forcée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Convection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode différence finie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Source chaleur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Source locale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thermique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transfert chaleur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode nodale"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Package"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Buildings"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rectangular channel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermal conduction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Forced convection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Convection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Finite difference method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heat source"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Local source"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heat transfer"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estuche"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Edificio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Canal rectangular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conducción térmica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Convección forzada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Convección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método diferencia finita"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fuente calor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fuente local"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Térmico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transferencia térmica"
+        },
+        "001B40D10: Conduction thermique / Heat conduction"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

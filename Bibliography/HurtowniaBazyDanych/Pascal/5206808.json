@@ -1,0 +1,189 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Adaptive rejection of unknown sinusoidal disturbances in linear SISO uncertain systems",
+    "dc:creator": [
+        "XIAN, B",
+        "JALILI, N",
+        "DAWSON, D. M",
+        "FANG, Y"
+    ],
+    "dc:contributor": [
+        "American Automatic Control Council (Organiser of meeting)",
+        "American control conference (Anchorage AK 2002-05-08)"
+    ],
+    "dc:relation": [
+        "Proceedings of the American Control Conference, ISSN 0743-1619, pp. 4015-4020",
+        "2002 ACC : American control conference (Anchorage AK, 8-10 May 2002)"
+    ],
+    "dc:date": "2002",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "IEEE",
+    "dc:format": [
+        "print",
+        "6 p. ; 16 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Adaptation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Approximation asymptotique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Entrée ordinateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Estimation état"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Implémentation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode numérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Performance algorithme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pistage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rejet perturbation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système SISO"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système incertain"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système linéaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système LTI"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adaptation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asymptotic approximation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Input"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "State estimation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Implementation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Numerical method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Algorithm performance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tracking"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Disturbance rejection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SISO system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Uncertain system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Linear system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Linear time invariant system"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adaptación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aproximación asintótica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Entrada ordenador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estimación estado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Implementación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método numérico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resultado algoritmo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rastreo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Recuazamiento pertubación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema SISO"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema incierto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema lineal"
+        },
+        "001D02D01: Généralités / General"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15692628"
+}

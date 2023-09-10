@@ -1,0 +1,72 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "EPIDERMOLYSIS BULLOSA ACQUISITA AND CROHN'S DISEASE",
+    "dc:creator": [
+        "CHEESBROUGH KJ",
+        "KINMONT PDC"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "BRIT. J. DERMATOL. SUPPL.; GBR; DA. 1978; VOL. 99; NO 16; PP. 53-54; BIBL. 2 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "EPIDERMOLYSE BULLEUSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACQUIS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENTERITE CROHN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ASSOCIATION MORBIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DERMATOSE BULLEUSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DERMATOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EPIDERMOLYSIS BULLOSA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CROHN DISEASE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONCOMITANT DISEASE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BULLOUS DERMATOSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DERMATOLOGY"
+        },
+        "002B08: Dermatologie / Dermatology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7950129066"
+}

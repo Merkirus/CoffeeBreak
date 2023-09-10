@@ -1,0 +1,104 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Les martyrs et la liturgie : L'élaboration du martyrologe latin; Martyrs and liturgy: the development of the Latin martyrology",
+    "dc:creator": "SMYTH, Matthieu",
+    "dc:contributor": [
+        "Association pour le développement et la recherche universitaire à Carcassonne (ADREUC) (Funder/Sponsor)",
+        "Rencontres Nationales de Patristique de Carcassonne (Carcassonne 2002)"
+    ],
+    "dc:relation": [
+        "Connaissance des Pères de l'Eglise -- Connaiss. Pères Eglise, ISSN 0752-5346 (89) , pp. 58-62",
+        "Le culte des reliques au IVe siècle"
+    ],
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Nouvelle cité",
+    "dc:format": [
+        "print",
+        "5 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Culte des martyrs"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eglise latine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hagiographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Martyrologe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Martyrologe hiéronymien"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Wisigoth"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Martyr worship"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Latin church"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hagiography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Martyrology"
+        },
+        "527-: Histoire et sciences des religions / History and sciences of religions",
+        "527-865: Christianisme / Christianity",
+        "527-942: Doctrine et exégèse / Doctrine and exegesis"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Espagne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gaule"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Septimanie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gaule"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gaul"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gaul"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14607345"
+}

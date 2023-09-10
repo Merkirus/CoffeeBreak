@@ -1,0 +1,294 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Parental separation at birth and criminal behaviour in adulthood: A long-term follow-up of the Finnish Christmas Seal Home Children",
+    "dc:creator": [
+        "MÄKI, Pirjo",
+        "HAKKO, Helinä",
+        "JOUKAMAA, Matti",
+        "LÄÄRÄ, Esa",
+        "ISOHANNI, Matti",
+        "VEIJOLA, Juha"
+    ],
+    "dc:relation": "Social psychiatry and psychiatric epidemiology (Print) -- Soc. psychiatry psychiatr. epidemiol. (Print), CODEN SPPEEM, ISSN 0933-7954, Vol. 38 (7) , pp. 354-359",
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "6 p. ; 36 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bactériose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mycobactériose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble comportement social"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Antécédent"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Attachement affectif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Criminalité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Délinquance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Environnement social"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude longitudinale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur risque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interaction sociale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu familial"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mère pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Précoce"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Relation mère enfant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Séparation mère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traumatisme infantile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tuberculose"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bacteriosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mycobacterial infection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Social behavior disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antecedent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Affective attachment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Criminality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Delinquency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Social environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Follow up study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Risk factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Social interaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Family environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Maternal diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Early"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mother child relation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Maternal separation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Early traumatism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tuberculosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "childhood separation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "criminality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "early separation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "follow-up study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "tuberculosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bacteriosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Infección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Micobacteriosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno comportamiento social"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antecedente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Apego afectivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Criminalidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Delincuencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio ambiente social"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio longitudinal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor riesgo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interacción social"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio familiar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Madre patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Precoz"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Relación madre niño"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Separación materna"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Traumatismo infantil"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tuberculosis"
+        },
+        "002B18C04: Troubles du comportement social. Comportement criminel. Délinquance / Social behavior disorders. Criminal behavior. Delinquency",
+        "770-: Psychologie. Psychanalyse. Psychiatrie / Psychology. Psychoanalysis. Psychiatry",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14989808"
+}

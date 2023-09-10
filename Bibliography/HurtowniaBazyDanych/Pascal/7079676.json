@@ -1,0 +1,187 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Selective catalytic reduction of NOx with NH3 over Mn-Ce mixed oxide catalyst at low temperatures",
+    "dc:creator": [
+        "ZHIMING LIU",
+        "YANG YI",
+        "SHAOXUAN ZHANG",
+        "TIANLE ZHU",
+        "JUNZHI ZHU",
+        "JINGGANG WANG"
+    ],
+    "dc:contributor": [
+        "CHEN, Biaohua (Editor)",
+        "KAPTEIJN, Freek (Editor)",
+        "TRONCONI, Enrico (Editor)",
+        "GROPPI, Gianpero (Editor)",
+        "LEI, Zhigang (Editor)",
+        "ICOSCAR International conference on structured catalysts and reactor (4 ; Beijing 2013-09-25)"
+    ],
+    "dc:relation": [
+        "Catalysis today (Print) -- Catal. today (Print), CODEN CATTEA, ISSN 0920-5861, Vol. 216, pp. 76-81",
+        "ICOSCAR-4: International conference on structured catalysts and reactor, Beijing, China, September 25-27, 2013"
+    ],
+    "dc:date": "2013",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "6 p. ; 28 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Ammoniac"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Basse température"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Catalyse hétérogène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Catalyseur mixte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "In situ"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Oxyde d'azote"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Préparation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réaction catalytique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réduction chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectrométrie IR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectrométrie DRIFT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ammonia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Low temperature"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heterogeneous catalysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mixed catalyst"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "In situ"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nitrogen oxide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Preparation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Catalytic reaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical reduction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infrared spectrometry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "In situ DRIFTS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mn-Ce mixed oxide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NOx"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Preparation method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Selective catalytic reduction"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Amoníaco"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Baja temperatura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Catálisis heterogénea"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Catalizador mixto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "In situ"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nitrógeno óxido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Preparación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reacción catalítica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reducción química"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Espectrometría IR"
+        },
+        "001C01A03: Catalyse / Catalysis"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 27749025"
+}

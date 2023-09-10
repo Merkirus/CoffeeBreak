@@ -1,0 +1,86 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DER SF6-DURCHSCHLAG IM ZYLINDERFELD BEI GLEICHSPANNUNG.; LA DECHARGE DANS SF6 DANS UN CHAMP CYLINDRIQUE A HAUTE TENSION",
+    "dc:creator": "ERMEL M",
+    "dc:date": "1975",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "ELEKTROTECH. Z., A; DTSCH.; DA. 1975; VOL. 96; NO 1; PP. 505-510; BIBL. 11 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DECHARGE ELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AMORCAGE DECHARGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HEXAFLUORURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOUFRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHAMP ELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SYMETRIE CYLINDRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRES HAUTE TENSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LOI SIMILITUDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HAUTE TENSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HEXAFLUORURE SOUFRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROMAGNETISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROTECHNIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE DES PLASMAS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROMAGNETISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRICAL ENGINEERING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PLASMA PHYSICS"
+        },
+        "001B30: Physique atomique et moleculaire / Atomic and molecular physics",
+        "001D05: Electrotechnique. Electroenergetique / Electrical engineering. Electrical power engineering"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7630110165"
+}

@@ -1,0 +1,177 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Comparison of laboratory and simulated data for radar image interpretation",
+    "dc:creator": [
+        "COLLA, C",
+        "BURNSIDE, C. D",
+        "CLARK, M. R",
+        "BROUGHTON, K. J",
+        "FORDE, M. C"
+    ],
+    "dc:contributor": "MCCANN, D. M (Editor)",
+    "dc:relation": "NDT & E international -- NDT E int, ISSN 0963-8695, Vol. 31 (6) , pp. 439-444",
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "8 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse image"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai laboratoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai non destructif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Génie civil"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Impulsion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété électromagnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Radar"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation ordinateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure construction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système expert"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tracé rayon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Image analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laboratory test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Non destructive test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Civil engineering"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Impulse"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electromagnetic properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radar"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computer simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Construction structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Expert system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ray tracing"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis imagen"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo laboratorio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo no destructivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ingeniería civil"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Impulsión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad electromagnética"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simulación computadora"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estructura construcción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema experto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trazado rayos"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works",
+        "001D14H02Q: Divers / Miscellaneous"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1605858"
+}

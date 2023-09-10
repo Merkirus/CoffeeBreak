@@ -1,0 +1,77 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "GELBMOSAIK DER WINTERGERSTE. MOSAIQUE JAUNE; MOSAIQUE JAUNE DE L'ORGE D'HIVER",
+    "dc:creator": "HUTH W",
+    "dc:date": "1980",
+    "dc:type": "Serial Issue",
+    "dc:language": "German",
+    "dc:format": "PFLANZENSCHUTZ ABC; DEU; DA. 1980; NO 6; 1 P.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYTOPATHOGENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VIROSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VIRUS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CULTURE CEREALIERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GRAMINEAE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VIRUS MOSAIQUE JAUNE ORGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HORDEUM VULGARE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AGRONOMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHYTOPATHOGEN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VIRAL DISEASE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VIRUS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GRAMINEAE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BARLEY YELLOW MOSAIC VIRUS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HORDEUM VULGARE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AGRONOMY"
+        },
+        "002A32: Agronomie. Sciences du sol et productions vegetales / Agronomy. Soil science and plant productions"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALAGROLINEINRA8110083070"
+}

@@ -1,0 +1,105 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SYNERGISTIC EXTRACTION OF NEPTUNIUM(IV) BY MIXTURES OF HTTA (THENOYLTRIFLUOROACETONE) AND TBP (TRI-N-BUTYLPHOSPHATE)",
+    "dc:creator": [
+        "RAMANUJAM A",
+        "RAMAKRISHNA VV",
+        "PATIL SK"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "SEPAR. SCI. TECHNOL.; USA; DA. 1979; VOL. 14; NO 1; PP. 13-35; BIBL. 33 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "EXTRACTION LIQUIDE LIQUIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AGENT EXTRACTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SYNERGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOLUTION ACIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOLVANT ORGANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSITION CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NEPTUNIUM IV ION!ENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TTA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TBP"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BENZENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BENZENE(NITRO)!SUB"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE MINERALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIQUID LIQUID EXTRACTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXTRACTION AGENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SYNERGISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ACIDIC SOLUTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORGANIC SOLVENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL COMPOSITION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TBP"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BENZENE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INORGANIC CHEMISTRY"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7960324082"
+}

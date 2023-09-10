@@ -1,0 +1,84 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "UNE METHODE QUI PREND EN COMPTE LES DEFORMATIONS POUR OBTENIR LES DEPLACEMENTS TECTONIQUES.",
+    "dc:creator": "COBBOLD PR",
+    "dc:date": "1977",
+    "dc:type": "Conference Paper",
+    "dc:language": [
+        "English",
+        "French"
+    ],
+    "dc:format": "IN: COLL. INT. SCI. TERRE MESURES. RES. COMMUN.; ORLEANS; 1977; PARIS; BUR. RECH. GEOL. MIN.; DA. 1977; PP. 52-53; MEME DOC. ANGL.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CINEMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TECTONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOMETRIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE STRUCTURALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TECTONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METHODS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "KINEMATICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TECTONICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOMETRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STRUCTURAL GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TECTONICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        "001E01L: Tectonique. Géologie structurale. Tectonique des plaques / Tectonics. Structural geology. Plate tectonics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALGEODEBRGM7720346458"
+}

@@ -1,0 +1,45 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "CHEMICAL MODIFICATION OF TREHALOSE. XI. 6,6'-DIDEOXY-6,6'-DIFLUORO-ALPHA ALPHA -TREHALOSE AND ITS GALACTO-ANALOGUE",
+    "dc:creator": [
+        "HOUGH L",
+        "PALMER AK",
+        "RICHARDSON AC"
+    ],
+    "dc:date": "1972",
+    "dc:type": "Serial Issue",
+    "dc:language": "English",
+    "dc:format": "J. CHEM. SOC., PERKIN. TRANS., 1; G.B.; DA. 1972; NO 20; PP. 2513-2517; BIBL. BIBL. (16 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ALPHA ,ALPHA -TREHALOSE DERIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALPHA ,ALPHA -TREHALOSE(DIDESOXY-6,6P DIFLUORO-6,6P)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PREPARATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "(DIDESOXY-6,6P DIFLUORO-6,6P)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE ORGANIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORGANIC CHEMISTRY"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7317008156"
+}

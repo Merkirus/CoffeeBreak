@@ -1,0 +1,138 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Behaviour of a tunnel face reinforced by bolts: comparison between analytical-numerical models",
+    "dc:creator": [
+        "DIAS, D",
+        "KASTNER, R",
+        "SUBRIN, D",
+        "WONG, H",
+        "DUBOIS, P"
+    ],
+    "dc:contributor": [
+        "EVANGELISTA, Aldo (Editor)",
+        "PICARELLI, Luciano (Editor)",
+        "International Symposium on hard soils - soft rocks (2 ; Naples 1998-10-12)"
+    ],
+    "dc:relation": "The geotechnics of hard soils - soft rocks",
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "A. A. Balkema",
+    "dc:format": [
+        "print",
+        "Illustration ; 8 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle 3 dimensions"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mécanique sol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode différence finie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Soutènement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Boulonnage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle analytique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "three-dimensional models"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "soil mechanics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "finite difference analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "engineering supports"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo 3 dimensiones"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mecánica suelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sostenimiento"
+        },
+        "001E01O01: Géotechnique / Engineering geology"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe Ouest"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Var"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Western Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Var France"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa del Oeste"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Var"
+        }
+    ],
+    "dc:rights": [
+        "Bureau de Recherches Géologiques et Minières (BRGM)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6190893"
+}

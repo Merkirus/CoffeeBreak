@@ -1,0 +1,124 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "An introduction to biological wastewater treatment explained by SOM and clustering algorithms",
+    "dc:creator": [
+        "LOPEZ GARCIA, Hilario",
+        "GONZALEZ, Ivan Machon"
+    ],
+    "dc:contributor": [
+        "Institute of electrical and electronics engineers (Organiser of meeting)",
+        "International symposium on industrial electronics (Ajaccio 2004-05-04)"
+    ],
+    "dc:relation": "IEEE-ISIE 2004 (proceedings of the 2004 IEEE International Symposium on Industrial Electronics, Ajaccio, France, May 4-7, 2004) -- 0IEEE-ISIE'2004, Ajaccio",
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "IEEE",
+    "dc:format": [
+        "print",
+        "Vol1, 525-530 ; 10 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Algorithme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Carte autoorganisatrice"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Classification automatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Digestion aérobie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "En continu"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epuration biologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epuration eau usée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement signal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Algorithm"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Self-organising feature maps"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Automatic classification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aerobic digestion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Continuous process"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biological purification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Waste water purification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Signal processing"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Algoritmo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Clasificación automática"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Digestión aerobia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "En continuo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Depuración biológica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Depuración aguas servidas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Procesamiento señal"
+        },
+        "001D16A05A: Procédés généraux d'épuration / General purification processes"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17528227"
+}

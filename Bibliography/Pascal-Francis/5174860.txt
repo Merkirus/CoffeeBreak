@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>The role of B cells and alloantibody in the host response to human organ allografts</dc:title>
+  <dc:creator>VONGWIWATANA, Attapong</dc:creator>
+  <dc:creator>TASANARONG, Adis</dc:creator>
+  <dc:creator>HIDALGO, Luis G</dc:creator>
+  <dc:creator>HALLORAN, Philip F</dc:creator>
+  <dc:contributor>TURKA, Laurence A (Editor)</dc:contributor>
+  <dc:contributor>HANCOCK, Wayne W (Editor)</dc:contributor>
+  <dc:relation>Immunological reviews -- Immunol. rev, CODEN IMRED2, ISSN 0105-2896, Vol. 196, pp. 197-218</dc:relation>
+  <dc:date>2003</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Article</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>Blackwell</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>22 p. ; 190 ref</dc:format>
+  <dc:subject xml:lang="fr">Appareil circulatoire pathologie</dc:subject>
+  <dc:subject xml:lang="fr">Appareil respiratoire pathologie</dc:subject>
+  <dc:subject xml:lang="fr">Appareil urinaire pathologie</dc:subject>
+  <dc:subject xml:lang="fr">Bronche pathologie</dc:subject>
+  <dc:subject xml:lang="fr">Chirurgie</dc:subject>
+  <dc:subject xml:lang="fr">Greffe</dc:subject>
+  <dc:subject xml:lang="fr">Rein pathologie</dc:subject>
+  <dc:subject xml:lang="fr">Alloanticorps</dc:subject>
+  <dc:subject xml:lang="fr">Animal</dc:subject>
+  <dc:subject xml:lang="fr">Article synthèse</dc:subject>
+  <dc:subject xml:lang="fr">Bronchiolite oblitérante</dc:subject>
+  <dc:subject xml:lang="fr">Cardiopathie coronaire</dc:subject>
+  <dc:subject xml:lang="fr">Coeur</dc:subject>
+  <dc:subject xml:lang="fr">Greffon</dc:subject>
+  <dc:subject xml:lang="fr">Homme</dc:subject>
+  <dc:subject xml:lang="fr">Homogreffe</dc:subject>
+  <dc:subject xml:lang="fr">Immunité humorale</dc:subject>
+  <dc:subject xml:lang="fr">Lymphocyte B</dc:subject>
+  <dc:subject xml:lang="fr">Néphropathie glomérulaire</dc:subject>
+  <dc:subject xml:lang="fr">Pathogénie</dc:subject>
+  <dc:subject xml:lang="fr">Poumon</dc:subject>
+  <dc:subject xml:lang="fr">Rein</dc:subject>
+  <dc:subject xml:lang="fr">Rejet</dc:subject>
+  <dc:subject xml:lang="fr">Réponse immune</dc:subject>
+  <dc:subject xml:lang="fr">Système HLA</dc:subject>
+  <dc:subject xml:lang="fr">Système histocompatibilité majeur</dc:subject>
+  <dc:subject xml:lang="fr">Transplantation</dc:subject>
+  <dc:subject xml:lang="en">Cardiovascular disease</dc:subject>
+  <dc:subject xml:lang="en">Respiratory disease</dc:subject>
+  <dc:subject xml:lang="en">Urinary system disease</dc:subject>
+  <dc:subject xml:lang="en">Bronchus disease</dc:subject>
+  <dc:subject xml:lang="en">Surgery</dc:subject>
+  <dc:subject xml:lang="en">Graft</dc:subject>
+  <dc:subject xml:lang="en">Kidney disease</dc:subject>
+  <dc:subject xml:lang="en">Alloantibody</dc:subject>
+  <dc:subject xml:lang="en">Animal</dc:subject>
+  <dc:subject xml:lang="en">Review</dc:subject>
+  <dc:subject xml:lang="en">Bronchiolitis obliterans</dc:subject>
+  <dc:subject xml:lang="en">Coronary heart disease</dc:subject>
+  <dc:subject xml:lang="en">Heart</dc:subject>
+  <dc:subject xml:lang="en">Graft(material)</dc:subject>
+  <dc:subject xml:lang="en">Human</dc:subject>
+  <dc:subject xml:lang="en">Homograft</dc:subject>
+  <dc:subject xml:lang="en">Humoral immunity</dc:subject>
+  <dc:subject xml:lang="en">B-Lymphocyte</dc:subject>
+  <dc:subject xml:lang="en">Glomerulonephritis</dc:subject>
+  <dc:subject xml:lang="en">Pathogenesis</dc:subject>
+  <dc:subject xml:lang="en">Lung</dc:subject>
+  <dc:subject xml:lang="en">Kidney</dc:subject>
+  <dc:subject xml:lang="en">Rejection</dc:subject>
+  <dc:subject xml:lang="en">Immune response</dc:subject>
+  <dc:subject xml:lang="en">HLA-System</dc:subject>
+  <dc:subject xml:lang="en">Major histocompatibility system</dc:subject>
+  <dc:subject xml:lang="en">Transplantation</dc:subject>
+  <dc:subject xml:lang="es">Aparato circulatorio patología</dc:subject>
+  <dc:subject xml:lang="es">Aparato respiratorio patología</dc:subject>
+  <dc:subject xml:lang="es">Aparato urinario patología</dc:subject>
+  <dc:subject xml:lang="es">Bronquio patología</dc:subject>
+  <dc:subject xml:lang="es">Cirugía</dc:subject>
+  <dc:subject xml:lang="es">Injerto</dc:subject>
+  <dc:subject xml:lang="es">Riñón patología</dc:subject>
+  <dc:subject xml:lang="es">Aloanticuerpo</dc:subject>
+  <dc:subject xml:lang="es">Animal</dc:subject>
+  <dc:subject xml:lang="es">Artículo síntesis</dc:subject>
+  <dc:subject xml:lang="es">Bronquiolitis obliterante</dc:subject>
+  <dc:subject xml:lang="es">Cardiopatía coronaria</dc:subject>
+  <dc:subject xml:lang="es">Corazón</dc:subject>
+  <dc:subject xml:lang="es">Injerto(material)</dc:subject>
+  <dc:subject xml:lang="es">Hombre</dc:subject>
+  <dc:subject xml:lang="es">Homoinjerto</dc:subject>
+  <dc:subject xml:lang="es">Inmunidad humoral</dc:subject>
+  <dc:subject xml:lang="es">Linfocito B</dc:subject>
+  <dc:subject xml:lang="es">Nefropatía glomerular</dc:subject>
+  <dc:subject xml:lang="es">Patogenia</dc:subject>
+  <dc:subject xml:lang="es">Pulmón</dc:subject>
+  <dc:subject xml:lang="es">Riñón</dc:subject>
+  <dc:subject xml:lang="es">Rechazo</dc:subject>
+  <dc:subject xml:lang="es">Respuesta inmune</dc:subject>
+  <dc:subject xml:lang="es">Sistema HLA</dc:subject>
+  <dc:subject xml:lang="es">Sistema histocompatibilidad mayor</dc:subject>
+  <dc:subject xml:lang="es">Trasplantación</dc:subject>
+  <dc:subject>002A06F: Immunologie de tissu, d'organe, des greffes / Tissue, organ and graft immunology</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 15439804</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

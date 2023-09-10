@@ -1,0 +1,246 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Parental stress and child behavioral outcomes following substance abuse residential treatment : Follow-up at 6 and 12 months",
+    "dc:creator": [
+        "KILLEEN, T",
+        "BRADY, K. T"
+    ],
+    "dc:relation": "Journal of substance abuse treatment -- J. subst. abuse treat, ISSN 0740-5472, Vol. 19 (1) , pp. 23-29",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "23 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Age préscolaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Age scolaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Coping"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Drogue illicite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dépendance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Efficacité traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Emotion émotivité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enfant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude comparative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude longitudinale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Femelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Programme thérapeutique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sevrage toxique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stress"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Toxicomanie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Preschool age"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "School age"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Coping"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Illicit drug"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dependence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment efficiency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Emotion emotionality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Child"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Follow up study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Female"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mother"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Therapeutic schedule"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Detoxification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stress"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Drug addiction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Edad preescolar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Edad escolar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Coronación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Droga ilícita"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dependencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Eficacia tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Emoción emotividad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Niño"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio comparativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio longitudinal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hembra"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Madre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Programa terapéutico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Destete tóxico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Stress"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Toxicomanía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        "002B18I15: Désintoxication. Sevrage toxique / Desintoxication. Drug withdrawal",
+        "770-: Psychologie. Psychanalyse. Psychiatrie / Psychology. Psychoanalysis. Psychiatry",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1415496"
+}

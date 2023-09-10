@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Classification of coated grains: discussion; La classification des concrétions granulaires: discussion",
+    "dc:creator": "RICHTER, D. K",
+    "dc:contributor": "PERYT, Tadeusz M",
+    "dc:date": "1983",
+    "dc:type": [
+        "Text",
+        "Book Chapter"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "10 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Classification"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Genèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nomenclature"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Oncolite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Oolite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pisolite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sphérule"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure sédimentaire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Classification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Genesis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nomenclature"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oncolites"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oolite"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pisoliths"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spherules"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sedimentary structures"
+        },
+        "001E01G01: Pétrologie des roches sédimentaires sauf quaternaires / Petrology of sedimentary rocks except quaternary rocks"
+    ],
+    "dc:rights": [
+        "Bureau de Recherches Géologiques et Minières (BRGM)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 9420906"
+}

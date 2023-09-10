@@ -1,0 +1,122 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Indoor infrared wireless communication using spread spectrum techniques",
+    "dc:creator": "O'FARRELL, T",
+    "dc:contributor": "Communication systems & digital signal processing. International symposium (1 ; Sheffield 1998-04-06)",
+    "dc:relation": "CSDSP '98 : first international symposium on communication systems & digital signal processing (Sheffield, 6-8 April 1998)",
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Hallam University Press",
+    "dc:format": [
+        "print",
+        "5 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Brouillage intersymbole"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interférence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Intérieur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propagation trajet multiple"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Radiocommunication service mobile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rapport signal bruit"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rayonnement IR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectre étalé"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Intersymbol interference"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interference"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inner"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multipath propagation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mobile radiocommunication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Signal to noise ratio"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infrared radiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spread spectrum"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interferencia intersímbolo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interferencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interior"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propagación trayecto múltiple"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radiocomunicación servicio móvil"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Relación señal ruido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radiación infrarroja"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Espectro ensanchado"
+        },
+        "001D04B04G2: Radiocommunications du service mobile / Mobile radiocommunication systems"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1812356"
+}

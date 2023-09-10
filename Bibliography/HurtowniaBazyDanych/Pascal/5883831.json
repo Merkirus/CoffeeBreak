@@ -1,0 +1,134 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Mort inattendue du nourrisson : étude rétrospective de 115 cas recensés par le centre de référence de Lyon entre 2006 et 2011",
+    "dc:creator": "CARTALLAS, Alice",
+    "dc:contributor": "Université Claude Bernard Lyon 1. Villeurbanne (Degree-grantor)",
+    "dc:date": "2012",
+    "dc:type": [
+        "Text",
+        "Thesis"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "99 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enquête"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mort subite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nourrisson"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rétrospective"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Survey"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sudden death"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Retrospective"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Encuesta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Muerte súbita"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lactante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Retrospectiva"
+        },
+        "002B30A11: Divers / Miscellaneous"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rhône Alpes"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rhône"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rhône Alpes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rhône"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rhône Alpes"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rhône"
+        }
+    ],
+    "dc:rights": [
+        "Banque de données en santé publique - Ecole des hautes études en santé publique (BDSP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 26923550"
+}

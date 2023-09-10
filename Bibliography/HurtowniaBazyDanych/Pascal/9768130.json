@@ -1,0 +1,287 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Diagnostic et traitement des hypercholestérolémies familiales (HF) chez l'adulte: recommandations de la Nouvelle société française d'athérosclérose (NSFA); Diagnostic and treatment of familial hypercholesterolemia (FH) in adult: Guidelines from the New French Society of Atherosclerosis (NSFA)",
+    "dc:creator": [
+        "FARNIER, Michel",
+        "BRUCKERT, Eric",
+        "BOILEAU, Catherine",
+        "KREMPF, Michel"
+    ],
+    "dc:relation": "La Presse médicale (1983) -- Presse méd. (1983), CODEN PRMEEM, ISSN 0755-4982, Vol. 42 (6) , pp. 930-950",
+    "dc:date": "2013",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Masson",
+    "dc:format": [
+        "print",
+        "21 p. ; 121 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Dyslipémie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hyperlipoprotéinémie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Maladie métabolique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie de l'appareil circulatoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie des vaisseaux sanguins"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Adulte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Athérosclérose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cholestérol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diagnostic"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Français"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hypercholestérolémie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lipide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lipoprotéine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Maladie héréditaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recommandation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé publique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Société"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dyslipemia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hyperlipoproteinemia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metabolic diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cardiovascular disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vascular disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adult"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Atherosclerosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cholesterol"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diagnosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "French"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hypercholesterolemia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lipids"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lipoprotein"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Genetic disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Recommendation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Society"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dislipemia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hiperlipoproteinemia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metabolismo patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato circulatorio patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vaso sanguíneo patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adulto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ateroesclerosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Colesterol"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diagnóstico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francés"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hipercolesterolemia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lípido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lipoproteina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enfermedad hereditaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Recomendación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud pública"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sociedad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        "002B01: Generalites / General aspects",
+        "002B22A: Dyslipémies. Hyperlipoprotéinémies / Disorders of blood lipids. Hyperlipoproteinemia",
+        "002B30A11: Divers / Miscellaneous",
+        "760-L: Divers / Miscellaneous"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francia"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 27429566"
+}

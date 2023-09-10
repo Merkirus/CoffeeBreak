@@ -1,0 +1,173 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "New insights into the temperature effects on neutron irradiation of structural materials",
+    "dc:creator": [
+        "MUROGA, T",
+        "SEKIMURA, N"
+    ],
+    "dc:contributor": [
+        "MOTOJIMA, O (Editor)",
+        "MORLEY, N. B (Editor)",
+        "TANAKA, S (Editor)",
+        "ISFNT-4: International Symposium on Fusion Nuclear Technology (4 ; Tokyo 1997-04-06)"
+    ],
+    "dc:relation": [
+        "Fusion engineering and design -- Fusion eng. des, CODEN FEDEEE, ISSN 0920-3796, Vol. 41 (1-4) , pp. 39-46",
+        "ISFNT-4: International Symposium on Fusion Nuclear Technology"
+    ],
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Elsevier Science",
+        "Elsevier Science"
+    ],
+    "dc:format": [
+        "print",
+        "34 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Acier inoxydable austénitique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Article synthèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Défaut irradiation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Détérioration par rayonnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Irradiation neutron"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microstructure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode dynamique moléculaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réacteur fusion nucléaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation numérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Température"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Austenitic stainless steel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Review"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Irradiation defect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiation damage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neutron irradiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microstructure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Molecular dynamics method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nuclear fusion reactor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Numerical simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Temperature"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acero inoxidable austenítico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Artículo síntesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Defecto irradiación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Deteriorización por irradiación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Irradiación neutrón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Microestructura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método dinámico molecular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reactor fusión nuclear"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simulación numérica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Temperatura"
+        },
+        "001D06: Energie / Energy",
+        "001D06D04E: Centrales nucléaires à fusion / Controled nuclear fusion plants"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1618941"
+}

@@ -1,0 +1,105 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "MENINGITES CARCINOMATEUSES",
+    "dc:creator": "CONINX P",
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "CONCOURS MED.; FRA; DA. 1979; VOL. 101; NO 37; PP. 5715-5723; (5 P.); BIBL. 9 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MENINGITE CANCEREUSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MENINGITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LEUCEMIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METASTASE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TUMEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORGANE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EXPLORATION CYTOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CELLULE TUMORALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LIQUIDE CEPHALORACHIDIEN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HEMOPATHIE MALIGNE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NEUROLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MENINGEAL CARCINOMATOSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MENINGITIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LEUKEMIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METASTASIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TUMOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORGAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CYTOLOGIC INVESTIGATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TUMOR CELL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CEREBROSPINAL FLUID"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MALIGNANT HEMOPATHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NEUROLOGY"
+        },
+        "002B17: Neurologie / Neurology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8050137745"
+}

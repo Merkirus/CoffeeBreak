@@ -1,0 +1,104 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A UNIQUE FAILURE CRITERION FOR CHARACTERIZING THE FRACTURE OF PROPELLANTS",
+    "dc:creator": [
+        "GLEDHILL RA",
+        "KINLOCH AJ"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "PROPELL. AND EXPLOS.; DEU; DA. 1979; VOL. 4; NO 4; PP. 73-77; ABS. GER/FRE; BIBL. 11 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPERGOL SOLIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CELLULOSE NITRATE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NITROGLYCERINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FISSURATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DEFAUT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPERGOL HOMOGENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SIMULATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPAGATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONTRAINTE MECANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STOCKAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUSTRIE CHIMIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID PROPELLANT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CELLULOSE NITRATE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NITROGLYCERINE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DEFECT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HOMOGENEOUS PROPELLANT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SIMULATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PROPAGATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MECHANICAL STRESS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STORAGE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL INDUSTRY"
+        },
+        "001D07: Genie chimique / Chemical engineering"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8060057754"
+}

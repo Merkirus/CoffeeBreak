@@ -1,0 +1,174 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Building bilingual dictionaries from parallel Web documents",
+    "dc:creator": [
+        "MCEWAN, Craig J. A",
+        "OUNIS, Iadh",
+        "RUTHVEN, Ian"
+    ],
+    "dc:contributor": [
+        "Crestani, Fabio (Editor)",
+        "Girolami, Mark (Editor)",
+        "van Rijsbergen, Cornelis Joost (Editor)",
+        "BCS-IRSG European colloquium on IR research (24 ; Glasgow 2002-03-25)"
+    ],
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, Vol. 2291, pp. 303-323",
+        "Advances in information retrieval (Glasgow, 25-27 March 2002)"
+    ],
+    "dc:date": "2002",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "18 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bilingue"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dictionnaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Disponibilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation système"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Internet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Multilinguisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recherche information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau web"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure thesaurus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système automatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traduction automatique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bilingual"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dictionaries"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Availability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "System evaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Internet"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multilingualism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information retrieval"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "World wide web"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thesaurus structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Automatic system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Automatic translation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bilingue"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diccionario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Disponibilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evaluación sistema"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Internet"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Multilinguismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Recuperación información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red WWW"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estrúctura tesauro"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema automático"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Traducción automática"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation",
+        "001A01F03: Systèmes de recherche d'information / Information retrieval systems",
+        "001D04B03: Réseaux téléinformatiques. Rnis / Teleprocessing networks. Isdn",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-G: Système de recherche documentaire. Système de gestion documentaire et d'information / Information retrieval systems. Information and document management system"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14054546"
+}

@@ -1,0 +1,38 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Le point sur l'économie",
+    "dc:creator": "URI, P",
+    "dc:relation": "Revue politique et parlementaire -- Rev. polit. parlem, ISSN 0035-385X, Vol. 954, pp. 2-5",
+    "dc:date": "1991",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Edition de la revue politique et parlementaire",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "histoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "marxisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "politique économique"
+        },
+        "617-1: Croissance et fluctuations / Economic growth and fluctuations ; development ; planning"
+    ],
+    "dc:coverage": {
+        "@xml:lang": "fr",
+        "#text": "Russie"
+    },
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6510337"
+}

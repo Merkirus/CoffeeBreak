@@ -1,0 +1,97 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Gestion des eaux et des sols dans le Nord aride du Mexique",
+    "dc:creator": [
+        "LOYER, J.Y",
+        "ESTRADA AVALOS, J",
+        "SÁNCHEZ COHEN, I"
+    ],
+    "dc:relation": "Sécheresse (Montrouge) -- Sécheresse (Montrouge), ISSN 1147-7806, Vol. 12 (1) , pp. 25-30",
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "John Libbey Eurotext",
+    "dc:format": [
+        "print",
+        "Illustration ; 11 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Domaine aride"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eau de surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eau souterraine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gestion de l'eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ressource en eau"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Arid area"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface water"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Groundwater"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water resources"
+        },
+        "531-: Bgi / Prodig / Bgi / Prodig",
+        "531-452: Amerique / America",
+        "531-481: Etudes régionales / Regional studies"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Chihuahua"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mexique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chihuahua"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mexico"
+        }
+    ],
+    "dc:rights": [
+        "Bibliographie Géographique Internationale - Pôle de Recherche pour l'Organisation et la Diffusion de l'Information Géographique (PRODIG)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 5694624"
+}

@@ -1,0 +1,49 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THEOREME D'EXISTENCE ET D'UNICITE D'UN PROBLEME INVERSE NON LINEAIRE UNIDIMENSIONNEL DE LA THEORIE DE LA CONDUCTION THERMIQUE",
+    "dc:creator": "REZNITSKAYA KG",
+    "dc:date": "1973",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "MAT. PROBL. GEOFIZ.; S.S.S.R.; DA. 1973; NO 4; PP. 131-134; BIBL. 1 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CONDUCTION THERMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EQUATION CHALEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROBLEME INVERSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "THEORIE NON LINEAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METROLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE THEORIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MEASUREMENT SCIENCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THEORETICAL PHYSICS"
+        },
+        "001B: Physique / Physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7530033827"
+}

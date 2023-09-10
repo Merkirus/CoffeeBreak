@@ -1,0 +1,311 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Ultrasonic wave propagation in dry and brine-saturated sandstones as a function of effective stress: laboratory measuremnts and modelling",
+    "dc:creator": [
+        "TAO, G",
+        "KING, M. S",
+        "NABI-BIDHENDI, M"
+    ],
+    "dc:contributor": "EAEG meeting (54 ; Paris 1992-06)",
+    "dc:relation": [
+        "Geophysical prospecting -- Geophys. prospect, CODEN GPPRAR, ISSN 0016-8025, Vol. 43 (3) , pp. 299-327",
+        "EAEG meeting (54 ; Paris 1992-06)"
+    ],
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Blackwell",
+    "dc:format": [
+        "print",
+        "Illustration ; 2 p. 1/2"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche clastique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche sédimentaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Atténuation onde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conductivité électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrainte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Correction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffraction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur Q"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fréquence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grès"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode ultrason"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Onde P"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Onde S"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Onde polarisée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Onde sismique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Perméabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propagation onde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété roche magasin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Saturation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Saumure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation numérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vitesse"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "chemically precipitated rocks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "clastic rocks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "sedimentary rocks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wave attenuation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "electrical conductivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "stress"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "corrections"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "diffraction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Q"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "frequency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "sandstone"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ultrasonic methods"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "P-waves"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "S-waves"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polarized wave"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "elastic waves"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "permeability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wave propagation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "reservoir properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "saturation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "brines"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "digital simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "velocity"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Roca química"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Roca clástica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Roca sedimentaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Atenuación onda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conductividad eléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Coacción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Corrección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Difracción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor Q"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Frecuencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gres"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ultrasonido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Onda P"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Onda S"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Onda polarizada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Onda sísmica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Permeabilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propagación onda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad roca almacen"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Saturación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salmuera"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simulación numérica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Velocidad"
+        },
+        "001D06: Energie / Energy",
+        "001D06B02B2B: Prospection géologique. Méthodes sismiques et autres méthodes. Exploration dans les sondages. Diagraphies / Geophysical prospecting. Seismic methods and other methods. Exploration in boreholes. Well logging",
+        "001E01M04: Géophysique appliquée / Applied geophysics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3492980"
+}

@@ -1,0 +1,177 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Advances in array detectors for X-ray diffraction techniques",
+    "dc:creator": [
+        "HANLEY, Quentin S",
+        "DENTON, M. Bonner"
+    ],
+    "dc:contributor": "International workshop on Structure Determination by Single-Cristal X-ray Diffraction (SXD) at Megabar Pressures (Chicago 2004-11-13)",
+    "dc:relation": [
+        "Journal of synchrotron radiation -- J. synchroton radiat, ISSN 0909-0495, Vol. 12, pp. 618-625",
+        "International workshop on Structure Determination by Single-Cristal X-ray Diffraction (SXD) at Megabar Pressures (Chicago 2004-11-13)"
+    ],
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Blackwell",
+    "dc:format": [
+        "print",
+        "8 p. ; 15 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Actinide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Angle incidence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Degré recouvrement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffraction Laue"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffraction RX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dispositif CCD"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Détecteur rayonnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hybridation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matrice plan focal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mode empilement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Photodétecteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau(arrangement)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation numérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "6110N"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "8560G"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Actinides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Incidence angle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Coverage rate"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laue diffraction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "XRD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Charge coupled devices"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiation detectors"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hybridization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Focal plane arrays"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stacking sequence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photodetectors"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Arrays"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Digital simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CCD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CID"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CMOS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laue diffraction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "spectrometer"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Grado recubrimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Difracción Laue"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modo apilamiento"
+        },
+        "001B60A10N: Diffraction sur monocristal et sur poudre / Single-crystal and powder diffraction",
+        "001D03F15: Dispositifs optoélectroniques / Optoelectronic devices"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17542647"
+}

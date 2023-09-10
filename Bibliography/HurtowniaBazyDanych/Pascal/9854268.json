@@ -1,0 +1,81 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Dependence of radio emission from mercury on the structure and morphology of its outer layers",
+    "dc:creator": [
+        "SHCHUKO, O. B",
+        "KARTASHOV, D. V"
+    ],
+    "dc:relation": "Radiophysics and quantum electronics -- Radiophys. quantum electron, ISSN 0033-8443, Vol. 42 (3) , pp. 179-190",
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "Russian",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "26 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Caractéristique spectrale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Emission radioélectrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mercure planète"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microstructure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Morphologie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spectral data"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radio emission"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mercury planet"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microstructure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Morphology"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Característica espectral"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Emisión radioeléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mercurio planeta"
+        },
+        "001E03A85B: Ondes radio, hyperfréquences (> 1 mm) / Radio, microwave (> 1 mm)",
+        "001E03B30D: Mercure / Mercury"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1210413"
+}

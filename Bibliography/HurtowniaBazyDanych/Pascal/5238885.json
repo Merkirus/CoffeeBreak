@@ -1,0 +1,85 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Advances in pharmacological treatments of IBS",
+    "dc:creator": "CAMILLERI, Michael",
+    "dc:contributor": [
+        "AURRICHIO, Salvatore (Editor)",
+        "STAIANO, Annamaria (Editor)",
+        "TRONCONE, Riccardo (Editor)",
+        "European Society for Pediatric Gastroenterology Hepatology & Nutrition (ESPGHAN) (Funder/Sponsor)",
+        "ESPGHAN Capri Meeting (1 ; Capri 2004-05-27)"
+    ],
+    "dc:relation": [
+        "Journal of pediatric gastroenterology and nutrition -- J. pediatr. gastroenterol. nutr, CODEN JPGND6, ISSN 0277-2116, Vol. 39, pp. S766-S767",
+        "Gut Inflammation: Impact on Gastrointestinal and Systemic Diseases"
+    ],
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Lippincott",
+    "dc:format": [
+        "print",
+        "7 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Gastroentérologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métabolisme pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nutrition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gastroenterology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metabolic diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nutrition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gastroenterología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metabolismo patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nutrición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        "002A16E: Alimentation. Comportement alimentaire / Feeding. Feeding behavior",
+        "002B01: Generalites / General aspects",
+        "002B13: Gastroenterologie. Foie. Pancreas. Abdomen / Gastroenterology. Liver. Pancreas. Abdomen"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15912257"
+}

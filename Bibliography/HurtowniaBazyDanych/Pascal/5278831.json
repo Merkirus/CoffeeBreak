@@ -1,0 +1,62 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Review article: the pharmacodynamics and pharmacokinetics of proton pump inhibitors: overview and clinical implications",
+    "dc:creator": "ROBINSON, M",
+    "dc:contributor": "ROBINSON, M (Editor)",
+    "dc:relation": "Alimentary pharmacology & therapeutics. Supplement -- Aliment. pharmacol. ther., Suppl, ISSN 0953-0673, Vol. 20 (6) , pp. 1-10",
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Blackwell",
+    "dc:format": [
+        "print",
+        "10 p. ; 68 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Article synthèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Inhibiteur pompe proton"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Relation pharmacocinétique pharmacodynamie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Review"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Proton pump inhibitor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pharmacokinetic pharmacodynamic relationship"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Artículo síntesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inhibidor bomba protón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Relación farmacocinética farmacodinamia"
+        },
+        "002B02: Pharmacologie. Traitements medicamenteux / Pharmacology. Drug treatments"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16287619"
+}

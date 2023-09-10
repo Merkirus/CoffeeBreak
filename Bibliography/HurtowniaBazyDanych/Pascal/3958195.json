@@ -1,0 +1,76 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SUR LES ELOIGNEMENTS SYMETRIQUES ET LE PRINCIPE DE PARETO.",
+    "dc:creator": [
+        "BARTHELEMY JP",
+        "OEC NATL SUPER CHRONOMETR MICROMEC BESANCON"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "MATH. SCI. HUM.; FR.; DA. 1977; NO 56; PP. 97-125; BIBL. 10 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE MATHEMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DECISION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GROUPE SOCIAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACTIVITE MENTALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTERACTION SOCIALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PSYCHOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MATHEMATICAL ANALYSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DECISION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOCIAL GROUP"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MENTAL ACTIVITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOCIAL INTERACTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PSYCHOLOGY"
+        },
+        "002A26: Psychologie. Psychophysiologie / Psychology. Psychophysiology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7850017581"
+}

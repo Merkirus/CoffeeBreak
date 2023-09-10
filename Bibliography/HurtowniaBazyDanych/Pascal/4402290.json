@@ -1,0 +1,44 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "PRODUCTION D'UN FAISCEAU D'IONS NEGATIFS POLARISES DE DEUTERIUM",
+    "dc:creator": [
+        "KHIRNYJ YU M",
+        "KOCHEMASOVA LN"
+    ],
+    "dc:date": "1972",
+    "dc:type": "Serial Issue",
+    "dc:language": "Russian",
+    "dc:format": "PRIBORY. TEKH. EKSPER.; S.S.S.R.; DA. 1972; NO 3; PP. 25-28; BIBL. 10 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "SOURCE PARTICULE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOURCE ION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOURCE POLARISEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DEUTERIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ION NEGATIF"
+        },
+        "001D16: Pollution / Pollution"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7315000038"
+}

@@ -1,0 +1,119 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Fisher-schrödinger models for statistical encryption of covert information",
+    "dc:creator": "VENKATESAN, R. C",
+    "dc:contributor": [
+        "Donkor, Eric J (Editor)",
+        "Pirich, Andrew R (Editor)",
+        "Brandt, Howard E (Editor)",
+        "Society of photo-optical instrumentation engineers (Organiser of meeting)",
+        "Quantum information and computation (5 ; Orlando, Florida 2007)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, pp. 65730O.1-65730O.9",
+        "Quantum information and computation V (10-12 April 2007, Orlando, Florida, USA)"
+    ],
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "24 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Cryptage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Distribution statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Décryptage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Information Fisher"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Information quantique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Problème mal conditionné"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0367"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Encryption"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Statistical distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Decryption"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fisher information"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quantum information"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Statistical method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ill conditioned problem"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cifrado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Distribución estadística"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desciframiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Información Fisher"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método estadístico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Problema mal condicionado"
+        },
+        "001B00C67: Information quantique / Quantum information"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 19207362"
+}

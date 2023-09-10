@@ -1,0 +1,60 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Recent ornithological literature",
+    "dc:creator": [
+        "LOHRER, F. E",
+        "CUTHILL, I. C"
+    ],
+    "dc:relation": "The Auk -- Auk, CODEN AUKJAF, ISSN 0004-8038, Vol. 103 (3)",
+    "dc:date": "1986",
+    "dc:type": [
+        "Text",
+        "Serial Issue"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Ornithological Societies North America",
+    "dc:format": [
+        "print",
+        "59 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aves"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bibliographie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aves"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bibliography"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aves"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bibliografia"
+        },
+        "002A15D: Aves / Aves"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 8781634"
+}

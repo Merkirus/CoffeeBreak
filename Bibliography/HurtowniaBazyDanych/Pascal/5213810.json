@@ -1,0 +1,106 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The application of metadata standards to video indexing",
+    "dc:creator": [
+        "HUNTER, J",
+        "IANNELLA, R"
+    ],
+    "dc:contributor": [
+        "Nikolaou, Christos (Editor)",
+        "Stephanidis, Constantine (Editor)",
+        "ECDL '98 : European conference on digital libraires (2 ; Heraklion 1998-09-21)"
+    ],
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, Vol. 1513, pp. 135-156",
+        "Research and advanced technology for digital libraries (Heraklion, 21-23 September 1998)"
+    ],
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Springer-Verlag",
+        "Springer-Verlag"
+    ],
+    "dc:format": [
+        "print",
+        "18 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Catalogage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Indexation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métadonnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technique vidéo"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bibliothèque numérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Information audio"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cataloging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Indexing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metadata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Video technique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Digital library"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Audio information"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Catalogación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Indización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metadatos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Técnica video"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation",
+        "001A01E02: Structure et analyse des documents et de l'information / Information and document structure and analysis",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-F: Traitement et recherche d'information / Information processing and retrieval"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1572852"
+}

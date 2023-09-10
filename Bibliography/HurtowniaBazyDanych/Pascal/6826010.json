@@ -1,0 +1,237 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Safety and tolerability of sandimmun neoral vs Sandimmun in de novo renal transplant patients after 24 Months' treatment",
+    "dc:creator": [
+        "BUCHHOLZ, B",
+        "KORN, A",
+        "German Neoral Study Group"
+    ],
+    "dc:contributor": "Cybercongress : Transplantation in the Next Millennium (Washington, DC 1995-11-13)",
+    "dc:relation": [
+        "Transplantation proceedings -- Transplant. proc, CODEN TRPPA8, ISSN 0041-1345, Vol. 28 (4) , pp. 2187-2188",
+        "Cybercongress : Transplantation in the Next Millennium"
+    ],
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "5 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Chirurgie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transplantation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chimiothérapie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ciclosporine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Efficacité traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai clinique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude comparative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude longitudinale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Formulation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homotransplantation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunodépresseur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Randomisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rein"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tolérance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NBeoral"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sandimmune"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surgery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transplantation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemotherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment efficiency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Clinical trial"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Follow up study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Statistical study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Formulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Homotransplantation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immunosuppressive agent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Randomization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Kidney"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tolerance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cirugía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trasplantación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Quimioterapia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Eficacia tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo clínico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio comparativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio longitudinal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio estadístico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Formulación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Homotrasplante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunodepresor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aleatorización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Riñón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tolerancia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        "002B02Q: Immunomodulateurs / Immunomodulators"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3193837"
+}

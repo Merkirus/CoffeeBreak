@@ -1,0 +1,289 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Lead dioxide film sonoelectrodeposition in acidic media: Preparation and performance of stable practical anodes",
+    "dc:creator": [
+        "SAEZ, V",
+        "ESCLAPEZ, M. D",
+        "FRIAS-FERRER, A. J",
+        "BONETE, P",
+        "TUDELA, I",
+        "DIEZ-GARCIA, M. I",
+        "GONZALEZ-GARCIA, J"
+    ],
+    "dc:contributor": [
+        "The European Society of Sonochemistry (Organiser of meeting)",
+        "The Meeting of European Society of Sonochemistry (ESS12) (12 ; Chanian Crete 2010-05-30)"
+    ],
+    "dc:relation": [
+        "Ultrasonics sonochemistry -- Ultrason. sonochem, ISSN 1350-4177, Vol. 18 (4) , pp. 873-880",
+        "European Society of Sonochemistry (ESS12)"
+    ],
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "8 p. ; 85 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Métal transition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Additif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Agitation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Anode"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Carbone"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Corrosion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Densité courant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dépôt électrolytique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Electrode carbone"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Film"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau poreux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nodule"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optimisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pore"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Préparation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sonochimie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Substrat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Titane"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ultrason"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transition metal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Additive"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Agitation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Anode"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Carbon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Corrosion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Current density"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrodeposition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Carbon electrode"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Film"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Porous material"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nodule"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optimization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pore"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Preparation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sonochemistry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Substrate"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Titanium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ultrasound"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Carbon electrode"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Corrosion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrodeposition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lead dioxide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ultrasound"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metal transición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aditivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agitación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anodo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carbono"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Corrosión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Densidad corriente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Depósito electrolítico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Electrodo carbono"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Película"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Material poroso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nódulo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Optimización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Poro"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Preparación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sonoquímica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Substrato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Titanio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ultrasonido"
+        },
+        "001C01F05: Sonochimie / Ultrasonic chemistry",
+        "001C01J08: Matériaux poreux / Porous materials"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 24013596"
+}

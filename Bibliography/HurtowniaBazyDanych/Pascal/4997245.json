@@ -1,0 +1,53 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Extraction et suivi de contours dans les séquences d'images animées; Extraction and contour following in time-varying image sequences",
+    "dc:creator": "Moulet, Dominique",
+    "dc:contributor": [
+        "Barba, Dominique (Advisor (for a thesis or dissertation))",
+        "Université de Nantes (Degree-grantor)"
+    ],
+    "dc:date": "1990",
+    "dc:type": [
+        "Text",
+        "Thesis"
+    ],
+    "dc:identifier": [
+        "NNT 90 NANT 2016",
+        "Inist-CNRS record number 139195"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "167 p. ; 65 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse d'images animées"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mise en correspondance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Relaxation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Segmentation d'images"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Suivi temporel"
+        },
+        "001D02C: Intelligence artificielle / Artificial intelligence",
+        "001D02C03: Reconnaissance des formes. Traitement numérique des images. Géométrie algorithmique / Pattern recognition. Digital image processing. Computational geometry",
+        "001D04A05: Traitement du signal / Signal processing",
+        "430A09K:  / Pattern recognition; image processing"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

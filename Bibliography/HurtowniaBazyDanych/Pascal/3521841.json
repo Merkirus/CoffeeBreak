@@ -1,0 +1,65 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A PROPOS DU SYNDROME D'ADIE.",
+    "dc:creator": "VOGIR R",
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "REV. NEUROL.; FR.; DA. 1976; VOL. 132; NO 12; PP. 869-872; ABS. ANGL.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PUPILLOTONIE ADIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OEIL PATHOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OCULOMOTRICITE SYNDROME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETIOPATHOGENIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OPHTALMOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ADIE PUPIL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EYE DISEASE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OCULOMOTOR SYNDROME"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ETIOPATHOGENESIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPHTALMOLOGY"
+        },
+        "002B09: Ophtalmologie / Ophthalmology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7750329681"
+}

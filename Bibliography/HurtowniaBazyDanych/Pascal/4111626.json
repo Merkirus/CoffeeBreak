@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DETERMINATION DU SAUT DE PRESSION DANS LE CANAL D'UN GENERATEUR MHD LORS DE L'ETUDE DES PROCESSUS NON STATIONNAIRES SUR CALCULATEUR ANALOGIQUE",
+    "dc:creator": "POPOV YU V",
+    "dc:date": "1981",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "MAGN. GIDRODIN.; ISSN 0025-0015; SUN; DA. 1981; NO 3; PP. 136-137; BIBL. 2 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "GENERATEUR ELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MACHINE MHD"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ECOULEMENT MHD"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRESSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DISCONTINUITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SIMULATION ANALOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REGIME PERMANENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROMAGNETISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROTECHNIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRIC GENERATOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MHD FLOW"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PRESSURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DISCONTINUITIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANALOG SIMULATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STEADY STATE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STEADY STATE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROMAGNETISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRICAL ENGINEERING"
+        },
+        "001D05: Electrotechnique. Electroenergetique / Electrical engineering. Electrical power engineering"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL82X0074668"
+}

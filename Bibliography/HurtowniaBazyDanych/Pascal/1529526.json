@@ -1,0 +1,72 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "EVALUATION OF THE CENTRIFICHEM SYSTEM.",
+    "dc:creator": [
+        "MEERKIN M",
+        "BALLARD B"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "MED. J. AUSTRAL.; AUSTRAL.; DA. 1976; VOL. 1; NO 7; PP. 193-195; BIBL. 5 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "AUTOANALYSEUR CENTRIFICHEM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOLOGIE CLINIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE CRITIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DOSAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALBUMINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "UREE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ASPARTATE AMINOTRANSFERASE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHOSPHATASE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENZYME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSFERASE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HYDROLASE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOCHIMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOCHEMISTRY"
+        },
+        "002A02: Biochimie analytique, structurale et metabolique / Analytical, structural and metabolic biochemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7650275725"
+}

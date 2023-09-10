@@ -1,0 +1,70 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Advanced numerical techniques in rock slope stability analysis - applications and limitations",
+    "dc:creator": [
+        "STEAD, D",
+        "EBERHARDT, E",
+        "COGGAN, J",
+        "BENKO, B"
+    ],
+    "dc:contributor": [
+        "KUHNE, M (Editor)",
+        "EINSTEIN, H. H (Editor)",
+        "KRAUTER, E (Editor)",
+        "KLAPPERICH, H (Editor)",
+        "POTTLER, R (Editor)",
+        "International Conference on landslides - Causes, impacts and countermeasures (Davos 2001-06-17)"
+    ],
+    "dc:relation": "International Conference on landslides - Causes, impacts and countermeasures",
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "VGE",
+    "dc:format": [
+        "print",
+        "Block diagram ; 24 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse numérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Massif rocheux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stabilité versant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "numerical analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rock masses"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "slope stability"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis numérico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estabilidad vertiente"
+        },
+        "001E01O01: Géotechnique / Engineering geology"
+    ],
+    "dc:rights": [
+        "Bureau de Recherches Géologiques et Minières (BRGM)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14316897"
+}

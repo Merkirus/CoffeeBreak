@@ -1,0 +1,134 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Biegefestigkeit einsatzgehärteter und vergüteter Bi-Cr-Mn-legierter Gefüge",
+    "dc:creator": [
+        "SCHWARZ, O",
+        "THODEN, B",
+        "GROSCH, J"
+    ],
+    "dc:contributor": "Härterei-Kolloqium (46 ; Wiesbadeb 1990-10-04)",
+    "dc:relation": [
+        "HTM. Härterei-technische Mitteilungen -- HTM. Härterei-tech. Mitt, CODEN HTMMD5, ISSN 0341-101X, Vol. 46 (5) , pp. 317-324",
+        "Härterei-Kolloqium (46 ; Wiesbadeb 1990-10-04)"
+    ],
+    "dc:date": "1991",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "German",
+    "dc:publisher": "Hanser",
+    "dc:format": [
+        "print",
+        "26 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Acier allié"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Carburation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai flexion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microstructure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Revenu"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résistance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trempe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Alloy steel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Carburetion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bending test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microstructure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tempering"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Resistance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quenching"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acero aliado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carburación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo flexion"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Microestructura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Revenido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resistencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Temple"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Legierter Stahl"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Mikrogefuege"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Anlassen"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Abschrecken"
+        },
+        "001B60B: Propriétés mécaniques et acoustiques de l'état condensé / Mechanical and acoustical properties of condensed matter",
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 5434647"
+}

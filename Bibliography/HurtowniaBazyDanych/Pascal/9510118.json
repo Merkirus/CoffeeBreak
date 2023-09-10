@@ -1,0 +1,64 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Les aspects financiers de la micrographie",
+    "dc:creator": "GOULARD, C",
+    "dc:relation": "Bulletin du CIMAB -- Bull. CIMAB, CODEN BCIMB2, ISSN 0374-230X (9) , pp. 1-7",
+    "dc:date": "1984",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Centre d'information du matériel et des articles de bureau",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Aspect économique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Coût"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Equipement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Micrographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microscopie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Economic aspect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Costs"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Equipment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Micrography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microscopy"
+        },
+        "001A01H06: Divers / Miscellaneous",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-A: Généralités / General aspects"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 9715016"
+}

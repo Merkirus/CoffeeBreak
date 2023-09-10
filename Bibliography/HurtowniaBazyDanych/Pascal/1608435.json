@@ -1,0 +1,57 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "FLUCTUATION EFFECTS ON ANISOTROPY MEASUREMENTS.",
+    "dc:creator": "LINSLEY J",
+    "dc:date": "sd",
+    "dc:type": "Conference Paper",
+    "dc:language": "English",
+    "dc:format": "IN: INT. COSMIC RAY CONF. 14; MUENCHEN; 1975; MUENCHEN; MAX-PLANCK INST.; DA. S.D.; VOL. 2; PP. 592-597; BIBL. 14 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "RAYONNEMENT COSMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANISOTROPIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FLUCTUATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE HARMONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOPHYSIQUE EXTERNE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COSMIC RAYS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANISOTROPY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FLUCTUATIONS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FOURIER ANALYSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXTERNAL GEOPHYSICS"
+        },
+        "001E02: Geophysique externe / External geophysics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7730013181"
+}

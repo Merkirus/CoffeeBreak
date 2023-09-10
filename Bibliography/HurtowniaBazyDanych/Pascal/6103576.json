@@ -1,0 +1,125 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Thomas Jefferson et le projet du Nouveau Monde",
+    "dc:creator": "MAUMI, C",
+    "dc:relation": "Géographie et cultures (Paris) -- Géogr. cult. (Paris), ISSN 1165-0354 (32) , pp. 3-20",
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Editions L'Harmattan",
+    "dc:format": [
+        "print",
+        "Illustration"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Délimitation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Frontière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Géographie historique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Géographie politique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Législation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Organisation de l'espace"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Siècle 18"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure territoriale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Territoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "JEFFERSON (T.)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Delimitation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "State"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Frontier"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Historical geography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Political geography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Legislation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spatial organization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Eighteenth Century"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Territorial structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Territory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "JEFFERSON (T.)"
+        },
+        "531-: Bgi / Prodig / Bgi / Prodig",
+        "531-452: Amerique / America",
+        "531-467: Géographie humaine / Human geography"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats-Unis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States of America"
+        }
+    ],
+    "dc:rights": [
+        "Bibliographie Géographique Internationale - Pôle de Recherche pour l'Organisation et la Diffusion de l'Information Géographique (PRODIG)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6202360"
+}

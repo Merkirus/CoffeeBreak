@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Behavior of nonaqueous phase liquids in fractured porous media under two-phase flow conditions</dc:title>
+  <dc:creator>KELLER, A. A</dc:creator>
+  <dc:creator>BLUNT, M. J</dc:creator>
+  <dc:creator>ROBERTS, P. V</dc:creator>
+  <dc:contributor>CHRYSIKOPOULOS, Constantinos V (Editor)</dc:contributor>
+  <dc:contributor>HARMON, Thomas C (Editor)</dc:contributor>
+  <dc:contributor>Symposium on Environmental Models and Experiments Envisioning Tomorrow (EnviroMEET '98) (Irvine, California 1998-07-20)</dc:contributor>
+  <dc:relation>Transport in porous media -- Transp. porous media, CODEN TPMEEI, ISSN 0169-3913, Vol. 38 (1-2) , pp. 189-203</dc:relation>
+  <dc:relation>Behavior and remediation of nonaqueous phase contaminants in the subsurface</dc:relation>
+  <dc:date>2000</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Conference Paper</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>Springer</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>Illustration ; 1 p.3/4</dc:format>
+  <dc:subject xml:lang="fr">Roche clastique</dc:subject>
+  <dc:subject xml:lang="fr">Roche ignée</dc:subject>
+  <dc:subject xml:lang="fr">Roche plutonique</dc:subject>
+  <dc:subject xml:lang="fr">Roche sédimentaire</dc:subject>
+  <dc:subject xml:lang="fr">Bedrock</dc:subject>
+  <dc:subject xml:lang="fr">Contamination</dc:subject>
+  <dc:subject xml:lang="fr">Drainage</dc:subject>
+  <dc:subject xml:lang="fr">Déplacement</dc:subject>
+  <dc:subject xml:lang="fr">Eau souterraine</dc:subject>
+  <dc:subject xml:lang="fr">Ecoulement polyphasique</dc:subject>
+  <dc:subject xml:lang="fr">Granite</dc:subject>
+  <dc:subject xml:lang="fr">Grès</dc:subject>
+  <dc:subject xml:lang="fr">Migration</dc:subject>
+  <dc:subject xml:lang="fr">Milieu fracturé</dc:subject>
+  <dc:subject xml:lang="fr">Milieu poreux</dc:subject>
+  <dc:subject xml:lang="fr">Modèle</dc:subject>
+  <dc:subject xml:lang="fr">Mécanisme écoulement</dc:subject>
+  <dc:subject xml:lang="fr">Perméabilité</dc:subject>
+  <dc:subject xml:lang="fr">Pollution</dc:subject>
+  <dc:subject xml:lang="fr">Pression capillaire</dc:subject>
+  <dc:subject xml:lang="fr">Réseau fracture</dc:subject>
+  <dc:subject xml:lang="fr">Saturation</dc:subject>
+  <dc:subject xml:lang="fr">Simulation numérique</dc:subject>
+  <dc:subject xml:lang="fr">DNAPL</dc:subject>
+  <dc:subject xml:lang="fr">Liquide non aqueux</dc:subject>
+  <dc:subject xml:lang="fr">Liquide phase non aqueuse</dc:subject>
+  <dc:subject xml:lang="fr">NAPL</dc:subject>
+  <dc:subject xml:lang="en">clastic rocks</dc:subject>
+  <dc:subject xml:lang="en">igneous rocks</dc:subject>
+  <dc:subject xml:lang="en">plutonic rocks</dc:subject>
+  <dc:subject xml:lang="en">sedimentary rocks</dc:subject>
+  <dc:subject xml:lang="en">bedrock</dc:subject>
+  <dc:subject xml:lang="en">contamination</dc:subject>
+  <dc:subject xml:lang="en">drainage</dc:subject>
+  <dc:subject xml:lang="en">displacements</dc:subject>
+  <dc:subject xml:lang="en">ground water</dc:subject>
+  <dc:subject xml:lang="en">multiphase flow</dc:subject>
+  <dc:subject xml:lang="en">granites</dc:subject>
+  <dc:subject xml:lang="en">sandstone</dc:subject>
+  <dc:subject xml:lang="en">migration</dc:subject>
+  <dc:subject xml:lang="en">fractured environment</dc:subject>
+  <dc:subject xml:lang="en">porous media</dc:subject>
+  <dc:subject xml:lang="en">models</dc:subject>
+  <dc:subject xml:lang="en">flow mechanism</dc:subject>
+  <dc:subject xml:lang="en">permeability</dc:subject>
+  <dc:subject xml:lang="en">pollution</dc:subject>
+  <dc:subject xml:lang="en">capillary pressure</dc:subject>
+  <dc:subject xml:lang="en">fracture networks</dc:subject>
+  <dc:subject xml:lang="en">saturation</dc:subject>
+  <dc:subject xml:lang="en">digital simulation</dc:subject>
+  <dc:subject xml:lang="es">Roca clástica</dc:subject>
+  <dc:subject xml:lang="es">Roca ignea</dc:subject>
+  <dc:subject xml:lang="es">Roca granuda</dc:subject>
+  <dc:subject xml:lang="es">Roca sedimentaria</dc:subject>
+  <dc:subject xml:lang="es">Roca firme</dc:subject>
+  <dc:subject xml:lang="es">Contaminación</dc:subject>
+  <dc:subject xml:lang="es">Agua subterránea</dc:subject>
+  <dc:subject xml:lang="es">Flujo polifásico</dc:subject>
+  <dc:subject xml:lang="es">Granito</dc:subject>
+  <dc:subject xml:lang="es">Gres</dc:subject>
+  <dc:subject xml:lang="es">Migración</dc:subject>
+  <dc:subject xml:lang="es">Medio poroso</dc:subject>
+  <dc:subject xml:lang="es">Modelo</dc:subject>
+  <dc:subject xml:lang="es">Mecanismo escorrentía</dc:subject>
+  <dc:subject xml:lang="es">Permeabilidad</dc:subject>
+  <dc:subject xml:lang="es">Polución</dc:subject>
+  <dc:subject xml:lang="es">Presión capilar</dc:subject>
+  <dc:subject xml:lang="es">Red fractura</dc:subject>
+  <dc:subject xml:lang="es">Saturación</dc:subject>
+  <dc:subject xml:lang="es">Simulación numérica</dc:subject>
+  <dc:subject>001E01N02: Hydrogéologie / Hydrogeology</dc:subject>
+  <dc:subject>001E01O04: Pollution, géologie de l'environnement / Pollution, environment geology</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 1285260</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

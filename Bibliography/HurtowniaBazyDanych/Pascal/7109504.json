@@ -1,0 +1,224 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Surgical management of massive splenomegaly",
+    "dc:creator": [
+        "FARID, H",
+        "O'CONNELL, T. X"
+    ],
+    "dc:contributor": "Annual Meeting of the Southern California Chapter, American College of Surgeons (Santa Barbara, California 1996-01-19)",
+    "dc:relation": [
+        "The American surgeon -- Am. surgeon, CODEN AMSUAW, ISSN 0003-1348, Vol. 62 (10) , pp. 803-805",
+        "Annual Meeting of the Southern California Chapter, American College of Surgeons (Santa Barbara, California 1996-01-19)"
+    ],
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Southeastern Surgical Congress",
+    "dc:format": [
+        "print",
+        "11 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Abdomen pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chirurgie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hémopathie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Radiodiagnostic"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rate pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement instrumental"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Angiographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Embolisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Peropératoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Perte sanguine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Préopératoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Splénectomie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Splénomégalie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Abdominal disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surgery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hemopathy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiodiagnosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Splenic disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Instrumentation therapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Angiography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Embolization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Intraoperative"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Blood loss"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Preoperative"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Splenectomy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Splenomegaly"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Technique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Abdomen patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cirugía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hemopatía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radiodiagnóstico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bazo patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento instrumental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Angiografía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Embolización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Peroperatorio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pérdida sanguínea"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Preoperatorio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Esplenectomía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Esplenomegalia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Técnica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        "002B25G03: Foie, voies biliaires, pancréas, circulation portale, rate / Liver, biliary tract, pancreas, portal circulation, spleen"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3260753"
+}

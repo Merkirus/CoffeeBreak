@@ -1,0 +1,236 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Electromechanical fatigue behavior of graphite/epoxy laminate embedded with piezoelectric actuator",
+    "dc:creator": [
+        "MALL, S",
+        "HSU, T. L"
+    ],
+    "dc:relation": "Smart materials and structures -- Smart mater. struc, ISSN 0964-1726, Vol. 9 (1) , pp. 78-84",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institute of Physics",
+    "dc:format": [
+        "print",
+        "11 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Actionneur piézoélectrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Charge cyclique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Charge mécanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Charge électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Céramique piézoélectrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Durée vie fatigue"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epoxyde résine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fatigue"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fibre graphite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Graphite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau stratifié"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PZT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Piézoélectricité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plomb titanate"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plomb zirconate"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété électromécanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système intégré"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système électromécanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transducteur enfoui"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transducteur piézoélectrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trou"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Piezoelectric actuators"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cyclic loads"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mechanical load"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electric charges"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Piezoceramic materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fatigue life"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Epoxy resin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fatigue"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Graphite fiber"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Graphite"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Layered materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PZT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Piezoelectricity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lead titanates"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lead zirconates"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electromechanical properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Integrated system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electromechanical system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Embedded transducer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Piezoelectric transducers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Holes"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carga mecánica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Longevidad fatiga"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Epóxido resina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fibra grafito"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad electromecánica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema integrado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema electromecánico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transductor embebido"
+        },
+        "001B80A40N: Fatigue, fragilisation et rupture / Fatigue, embrittlement, and fracture"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1279949"
+}

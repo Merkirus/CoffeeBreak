@@ -1,0 +1,296 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Flood forecasting by Coupling Cluster method and Artificial Neural Networks",
+    "dc:creator": [
+        "YIN XIONGRUI",
+        "XIA JUN",
+        "ZHANG XIANG"
+    ],
+    "dc:contributor": [
+        "Giesen, Nick van de (Editor)",
+        "International Association of Hydrological Sciences (Organiser of meeting)",
+        "International Union of Geodesy and Geophysics. General Assembly (Perugia 2007)"
+    ],
+    "dc:relation": [
+        "IAHS-AISH publication -- IAHS-AISH publ, CODEN IAPUEP, ISSN 0144-7815, pp. 228-235",
+        "Changes in water resources systems (methodologies to maintain water security and ensure integrated management)"
+    ],
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "IAHS Press",
+    "dc:format": [
+        "print",
+        "8 p. ; 1/4 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Asie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse groupe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bassin versant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrôle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Couplage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Crue"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecoulement cours eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gestion ressource eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Historique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hydrogramme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Logique floue"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mécanisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthodologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pluie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Précipitation atmosphérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prévision"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ruissellement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau neuronal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réservoir"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Segmentation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "cluster analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "drainage basins"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "controls"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "coupling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "floods"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "streamflow"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "water resource management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "history"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "hydrographs"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "fuzzy logic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "mechanism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "methodology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "rainfall"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "atmospheric precipitation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "prediction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "runoff"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "neural networks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "reservoirs"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "segmentation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "simulation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis grupo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuenca"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Crecida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gestión recurso agua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Histórica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hidrograma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metodología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lluvia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Precipitación atmosférica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Previsión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Brillo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red neuronal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simulación"
+        },
+        "001E01N01: Hydrologie / Hydrology",
+        "001E01O02: Risques naturels: prévisions, dommages, etc / Natural hazards: prediction, damages, etc"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Chine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Extrême Orient"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hunan"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "China"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Far East"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hunan China"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "China"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Extremo Oriente"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 19224615"
+}

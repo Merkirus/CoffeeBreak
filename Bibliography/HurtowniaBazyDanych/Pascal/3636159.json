@@ -1,0 +1,45 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "CONTRIBUTION A L'ETUDE DE LA STRUCTURE CRISTALLINE DE LA PHASE ER15C19.",
+    "dc:creator": "BAUER J",
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "J. LESS-COMMON METALS; NETHERL.; DA. 1974; VOL. 37; NO 1; PP. 161-165; BIBL. 15 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ERBIUM COMPOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARBURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STRUCTURE CRISTALLINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE DIFFRACTION RX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ERBIUM CARBURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CRISTALLOGRAPHIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CRISTALLOGRAPHY"
+        },
+        "001B60A: Structure des liquides et des solides; cristallographie / Structure of solids and liquids; crystallography"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7540037549"
+}

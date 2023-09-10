@@ -1,0 +1,257 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Forty-hour preservation of the rabbit heart : optimal osmolarity, [Mg2+], and ph of a modified UW solution. Discussion",
+    "dc:creator": [
+        "STRINGHAM, J. C",
+        "PAULSEN, K. L",
+        "SOUTHARD, J. H",
+        "MENTZER, R. M",
+        "BELZER, F. O"
+    ],
+    "dc:contributor": [
+        "REITZ, B. A (Commentator)",
+        "MENASCHE, P (Commentator)",
+        "BAUMGARTNER, W. A (Commentator)",
+        "STARNES, V. A (Commentator)",
+        "The Society of Thoracic Surgeons. Annual meeting (30 ; New Orleans LA 1994-01-31)"
+    ],
+    "dc:relation": [
+        "The Annals of thoracic surgery -- Ann. thorac. surg, CODEN ATHSAK, ISSN 0003-4975, Vol. 58 (1) , pp. 7-13",
+        "The Society of Thoracic Surgeons. Annual meeting (30 ; New Orleans LA 1994-01-31)"
+    ],
+    "dc:date": "1994",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "22 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil circulatoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lagomorpha"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réanimation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Coeur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Concentration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fonction ventriculaire gauche"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lapin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Magnésium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Osmolarité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Préservation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résultat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Solution cardioplégique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Solution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stockage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "pH"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Circulatory system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lagomorpha"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Resuscitation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heart"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Concentration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Left ventricle performance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rabbit"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnesium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Osmolarity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Preservation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Result"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cardioplegic solution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Solution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Storage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "pH"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato circulatorio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lagomorpha"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reanimación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Corazón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Concentración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Función ventricular izquierda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conejo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Magnesio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Osmolaridad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Preservación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resultado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Solución cardiopléjica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Solución"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Almacenamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "pH"
+        },
+        "002B27C: Mort clinique. Soins palliatifs. Don et conservation organe / Clinical death. Palliative care. Organ gift and preservation"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3455794"
+}

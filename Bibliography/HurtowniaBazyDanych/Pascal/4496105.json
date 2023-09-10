@@ -1,0 +1,65 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SUR UNE PROCEDURE APPROCHEE D'AJUSTEMENT DES OBSERVATIONS AVEC DES POIDS INCONNUS",
+    "dc:creator": "SHALAEVSKIJ OV",
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "ZAP. NAUCH. SEMINAR. L.O.M.I.; SUN; DA. 1977; VOL. 74; PP. 139-144; BIBL. 2 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ESTIMATION STATISTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE MOINDRE CARRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AJUSTEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PONDERATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "APPROXIMATION ASYMPTOTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATHEMATIQUES APPLIQUEES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STATISTICAL ESTIMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LEAST SQUARES METHOD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FITTING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WEIGHTING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ASYMPTOTIC APPROXIMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "APPLIED MATHEMATICS"
+        },
+        "001A02: Mathematiques / Mathematics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7930049965"
+}

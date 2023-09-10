@@ -1,0 +1,92 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "EXERCISE CROSS-SECTIONAL ECHOCARDIOGRAPHY IN ISCHEMIC HEART DISEASE",
+    "dc:creator": [
+        "WANN LS",
+        "FARIS JV",
+        "CHILDRESS RH",
+        "DILLON JC",
+        "WEYMAN AE",
+        "FEIGENBAUM H"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "CIRCULATION; USA; DA. 1979; VOL. 60; NO 6; PP. 1300-1308; BIBL. 28 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CARDIOPATHIE CORONAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EPREUVE EFFORT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EXERCICE PHYSIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ECHOGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ECHOGRAPHIE AXIALE TRANSVERSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PATHOLOGIE CARDIOVASCULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARDIOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CORONARY HEART DISEASE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXERCISE TOLERANCE TEST"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHYSICAL EXERCISE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEART"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ECHOGRAPHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CROSS SECTIONAL ECHOGRAPHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CARDIOLOGY"
+        },
+        "002B12: Cardiologie. Appareil circulatoire / Cardiology. Vascular system"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8050172701"
+}

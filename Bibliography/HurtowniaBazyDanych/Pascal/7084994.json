@@ -1,0 +1,198 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Sim-DL : Towards a Semantic Similarity Measurement Theory for the Description Logic ALCNR in Geographic Information Retrieval",
+    "dc:creator": "JANOWICZ, Krzysztof",
+    "dc:contributor": "OTM Confederated International Workshops (Montpellier 2006)",
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 1681-1692",
+        "On the move to meaningful internet systems 2006 (Part I-II : OTM 2006 workshops : OTM Confederated International Workshops and Posters, AWeSOMe, CAMS, COMINF, IS, KSinBIT, MIOS-CIAO, MONET, OnToContent, ORM, PerSys, OTM Academy Doctoral Consortium, RDDS, SWWS, and SeBGIS 2006, Montpellier, France, October 29 - November 3, 2006 : proceedings) -- 0OTM 2006"
+    ],
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Springer",
+        "Springer"
+    ],
+    "dc:format": [
+        "print",
+        "12 p. ; 25 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Informatique mobile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Internet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Intégration information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Logique description"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle géométrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ontologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recherche information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Représentation connaissance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sensibilité contexte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Similitude"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système information géographique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système réparti"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sémantique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Web sémantique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mobile computing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Internet"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information integration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Description logic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Geometrical model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ontology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information retrieval"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Knowledge representation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Context aware"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Similarity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Geographic information system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Distributed system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Semantics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Semantic web"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Internet"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Integración información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lógica descripción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo geométrico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ontología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Búsqueda información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Representación conocimientos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sensibilidad contexto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Similitud"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema información geográfica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema repartido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Semántica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Web semántica"
+        },
+        "001D02B04: Systèmes informatiques et systèmes répartis. Interface utilisateur / Computer systems and distributed systems. User interface",
+        "001D02B07D: Systèmes d'information. Bases de données / Information systems. Data bases",
+        "001D02C04: Reconnaissance et synthèse de la parole et du son. Linguistique / Speech and sound recognition and synthesis. Linguistics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 19971135"
+}

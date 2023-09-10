@@ -1,0 +1,60 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "D-DIMENSIONAL TURBULENCE.",
+    "dc:creator": [
+        "FOURNIER JD",
+        "FRISCH U"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "PHYS. REV., A; U.S.A.; DA. 1978; VOL. 17; NO 2; PP. 747-762; BIBL. 1 P. 1/2",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TURBULENCE ISOTROPE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TURBULENCE HOMOGENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FLUIDE INCOMPRESSIBLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MODELE MATHEMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MECANIQUE FLUIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ISOTROPIC TURBULENCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HOMOGENEOUS TURBULENCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INCOMPRESSIBLE FLUID"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MATHEMATICAL MODELS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FLUID MECHANICS"
+        },
+        "001B: Physique / Physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7830339656"
+}

@@ -1,0 +1,149 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Keynote : Efficient cryptographic techniques for mobile ad-hoc networks",
+    "dc:creator": "YULIANG ZHENG",
+    "dc:contributor": [
+        "Burmester, Mike (Editor)",
+        "Yasinsac, Alec (Editor)",
+        "MADNES 2005 (1 ;  2005)"
+    ],
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743",
+        "Secure mobile ad-hoc networks and sensors (First international workshop, MADNES 2005, Singapore, September 20-22, 2005)"
+    ],
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Springer",
+        "Springer"
+    ],
+    "dc:format": [
+        "print",
+        "p. 117 ; 1"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Asymétrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Consommation énergie électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Consommation énergie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cryptographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Informatique mobile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Retard"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau ad hoc"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau capteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système réparti"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau sans fil"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asymmetry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Power consumption"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Energy consumption"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cryptography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mobile computing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Delay"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ad hoc network"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sensor array"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Distributed system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wireless network"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asimetría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Consumo energía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Criptografía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Retraso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red ad hoc"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red sensores"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema repartido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red sin hilo"
+        },
+        "001D02B04: Systèmes informatiques et systèmes répartis. Interface utilisateur / Computer systems and distributed systems. User interface",
+        "001D02B07C: Gestion des mémoires et des fichiers (y compris la protection et la sécurité des fichiers) / Memory and file management (including protection and security)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 19685170"
+}

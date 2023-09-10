@@ -1,0 +1,60 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Die Schauspielerin im Ancien Régime",
+    "dc:creator": "BAADER, R",
+    "dc:relation": "Romanistische Zeitschrift für Literaturgeschichte -- Rom. Z. Lit.gesch -- Cahiers d'histoire des littératures romanes, ISSN 0343-379X, Vol. 12 (1-2) , pp. 62-86",
+    "dc:date": "1988",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "German",
+    "dc:publisher": "Winter, Carl",
+    "dc:format": [
+        "print",
+        "79 notes"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Actrice"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Femme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Actress"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Woman"
+        },
+        "523-36: Histoire de la littérature / History of literature",
+        "523-177: Généralités / General points"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Siècle 18"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Century 18th"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6139951"
+}

@@ -1,0 +1,149 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Scattering matrix radar parameters : the one-channel polarization radar theory",
+    "dc:creator": [
+        "MASALOV, E. V",
+        "KORENKOV, O. S"
+    ],
+    "dc:contributor": [
+        "Institut de recherche et d'enseignement supérieur aux techniques de l'électronique, Laboratoire systèmes electroniques & informatiques (Organiser of meeting)",
+        "International workshop on radar polarimetry (4 ; Nantes 1998-07-13)",
+        "JIPR : journées internationales de la polarimétrie radar (4 ; Nantes 1998-07-13)"
+    ],
+    "dc:relation": "Fourth international workshop on radar polarimetry (Nantes, 13-17 July 1998) -- 4es journées internationales de la polarimétrie radar",
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "Russian",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Cible radar"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Guide onde rectangulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Longueur onde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matrice diffusion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu anisotrope"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mode polarisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polarimétrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polarisation elliptique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réflecteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rétrodiffusion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radar target"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rectangular waveguide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wavelength"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Scattering matrix"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Anisotropic medium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polarization mode"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polarimetry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Elliptic polarization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reflector"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Backscattering"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Blanco radar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Guía onda rectangular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Longitud onda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Matriz difusión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio anisótropo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modo polarización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polarimetría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polarización elíptica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reflector"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Retrodifusión"
+        },
+        "001D04B05: Radiorepérage et radionavigation / Radiolocalization and radionavigation"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1808399"
+}

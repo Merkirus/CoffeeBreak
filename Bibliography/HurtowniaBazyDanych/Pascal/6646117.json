@@ -1,0 +1,198 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Crystal-field splitting of praseodymium in the dilute system (PrxLa1-x)Ru2Si2",
+    "dc:creator": [
+        "MARUMOTO, K",
+        "TAKAYAMA, F",
+        "MIYAKO, Y"
+    ],
+    "dc:contributor": [
+        "CAMPBELL, S. J (Editor)",
+        "BOOTH, J. G (Editor)",
+        "CADOGAN, J. M (Editor)",
+        "HICKS, T. J (Editor)",
+        "RHYNE, J. J (Editor)",
+        "SHINJO, T (Editor)",
+        "WIESINGER, G (Editor)",
+        "International Conference on Magnetism (ICM '97) (Cairns 1997-07-27)"
+    ],
+    "dc:relation": [
+        "Journal of magnetism and magnetic materials -- J. magn. magn. mater, CODEN JMMMDC, ISSN 0304-8853, Vol. 177-81, pp. 353-354",
+        "International Conference on Magnetism (ICM '97)"
+    ],
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "5 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Lanthanide alliage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aimantation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Alliage quaternaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Anisotropie magnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Anomalie Schottky"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chaleur massique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Champ cristallin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composition chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Décomposition niveau énergie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dépendance température"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fermion lourd"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lanthane alliage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Praséodyme alliage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ruthénium alliage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Silicium alliage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Susceptibilité magnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système dilué"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Alliage LaPrRuSi"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "La Pr Ru Si"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rare earth alloys"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quaternary alloys"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetic anisotropy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Schottky anomalies"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Specific heat"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Crystal field"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical composition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Energy-level splitting"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Temperature dependence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heavy fermions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lanthanum alloys"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Praseodymium alloys"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ruthenium alloys"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Silicon alloys"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetic susceptibility"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dilute systems"
+        },
+        "001B70E10D: Théorie du champ cristallin et hamiltoniens de spin / Crystal-field theory and spin hamiltonians",
+        "001B70E30M: Phénomènes de fluctuation de valence, de réseau de kondo et de fermions lourds / Valence fluctuation, kondo lattice, and heavy-fermion phenomena",
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy",
+        "7510D:  / Crystal-field theory and spin Hamiltonians",
+        "7530M:  / Valence fluctuation, Kondo lattice, and heavy-fermion phenomena"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2191897"
+}

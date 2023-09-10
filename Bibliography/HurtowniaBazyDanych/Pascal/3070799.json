@@ -1,0 +1,49 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE EFFICIENCY OF PHOTOSYNTHETIC LIGHT ENERGY UTILIZATION BY LAKE PHYTOPLANKTON; RENDEMENT D'UTILISATION PHOTOSYNTHETIQUE DE L'ENERGIE LUMINEUSE PAR LE PHYTOPLANCTON LACUSTRE",
+    "dc:creator": [
+        "TILZER MM",
+        "GOLDMAN CR",
+        "DE AMEZAGA E"
+    ],
+    "dc:date": "1975",
+    "dc:type": "Conference Paper",
+    "dc:language": "English",
+    "dc:format": "INTERNATION. VEREINIG. THEOR. ANGEW. LIMNOL., VERH.; DTSCH.; DA. 1975; VOL. 19; PART 2; PP. 800-807; ABS. ALLEM.; (ASSOC. INT. LIMNOL. THEOR. APPL. TRAV.; CANADA; 1974)",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ALGAE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHOTOSYNTHESE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MILIEU DULCAQUICOLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ECOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOLOGIE VEGETALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ECOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PLANT BIOLOGY"
+        },
+        "002A10: Physiologie vegetale et developpement / Plant physiology and development"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7637005514"
+}

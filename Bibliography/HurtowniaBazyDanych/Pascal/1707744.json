@@ -1,0 +1,126 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "HALL COEFFICIENT OF DILUTE ALUMINUM ALLOYS. I. CALCULATION BY FOUR-OPW APPROXIMATION",
+    "dc:creator": [
+        "YONEMIT SU K",
+        "TAKANO K",
+        "MATSUDA T"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "PHYS. STATUS SOLIDI, B; DDR; DA. 1978; VOL. 88; NO 1; PP. 273-282; ABS. GER; BIBL. 18 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "EFFET HALL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE CALCUL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE ONDE PLANE ORTHOGONALISEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALLIAGE DILUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PORTEUR CHARGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RELAXATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONDUCTIVITE ELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALLIAGE ALUMINIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALUMINIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE THEORIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CALCUL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MODELE MATHEMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE SOLIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HALL EFFECT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CALCULATING METHOD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORTHOGONALIZED PLANE WAVE METHOD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DILUTE ALLOY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHARGE CARRIER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RELAXATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRICAL CONDUCTIVITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ALUMINUM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THEORETICAL STUDY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MATHEMATICAL MODELS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID PHYSICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METALLURGY"
+        },
+        "001B60: Etat condense: structure, proprietes mecaniques et thermiques / Condensed matter: structure, mechanical and thermal properties",
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7930073719"
+}

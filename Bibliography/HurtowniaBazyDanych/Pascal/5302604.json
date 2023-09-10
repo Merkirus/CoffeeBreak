@@ -1,0 +1,199 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Discussions on some problems in face recognition",
+    "dc:creator": [
+        "XIAOQING DING",
+        "CHI FANG"
+    ],
+    "dc:contributor": [
+        "Li, Stan Z (Editor)",
+        "Lai, Jianhuang (Editor)",
+        "Tan, Tieniu (Editor)",
+        "Feng, Guocan (Editor)",
+        "Wang, Yunhong (Editor)",
+        "SINOBIOMETRICS 2004 : Chinese conference on biometric recognition (5 ; Guangzhou 2004-12-13)"
+    ],
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 47-56",
+        "Advances in biometric person authentication (Guangzhou, 13-14 December 2004)"
+    ],
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "10 p. ; 15 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Authentification"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Biométrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Classification"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eclairement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Extraction caractéristique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Extraction forme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Faciès"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Image niveau gris"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interface utilisateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Localisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode non invasive"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Performance algorithme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Reconnaissance forme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Reconnaissance visage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Authentication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biometrics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Classification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Illumination"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Feature extraction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pattern extraction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Facies"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Grey level image"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "User interface"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Localization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Non invasive method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Algorithm performance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pattern recognition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Face recognition"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Autenticación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biometría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Clasificación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alumbrado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Extracción forma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Facies"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Imagen nivel gris"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interfase usuario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Localización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método no invasivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resultado algoritmo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reconocimiento patrón"
+        },
+        "001D02B04: Systèmes informatiques et systèmes répartis. Interface utilisateur / Computer systems and distributed systems. User interface"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16546469"
+}

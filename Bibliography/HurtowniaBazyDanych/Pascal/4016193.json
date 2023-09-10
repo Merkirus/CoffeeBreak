@@ -1,0 +1,218 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ANALYSE DE LA MICROSTRUCTURE DES SYSTEMES BIOLOGIQUES A L'AIDE DE MARQUEUR TRIPLET",
+    "dc:creator": [
+        "KOTEL'NIKOV AI",
+        "KUZNETSOV SN",
+        "FOGEL VR",
+        "LIKHTENSHTEJN GI"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "MOLEK. BIOL.; SUN; DA. 1979; VOL. 13; NO 1; PP. 152-159; ABS. ENG; BIBL. 17 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ALBUMINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LYSOZYME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSFERT ENERGIE EXCITATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MARQUEUR SPIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHOSPHORESCENCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETAT TRIPLET"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DESEXCITATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE RPE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOLUTION AQUEUSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOLVANT HYDROORGANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTERACTION MOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LIGAND"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIFFUSION TRANSLATIONNELLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MANGANESE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SITE FIXATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROENVIRONNEMENT MOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE OPTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROTEINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENZYME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HYDROLASE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EOSINE ISOTHIOCYANATE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ATPASE(CA2+,MG2+)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MARQUEUR TRIPLET"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NITROXYDE DERIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GLYCEROL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOPHYSIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ALBUMIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LYSOZYME"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXCITATION ENERGY TRANSFER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SPIN LABEL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHOSPHORESCENCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TRIPLET STATE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DEEXCITATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EPR SPECTROMETRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AQUEOUS SOLUTIONS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HYDROORGANIC SOLVENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOLECULAR INTERACTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIGAND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TRANSLATIONAL DIFFUSION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MANGANESE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BINDING SITE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOLECULAR MICROENVIRONMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPTICAL SPECTROMETRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPTICAL SPECTROSCOPY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PROTEINS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENZYMES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HYDROLASE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GLYCEROL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOPHYSICS"
+        },
+        "002A02: Biochimie analytique, structurale et metabolique / Analytical, structural and metabolic biochemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7950293285"
+}

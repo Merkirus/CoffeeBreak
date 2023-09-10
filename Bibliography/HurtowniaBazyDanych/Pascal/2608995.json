@@ -1,0 +1,140 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "REGULATION OF THE IN VITRO SYNTHESIS OF E.COLI RIBOSOMAL PROTEIN L12",
+    "dc:creator": [
+        "GOLDBERG G",
+        "ZARUCKI SCHULZ T",
+        "CALDWELL P",
+        "WEISSBACH H",
+        "BROT N"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "BIOCHEM. BIOPHYS. RES. COMMUNIC.; USA; DA. 1979; VOL. 91; NO 4; PP. 1453-1461; BIBL. 18 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ESCHERICHIA COLI"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROTEINE RIBOSOMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ARN NUCLEOTIDYLTRANSFERASE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHAINE PEPTIDIQUE BETA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOSYNTHESE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IN VITRO"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REGULATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PLASMIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROMOTEUR TRANSCRIPTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BACTERIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENZYME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSFERASE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROTEINE L12"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROTEINE L10"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROBIOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOCHIMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ESCHERICHIA COLI"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RIBOSOMAL PROTEIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BETA-PEPTIDE CHAIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOSYNTHESIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IN VITRO"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REGULATION(CONTROL)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PLASMID"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TRANSCRIPTION PROMOTOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BACTERIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENZYMES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TRANSFERASE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROBIOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOCHEMISTRY"
+        },
+        "002A02: Biochimie analytique, structurale et metabolique / Analytical, structural and metabolic biochemistry",
+        "002B05: Pathologie infectieuse / Infectious diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8050322166"
+}

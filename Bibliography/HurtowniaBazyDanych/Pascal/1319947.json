@@ -1,0 +1,49 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DISSEMINATED INTRAVASCULAR COAGULATION.",
+    "dc:creator": "FRANKS JJ",
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "ROCKY MOUNTAIN MED. J.; U.S.A.; DA. 1977; VOL. 74; NO 3; PP. 138-141; BIBL. 7 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "COAGULOPATHIE CONSOMMATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ARTICLE SYNTHESE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REANIMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DISSEMINATED INTRAVASCULAR COAGULATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REVIEW"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTENSIVE CARE MEDICINE"
+        },
+        "002B27: Anesthesie. Reanimation. Transfusion. Therapie cellulaire et therapie genique / Anesthesia. Intensive care medicine. Transfusions. Cell therapy and gene therapy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7750393197"
+}

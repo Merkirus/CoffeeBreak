@@ -1,0 +1,120 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Production d'eau déminéralisée par osmose inverse : Le cas de la cogénération d'intervapeur à Verviers; Production of demineralized water by reverse osmosis : cogeneration at Intervapeur in Verviers",
+    "dc:creator": "BEUNEN, M",
+    "dc:contributor": [
+        "CEBEDEAU (Centre belge d'étude et de documentation de l'eau) (Funder/Sponsor)",
+        "LABORELEC (Laboratoire belge de l'industrie électrique) (Funder/Sponsor)",
+        "CIRSEE (Centre international de recherche sur l'eau et l'environnement) (Funder/Sponsor)",
+        "Journées internationales d'étude du CEBEDEAU L'eau et les techniques membranaires (Liège 2000-04-04)"
+    ],
+    "dc:relation": [
+        "La Tribune de l'eau -- Trib. eau, ISSN 0776-1155, Vol. 53 (603-05) , pp. 78-90",
+        "L'eau et les techniques membranaires. Etat de la question"
+    ],
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Centre belge d'études et de documentation",
+    "dc:format": [
+        "print",
+        "7 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Centrale combinée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eau industrielle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Osmose inverse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Séparation par membrane"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement eau"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Combined power plant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Industrial water"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reverse osmosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Membrane separation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water treatment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Central combinada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agua industrial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Osmosis inversa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Separación por membrana"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento agua"
+        },
+        "001D16A03: Eaux à usage industriel / Industrial use water"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Belgique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Belgium"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Belgica"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1393692"
+}

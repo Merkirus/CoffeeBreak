@@ -1,0 +1,97 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "L'évaluation des compétences des éléves de CE2 en septembre 2002; The evaluation of 3rd grade students in september 2002",
+    "dc:creator": [
+        "BREZILLON, Gérard",
+        "CHOLLET-REMVIKOS, Pascale",
+        "DAUPHIN, Laurence"
+    ],
+    "dc:relation": "Note d'information - Direction de la programmation et du développement -- Note d'inf. - Dir. program. dév, ISSN 1286-9392 (19) , pp. 1-6",
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Direction de la programmation et du développement",
+    "dc:format": [
+        "print",
+        "6 p. ; 3 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Compétence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diagnostic"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Elève du primaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Français"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mathématiques"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Niveau"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Skill"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diagnosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Primary School Student"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Evaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "French"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mathematics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Level"
+        },
+        "520-: Sciences de l'éducation / Educational sciences",
+        "520-263: Travail scolaire. Docimologie. Orientation / School work. Docimology. Guidance",
+        "520-266: Évaluation et contrôle des connaissances / Assessment and knowledges control"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14751424"
+}

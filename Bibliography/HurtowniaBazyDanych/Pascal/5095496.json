@@ -1,0 +1,97 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The effect of fish migration patterns on the acoustical estimates of fish stocks",
+    "dc:creator": "GODLEWSKA, M",
+    "dc:relation": "Acustica united with acta acustica, ISSNNV 1436-7947, Vol. 88 (5) , pp. 748-751",
+    "dc:date": "2002",
+    "dc:type": [
+        "Text",
+        "Book Chapter"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Hirzel",
+    "dc:format": [
+        "print",
+        "4 p. ; 9 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Banc(animal aquatique)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Migration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Acoustique sous marine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Détection cible"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Echo"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu aquatique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "School(aquatic animal)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Migration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Underwater acoustics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Target detection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Echo"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aquatic environment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Banco(animal acuático)"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Migración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acústica submarina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Detección blanco"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Eco"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio acuático"
+        },
+        "001B40C30: Acoustique sous-marine / Underwater sound"
+    ],
+    "dc:rights": [
+        "Centre Scientifique et Technique du Bâtiment (CSTB)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14667249"
+}

@@ -1,0 +1,123 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Novye dannye o drevnem naselenii central'noj časti Kol'skogo poluostrova; De nouvelles données sur les anciennes populations de la partie centrale de la presqu'île de Kola",
+    "dc:creator": "ŠAJAHMETOVA, L. G",
+    "dc:relation": "Kratkie Soobščenija (200) , pp. 33-38",
+    "dc:date": "1990",
+    "dc:type": [
+        "Text",
+        "Book Chapter"
+    ],
+    "dc:language": "Russian",
+    "dc:format": [
+        "print",
+        "Illustration"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "C 14"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Céramique, chronologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Datation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Industrie lithique, chronologie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "C 14"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ceramics, chronology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dating"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lithic industry, chronology"
+        },
+        "525-175: Régions arctiques / Arctic regions",
+        "525-46: Europe / Europe"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Arctique soviétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Arctique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Kola (presqu'île)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Russie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Severnaja Salma"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "URSS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chalcolithique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Néolithique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Peigne et fossette"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Soviet Arctic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Arctic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Russia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "USSR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chalcolithic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neolithic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comb and pit"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6560406"
+}

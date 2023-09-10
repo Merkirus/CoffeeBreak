@@ -1,0 +1,124 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Thermodynamic analysis of Zr-U and Zr-Np alloys in view of f-d interaction",
+    "dc:creator": [
+        "OGAWA, T",
+        "GIBSON, J. K",
+        "HAIRE, R. G",
+        "GENSINI, M. M",
+        "AKABORI, M"
+    ],
+    "dc:contributor": [
+        "MATZKE, HJ (Editor)",
+        "International Union of Pure and Applied Chemistry (Funder/Sponsor)",
+        "Seminar on nuclear materials (Clermont-Ferrand 1994-07-17)"
+    ],
+    "dc:relation": [
+        "Journal of nuclear materials -- J. nucl. mater, CODEN JNUMAM, ISSN 0022-3115, Vol. 223 (1) , pp. 67-71",
+        "Thermodynamics of nuclear materials"
+    ],
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "29 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Actinide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diagramme phase"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métal transition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réacteur nucléaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Solubilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Uranium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Zirconium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Actinide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phase diagram"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transition metal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nuclear reactor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Solubility"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Uranium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Zirconium"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Actínido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diagrama fase"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metal transición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reactor nuclear"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Solubilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Uranio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Zirconio"
+        },
+        "001D06: Energie / Energy",
+        "001D06D04D: Centrales nucléaires à fission / Fission nuclear power plants"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3492324"
+}

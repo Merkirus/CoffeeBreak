@@ -1,0 +1,169 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Extremum seeking control of nonlinear systems with parametric uncertainties and state constraints",
+    "dc:creator": [
+        "DEHAAN, Darryl",
+        "GUAY, Martin"
+    ],
+    "dc:contributor": [
+        "American Automatic Control Council (Organiser of meeting)",
+        "American Institute of Aeronautics and Astronautics (Organiser of meeting)",
+        "International Federation of Automatic Control (Organiser of meeting)",
+        "American Control Conference (22 ; Boston MA 2004)"
+    ],
+    "dc:relation": "Proceedings of the 2004 American Control Conference ACC (June 30-July 2, 2004, Boston Massachusetts)",
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "American Automatic Control Council",
+        "IEEE"
+    ],
+    "dc:format": [
+        "print",
+        "6 p. ; 10 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Commande non linéaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrainte espace état"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fonction objectif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fonction valeur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode point intérieur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Problème extremum"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recherche extrémale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système incertain"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système paramétrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Valeur consigne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Classe état"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Non linear control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "State constraint"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Objective function"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Value function"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interior point method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Extremum problem"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Extreme search"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Uncertain system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Parametric system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Set point"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "State class"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Control no lineal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tensión espacio estado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Función objetivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Función valor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método punto interior"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Problema extremo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Investigación extremal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema incierto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema paramétrico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Valor consigna"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Clase estado"
+        },
+        "001D02D07: Synthèse des systèmes de commande / Control system synthesis"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18351487"
+}

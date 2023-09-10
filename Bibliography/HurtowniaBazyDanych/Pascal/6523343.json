@@ -1,0 +1,123 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Water monitoring system for oil contamination using polymer-coated quartz crystal microbalance chemical sensor",
+    "dc:creator": [
+        "UEYAMA, S",
+        "HIJIKATA, K",
+        "HIROTSUJI, J"
+    ],
+    "dc:contributor": [
+        "Olsson, G",
+        "Jeppsson, U",
+        "Rosen, C",
+        "IWA international conference on instrumentation, control and automation (1 ;  2001-06-03)"
+    ],
+    "dc:relation": [
+        "Water science and technology -- Water sci. technol, CODEN WSTED4, ISSN 0273-1223, pp. 175-180",
+        "ICA 2001 : instrumentation, control and automation 2001 (Malmö, 3-7 June 2001)"
+    ],
+    "dc:date": "2002",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "IWA",
+    "dc:format": [
+        "print",
+        "6 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Capteur chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Détection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Déversement pétrole"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eau surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Odeur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pollution eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Station eau potable"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical sensor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Detection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oil spill"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface water"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Odor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water pollution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Drinking water treatment plant"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Captador químico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Detección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Derramamiento petróleo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agua superficie"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Olor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contaminación agua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estación agua potable"
+        },
+        "001D16A02: Eaux potables, eaux de piscine, dessalement / Drinking water and swimming-pool water. Desalination",
+        "001D16A04C: Eaux continentales superficielles / Continental surface waters"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14052558"
+}

@@ -1,0 +1,127 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Estimating consumers' willingness to pay for individual quality attributes with DEA : Efficiency and productivity analysis in the 21st century",
+    "dc:creator": [
+        "LEE, J.-D",
+        "REPKINE, A",
+        "HWANG, S.-W",
+        "KIM, T.-Y"
+    ],
+    "dc:contributor": "2002 International DEA Symposium (Moscow 2002-06-24)",
+    "dc:relation": [
+        "The Journal of the Operational Research Society -- J. Oper. Res. Soc, CODEN JORSDZ, ISSN 0160-5682, Vol. 55 (10) , pp. 1064-1070",
+        "2002 International DEA Symposium (Moscow 2002-06-24)"
+    ],
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "Russian",
+    "dc:publisher": "Palgrave",
+    "dc:format": [
+        "print",
+        "7 p. ; 18 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse enveloppement donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Consommateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fixation prix"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fonction utilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prix marché"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Produit consommation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Consommation efficace"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fixation prix produit multiattribut"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Willingness to pay"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Data envelopment analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Consumer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pricing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Utility function"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Market price"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Consumer products"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DEA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "efficient consumption"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "multi-attribute product pricing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "willingness to pay"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis envolvimiento datos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Consumidor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fijación precios"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Función utilidad"
+        },
+        "001D01A03: Programmation mathématique / Mathematical programming",
+        "001D01A08: Théorie de la décision. Théorie de l'utilité / Decision theory. Utility theory"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16121259"
+}

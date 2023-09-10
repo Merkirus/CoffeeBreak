@@ -1,0 +1,99 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Kinetic analysis of photoreversible photochromic systems under continuous monochromatic irradiation from Abs. vs time curves",
+    "dc:creator": [
+        "PIMIENTA, V",
+        "MICHEAU, J. C"
+    ],
+    "dc:contributor": [
+        "IRIE, Masahiro (Editor)",
+        "Chemical Society of Japan (Funder/Sponsor)",
+        "Society of Polymer Science (Funder/Sponsor)",
+        "Japanese Photochemistry Association (Funder/Sponsor)",
+        "ISOP99 International Symposium on Organic Photochromism (3 ; Fukuoka 1999-11-14)"
+    ],
+    "dc:relation": [
+        "Molecular crystals and liquid crystals science and technology. Section A, Molecular crystals and liquid crystals -- Mol. cryst. liq. cryst. sci. technol., A Mol. cryst. liq. cryst, ISSN 1058-725X, Vol. 344, pp. 157-162",
+        "Proceedings of the 3rd International Symposium on Organic Photochromism: ISOP99. Part I of II"
+    ],
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Gordon and Breach",
+    "dc:format": [
+        "print",
+        "19 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude théorique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Paramètre cinétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Photochromisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réaction réversible"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Data analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Theoretical study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Kinetic parameter"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photochromism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reversible reaction"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis datos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio teórico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Parámetro cinético"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fotocromismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reacción reversible"
+        },
+        "001C01F01: Photochimie / Photochemistry",
+        "8250:  / Photochemistry and radiation chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 935281"
+}

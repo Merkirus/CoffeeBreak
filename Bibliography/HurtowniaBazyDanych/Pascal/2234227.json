@@ -1,0 +1,41 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "OBSERVATIONS OF SOUTHERN VARIABLE STARS R.A. 00HRS TO 06HRS. 1967 JULY 1... 1970 DECEMBER 31 J.D. 2,439, 673 ... 2,440,952",
+    "dc:creator": "BATESON FM",
+    "dc:date": "1970",
+    "dc:type": "Serial Issue",
+    "dc:language": "English",
+    "dc:format": "R. ASTR. SOC. NEW ZEAL., VAR. STAR SECT., CIRC.; NEW ZEAL.; DA. 1970; NO 186; PP. 1-14",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ETOILE VARIABLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MAGNITUDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CATALOGUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HEMISPHERE SUD"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ASTRONOMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ASTRONOMY"
+        },
+        "001E03: Astronomie / Astronomy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL731206858"
+}

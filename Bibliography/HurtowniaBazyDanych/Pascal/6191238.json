@@ -1,0 +1,131 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "O metodike issledovanij peščernyh stojanok Gruzii (Sakažia, Ortvala); Les méthodes d'étude des sites en grotte géorgiens (Sakažia, Ortvala)",
+    "dc:creator": "NIORADZE, M. G",
+    "dc:relation": "Kratkie Soobščenija (202) , pp. 77-80",
+    "dc:date": "1990",
+    "dc:type": [
+        "Text",
+        "Book Chapter"
+    ],
+    "dc:language": "Russian",
+    "dc:format": [
+        "print",
+        "Illustration"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Fouille"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grotte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Géologie et climatologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Géomorphologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mode de publication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthodologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Remplissage de grotte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Site"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Excavation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cave"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Geology and climatology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Geomorphology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Type of publication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Methodology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cave fill"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Site"
+        },
+        "525-12: Méthodologie et études générales / Methodology and general studies",
+        "525-17: Topographie, fouille et enregistrement / Topography, excavation and recording"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Géorgie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ortvala"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sakažia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "URSS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Moustérien"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Paléolithique moyen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Georgia (SUN)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "USSR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mousterian"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Middle Palaeolithic"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6560428"
+}

@@ -1,0 +1,262 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Water solubility, proton and oxygen diffusion in acceptor doped BaCeO3 : A single crystal analysis",
+    "dc:creator": [
+        "KREUER, K. D",
+        "DIPPEL, T",
+        "BAIKOV, Yu. M",
+        "MAIER, J"
+    ],
+    "dc:contributor": [
+        "CHOWDARI, B. V. R (Editor)",
+        "National University of Singapore ; Department of Physics (Funder/Sponsor)",
+        "Asian Society for Solid State Ionics (Funder/Sponsor)",
+        "SSI-10: International Conference on Solid State Ionics (10 ; Singapore 1995-12-03)"
+    ],
+    "dc:relation": [
+        "Solid state ionics -- Solid state ion, CODEN SSIOD3, ISSN 0167-2738, Vol. 86-88, pp. 613-620",
+        "Solid state ionics - 95. Part I"
+    ],
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "Russian",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "19 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé minéral"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lanthanide composé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Addition gadolinium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Addition yttrium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Autodiffusion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Baryum oxyde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Centre accepteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Champ impulsionnel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé ternaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Concentration impureté"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conductivité ionique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conductivité protonique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cérium oxyde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enthalpie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hydratation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interaction défaut cristallin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lacune"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau dopé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Monocristal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété thermodynamique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RMN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Solubilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traceur radioactif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ba Ce O"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BaCeO3:Gd Y"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inorganic compounds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rare earth compounds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gadolinium additions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Yttrium additions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Self-diffusion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Barium oxides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Acceptor center"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pulsed field"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ternary compounds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Impurity density"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ionic conductivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Proton conductivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cerium oxides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Enthalpy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hydration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Crystal defect interaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vacancies"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Doped materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Monocrystals"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermodynamic properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NMR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Solubility"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radioactive tracers"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Centro aceptor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Campo impulsional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Concentración impureza"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conductividad protónica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interacción defecto cristalino"
+        },
+        "001B60F30H: Autodiffusion et conduction ionique dans les non métaux / Self-diffusion and ionic conduction in nonmetals",
+        "001B70F60: Résonance et relaxation magnétiques nucléaires / Nuclear magnetic resonance and relaxation",
+        "6630H:  / Self-diffusion and ionic conduction in nonmetals",
+        "7660:  / Nuclear magnetic resonance and relaxation"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1595213"
+}

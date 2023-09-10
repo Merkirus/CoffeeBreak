@@ -1,0 +1,37 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DOPPELTE EIABLAGE EINER MILOS-RINGELNATTER (NATRIX NATRIX SCHWEIZERI); DOUBLE PONTE D'UNE COULEUVRE CAPTUREE A MILOS (CYCLADES), N.N.S.",
+    "dc:creator": "LOTZE H",
+    "dc:date": "1973",
+    "dc:type": "Serial Issue",
+    "dc:language": "German",
+    "dc:format": "SALAMANDRA; ALLEM.; DA. 1973; VOL. 8; NO 3-4; PP. 178-179; ABS. ANGL.; BIBL. 4 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "REPTILIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NATRIX NATRIX SCHWEIZERI"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PONTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REPRODUCTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE"
+        },
+        "002A14: Ecologie animale, vegetale et microbienne / Animal, plant and microbial ecology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7336014253"
+}

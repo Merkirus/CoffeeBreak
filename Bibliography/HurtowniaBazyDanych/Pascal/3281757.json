@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "TOLERANCE TO THE MYDRIATIC EFFECTS OF MORPHINE IN MICE",
+    "dc:creator": [
+        "ADLER C",
+        "KEREN O",
+        "KORCZYN AD"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. NEUR. TRANSM.; AUT; DA. 1980; VOL. 48; NO 1; PP. 43-47; BIBL. 4 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALGESIQUE NARCOTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TOLERANCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MYDRIASE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOURIS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RODENTIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MAMMALIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DEPRESSEUR SNC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MORPHINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHARMACOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NARCOTIC ANALGESIC"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TOLERANCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MYDRIASIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOUSE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RODENTIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MAMMALIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CENTRAL DEPRESSANT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHARMACOLOGY"
+        },
+        "002B02: Pharmacologie. Traitements medicamenteux / Pharmacology. Drug treatments"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8110002775"
+}

@@ -1,0 +1,93 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Context and attitude formation : social interaction, default information, or local interests ?",
+    "dc:creator": "CUTLER, F",
+    "dc:relation": "Political geography -- Polit. geogr, ISSN 0962-6298, Vol. 26 (5) , pp. 575-600",
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Butterworth-Heinemann",
+    "dc:format": [
+        "print",
+        "26 p. ; 2 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Attitude"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Comportement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interaction sociale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Opinion publique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Participation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Politique locale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Politique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Attitude"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Behaviour"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Social interaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public opinion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Participation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Local policy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Policy"
+        },
+        "531-: Bgi / Prodig / Bgi / Prodig",
+        "531-97: Géographie humaine / Human geography",
+        "531-127: Géographie politique et économique / Political and economic geography"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Canada"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Canada"
+        }
+    ],
+    "dc:rights": [
+        "Bibliographie Géographique Internationale - Pôle de Recherche pour l'Organisation et la Diffusion de l'Information Géographique (PRODIG)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 19223734"
+}

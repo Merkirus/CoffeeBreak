@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "RECONSTITUTION OF HYBRID TOXIN FROM FRAGMENT A OF DIPHTHERIA TOXIN AND A SUBUNIT OF WISTARIA FLORIBUNDA LECTIN",
+    "dc:creator": [
+        "UCHIDA T",
+        "YAMAIZUMI M",
+        "MEKADA E",
+        "OKADA Y",
+        "TSUDA M",
+        "KUROKAWA T",
+        "SUGINO Y"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. BIOL. CHEM.; USA; DA. 1978; VOL. 253; NO 18; PP. 6307-6310; BIBL. 17 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CORYNEBACTERIUM DIPHTHERIAE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TOXINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MECANISME ACTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TOXICITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROTEINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACTINOMYCETE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BACTERIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FRAGMENT A"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROBIOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CORYNEBACTERIUM DIPHTHERIAE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TOXIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MECHANISM OF ACTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TOXICITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PROTEINS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BACTERIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROBIOLOGY"
+        },
+        "002B05: Pathologie infectieuse / Infectious diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7950291233"
+}

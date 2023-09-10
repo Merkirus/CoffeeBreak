@@ -1,0 +1,259 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Exposure of human renal proximal tubular cells to glucose leads to accumulation of type IV collagen and fibronectin by decreased degradation",
+    "dc:creator": [
+        "PHILLIPS, A. O",
+        "STEADMAN, R",
+        "MORRISEY, K",
+        "MARTIN, J",
+        "EYNSTONE, L",
+        "WILLIAMS, J. D"
+    ],
+    "dc:contributor": [
+        "Renal Association (Funder/Sponsor)",
+        "The Renal Association (Cardiff, Wales 1997-03-24)"
+    ],
+    "dc:relation": [
+        "Kidney international -- Kidney int, CODEN KDYIA5, ISSN 0085-2538, Vol. 52 (4) , pp. 973-984",
+        "The Renal Association"
+    ],
+    "dc:date": "1997",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Nature Publishing",
+    "dc:format": [
+        "print",
+        "51 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil urinaire pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Endocrinopathie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rein pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cellule épithéliale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Culture cellulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diabète"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Espace interstitiel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fibronectine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fonction cellulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Glucose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lame basale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matrice extracellulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Néphropathie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathogénie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Physiopathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rein"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tube proximal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tube rénal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Collagène type IV"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Urinary system disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Endocrinopathy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Kidney disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Epithelial cell"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cell culture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diabetes mellitus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interstitial space"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fibronectin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cell function"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Glucose"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Basement membrane"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Extracellular matrix"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nephropathy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pathogenesis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pathophysiology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Kidney"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Proximal tube"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Renal tubule"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato urinario patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Endocrinopatía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Riñón patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Célula epitelial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cultivo celular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diabetes"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Espacio intersticial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fibronectina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Función celular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Glucosa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lámina basal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Matriz extracelular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nefropatía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Patogenia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fisiopatología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Riñón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tubo proximal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Túbulo renal"
+        },
+        "002B21E01B: Pathologies associées et complications / Associated diseases and complications"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2858968"
+}

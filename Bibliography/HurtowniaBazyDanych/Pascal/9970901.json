@@ -1,0 +1,258 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Life histories of Neocalanus flemingeri and Neocalanus plumchrus (Calanoida: Copepoda) in the western subarctic Pacific",
+    "dc:creator": [
+        "TSUDA, A",
+        "SAITO, H",
+        "KASAI, H"
+    ],
+    "dc:relation": "Marine biology (Berlin) -- Mar. biol. (Berl.), CODEN MBIOAJ, ISSN 0025-3162, Vol. 135 (3) , pp. 533-544",
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Springer",
+        "Springer"
+    ],
+    "dc:format": [
+        "print",
+        "27 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Arthropoda"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Calanoidea"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Copepoda"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Crustacea"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur milieu"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Invertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu marin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Abondance écologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Comparaison interspécifique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cycle évolutif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Espèce jumelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Migration verticale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Reproduction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Taille corporelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Variation saisonnière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Neocalanus flemingeri"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Neocalanus plumchrus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Arthropoda"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Calanoidea"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Copepoda"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Crustacea"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Environmental factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Invertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Marine environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ecological abundance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interspecific comparison"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Life history"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sibling species"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertical migration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reproduction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Body size"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Seasonal variation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arthropoda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Calanoidea"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Copepoda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Crustacea"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor medio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Invertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio marino"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Abundancia ecológica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Comparación interespecífica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ciclo evolutivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Especie gemela"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Migración vertical"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reproducción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Talla corporal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Variación estacional"
+        },
+        "002A14B03C1: Protozoa. Invertebrata / Protozoa. Invertebrata"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Océan Pacifique Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Océan Pacifique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Oyashio"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North Pacific"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pacific Ocean"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oyashio Current"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Océano Pacífico Norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Océano Pacífico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Oya Shío"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1203162"
+}

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>SAE 2010 : Statistique annuelle des Etablissements de Santé : aide au remplissage. Définitions - consignes</dc:title>
+  <dc:creator>Ministère chargé de la Santé. (M.S.S.P.S.). Direction de la Recherche des Etudes de l'Evaluation et des Statistiques. (D.R.E.E.). S Bureau des Etablissements de santé. Paris</dc:creator>
+  <dc:date>2010</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Book</dc:type>
+  <dc:language>French</dc:language>
+  <dc:publisher>DREES</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>180 p.</dc:format>
+  <dc:subject xml:lang="fr">Avortement provoqué</dc:subject>
+  <dc:subject xml:lang="fr">Brûlure</dc:subject>
+  <dc:subject xml:lang="fr">Cancérologie</dc:subject>
+  <dc:subject xml:lang="fr">Chirurgie</dc:subject>
+  <dc:subject xml:lang="fr">Classification</dc:subject>
+  <dc:subject xml:lang="fr">Coopération</dc:subject>
+  <dc:subject xml:lang="fr">Définition</dc:subject>
+  <dc:subject xml:lang="fr">Effectif</dc:subject>
+  <dc:subject xml:lang="fr">Enquête</dc:subject>
+  <dc:subject xml:lang="fr">Equipement biomédical</dc:subject>
+  <dc:subject xml:lang="fr">Gestion hospitalière</dc:subject>
+  <dc:subject xml:lang="fr">Hospitalisation</dc:subject>
+  <dc:subject xml:lang="fr">Hémodialyse</dc:subject>
+  <dc:subject xml:lang="fr">Hôpital</dc:subject>
+  <dc:subject xml:lang="fr">Indicateur économique</dc:subject>
+  <dc:subject xml:lang="fr">Indicateur</dc:subject>
+  <dc:subject xml:lang="fr">Logement collectif</dc:subject>
+  <dc:subject xml:lang="fr">Milieu hospitalier</dc:subject>
+  <dc:subject xml:lang="fr">Néonatologie</dc:subject>
+  <dc:subject xml:lang="fr">Obstétrique</dc:subject>
+  <dc:subject xml:lang="fr">Pathologie de l'appareil circulatoire</dc:subject>
+  <dc:subject xml:lang="fr">Pathologie du système nerveux</dc:subject>
+  <dc:subject xml:lang="fr">Personnel sanitaire</dc:subject>
+  <dc:subject xml:lang="fr">Personnel</dc:subject>
+  <dc:subject xml:lang="fr">Politique sanitaire</dc:subject>
+  <dc:subject xml:lang="fr">Questionnaire</dc:subject>
+  <dc:subject xml:lang="fr">Réadaptation physique</dc:subject>
+  <dc:subject xml:lang="fr">Réanimation</dc:subject>
+  <dc:subject xml:lang="fr">Service hospitalier</dc:subject>
+  <dc:subject xml:lang="fr">Soin intensif</dc:subject>
+  <dc:subject xml:lang="fr">Soin</dc:subject>
+  <dc:subject xml:lang="fr">Spécialité médicale</dc:subject>
+  <dc:subject xml:lang="fr">Système information</dc:subject>
+  <dc:subject xml:lang="fr">Urgence</dc:subject>
+  <dc:coverage xml:lang="fr">Europe</dc:coverage>
+  <dc:coverage xml:lang="fr">France</dc:coverage>
+  <dc:subject xml:lang="en">Induced abortion</dc:subject>
+  <dc:subject xml:lang="en">Burn</dc:subject>
+  <dc:subject xml:lang="en">Cancerology</dc:subject>
+  <dc:subject xml:lang="en">Surgery</dc:subject>
+  <dc:subject xml:lang="en">Classification</dc:subject>
+  <dc:subject xml:lang="en">Cooperation</dc:subject>
+  <dc:subject xml:lang="en">Definition</dc:subject>
+  <dc:subject xml:lang="en">Number of employees</dc:subject>
+  <dc:subject xml:lang="en">Survey</dc:subject>
+  <dc:subject xml:lang="en">Biomedical equipment</dc:subject>
+  <dc:subject xml:lang="en">Hospital management</dc:subject>
+  <dc:subject xml:lang="en">Hospitalization</dc:subject>
+  <dc:subject xml:lang="en">Hemodialysis</dc:subject>
+  <dc:subject xml:lang="en">Hospital</dc:subject>
+  <dc:subject xml:lang="en">Economic indicator</dc:subject>
+  <dc:subject xml:lang="en">Indicator</dc:subject>
+  <dc:subject xml:lang="en">Multi family dwelling</dc:subject>
+  <dc:subject xml:lang="en">Hospital environment</dc:subject>
+  <dc:subject xml:lang="en">Neonatology</dc:subject>
+  <dc:subject xml:lang="en">Obstetrics</dc:subject>
+  <dc:subject xml:lang="en">Cardiovascular disease</dc:subject>
+  <dc:subject xml:lang="en">Nervous system diseases</dc:subject>
+  <dc:subject xml:lang="en">Health staff</dc:subject>
+  <dc:subject xml:lang="en">Personnel</dc:subject>
+  <dc:subject xml:lang="en">Health policy</dc:subject>
+  <dc:subject xml:lang="en">Questionnaire</dc:subject>
+  <dc:subject xml:lang="en">Physical rehabilitation</dc:subject>
+  <dc:subject xml:lang="en">Resuscitation</dc:subject>
+  <dc:subject xml:lang="en">Hospital ward</dc:subject>
+  <dc:subject xml:lang="en">Intensive care</dc:subject>
+  <dc:subject xml:lang="en">Care</dc:subject>
+  <dc:subject xml:lang="en">Medical specialty</dc:subject>
+  <dc:subject xml:lang="en">Information system</dc:subject>
+  <dc:subject xml:lang="en">Emergency</dc:subject>
+  <dc:coverage xml:lang="en">Europe</dc:coverage>
+  <dc:coverage xml:lang="en">France</dc:coverage>
+  <dc:subject xml:lang="es">Aborto provocado</dc:subject>
+  <dc:subject xml:lang="es">Quemadura</dc:subject>
+  <dc:subject xml:lang="es">Cancerología</dc:subject>
+  <dc:subject xml:lang="es">Cirugía</dc:subject>
+  <dc:subject xml:lang="es">Clasificación</dc:subject>
+  <dc:subject xml:lang="es">Cooperación</dc:subject>
+  <dc:subject xml:lang="es">Definición</dc:subject>
+  <dc:subject xml:lang="es">Encuesta</dc:subject>
+  <dc:subject xml:lang="es">Equipo biomédico</dc:subject>
+  <dc:subject xml:lang="es">Administración hospitalaria</dc:subject>
+  <dc:subject xml:lang="es">Hospitalización</dc:subject>
+  <dc:subject xml:lang="es">Hemodiálisis</dc:subject>
+  <dc:subject xml:lang="es">Hospital</dc:subject>
+  <dc:subject xml:lang="es">Indicador</dc:subject>
+  <dc:subject xml:lang="es">Vivienda colectiva</dc:subject>
+  <dc:subject xml:lang="es">Medio hospitalario</dc:subject>
+  <dc:subject xml:lang="es">Neonatología</dc:subject>
+  <dc:subject xml:lang="es">Obstétrico</dc:subject>
+  <dc:subject xml:lang="es">Aparato circulatorio patología</dc:subject>
+  <dc:subject xml:lang="es">Sistema nervioso patología</dc:subject>
+  <dc:subject xml:lang="es">Personal sanitario</dc:subject>
+  <dc:subject xml:lang="es">Plantilla</dc:subject>
+  <dc:subject xml:lang="es">Política sanitaria</dc:subject>
+  <dc:subject xml:lang="es">Cuestionario</dc:subject>
+  <dc:subject xml:lang="es">Readaptación física</dc:subject>
+  <dc:subject xml:lang="es">Reanimación</dc:subject>
+  <dc:subject xml:lang="es">Servicio hospitalario</dc:subject>
+  <dc:subject xml:lang="es">Cuidado intensivo</dc:subject>
+  <dc:subject xml:lang="es">Cuidado</dc:subject>
+  <dc:subject xml:lang="es">Especialidad medical</dc:subject>
+  <dc:subject xml:lang="es">Sistema información</dc:subject>
+  <dc:subject xml:lang="es">Urgencia</dc:subject>
+  <dc:coverage xml:lang="es">Europa</dc:coverage>
+  <dc:coverage xml:lang="es">Francia</dc:coverage>
+  <dc:subject>002B30A11: Divers / Miscellaneous</dc:subject>
+  <dc:rights>Banque de données en santé publique - Ecole des hautes études en santé publique (BDSP)</dc:rights>
+  <dc:identifier>Inist-CNRS record number 25263788</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

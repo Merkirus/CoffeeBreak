@@ -1,0 +1,72 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "HIGHER-ORDER FINITE ELEMENT FOR COMPLEX PLATE STRUCTURES.",
+    "dc:creator": [
+        "BEAVERS JE",
+        "BEAUFAIT FW"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "PROC. AMER. SOC. CIV. ENGRS, J. STRUCT. DIV.; U.S.A.; DA. 1977; VOL. 103; NO 1; PP. 51-69; BIBL. 15 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "STRUCTURE ELASTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PLAQUE ELASTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COQUE PRISMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE ELEMENT FINI"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELEMENT FINI TRIANGULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PLAQUE PLIEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MECANIQUE SOLIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELASTIC STRUCTURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELASTIC PLATE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PRISMATIC SHELL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FINITE ELEMENT ANALYSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TRIANGULAR FINITE ELEMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID MECHANICS"
+        },
+        "001B: Physique / Physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7730302364"
+}

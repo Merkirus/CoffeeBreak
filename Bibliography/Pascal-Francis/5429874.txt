@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>A novel kite-cross-diamond search algorithm for fast video coding and videoconferencing applications</dc:title>
+  <dc:creator>LAM, Chi-Wai</dc:creator>
+  <dc:creator>PO, Lai-Man</dc:creator>
+  <dc:creator>CHUN HO CHEUNG</dc:creator>
+  <dc:contributor>Signal processing society (Organiser of meeting)</dc:contributor>
+  <dc:contributor>Institute of electrical and electronics engineers (Organiser of meeting)</dc:contributor>
+  <dc:contributor>ICASSP (29 ; Montreal PQ 2004-05-17)</dc:contributor>
+  <dc:relation>2004 IEEE International Conference on Acoustics, Speech, and Signal Processing (proceedings) -- 0ICASSP 2004</dc:relation>
+  <dc:date>2004</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Conference Paper</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>IEEE</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>vol III, 365-368 ; 7 ref</dc:format>
+  <dc:subject xml:lang="fr">Algorithme rapide</dc:subject>
+  <dc:subject xml:lang="fr">Algorithme recherche</dc:subject>
+  <dc:subject xml:lang="fr">Codage vidéo</dc:subject>
+  <dc:subject xml:lang="fr">Concordance forme</dc:subject>
+  <dc:subject xml:lang="fr">Correspondance bloc</dc:subject>
+  <dc:subject xml:lang="fr">Estimation mouvement</dc:subject>
+  <dc:subject xml:lang="fr">Extraction caractéristique</dc:subject>
+  <dc:subject xml:lang="fr">Précision</dc:subject>
+  <dc:subject xml:lang="fr">Reconnaissance forme</dc:subject>
+  <dc:subject xml:lang="fr">Simulation</dc:subject>
+  <dc:subject xml:lang="fr">Traitement image</dc:subject>
+  <dc:subject xml:lang="fr">Traitement signal vidéo</dc:subject>
+  <dc:subject xml:lang="fr">Traitement signal</dc:subject>
+  <dc:subject xml:lang="fr">Vidéoconférence</dc:subject>
+  <dc:subject xml:lang="fr">Recherche en diamant</dc:subject>
+  <dc:subject xml:lang="en">Fast algorithm</dc:subject>
+  <dc:subject xml:lang="en">Search algorithm</dc:subject>
+  <dc:subject xml:lang="en">Video coding</dc:subject>
+  <dc:subject xml:lang="en">Pattern matching</dc:subject>
+  <dc:subject xml:lang="en">Block matching</dc:subject>
+  <dc:subject xml:lang="en">Motion estimation</dc:subject>
+  <dc:subject xml:lang="en">Feature extraction</dc:subject>
+  <dc:subject xml:lang="en">Accuracy</dc:subject>
+  <dc:subject xml:lang="en">Pattern recognition</dc:subject>
+  <dc:subject xml:lang="en">Simulation</dc:subject>
+  <dc:subject xml:lang="en">Image processing</dc:subject>
+  <dc:subject xml:lang="en">Video signal processing</dc:subject>
+  <dc:subject xml:lang="en">Signal processing</dc:subject>
+  <dc:subject xml:lang="en">Videoconference</dc:subject>
+  <dc:subject xml:lang="en">Diamond search</dc:subject>
+  <dc:subject xml:lang="es">Algoritmo rápido</dc:subject>
+  <dc:subject xml:lang="es">Algoritmo búsqueda</dc:subject>
+  <dc:subject xml:lang="es">Correspondencia bloque</dc:subject>
+  <dc:subject xml:lang="es">Estimación movimiento</dc:subject>
+  <dc:subject xml:lang="es">Precisión</dc:subject>
+  <dc:subject xml:lang="es">Reconocimiento patrón</dc:subject>
+  <dc:subject xml:lang="es">Simulación</dc:subject>
+  <dc:subject xml:lang="es">Procesamiento imagen</dc:subject>
+  <dc:subject xml:lang="es">Procesamiento señal</dc:subject>
+  <dc:subject xml:lang="es">Videoconferencia</dc:subject>
+  <dc:subject>001D04A05A: Reconnaissance des formes / Pattern recognition</dc:subject>
+  <dc:subject>001D04A05C: Traitement des images / Image processing</dc:subject>
+  <dc:subject>001D04A05D: Divers / Miscellaneous</dc:subject>
+  <dc:subject>001D04B06C: Vidéocommunications (réseaux et services) / Videocommunications (networks and services)</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 17610378</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

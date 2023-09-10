@@ -1,0 +1,85 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "BEEINFLUSSUNG DER ARBEITSGENAUIGKEIT BEIM TIEFZIEHEN; INFLUENCING ACCURACY IN DEEP DRAWING",
+    "dc:creator": "SCHLOSSER D",
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "VDI-Z; DEU; DA. 1980-02; VOL. 123; NO 3; PP. 75-81; BIBL. 11 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "EMBOUTISSAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OUTILLAGE FORMAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONCEPTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EPAISSEUR PAROI"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRECISION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FORME GEOMETRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METAL PUR AL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALLIAGE2 CU:>50 ZN:30-50"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACIERNA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DEEP DRAWING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FORMING TOOL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DESIGN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WALL THICKNESS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PRECISION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOMETRICAL SHAPE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METALLURGY"
+        },
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8300171060"
+}

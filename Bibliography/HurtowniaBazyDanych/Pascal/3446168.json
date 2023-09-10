@@ -1,0 +1,125 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "FLOW AND HEAT TRANSFER OF A VISCOUS LIQUID BY PHASE TRANSITION; ECOULEMENT ET ECHANGE THERMIQUE D'UN LIQUIDE VISQUEUX DANS LE CAS DE TRANSITION DE PHASE",
+    "dc:creator": [
+        "OMEL'CHENKO KG",
+        "TRENEV MG"
+    ],
+    "dc:date": "1981",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "IZV. AKAD. NAUK SSSR, MEH. ZIDK. GAZA; ISSN 0568-5281; SUN; DA. 1981; NO 3; PP. 128-131; BIBL. 3 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSFERT CHALEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSITION PHASE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SUBLIMATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FUSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FLUIDE VISQUEUX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ECOULEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHANGEMENT ETAT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LIQUIDE VISQUEUX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE MATHEMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CALCUL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE COMPARATIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MECANIQUE FLUIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEAT TRANSFER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHASE TRANSITIONS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SUBLIMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VISCOUS FLUID"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FLOW"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHANGE OF STATE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VISCOUS LIQUID"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MATHEMATICAL ANALYSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METHODS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COMPARATIVE STUDY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FLUID MECHANICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY"
+        },
+        "001B: Physique / Physics",
+        "001D06: Energie / Energy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8130498643"
+}

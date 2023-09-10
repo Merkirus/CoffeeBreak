@@ -1,0 +1,251 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Laser satellite communications with adaptive optics",
+    "dc:creator": [
+        "TING, Chueh",
+        "VOELZ, David G",
+        "GILES, Michael K"
+    ],
+    "dc:contributor": [
+        "Voelz, David G (Editor)",
+        "Ricklin, Jennifer C (Editor)",
+        "Society of photo-optical instrumentation engineers (Organiser of meeting)",
+        "Free-space laser communications. Conference (5 ; San Diego CA 2005-07-31)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE-The international society of optical engineering, pp. 589213.1-589213.7",
+        "Free-space laser communications V (31 July-2 August 2005, San Diego, California, USA)"
+    ],
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "9 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Angle inclinaison"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Canal descendant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Canal montant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Correction erreur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation performance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Faisceau laser"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Liaison bidirectionnelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optique adaptative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propagation onde électromagnétique atmosphérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propagation onde électromagnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau télécommunication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spécification"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Turbulence atmosphérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Télécommunication optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Télécommunication par satellite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Télécommunication sans fil"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tilt angle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Downlink"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Uplink"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Error correction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Performance evaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laser beam"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bidirectional link"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adaptive optics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Atmospheric electromagnetic wave propagation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electromagnetic wave propagation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Telecommunication network"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Specification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Atmospheric turbulence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical telecommunication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Satellite telecommunication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wireless telecommunication"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Angulo inclinación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enlace descendente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enlace ascendente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Corrección error"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evaluación prestación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Haz láser"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Unión bidireccional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Optica adaptativa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red telecomunicación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simulación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Especificación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Turbulencia atmosférica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Telecomunicación óptica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Telecomunicación vía satélite"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Telecomunicación sin hilo"
+        },
+        "001D04B02G: Transmission et modulation (techniques et équipements) / Transmission and modulation (techniques and equipments)",
+        "001D04B04C2: Propagation dans l'atmosphère / Propagation through the atmosphere",
+        "001D04B08: Télécommunications optiques / Optical telecommunications",
+        "001D04B09: Télécommunications par satellite. Télécommunications spatiales / Satellite telecommunications. Space telecommunications"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17707532"
+}

@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "20e réunion du G.R.C.D. (Alicante, 14 septembre 1996); 20th meeting of G.R.C.D. (Alicante, September 14th, 1996)",
+    "dc:contributor": [
+        "Group of reflexion in dermatological surgery. 20th Meeting (Alicante 1996-09-14)",
+        "Groupe de réflexion en chirurgie dermatologique. Réunion (20 ; Alicante 1996-09-14)"
+    ],
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Conference Proceedings"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "40 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Chirurgie plastique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cicatrice"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cicatrisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Peau pathologie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plastic surgery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Scar"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cicatrization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Skin disease"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cirugía plástica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cicatriz"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cicatrización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Piel patología"
+        },
+        "002B: Sciences medicales / Medical sciences",
+        "002B01: Generalites / General aspects",
+        "002B25A: Chirurgie plastique cutanée / Skin plastic surgery",
+        "430A06E:  / Medicine"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 74767"
+}

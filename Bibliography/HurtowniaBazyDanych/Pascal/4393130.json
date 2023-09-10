@@ -1,0 +1,61 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "PRINCIPAUX DEFAUTS DE LA \"THEORIE SYNTHETIQUE DE L'EVOLUTION\"",
+    "dc:creator": "DAVITASHVILI L SH",
+    "dc:date": "1973",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "OBSHCH. VOPR. EVOL. PALEOBIOL.; S.S.S.R.; DA. 1973; VOL. 7; NO 2; PP. 93-99; ABS. GEORGIEN ANGL.; BIBL. 1/2 P.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "THEORIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EVOLUTION BIOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PALEONTOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THEORY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THEORETICAL STUDIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOLOGIC EVOLUTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PALEONTOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        "001E01Q: Paléontologie / Paleontology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALGEODEBRGM7720095532"
+}

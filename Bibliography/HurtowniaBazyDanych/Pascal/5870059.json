@@ -1,0 +1,175 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Un crapaud peut-il détecter un séisme ? 90 clés pour comprendre les séismes et tsunamis",
+    "dc:creator": [
+        "GELI, L",
+        "GELI, H"
+    ],
+    "dc:relation": "Collection Clés pour comprendre",
+    "dc:date": "2012",
+    "dc:type": [
+        "Text",
+        "Book"
+    ],
+    "dc:identifier": [
+        "ISBN 978-2-7592-1816-5",
+        "Inist-CNRS record number 26391277"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Editions Quae",
+    "dc:format": [
+        "print",
+        "175 p ; 1 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Catastrophe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enseignement de la géographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gestion du risque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Manuel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prévention"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prévision"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Risque naturel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Risque sismique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Séisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tsunami"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Date 2011"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sismologie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Catastrophe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Teaching of geography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Risk management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Textbook"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Preventive measure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Forecast"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Natural hazards"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Seismic hazard"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Earthquake"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tsunami"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Catástrofe"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enseñanza de la geografía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gestión del riesgo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Manual"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prevención"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Previsión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Riesgo natural"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Riesgo sísmico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Seísmo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tsunami"
+        },
+        "531-: Bgi / Prodig / Bgi / Prodig",
+        "531-1: Généralités / General",
+        "531-22: Enseignement. Pédagogie / Teaching and pedagogy of geography"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Japon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Japan"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Japón"
+        }
+    ],
+    "dc:rights": [
+        "Bibliographie Géographique Internationale - Pôle de Recherche pour l'Organisation et la Diffusion de l'Information Géographique (PRODIG)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

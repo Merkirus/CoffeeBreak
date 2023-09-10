@@ -1,0 +1,60 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The NEMESIS identification data fusion demonstrator. Discussion. Author's reply",
+    "dc:creator": [
+        "GRIFFITH, P. N",
+        "HOOPER, L. A",
+        "EVERITT, W. M"
+    ],
+    "dc:contributor": [
+        "DESBOIS, M (Commentator)",
+        "Sensor and propagation panel symposium (Lisbon 1997-09-29)"
+    ],
+    "dc:relation": [
+        "AGARD conference proceedings -- AGARD conf. proc, CODEN AGCPAV, ISSN 0549-7191",
+        "Multi-sensor systems and data fusion for telecommunications, remote sensing and radar (Lisbon, 29 September - 2 October 1997) -- Les systèmes multi-senseurs et le fusionnement des données pour les télécommunications, la télédétection et les radars"
+    ],
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "AGARD",
+    "dc:format": [
+        "print",
+        "32,1-32,7 ; 1 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Détection cible"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fusion donnée"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Target detection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Data fusion"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Detección blanco"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fusión datos"
+        },
+        "001B00G05K: Analyse de données: algorithmes et implémentations; gestion de données / Data analysis: algorithms and implementation; data management"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2287327"
+}

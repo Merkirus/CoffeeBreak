@@ -1,0 +1,65 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Frobenius distributions for real quadratic orders",
+    "dc:creator": "STEVENHAGEN, P",
+    "dc:contributor": "Journées Arithmétiques (18 ; Bordeaux 1993-09-13)",
+    "dc:relation": [
+        "Journal de théorie des nombres de Bordeaux -- J. théor. nr. Bordx, ISSN 1246-7405, Vol. 7 (1) , pp. 121-132",
+        "Journées Arithmétiques"
+    ],
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Université de Bordeaux 1, laboratoire de mathématiques pures",
+    "dc:format": [
+        "print",
+        "12 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Théorie nombre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Corps quadratique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Equation Pell"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Unité quadratique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Number theory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quadratic field"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pell equation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quadratic unit"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Teoría números"
+        },
+        "001A02C02: Théorie des nombres / Number theory"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3115710"
+}

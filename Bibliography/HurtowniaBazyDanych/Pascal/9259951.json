@@ -1,0 +1,123 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Revue méthodologique de quelques techniques spécifiques à l'analyse des séries temporelles en épidémiologie et santé publique; Methodological review of time series modeling in epidemiology and public health",
+    "dc:creator": "WATIER, L",
+    "dc:relation": "Revue d'épidémiologie et de santé publique -- Rev. épidémiol. santé publique -- Epidemiology and public health, ISSN 0398-7620, Vol. 43 (2) , pp. 162-172",
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Masson",
+    "dc:format": [
+        "print",
+        "41 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Epidémiologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Indicateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode Box Jenkins"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthodologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé publique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Série temporelle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Epidemiology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Indicator"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Statistical model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Box Jenkins method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Statistical method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Methodology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Time series"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Epidemiología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Indicador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo estadístico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método Box Jenkins"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método estadístico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metodología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud pública"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Serie temporal"
+        },
+        "002B30: Sante publique. Hygiene-medecine du travail / Public health. Hygiene-occupational medicine",
+        "002B30A01: Généralités / General aspects",
+        "002B30A01A1: Méthodologie / Methodology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3462312"
+}

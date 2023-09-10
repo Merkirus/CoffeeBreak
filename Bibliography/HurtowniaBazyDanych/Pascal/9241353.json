@@ -1,0 +1,95 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The Kiss of Death? The Effect of Being Cited in a Review on Subsequent Citations",
+    "dc:creator": [
+        "LACHANCE, Christian",
+        "POIRIER, Steve",
+        "LARIVIERE, Vincent"
+    ],
+    "dc:relation": "Journal of the Association for Information Science and Technology (Print) -- J. assoc. inf. sci. technol. (Print), ISSN 2330-1635, Vol. 65 (7) , pp. 1501-1505",
+    "dc:date": "2014",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Wiley",
+    "dc:format": [
+        "print",
+        "5 p. ; 1/4 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse citation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Citation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Domaine recherche"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude comparative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recherche scientifique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCI (Science Citation Index)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Citation analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Citation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Research field"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Scientific research"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis citas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Citación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Campo investigación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio comparativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Investigación científica"
+        },
+        "001A01A02: Bibliométrie. Scientométrie. Evaluation / Bibliometrics. Scientometrics. Evaluation",
+        "790-B: Sciences de l'information et des bibliothèques. Etude d'ensemble / Library and information science. General aspects",
+        "790-B02: Bibliométrie. Scientométrie / Bibliometrics. Scientometrics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 28572433"
+}

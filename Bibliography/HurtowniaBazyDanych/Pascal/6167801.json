@@ -1,0 +1,60 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Connaissances, attitudes et comportements de la population suisse et tessinoise face au SIDA",
+    "dc:creator": [
+        "VILLARET, M",
+        "DOMENIGHETTI, G"
+    ],
+    "dc:relation": "Les Cahiers médico-sociaux -- Cah. méd.-soc, ISSN 0409-8757, Vol. 35 (4) , pp. 325-332",
+    "dc:date": "1991",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Editions Médecine et hygiène",
+    "dc:format": [
+        "print",
+        "Illustration ; 5 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Attitude"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Comportement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunodéficit acquis syndrome"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Public"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Attitude"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Behavior"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Actitud"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conducta"
+        },
+        "002B30A11: Divers / Miscellaneous"
+    ],
+    "dc:rights": [
+        "Banque de données en santé publique - Ecole des hautes études en santé publique (BDSP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6432078"
+}

@@ -1,0 +1,75 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Data translation between taxonomies",
+    "dc:creator": [
+        "SARDI MERGEN, Sérgio Luis",
+        "HEUSER, Carlos Alberto"
+    ],
+    "dc:contributor": [
+        "Dubois, Eric (Editor)",
+        "Pohl, Klaus (Editor)",
+        "CAiSE 2006 (18 ; Luxembourg 2006)"
+    ],
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 111-124",
+        "Advanced information systems engineering (18th international conference, CAiSE 2006, Luxembourg, Luxembourg, June 5-9, 2006)"
+    ],
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Springer",
+        "Springer"
+    ],
+    "dc:format": [
+        "print",
+        "14 p. ; 18 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Système information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Systématique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Utilisation information"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Taxonomy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information use"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistemática"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Uso información"
+        },
+        "001D02B07D: Systèmes d'information. Bases de données / Information systems. Data bases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 19687835"
+}

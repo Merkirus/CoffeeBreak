@@ -1,0 +1,117 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A boundary element formulation using higher order curvilinear edge elements",
+    "dc:creator": [
+        "HUBER, C. J",
+        "RIEGER, W",
+        "HAAS, M",
+        "RUCKER, W. M"
+    ],
+    "dc:contributor": [
+        "IDA, Nathan (Editor)",
+        "IEEE ; South Brazil Section (Funder/Sponsor)",
+        "Escola Politecnica da Universidade de Sao Paulo (Funder/Sponsor)",
+        "Universidade Federal de Minas Gerais (Funder/Sponsor)",
+        "Universidade Federal de Santa Catarina (Funder/Sponsor)",
+        "Universidade Santa Cecilia (Funder/Sponsor)",
+        "International Compumag Society (Funder/Sponsor)",
+        "Sociedade Brasileira de Eletromagnetismo (Funder/Sponsor)",
+        "COMPUMAG '97: Conference on the Computation of Electromagnetic Fields (11 ; Rio de Janeiro 1997-11-03)"
+    ],
+    "dc:relation": [
+        "IEEE transactions on magnetics -- IEEE trans. magn, CODEN IEMGAQ, ISSN 0018-9464, Vol. 34 (5) , pp. 2441-2444",
+        "COMPUMAG '97: Conference on the Computation of Electromagnetic Fields"
+    ],
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institute of Electrical and Electronics Engineers",
+    "dc:format": [
+        "print",
+        "7 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Champ magnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Champ tridimensionnel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contour"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Equation singulière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude théorique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Magnétostatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode Galerkin Petrov"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode élément frontière"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetic fields"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Three dimensional field"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Contours"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Singular equation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Theoretical study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetostatics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Galerkin-Petrov method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Boundary element method"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Campo tridimensional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ecuación singular"
+        },
+        "001B40A20G: Magnétostatique; blindage magnétique, induction magnétique, problèmes aux valeurs limites / Magnetostatics; magnetic shielding, magnetic induction, boundary-value problems",
+        "4120G:  / Magnetostatics; magnetic shielding, magnetic induction, boundary-value problems"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1612224"
+}

@@ -1,0 +1,60 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A TWO DIMENSIONAL COMPUTER ANALYSIS OF TRIODE-LIKE CHARACTERISTICS OF SHORT-CHANNEL MOSFET'S",
+    "dc:creator": [
+        "LUONG MO DANG",
+        "KONAKA M"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "IEEE TRANS. ELECTRON. DEVICES; ISSN 0018-9383; USA; DA. 1980; VOL. 27; NO 8; PP. 1533-1539; BIBL. 14 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSISTOR EFFET CHAMP"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSISTOR MOS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SIMULATION NUMERIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MODELE 2 DIMENSIONS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FIELD EFFECT TRANSISTOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOS TRANSISTOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIGITAL SIMULATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TWO-DIMENSIONAL MODELS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONICS"
+        },
+        "001D03: Electronique / Electronics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8130135016"
+}

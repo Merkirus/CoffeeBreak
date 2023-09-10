@@ -1,0 +1,37 @@
+[
+    {
+        "position": 0,
+        "title": "Activation of protein kinase C by tumor necrosis factor-\u03b1 in human non-pigmented ciliary epithelium",
+        "result_id": "sN_7gPbArrUJ",
+        "link": "https://www.liebertpub.com/doi/abs/10.1089/jop.1998.14.401",
+        "snippet": "Previously, we have shown that tumor necrosis factor-\u03b1 (TNF-\u03b1), a proinflammatory cytokine, increases the synthesis and release of endothelin-1 (ET-1), a potent vasoactive peptide from human non-pigmented ciliary epithelial (HNPE) cells, in a protein kinase C (PKC)-dependent manner. Diacylglycerol (DAG) and intracellular calcium ([Ca2+] i) are well known activators of PKC. Some cytokines induce PKC activation by stimulating phospholipase C that hydrolyzes phosphatidylinositol bisphosphate (PIP2) into IP3 (intracellular calcium \u2026",
+        "publication_info": {
+            "summary": "G Prasanna, A Dibas, K Brown\u2026 - Journal of ocular \u2026, 1998 - liebertpub.com",
+            "authors": [
+                {
+                    "name": "K Brown",
+                    "link": "https://scholar.google.com/citations?user=T0rMKegAAAAJ&hl=en&oi=sra",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=T0rMKegAAAAJ&engine=google_scholar_author&hl=en",
+                    "author_id": "T0rMKegAAAAJ"
+                }
+            ]
+        },
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=sN_7gPbArrUJ",
+            "cited_by": {
+                "total": 16,
+                "link": "https://scholar.google.com/scholar?cites=13091613331771088816&as_sdt=4000005&sciodt=0,18&hl=en",
+                "cites_id": "13091613331771088816",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=4000005&cites=13091613331771088816&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:sN_7gPbArrUJ:scholar.google.com/&scioq=Activation+of+protein+kinase+C+by+tumor+necrosis+factor-%C3%8E%C2%B1+in+human+non-pigmented+ciliary+epithelium&hl=en&as_sdt=0,18",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C18&engine=google_scholar&hl=en&q=related%3AsN_7gPbArrUJ%3Ascholar.google.com%2F",
+            "versions": {
+                "total": 6,
+                "link": "https://scholar.google.com/scholar?cluster=13091613331771088816&hl=en&as_sdt=0,18",
+                "cluster_id": "13091613331771088816",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C18&cluster=13091613331771088816&engine=google_scholar&hl=en"
+            }
+        }
+    }
+]

@@ -1,0 +1,306 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Les perturbateurs endocriniens, le temps de la précaution",
+    "dc:contributor": "BARBIER, Gilbert (Reporter/Secretary)",
+    "dc:creator": "Office Parlementaire d'Evaluation des Choix Scientifiques et Technologiques. (O.P.E.C.S.T.). Assemblée Nationale. Sénat. Paris",
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Report"
+    ],
+    "dc:identifier": [
+        "REPORTNUMBER RP",
+        "Inist-CNRS record number 24780233"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Sénat",
+    "dc:format": [
+        "print",
+        "131 p. ; dissem"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Cancer"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse risque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Carcinogène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chimiothérapie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Glande endocrine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hormone"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pollution eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pollution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Problème"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Produit chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recommandation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Reproduction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Risque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réglementation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé et environnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Toxicologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Toxique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tumeur maligne"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cancer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Risk analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Carcinogen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemotherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical compound"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Endocrine gland"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hormone"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water pollution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pollution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Problem"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical product"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Recommendation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reproduction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Risk"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Regulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Health and environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Toxicology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Poison"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Malignant tumor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cáncer"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis riesgo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carcinógeno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Quimioterapia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Compuesto químico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Glándula endocrina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hormona"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contaminación agua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polución"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Problema"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Producto químico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Recomendación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reproducción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Riesgo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reglamentación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud y medio ambiente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Toxicología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tóxico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tumor maligno"
+        },
+        "002B30A01: Généralités / General aspects"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francia"
+        }
+    ],
+    "dc:rights": [
+        "Banque de données en santé publique - Ecole des hautes études en santé publique (BDSP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

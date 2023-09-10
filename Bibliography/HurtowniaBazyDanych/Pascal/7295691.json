@@ -1,0 +1,196 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Practical phase control technique for alternating phase shift mask fabrication",
+    "dc:creator": [
+        "TAKAHASHI, Miho",
+        "MIYAKE, Akihiro",
+        "SAITOU, Hidetaka",
+        "MIYASHITA, Hiroyuki",
+        "MURAI, Shiaki"
+    ],
+    "dc:contributor": [
+        "Morimoto, Hiroaki (Editor)",
+        "International Society for Optical Engineering (Organiser of meeting)",
+        "Photomask and next-generation lithography mask technology. Conference (7 ; Yokohama 2000-04-12)"
+    ],
+    "dc:relation": [
+        "SPIE proceedings series -- SPIE proc. ser, pp. 394-400",
+        "Photomask and next-generation lithography mask technology VII (Yokohama, 12-13 April 2000)"
+    ],
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "5 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Attaque chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Commande phase"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Déphasage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gravure ionique réactive"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Masque photographique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mesure phase"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mélange gaz"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode pas à pas"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plaque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Procédé voie humide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Quartz"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement en ligne"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical etching"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phase control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phase shift"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reactive ion etching"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photographic mask"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phase measurement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gas mixture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Step by step method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plate"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wet process"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quartz"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "On line processing"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ataque químico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Control fase"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Defasaje"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Grabado iónico reactivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Máscara fotográfica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medida fase"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mezcla gas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método paso a paso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Placa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Procedimiento vía húmeda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuarzo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento en línea"
+        },
+        "001D03F17: Fabrication microélectronique (technologie des matériaux et des surfaces) / Microelectronic fabrication (materials and surfaces technology)",
+        "8540H:  / Lithography, masks and pattern transfer"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 782041"
+}

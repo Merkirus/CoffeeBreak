@@ -1,0 +1,81 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ON THE GAIN SPECTRUM OF HIGHLY EXCITED GAAS",
+    "dc:creator": [
+        "SCHMITT RINK S",
+        "TRAN THOAI DB",
+        "HAUG H"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "SOLID STATE COMMUN.; ISSN 0038-1098; USA; DA. 1980; VOL. 36; NO 4; PP. 381-382; BIBL. 7 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "LASER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FONCTION DIELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PLASMA ELECTRON TROU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTENSITE EXCITATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PLASMA SOLIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REPONSE DIELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GALLIUM ARSENIURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE SOLIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LASER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIELECTRIC FUNCTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRON HOLE PLASMA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXCITATION INTENSITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID STATE PLASMA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIELECTRIC RESPONSE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID PHYSICS"
+        },
+        "001B60: Etat condense: structure, proprietes mecaniques et thermiques / Condensed matter: structure, mechanical and thermal properties"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8130432702"
+}

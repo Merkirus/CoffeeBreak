@@ -1,0 +1,64 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Modélisation du contact-frottement dans la simulation numérique de l'emboutissage des tôles; Unilateral contact and friction modelling for numerical simulation of deep-drawing",
+    "dc:creator": "Mehrez, Fayçal",
+    "dc:contributor": [
+        "Jean, Michel (Advisor (for a thesis or dissertation))",
+        "Université de Paris 06 (Degree-grantor)"
+    ],
+    "dc:date": "1991",
+    "dc:type": [
+        "Text",
+        "Thesis"
+    ],
+    "dc:identifier": [
+        "NNT 91 PA06 6238",
+        "Inist-CNRS record number 147090"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "199 p. ; 58 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Contact"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Coulomb"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Emboutissage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Frottement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grande-transformation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Point-selle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pénalisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation"
+        },
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy",
+        "001D11C04: Formage / Forming",
+        "430A11F:  / Metallurgy; metallography"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

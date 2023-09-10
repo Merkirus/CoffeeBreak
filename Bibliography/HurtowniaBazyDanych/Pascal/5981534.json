@@ -1,0 +1,114 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "1998 SID International Symposium",
+    "dc:contributor": [
+        "SOBEL, Alan (Editor)",
+        "1998 SID International Symposium (Anaheim, California 1998-05)"
+    ],
+    "dc:relation": "Journal of the Society for Information Display -- J. Soc. Inf. Disp, ISSN 1071-0922, Vol. 6 (4) , pp. 199-260",
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Proceedings"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Society for Information Display",
+    "dc:format": [
+        "print",
+        "dissem"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Affichage polychrome"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Criblage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cristal liquide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecran plat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Reproduction couleur"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Color display"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Screening"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Liquid crystals"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Flat screen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical material"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Color reproduction"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Visualización policromo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cernido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cristal líquido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pantalla plana"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Material óptico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reproducción color"
+        },
+        "001B40B60D: Résonateurs, cavités, amplificateurs, réseaux et anneaux / Resonators, cavities, amplifiers, arrays, and rings",
+        "001B40B79K: Dispositifs d'affichage, dispositifs à cristaux liquides / Display devices, liquid-crystal devices",
+        "001D03H: Affichage / Display"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 352658"
+}

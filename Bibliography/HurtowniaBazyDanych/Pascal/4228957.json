@@ -1,0 +1,49 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "FONCTIONS DE CIRCUIT DE QUADRUPOLES OPTOELECTRONIQUES",
+    "dc:creator": [
+        "KRETULIS VS",
+        "OLEKSENKO PF",
+        "SOROKIN VM"
+    ],
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "POLUPROVODN. TEKH. MIKROELEKTRON., U.S.S.R.; S.S.S.R.; DA. 1974; NO 16; PP. 89-95; BIBL. 2 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DISPOSITIF OPTOELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DISPOSITIF ETAT SOLIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONVERSION SIGNAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROMAGNETISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROMAGNETISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONICS"
+        },
+        "001D03: Electronique / Electronics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7530018868"
+}

@@ -1,0 +1,120 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Erythema toxicum neonatorum",
+    "dc:creator": [
+        "SCHWARTZ, R. A",
+        "JANNIGER, C. K"
+    ],
+    "dc:contributor": [
+        "JANNIGER, Camila K (Editor)",
+        "SCHWARTZ, Robert A (Editor)"
+    ],
+    "dc:relation": "Cutis (New York, NY) -- Cutis (N.Y. NY), CODEN CUTIBC, ISSN 0011-4162, Vol. 58 (2) , pp. 153-155",
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Quadrant HealthCom",
+    "dc:format": [
+        "print",
+        "33 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Peau pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diagnostic différentiel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Erythème"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etiologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nouveau né pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nouveau né"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Erythema toxicum neonatorum"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Skin disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Differential diagnostic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Erythema"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Etiology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Newborn diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Newborn"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Piel patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diagnóstico diferencial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Eritema"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Etiología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Recién nacido patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Recién nacido"
+        },
+        "002B27B11: Réanimation néonatale et infantile. Prématurité. Mort subite / Emergency and intensive care: neonates and children. Prematurity. Sudden death"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3194307"
+}

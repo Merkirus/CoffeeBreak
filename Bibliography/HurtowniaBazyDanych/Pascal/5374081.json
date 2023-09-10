@@ -1,0 +1,155 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A comparison between B- and n-irradiation on MgB2 bulk samples",
+    "dc:creator": [
+        "OKAYASU, Satoru",
+        "SATAKA, Masao",
+        "IKEDA, Hiroshi",
+        "YOSHIZAKI, Ryozo"
+    ],
+    "dc:contributor": [
+        "KISHIO, Kohji (Editor)",
+        "SHIOHARA, Yuh (Editor)",
+        "International Superconductivity Technology Center (ISTEC) (Organiser of meeting)",
+        "ISS 2004 International Symposium on Superconductivity (17 ; Niigata 2004-11-23)"
+    ],
+    "dc:relation": [
+        "Physica. C. Superconductivity -- Phys., C Supercond, ISSN 0921-4534, Vol. 426-31, pp. 360-363",
+        "Proceedings of the 17th International Symposium on Superconductivity (ISS 2004): Advances in superconductivity XVII, Niigata, Japan, November 23-25, 2004. Part I"
+    ],
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "4 p. ; 8 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet rayonnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Endommagement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Faisceau ion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Faisceau neutron"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Formation défaut"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Magnésium borure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Supraconducteur haute température"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Supraconductivité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Surface Fermi"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transition supraconductrice"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "7462D"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MgB2"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiation effects"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Damage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ion beams"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neutron beams"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Defect formation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnesium borides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High-Tc superconductors"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Superconductivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fermi surface"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Superconducting transitions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "74.60.Ge"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "74.60.Jg"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "74.70.Ad MgB2"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fermi surface"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High energy ion irradiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neutron irradiation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Formación defecto"
+        },
+        "001B70D62D: Effets des défauts cristallins, du dopage et de la substitution / Effects of crystal defects, doping and substitution"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17185351"
+}

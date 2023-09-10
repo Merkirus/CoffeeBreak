@@ -1,0 +1,208 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Improving quality and performance of schema matching in large scale",
+    "dc:creator": [
+        "DUCHATEAU, Fabien",
+        "BELLAHSENE, Zohra",
+        "ROCHE, Mathieu"
+    ],
+    "dc:contributor": [
+        "BOUCELMA, Omar (Editor)",
+        "HACID, Mohand-Said (Editor)",
+        "LIBOUREL, Thérèse (Editor)",
+        "PETIT, Jean-Marc (Editor)",
+        "Journées Bases de Données Avancées (BDA 2007) (23 ; Marseille 2007-10-23)"
+    ],
+    "dc:relation": [
+        "Ingénierie des systèmes d'information (2001) -- Ing. syst. inf. (2001), ISSN 1633-1311, Vol. 13 (5) , pp. 59-82",
+        "Modèles et langages pour les bases de données"
+    ],
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Lavoisier",
+    "dc:format": [
+        "print",
+        "24 p. ; 1 p.1/2"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Base donnée fédérée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Déploiement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Indexation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Médiation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode arborescente"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Orienté aspect"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure arborescente"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système grande taille"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sémantique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Terminologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tâche appariement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Federated database"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Unfolding"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Indexing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mediation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tree structured method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aspect oriented"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tree structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Large scale system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Semantics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Terminology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Matching task"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "B-tree index structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BMatch"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "node context"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "schema matching"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "semantic similarity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "terminological and structural measures"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Base dato federada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Despliegue"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Indización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mediación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método arborescente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Orientado aspecto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estructura arborescente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema gran escala"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Semántica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Terminología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tarea apareamiento"
+        },
+        "001D02B04: Systèmes informatiques et systèmes répartis. Interface utilisateur / Computer systems and distributed systems. User interface",
+        "001D02B07D: Systèmes d'information. Bases de données / Information systems. Data bases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20959161"
+}

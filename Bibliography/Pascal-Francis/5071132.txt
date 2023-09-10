@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Physiological tradeoffs in the parameterization of a model of canopy transpiration</dc:title>
+  <dc:creator>MACKAY, D. S</dc:creator>
+  <dc:creator>AHL, D. E</dc:creator>
+  <dc:creator>EWERS, B. E</dc:creator>
+  <dc:creator>SAMANTA, S</dc:creator>
+  <dc:creator>GOWER, S. T</dc:creator>
+  <dc:creator>BURROWS, S. N</dc:creator>
+  <dc:contributor>TROCH, Peter A (Editor)</dc:contributor>
+  <dc:contributor>PANICONI, Claudio (Editor)</dc:contributor>
+  <dc:contributor>MCLAUGHLIN, Dennis (Editor)</dc:contributor>
+  <dc:contributor>Catchment-scale Hydrologic Modeling and Data Assimilation (CAHMDA). Meeting (Wageningen 2001-09-03)</dc:contributor>
+  <dc:relation>Advances in water resources -- Adv. water resour, CODEN AWREDI, ISSN 0309-1708, Vol. 26 (2) , pp. 179-194</dc:relation>
+  <dc:relation>Catchment-scale Hyrologic Modeling and Data Assimilation</dc:relation>
+  <dc:date>2003</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Conference Paper</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>Elsevier Science</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>16 p. ; 78 ref</dc:format>
+  <dc:subject xml:lang="fr">Amérique du Nord</dc:subject>
+  <dc:subject xml:lang="fr">Arbre</dc:subject>
+  <dc:subject xml:lang="fr">Dynamique</dc:subject>
+  <dc:subject xml:lang="fr">Ecosystème</dc:subject>
+  <dc:subject xml:lang="fr">Evapotranspiration</dc:subject>
+  <dc:subject xml:lang="fr">Feuille</dc:subject>
+  <dc:subject xml:lang="fr">Forêt</dc:subject>
+  <dc:subject xml:lang="fr">Modèle</dc:subject>
+  <dc:subject xml:lang="fr">Météorologie</dc:subject>
+  <dc:subject xml:lang="fr">Pression hydraulique</dc:subject>
+  <dc:subject xml:lang="fr">Prévision</dc:subject>
+  <dc:subject xml:lang="fr">Réglementation</dc:subject>
+  <dc:subject xml:lang="fr">Simulation</dc:subject>
+  <dc:subject xml:lang="fr">Stratégie</dc:subject>
+  <dc:subject xml:lang="fr">Théorie</dc:subject>
+  <dc:subject xml:lang="fr">Variation spatiale</dc:subject>
+  <dc:subject xml:lang="fr">Végétation</dc:subject>
+  <dc:subject xml:lang="fr">Zone humide</dc:subject>
+  <dc:subject xml:lang="fr">Canopée</dc:subject>
+  <dc:subject xml:lang="fr">Conductance</dc:subject>
+  <dc:subject xml:lang="fr">Flux eau</dc:subject>
+  <dc:subject xml:lang="fr">Micrométéorologie</dc:subject>
+  <dc:subject xml:lang="fr">Paramétrisation</dc:subject>
+  <dc:subject xml:lang="fr">Transpiration</dc:subject>
+  <dc:coverage xml:lang="fr">Etats Unis</dc:coverage>
+  <dc:coverage xml:lang="fr">Wisconsin</dc:coverage>
+  <dc:subject xml:lang="en">North America</dc:subject>
+  <dc:subject xml:lang="en">trees</dc:subject>
+  <dc:subject xml:lang="en">dynamics</dc:subject>
+  <dc:subject xml:lang="en">ecosystems</dc:subject>
+  <dc:subject xml:lang="en">evapotranspiration</dc:subject>
+  <dc:subject xml:lang="en">leaves</dc:subject>
+  <dc:subject xml:lang="en">forests</dc:subject>
+  <dc:subject xml:lang="en">models</dc:subject>
+  <dc:subject xml:lang="en">meteorology</dc:subject>
+  <dc:subject xml:lang="en">hydraulic pressure</dc:subject>
+  <dc:subject xml:lang="en">prediction</dc:subject>
+  <dc:subject xml:lang="en">regulations</dc:subject>
+  <dc:subject xml:lang="en">simulation</dc:subject>
+  <dc:subject xml:lang="en">strategy</dc:subject>
+  <dc:subject xml:lang="en">theory</dc:subject>
+  <dc:subject xml:lang="en">spatial variations</dc:subject>
+  <dc:subject xml:lang="en">vegetation</dc:subject>
+  <dc:subject xml:lang="en">wetlands</dc:subject>
+  <dc:subject xml:lang="en">Canopy conductance</dc:subject>
+  <dc:subject xml:lang="en">Canopy transpiration</dc:subject>
+  <dc:subject xml:lang="en">Forest water fluxes</dc:subject>
+  <dc:subject xml:lang="en">Land surface process modeling</dc:subject>
+  <dc:subject xml:lang="en">Parameter estimation</dc:subject>
+  <dc:subject xml:lang="en">TREES</dc:subject>
+  <dc:coverage xml:lang="en">United States</dc:coverage>
+  <dc:coverage xml:lang="en">Wisconsin</dc:coverage>
+  <dc:subject xml:lang="es">America del norte</dc:subject>
+  <dc:subject xml:lang="es">Dinámica</dc:subject>
+  <dc:subject xml:lang="es">Ecosistema</dc:subject>
+  <dc:subject xml:lang="es">Evapotranspiración</dc:subject>
+  <dc:subject xml:lang="es">Hoja</dc:subject>
+  <dc:subject xml:lang="es">Bosque</dc:subject>
+  <dc:subject xml:lang="es">Modelo</dc:subject>
+  <dc:subject xml:lang="es">Meteorología</dc:subject>
+  <dc:subject xml:lang="es">Presión hidraúlica</dc:subject>
+  <dc:subject xml:lang="es">Previsión</dc:subject>
+  <dc:subject xml:lang="es">Simulación</dc:subject>
+  <dc:subject xml:lang="es">Estrategia</dc:subject>
+  <dc:subject xml:lang="es">Teoría</dc:subject>
+  <dc:subject xml:lang="es">Variación espacial</dc:subject>
+  <dc:subject xml:lang="es">Vegetación</dc:subject>
+  <dc:subject xml:lang="es">Terreno húmedo</dc:subject>
+  <dc:coverage xml:lang="es">Estados Unidos</dc:coverage>
+  <dc:coverage xml:lang="es">Wisconsín</dc:coverage>
+  <dc:subject>001E01N01: Hydrologie / Hydrology</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 14441078</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

@@ -1,0 +1,61 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "PREVISION A TRES LONG TERME DU NIVEAU DE LA MER D'ARAL",
+    "dc:creator": "SMIRNOVA KI",
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "GIDROMETEOROL. NAUCH.-ISSLEDOVAT. CENTR S.S.S.R., TRUDY; S.S.S.R.; DA. 1976; NO 164; PP. 38-44; BIBL. 11 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PREVISION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NIVEAU MARIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MER D'ARAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LONG TERME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OCEANOGRAPHIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FORECASTING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PREDICTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SEA LEVEL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ARAL SEA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LONG TERM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OCEANOGRAPHY"
+        },
+        "001E02F: Géophysique. Techniques, méthodes, appareillage et modèles / Geophysics. Techniques, methods, instrumentation and models"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7730079946"
+}

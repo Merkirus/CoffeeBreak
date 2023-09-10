@@ -1,0 +1,174 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Demanda y costos de atención médica según edad y sexo en los asegurados del centro de asistencia del sindicato médico del Uruguay",
+    "dc:creator": [
+        "MEERHOFF, R",
+        "RIGOLI, F"
+    ],
+    "dc:relation": "Boletín de la Oficina sanitaria panamericana -- Bol. Of. sanit. panam, CODEN BOSPA8, ISSN 0030-0632, Vol. 112 (4) , pp. 306-318",
+    "dc:date": "1992",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "Spanish, Castilian",
+    "dc:publisher": "Organización panamericana de la salud",
+    "dc:format": [
+        "print",
+        "8 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Age"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse coût"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Demande"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé publique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sexe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Soin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système santé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Utilisation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Age"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cost analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Demand"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sex"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Care"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Health system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Use"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Edad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis costo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Petición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud pública"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sexo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuidado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema salud"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Utilización"
+        },
+        "002B30A: Santé publique. Hygiène / Public health. Hygiene"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Sud"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Uruguay"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "South America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Uruguay"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del sur"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Uruguay"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4323564"
+}

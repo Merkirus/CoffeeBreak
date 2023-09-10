@@ -1,0 +1,304 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Separation of amino acids and amines by capillary electrophoresis using poly(ethylene oxide) solution containing cetyltrimethylammonium bromide",
+    "dc:creator": [
+        "CHEN, Chuan-Kuo",
+        "LIU, Kung-Tien",
+        "CHIU, Tai-Chia",
+        "CHANG, Huan-Tsung"
+    ],
+    "dc:contributor": [
+        "OTSUKA, Koji (Editor)",
+        "TANAKA, Nobuo (Editor)",
+        "Society for Chromatographic Sciences (Organiser of meeting)",
+        "International Symposium on High Performance Liquid Phase Separations and Related Techniques (HPLC2008) (33 ; Kyoto 2008-12-02)"
+    ],
+    "dc:relation": [
+        "Journal of chromatography -- J. chromatogr, CODEN JOCRAM, ISSN 0021-9673, Vol. 1216 (44) , pp. 7576-7581",
+        "THE 33RD INTERNATIONAL SYMPOSIUM ON HIGH PERFORMANCE LIQUID PHASE SEPARATIONS AND RELATED TECHNIQUES: Kyoto, Japan, 2-5 December 2008"
+    ],
+    "dc:date": "2009",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "6 p. ; 35 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Acétonitrile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Agent surface cationique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Alkylamine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amine biogène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse quantitative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chromatographie MECC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composition phase"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diode électroluminescente"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dérivatisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Détecteur fluorescence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ethylène oxyde polymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Histamine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Marquage fluorescent"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mobilité électrophorétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Validation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "α-Aminoacide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ammonium(hexadécyl triméthyl) bromure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Naphtalène-2,3-dicarbaldéhyde"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Acetonitrile"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cationic surfactant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Alkylamine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biogenic amine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Amine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quantitative analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Beer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Micellar electrokinetic capillary chromatography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phase composition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Light emitting diode"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Derivatization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fluorescence detector"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ethylene oxide polymer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Histamine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fluorescent labelling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrophoretic mobility"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Validation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "α-Aminoacid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Acetonitrile"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Amines"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Amino acids"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cetyltrimethylammonium bromide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Light-emitting diode-induced fluorescence detection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Micellar electrokinetic chromatography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Poly(ethylene oxide)"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acetonitrilo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agente superficie catiónico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alquilamina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Amina biógena"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Amina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis químico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis cuantitativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cerveza"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cromatografía MECC"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Composición fase"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diodo electroluminescente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Derivatisación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Detector fluorescencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Etileno óxido polímero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Histamina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Marcación fluorescente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Movilidad electroforética"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Validación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "α-Aminoácido"
+        },
+        "001C04B02: Autres méthodes chromatographiques / Other chromatographic methods",
+        "002A35C04: Bières / Beers"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 22207622"
+}

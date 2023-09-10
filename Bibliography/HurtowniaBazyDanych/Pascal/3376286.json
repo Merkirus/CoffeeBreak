@@ -1,0 +1,116 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "VARIABLE FREQUENCY STARTING EQUIPMENT FOR PUMPED STORAGE PROJECTS",
+    "dc:creator": [
+        "HENRIKSEN HM",
+        "BRUECKL H"
+    ],
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "IEEE TRANS. POWER APPAR. SYST.; ISSN 0018-9510; USA; DA. 1982; VOL. 101; NO 9; PP. 3206-3209; BIBL. 2 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CENTRALE ELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CENTRALE HYDROELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CENTRALE ACCUMULATION POMPAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GROUPE TURBINE GENERATEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MACHINE REVERSIBLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DEMARRAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMMANDE FREQUENCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MACHINE SYNCHRONE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENERATEUR ELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONCEPTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROMAGNETISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROTECHNIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POWER PLANT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HYDROELECTRIC POWER PLANT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PUMPED STORAGE STATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TURBOGENERATOR SET"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REVERSIBLE MACHINE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STARTING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FREQUENCY CONTROL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SYNCHRONOUS MACHINE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRIC GENERATOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DESIGN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROMAGNETISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRICAL ENGINEERING"
+        },
+        "001D05: Electrotechnique. Electroenergetique / Electrical engineering. Electrical power engineering"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0157488"
+}

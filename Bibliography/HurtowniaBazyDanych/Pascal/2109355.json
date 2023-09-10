@@ -1,0 +1,260 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "MIXED PYRIDINE COMPLEXES OF 2-AMINO-5-PHENYL-1,3,4-THIADIAZOLE WITH COPPER(II), NICKEL(II), COBALT(II), ZINC(II) AND CADMIUM(II) SULPHATES",
+    "dc:creator": [
+        "SINGH NB",
+        "SINGH J"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. INORG. NUCL. CHEM.; GBR; DA. 1979; VOL. 41; NO 9; PP. 1384-1385; BIBL. 13 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "COORDINAT ORGANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PREPARATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTRE IR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPRIETE PHYSIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPRIETE MAGNETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METAL DIVALENT COMPLEXE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METAL TRANSITION COMPLEXE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPLEXE CATIONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPLEXE MIXTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HETEROCYCLE AZOTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CYCLE 6 CHAINONS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HETEROCYCLE SOUFRE AZOTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CYCLE 5 CHAINONS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CUIVRE II COMPLEXE!FIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NICKEL II COMPLEXE!FIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COBALT II COMPLEXE!FIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ZINC II COMPLEXE!FIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CUIVRE COMPOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NICKEL COMPOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COBALT COMPOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ZINC COMPOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CADMIUM COMPOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPLEXE METALLIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COORDINAT HETEROCYCLE AZOTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COORDINAT HETEROCYCLE SOUFRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STRUCTURE MOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE IR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETAT SOLIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOLUTION CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CADMIUM II COMPLEXE!FIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PYRIDINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "THIADIAZOLE-1,3,4(AMINO-2 PHENYL-5)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACIDE THIOCARBAMOHYDRAZONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ZINC COMPLEXE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CADMIUM COMPLEXE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE MINERALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORGANIC LIGAND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PREPARATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFRARED SPECTRA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHYSICAL PROPERTIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MAGNETIC PROPERTIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CATIONIC COMPLEX"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NITROGEN HETEROCYCLE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SIX MEMBERED RING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SULFUR NITROGEN HETEROCYCLE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FIVE MEMBERED RING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COPPER COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NICKEL COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COBALT COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ZINC COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CADMIUM COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOLECULAR STRUCTURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFRARED SPECTROMETRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFRARED SPECTROSCOPY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID STATE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL SOLUTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PYRIDINE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ZINC COMPLEX"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CADMIUM COMPLEX"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INORGANIC CHEMISTRY"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8060098042"
+}

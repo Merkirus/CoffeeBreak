@@ -1,0 +1,149 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Person Features and Pronominal Anaphora",
+    "dc:creator": [
+        "DELFITTO, Denis",
+        "FIORIN, Gaetano"
+    ],
+    "dc:relation": "Linguistic inquiry -- Linguist. inq, ISSN 0024-3892, Vol. 42 (2) , pp. 193-224",
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "MIT Press",
+    "dc:format": [
+        "print",
+        "32 p. ; 2 p.1/2"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Anaphore pronominale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Condition de vérité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Logique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Logophore"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Philosophie du langage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Première personne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pronom"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rôle theta"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Syntaxe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sémantique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Indexicalité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Périphérie gauche"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pronominal anaphora"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Truth condition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Logic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Logophora"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Philosophy of language"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "First person"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pronoun"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Theta-role"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Syntax"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Semantics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Left periphery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "6-identification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "attitudes de se"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "first person"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "indexicality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "left periphery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "logophoricity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "pronominal anaphora"
+        },
+        "524-: Sciences du langage / Linguistics",
+        "524-43: Philosophie du langage et logique / Philosophy of language. Logic"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 24117589"
+}

@@ -1,0 +1,73 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "CHOICE OF SOLVENT FOR THE STUDY OF INTERACTION OF IODINE WITH DEGRADATION PRODUCTS OF MOTOR LUBRICANTS; CHOIX DU SOLVANT POUR L'ETUDE DE L'INTERACTION DE L'IODE AVEC LES PRODUITS DE DEGRADATION DES LUBRIFIANTS POUR MOTEURS",
+    "dc:creator": [
+        "ASHKINAZI LA",
+        "RAVDEL AA",
+        "SLOBODIN YA M"
+    ],
+    "dc:date": "1981",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "Z. PRIKL. HIM.; ISSN 0044-4618; SUN; DA. 1981; VOL. 54; NO 7; PP. 1625-1626; BIBL. 7 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "LUBRIFIANT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPRIETE PHYSICOCHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTERACTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IODE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOLVANT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRODUIT DEGRADATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LUBRICANT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHYSICOCHEMICAL PROPERTIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTERACTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IODINE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLVENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY"
+        },
+        "001D06: Energie / Energy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL82X0039713"
+}

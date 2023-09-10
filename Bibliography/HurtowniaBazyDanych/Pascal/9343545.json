@@ -1,0 +1,305 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Comparative genomic hybridisation in mentally retarded patients with dysmorphic features and a normal karyotype",
+    "dc:creator": [
+        "JOLY, G",
+        "LAPIERRE, J-M",
+        "ROMANA, S. P",
+        "VEKEMANS, M",
+        "TURLEAU, C",
+        "OZILOU, C",
+        "GOSSET, P",
+        "AURIAS, A",
+        "DE BLOIS, M-C",
+        "PRIEURE, M",
+        "RAOUL, O",
+        "COLLEAUX, L",
+        "MUNNICH, A"
+    ],
+    "dc:relation": "Clinical genetics -- Clin. genet, CODEN CLGNAY, ISSN 0009-9163, Vol. 60 (3) , pp. 212-219",
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Blackwell",
+    "dc:format": [
+        "print",
+        "33 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Déficience intellectuelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble développement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Anomalie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Arriération mentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Caryotype"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chromosome"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Congénital"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Criblage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cytogénétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dépistage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Détection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etalon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Multiple"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Norme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Région"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Segmentaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sonde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Terminal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Voie abord"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Intellectual deficiency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Developmental disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Anomaly"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mental retardation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Karyotype"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chromosome"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Congenital"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Screening"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cytogenetics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Medical screening"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Detection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Standard"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multiple"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Standards"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Region"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Segmental"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Probe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Technique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Terminal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surgical approach"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Deficiencia intelectual"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno desarrollo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anomalía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Retraso mental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cariotipo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cromosoma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Congénito"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cernido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Citogenética"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Descubrimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Detección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Marco"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Múltiple"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Norma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Región"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Segmentario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sonda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Técnica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Terminal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vía abordaje"
+        },
+        "002B18C12: Déficience intellectuelle / Intellectual deficiency",
+        "770-: Psychologie. Psychanalyse. Psychiatrie / Psychology. Psychoanalysis. Psychiatry",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14147377"
+}

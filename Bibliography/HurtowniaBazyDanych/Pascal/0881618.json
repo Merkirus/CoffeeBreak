@@ -1,0 +1,93 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "APPLICATION OF COMPARISON THEOREMS TO CONTROLLER TUNING FOR NONLINEAR SYSTEMS",
+    "dc:creator": [
+        "DECUIR D",
+        "GROVES FR JR"
+    ],
+    "dc:date": "1981",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "ISA TRANS.; ISSN 0019-0578; USA; DA. 1981; VOL. 20; NO 3; PP. 31-41; BIBL. 3 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "SYSTEME NON LINEAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMMANDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REGLAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REGULATEUR P"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REACTEUR AGITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AUTOMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATHEMATIQUES APPLIQUEES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENIE CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUSTRIE CHIMIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NON LINEAR SYSTEM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONTROL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ADJUSTMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PROPORTIONAL REGULATOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MIXED TANK REACTOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONTROL THEORY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "APPLIED MATHEMATICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL ENGINEERING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL INDUSTRY"
+        },
+        "001A02: Mathematiques / Mathematics",
+        "001D07: Genie chimique / Chemical engineering"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL82X0234235"
+}

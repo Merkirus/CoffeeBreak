@@ -1,0 +1,111 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Nanoscale patterning by focused ion beam enhanced etching for optoelectronic device fabrication",
+    "dc:creator": [
+        "RENNON, S",
+        "BACH, L",
+        "KÖNIG, H",
+        "REITHMAIER, J. P",
+        "FORCHEL, A",
+        "GENTNER, J. L",
+        "GOLDSTEIN, L"
+    ],
+    "dc:contributor": [
+        "FORTAGNE, Olaf (Editor)",
+        "KERN, Dieter P (Editor)",
+        "BEHRINGER, Uwe (Editor)",
+        "MNE 2000 Micro- and Nano-Engineering. International Conference (26 ; Jena 2000-09-18)"
+    ],
+    "dc:relation": [
+        "Microelectronic engineering -- Microelectron. eng, CODEN MIENEF, ISSN 0167-9317, Vol. 57-58, pp. 891-896",
+        "Micro- and Nano-Engineering 2000 MNE. Proceedings of the 26th International Conference on Micro- and Nano-Engineering, September 18-21, 2000"
+    ],
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "12 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Dispositif optoélectronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fabrication microélectronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Formation motif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lithographie faisceau ionique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nanostructure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technologie faisceau ion focalisé"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optoelectronic device"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microelectronic fabrication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Patterning"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ion beam lithography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nanostructure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Focused ion beam technology"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dispositivo optoelectrónico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fabricación microeléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Formacíon motivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Litografía haz iónico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nanoestructura"
+        },
+        "001D03F15: Dispositifs optoélectroniques / Optoelectronic devices",
+        "001D03F17: Fabrication microélectronique (technologie des matériaux et des surfaces) / Microelectronic fabrication (materials and surfaces technology)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1140346"
+}

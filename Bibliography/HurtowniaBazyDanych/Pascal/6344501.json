@@ -1,0 +1,231 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Aseismic ridge subduction beneath the Luzon Arc and its consequences",
+    "dc:creator": [
+        "TSAN-YAO F. YANG",
+        "TYPHOON LEE",
+        "CHENG-HONG CHEN",
+        "SHIH-NAN CHENG",
+        "PUNONGBAYAN, R. S"
+    ],
+    "dc:contributor": [
+        "National Science Council of the R.O.C (Funder/Sponsor)",
+        "National Science Foundation of the U.S.A (Funder/Sponsor)",
+        "American Geophysical Union (Funder/Sponsor)",
+        "Sino-American symposium on the subduction and collision in Taiwan and Northern Luzon (San Francisco CA 1992)"
+    ],
+    "dc:relation": [
+        "Yánjiū bàogào - Guólì Táiwān dàxué. Lǐxuéyuàn dìzhìxué xì -- Yánjiū bàogào - Guólì Táiwān dàxué. Lǐxuéyuàn dìzhìxué xì -- Acta geologica taiwanica, CODEN SRTUAW, ISSN 0065-1265 (30) , pp. 157-162",
+        "Sino-American symposium on the subduction and collision in Taiwan and Northern Luzon"
+    ],
+    "dc:date": "1992",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Guólì Táiwān dàxué. Lǐxuéyuàn dìzhìxué xì",
+    "dc:format": [
+        "print",
+        "Illustration ; 1 p.1/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Arc insulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Carte structurale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cénozoïque sup"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dorsale asismique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Géodynamique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ile Luzon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Magmatisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stratovolcan"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Subduction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Collision arc continent"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mont sous marin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Subduction oblique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "island arcs"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "tectonic maps"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "upper Cenozoic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "aseismic ridges"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "geodynamics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Luzon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "igneous activity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "models"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "stratovolcanoes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "subduction"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arco insular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mapa tectónico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dorsal asísmica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Geodinámica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Isla Luzon"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Magmatismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estratovolcán"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Subducción"
+        },
+        "001E01F01: Pétrologie des roches ignées et métamorphiques, phénomènes volcaniques, magmas / Igneous and metamorphic rocks petrology, volcanic processes, magmas",
+        "001E01L: Tectonique. Géologie structurale. Tectonique des plaques / Tectonics. Structural geology. Plate tectonics"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Asie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Océan Pacifique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pacifique Ouest"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mer de Chine Sud"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Philippines"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pacific Ocean"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "West Pacific"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "South China Sea"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Philippine Islands"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Océano Pacífico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pacífico Oeste"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mar de China sur"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Filipinas"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3883068"
+}

@@ -1,0 +1,92 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "COMPARATIVE TESTING OF LEAKY COAXIAL CABLES FOR COMMUNICATIONS AND GUIDED RADAR",
+    "dc:creator": [
+        "GALE DJ",
+        "BEAL JC"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "IEEE TRANS. MICROWAVE THEORY TECH.; ISSN 0018-9480; USA; DA. 1980; VOL. 28; NO 9; PP. 1007-1013; BIBL. 20 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CABLE TELECOMMUNICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CABLE COAXIAL FUITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ESSAI"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ESSAI LABORATOIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TELECOMMUNICATION PAR CABLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RADAR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RADIOLOCALISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TELECOMMUNICATIONS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TELECOMMUNICATION CABLE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LEAKAGE COAXIAL CABLE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TEST"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LABORATORY STUDIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CABLE TELECOMMUNICATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RADAR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RADIOLOCALISATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TELECOMMUNICATIONS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONICS"
+        },
+        "001D03: Electronique / Electronics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8130164603"
+}

@@ -1,0 +1,43 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "El misionero lascasiano Pío Aza Martínez de Vega, o.p. (1865-1938); The missionary Pio Aza Martinez of Vega, O.P. (1865-1938)",
+    "dc:creator": "BARRADO BARQUILLA, José",
+    "dc:relation": "Studium (Madrid) -- Studium (Madr.), ISSN 0585-766X, Vol. 43 (1) , pp. 189-218",
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "Spanish, Castilian",
+    "dc:publisher": "Institutos Pontificios de Teología y de Filosofía",
+    "dc:format": [
+        "print",
+        "30 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Missionnaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Las Casas (B. de)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pio Aza"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Missionary"
+        },
+        "527-: Histoire et sciences des religions / History and sciences of religions",
+        "527-865: Christianisme / Christianity",
+        "527-1272: Missions / Missions"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14740338"
+}

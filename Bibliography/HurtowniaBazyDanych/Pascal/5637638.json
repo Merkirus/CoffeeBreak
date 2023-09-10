@@ -1,0 +1,108 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Le plan national canicule : version 2007",
+    "dc:creator": "Ministère de la santé de la jeunesse et des sports. Paris",
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Book"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Ministère de la santé, de la jeunesse et des sports",
+    "dc:format": [
+        "print",
+        "102 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Campagne de masse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Information public"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prévention"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Risque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Surveillance sanitaire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mass campaign"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public information"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prevention"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Risk"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Network"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sanitary surveillance"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Campaña de población"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Información pública"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prevención"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Riesgo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vigilancia sanitaria"
+        },
+        "002B30A11: Divers / Miscellaneous"
+    ],
+    "dc:rights": [
+        "Banque de données en santé publique - Ecole des hautes études en santé publique (BDSP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 19685031"
+}

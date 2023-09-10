@@ -1,0 +1,117 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "L'HEPATOTOMOGRAPHIE PAR VOIE INTRAVEINEUSE. TECHNIQUE ET RESULTATS",
+    "dc:creator": [
+        "DROUILLARD J",
+        "SABRIE C",
+        "BRUNETON JN",
+        "ELIE F",
+        "GERMAIN T",
+        "BOEDEC R",
+        "ERESUE J"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "BORDEAUX MED.; FRA; DA. 1979; VOL. 12; NO 10; PP. 647-652; ABS. ENG; BIBL. 23 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TUMEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FOIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "KYSTE HYDATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TOMOGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VOIE INTRAVEINEUSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HEPATOGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EXPLORATION RADIOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PARASITOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FOIE VOIE BILIAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PATHOLOGIE DIGESTIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GASTROENTEROLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TUMOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIVER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HYDATID CYST"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TOMOGRAPHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTRAVENOUS ADMINISTRATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEPATOGRAPHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RADIOLOGIC INVESTIGATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PARASITOSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEPATOBILIARY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GASTROENTEROLOGY"
+        },
+        "002B13: Gastroenterologie. Foie. Pancreas. Abdomen / Gastroenterology. Liver. Pancreas. Abdomen"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7950338716"
+}

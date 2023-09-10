@@ -1,0 +1,76 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "MAFFUCCI'S SYNDROME",
+    "dc:creator": [
+        "CHEN VT",
+        "HARRISON DA"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "HAND; GBR; DA. 1978; VOL. 10; NO 3; PP. 292-298; BIBL. 7 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ANGIOCHONDROMATOSE MAFFUCCI"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RADIOGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OSTEOPATHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANGIOME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PATHOLOGIE OSTEOARTICULAIRE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MAFFUCI SYNDROME"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RADIOGRAPHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BONE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BONE DISEASE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANGIOMA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BONE AND JOINT DISEASES"
+        },
+        "002B15: Pathologie osteoarticulaire / Diseases of the osteoarticular system"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7950155019"
+}

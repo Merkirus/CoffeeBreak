@@ -1,0 +1,100 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ACCURATE CALCULATIONS OF FIELD-REVERSED AXISYMMETRY EQUILIBRIA AND THEIR MHD STABILITY PROPERTIES",
+    "dc:creator": [
+        "ANDERSON DV",
+        "BARNES DC"
+    ],
+    "dc:date": "1981",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. COMPUT. PHYS.; ISSN 0021-9991; USA; DA. 1981; VOL. 42; NO 2; PP. 288-308; BIBL. 26 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CONFIGURATION MAGNETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONFIGURATION CHAMP INVERSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SYMETRIE AXIALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EQUILIBRE PLASMA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INSTABILITE PLASMA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INSTABILITE FLUIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CALCUL VARIATIONNEL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRINCIPE ENERGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE ELEMENT FINI"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPLINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MODELE MATHEMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INSTABILITE MHD"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STRICTION THETA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DISPOSITIF FRX-B"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE DES PLASMAS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VARIATIONAL CALCULUS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FINITE ELEMENT METHOD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SPLINE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MATHEMATICAL MODEL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PLASMA PHYSICS"
+        },
+        "001B30: Physique atomique et moleculaire / Atomic and molecular physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL82X0024628"
+}

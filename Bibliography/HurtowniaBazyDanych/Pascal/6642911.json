@@ -1,0 +1,214 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Correlating Microscale Thermal Conductivity of Heavily-Doped Silicon With Simultaneous Measurements of Stress",
+    "dc:creator": [
+        "MING GAN",
+        "TOMAR, Vikas"
+    ],
+    "dc:contributor": [
+        "SAHA, Mrinal C (Author of introductory parts)",
+        "ALTAN, M. Cengiz (Author of introductory parts)",
+        "American Society of Mechanical Engineers (ASME) (Organiser of meeting)",
+        "The ASME International Mechanical Engineering Congress and Exposition (IMECE) (Vancouver 2010-11-12)"
+    ],
+    "dc:relation": [
+        "Journal of engineering materials and technology -- J. eng. mater. technol, CODEN JEMTA8, ISSN 0094-4289, Vol. 133 (4)",
+        "Recent Advances in Micro, Nano and Cellular Composite Materials"
+    ],
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "American Society of Mechanical Engineers",
+    "dc:format": [
+        "print",
+        "041013.1-041013.5 ; 38 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Champ température"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conductivité thermique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dispositif expérimental"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dopage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Déplacement déformation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai compression"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mesure contrainte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mesure simultanée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microscopie force atomique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microstructure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Monocristal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nanoindentation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Semiconducteur fortement dopé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Silicium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement thermique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Si"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Temperature distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermal conductivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental device"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Doping"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Displacement(deformation)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Compressive testing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stress measurement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Simultaneous measurement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Atomic force microscopy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microstructure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Monocrystals"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measuring methods"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nanoindentation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heavily doped semiconductors"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Silicon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heat treatments"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fourier's law"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RTD sensor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "micro/nano-scale"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "silicon structures"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "stress/strain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "thermal conductivity measurement"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dispositivo experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Doping"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desplazamiento deformación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medición simultánea"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nanoindentacion"
+        },
+        "001B60B20F: Déformation et plasticité (incluant limite élastique, ductilité et superplasticité) / Deformation and plasticity (including yield, ductility, and superplasticity)",
+        "001B60F70: Conduction thermique non électronique et propagation des impulsions de chaleur dans les solides; ondes thermiques / Nonelectronic thermal conduction and heat-pulse propagation in solids; thermal waves"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 25344456"
+}

@@ -1,0 +1,61 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SWIMMING IN THE CENTIPEDE SCOLOPENDRA SUBSPINIPES LEACH (CHILOPODA SCOLOPENDROMORPHA)",
+    "dc:creator": "LEWIS JGE",
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "ENTOMOL. MON. MAG.; ISSN 0013-8908; GBR; DA. 1980; VOL. 116; NO 1392-1395; PP. 121-122; BIBL. 1 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CHILOPODA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MYRIAPODA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INVERTEBRATA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LOCOMOTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCOLOPENDRA SUBSPINIPES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHILOPODA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SWIMMING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MYRIAPODA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INVERTEBRATA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LOCOMOTION"
+        },
+        "002A32: Agronomie. Sciences du sol et productions vegetales / Agronomy. Soil science and plant productions"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALZOOLINEINRA8110174483"
+}

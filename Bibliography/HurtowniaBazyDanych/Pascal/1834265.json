@@ -1,0 +1,69 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "INFILTRATION DURING AN UNSTEADY RAIN.",
+    "dc:creator": "SHU TUNG CHU",
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "WAT. RESOURCES RES.; USA; DA. 1978; VOL. 14; NO 8; PP. 461-466; BIBL. 12 REF.; 1 ILL.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "INFILTRATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRECIPITATION ATMOSPHERIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EQUATION MATHEMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EQ DE GREEN ET AMPT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HYDROLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFILTRATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ATMOSPHERIC PRECIPITATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EQUATIONS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HYDROLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        "001E01N: Hydrologie. Hydrogéologie / Hydrology. Hydrogeology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALGEODEBRGM7920027649"
+}

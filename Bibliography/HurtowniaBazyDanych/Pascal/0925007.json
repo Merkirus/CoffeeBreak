@@ -1,0 +1,48 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "AXIAL FLOW FANS FOR THE PREVENTION OF FURNAGE IMPLOSION DAMAGE.; VENTILATEURS A ECOULEMENT AXIAL POUR LA PREVENTION DES DOMMAGES PAR IMPLOSION AUX CHAMBRES DE COMBUSTION",
+    "dc:creator": [
+        "SMOAK RA",
+        "LANSING EG"
+    ],
+    "dc:date": "sd",
+    "dc:type": "Conference Paper",
+    "dc:language": "English",
+    "dc:format": "IN: POWER PLANT DYN., CONTROL TEST. SYMP. 2. PROC.; KNOXVILLE, TENN.; 1975; KNOXVILLE; UNIV. TENNESSE; DA. S.D.; PP. 9.1-9.13",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CHAUDIERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IMPLOSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PREVENTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VENTILATEUR AXIAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TYPE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY"
+        },
+        "001D06: Energie / Energy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7670281991"
+}

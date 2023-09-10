@@ -1,0 +1,112 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE EFFECT OF SEASONALLY VARYING INSOLATION ON A SIMPLE ALBEDO-FEEDBACK MODEL.",
+    "dc:creator": [
+        "SUAREZ MJ",
+        "HELD IM"
+    ],
+    "dc:date": "1975",
+    "dc:type": "Conference Paper",
+    "dc:language": "English",
+    "dc:format": "IN: WMO-IAMAP SYMP. LONG-TERM CLIM. FLUCTUATIONS; 1975; GENEVA; SECR. WORLD METEOROL. ORG.; DA. 1975; PP. 407-413; BIBL. 9 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "RAYONNEMENT SOLAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INSOLATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALBEDO"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VARIATION SAISONNIERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BILAN ENERGETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ATMOSPHERE TERRESTRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CLIMAT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VARIATION TEMPORELLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONSTANTE SOLAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TEMPERATURE AIR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INFLUENCE DE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METEOROLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLAR RADIATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INSOLATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ALBEDO"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SEASONAL VARIATIONS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY BALANCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH ATMOSPHERE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CLIMATE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TIME VARIATIONS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLAR CONSTANT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AIR TEMPERATURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METEOROLOGY"
+        },
+        "001E02F: Géophysique. Techniques, méthodes, appareillage et modèles / Geophysics. Techniques, methods, instrumentation and models"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7730009766"
+}

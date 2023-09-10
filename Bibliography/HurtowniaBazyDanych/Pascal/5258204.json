@@ -1,0 +1,200 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Environmental design state of the art report; Conception écologique de la construction",
+    "dc:contributor": "SAKAI, K (Reporter/Secretary)",
+    "dc:creator": "Task Group 3.7",
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Book"
+    ],
+    "dc:identifier": [
+        "ISBN 2-88394-068-1",
+        "Inist-CNRS record number 16107992"
+    ],
+    "dc:language": "English",
+    "dc:format": [
+        "print",
+        "74 p. ; 75 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Conception optimale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Construction béton"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Donnée statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Développement durable"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Economie construction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exemple"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Normalisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Protection environnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recyclage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Terminologie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optimal design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Concrete construction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Statistical data"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sustainable development"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ecology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Building economy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Example"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Standardization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Environmental protection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Recycling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Terminology"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Concepción optimal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Construcción de hormigon"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dato estadístico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desarrollo sostenible"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ecología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Economía construcción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ejemplo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Normalización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Protección medio ambiente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reconversión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Terminología"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works",
+        "001D14A01: Etablissement de projets. Techniques de conception / Project management. Process of design",
+        "001D14H02D: Structure en béton / Concrete structure",
+        "001D16E: Pollution globale de l'environnement / Global environmental pollution"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Asie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Japon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Japan"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Japón"
+        }
+    ],
+    "dc:rights": [
+        "Centre Scientifique et Technique du Bâtiment (CSTB)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

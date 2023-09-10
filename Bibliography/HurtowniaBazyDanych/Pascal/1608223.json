@@ -1,0 +1,116 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "FLOWFIELD AND FOR FIELD ACOUSTIC AMPLIFICATION PROPERTIES OF HEATED AND UNHEATED JETS",
+    "dc:creator": [
+        "MAESTRELLO L",
+        "BAYLISS A"
+    ],
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "AIAA J.; ISSN 0001-1452; USA; DA. 1982; VOL. 20; NO 11; PP. 1539-1546; BIBL. 25 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "JET"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DETENTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTERACTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ONDE ACOUSTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHAMP PROCHE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHAMP LOINTAIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AMPLIFICATION ONDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SIMULATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EQUATION EULER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STABILITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE THEORIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MECANIQUE FLUIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "JET"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GAS EXPANSION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTERACTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ACOUSTICAL WAVE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NEAR FIELD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FAR FIELD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WAVE AMPLIFICATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SIMULATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EULER EQUATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STABILITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THEORETICAL STUDY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FLUID MECHANICS"
+        },
+        "001B: Physique / Physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0112984"
+}

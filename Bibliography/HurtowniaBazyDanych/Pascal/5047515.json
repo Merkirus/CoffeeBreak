@@ -1,0 +1,213 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Fiabilité et vulnérabilité des systèmes de transport; Reliability and vulnerability of the transportation systems",
+    "dc:creator": "VILLE, Jacques",
+    "dc:contributor": [
+        "De La Bourdonnaye, Armel",
+        "Galland, Jean-Pierre",
+        "Thon, Dominique",
+        "Roché, Sébastien",
+        "Macé, Eric",
+        "Villé, Jacques",
+        "Nouvier, Jacques",
+        "Amalberti, René (Editor)",
+        "Ministère de l'équipement, des transports et du logement, Direction de la recherche et des affaires scientifiques et techniques (Sponsor)",
+        "Ministère de l'équipement, des transports et du logement, Programme de recherche et de développement pour l'innovation et la technologie dans les transports terrestres",
+        "Agence de l'environnement et de la maîtrise de l'énergie"
+    ],
+    "dc:date": "2002",
+    "dc:type": [
+        "Text",
+        "Report Part"
+    ],
+    "dc:language": "French",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse qualitative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Comportement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evolution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exemple"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fiabilité système"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fonctionnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Météorologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Perturbation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Protection environnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système transport"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sécurité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transport urbain"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transports"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vandalisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vulnérabilité"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Qualitative analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Behavior"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Evolution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Example"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "System reliability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Running"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Meteorology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Perturbation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Environmental protection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transportation system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Safety"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Urban transportation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transportation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vandalism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vulnerability"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis cualitativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conducta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evolución"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ejemplo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fiabilidad sistema"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Funcionamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Meteorología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Perturbación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Protección medio ambiente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema de transporte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Seguridad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transporte urbano"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transportes"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vandalismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vulnerabilidad"
+        },
+        "001D15A: Généralités / General"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14198403"
+}

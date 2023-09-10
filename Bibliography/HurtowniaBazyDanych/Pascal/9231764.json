@@ -1,0 +1,233 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Insulin resistance and medial prefrontal gyrus metabolism in women receiving hormone therapy",
+    "dc:creator": [
+        "RASGON, Natalie L",
+        "KENNA, Heather A",
+        "WROOLIE, Tonita E",
+        "WILLIAMS, Katherine E",
+        "DEMUTH, Bevin N",
+        "SILVERMAN, Daniel H. S"
+    ],
+    "dc:relation": "Psychiatry research. Neuroimaging -- Psychiatr. res., neuroimaging, ISSN 0925-4927, Vol. 223 (1) , pp. 28-36",
+    "dc:date": "2014",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "9 p. ; 1 p.3/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Encéphale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Endocrinopathie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Maladie dégénérative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Maladie métabolique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résistance tissu cible"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système nerveux central"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Démence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Femelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Femme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Insulinorésistance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ménopause"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métabolisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement hormonal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cortex préfrontal médian"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Encephalon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Endocrinopathy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Degenerative disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metabolic diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Target tissue resistance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central nervous system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dementia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Female"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Woman"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Insulin resistance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Menopause"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metabolism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hormone therapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Medial prefrontal cortex"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dementia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hormone therapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Insulin resistance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Medial prefrontal gyrus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Menopause"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Encéfalo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Endocrinopatía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enfermedad degenerativa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metabolismo patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resistencia tejido blanco"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso central"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Demencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hembra"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mujer"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resistancia insulina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Menopausia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metabolismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hormonoterapia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Corteza prefrontal mediana"
+        },
+        "002B18: Psychopathologie. Psychiatrie / Psychopathology. Psychiatry",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 28547425"
+}

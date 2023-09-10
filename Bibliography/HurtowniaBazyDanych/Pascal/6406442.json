@@ -1,0 +1,164 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Regression equations modelling diffusion processes",
+    "dc:creator": [
+        "ANIKIN, V. M",
+        "BARULINA, Yu. A",
+        "GOLOUBENTSEV, A. F"
+    ],
+    "dc:contributor": [
+        "GAERTNER, Georg (Editor)",
+        "ANIKIN, Valery M (Editor)",
+        "SINITSYN, Nikolai I (Editor)",
+        "BAKHTIZIN, Raouf Z (Editor)",
+        "GULYAEV, Yuri V (Editor)",
+        "Russian Academy of Sciences ; Institute of Radio Engineering and Electronics ; Saratov Department (Funder/Sponsor)",
+        "IVESC 2002 IEEE International Vacuum Electron Sources Conference (4 ; Saratov 2002-07-15)"
+    ],
+    "dc:relation": [
+        "Applied surface science -- Appl. surf. sci, ISSN 0169-4332, Vol. 215 (1-4) , pp. 185-190",
+        "4th International Vacuum Electron Sources, Conference in Saratov, Russia, July 15-19, 2002 (IVESC 2002)"
+    ],
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "Russian",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "6 p. ; 13 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Algorithme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Autorégression"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffusion(transport)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Emission champ"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Equation régression"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mouvement brownien"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode itérative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pont brownien"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Processus Wiener"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Algorithms"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Autoregression"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diffusion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Field emission"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Regression equation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modelling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Brownian motion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Iterative methods"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Brownian bridge"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wiener processes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Brownian motion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diffusion processes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Field emission"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fluctuations"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modelling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Regression equations"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "White noise"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Autoregresión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ecuación regresión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Puente browniano"
+        },
+        "001B00E40J: Mouvement brownien / Brownian motion",
+        "001B70I70: Emission, ionisation, évaporation et désorption de champ / Field emission, ionization, evaporation, and desorption",
+        "0540J:  / Brownian motion",
+        "7970:  / Field emission, ionization, evaporation, and desorption"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14906149"
+}

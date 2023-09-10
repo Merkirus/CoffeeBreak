@@ -1,0 +1,220 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Upgrading and quality improvement of PFA",
+    "dc:creator": "CORNELISSEN, H. A. W",
+    "dc:contributor": [
+        "Goumans, J.J.J.M (Editor)",
+        "Senden, G.J (Editor)",
+        "van der Sloot, H.A (Editor)",
+        "International conference on the environmental and technical implications of construction with alternative materials (Houthem St. Gerlach 1997-06-04)"
+    ],
+    "dc:relation": [
+        "Studies in environmental science -- Stud. environ. sci, ISSN 0166-1116, pp. 289-300",
+        "Waste materials in construction : putting theory into practice (Houthem St. Gerlach, 4-6 June 1997)"
+    ],
+    "dc:date": "1997",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Elsevier Science Publishers",
+        "Elsevier Science Publishers"
+    ],
+    "dc:format": [
+        "print",
+        "7 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amélioration procédé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse tendance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Béton haute performance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cendre volante"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Classification"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composition cru"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai compression"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai laboratoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai vraie grandeur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Forgeabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matière charge"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Micronisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Module finesse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Qualité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Valorisation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Process improvement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Trend analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High strength concrete"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fly ash"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Classification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Raw mix composition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Compression test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laboratory test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Full scale mockup test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Workability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Filler"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Micronization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fineness modulus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Upgrading"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mejoramiento procedimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis tendencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hormigón alta resistencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polvillo ceniza"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Clasificación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Composición crudo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo compresión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo laboratorio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prueba sobre modelo en escala natural"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Forjabilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Materia carga"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Micronización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Módulo fineza"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Calidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Valorización"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works",
+        "001D14G02A: Généralités (composition, classification, performances, normes, brevets, etc.) / General (composition, classification, performance, standards, patents, etc.)",
+        "001D14G13: Matériaux de récupération / Recovery materials",
+        "001D16B02: Procédés généraux de traitement et de stockage / General treatment and storage processes"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2040258"
+}

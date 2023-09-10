@@ -1,0 +1,109 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Functional polymers by atom transfer radical polymerization",
+    "dc:creator": [
+        "COESSENS, Veerle",
+        "PINTAUER, Tomislav",
+        "MATYJASZEWSKI, Krzysztof"
+    ],
+    "dc:relation": "Progress in polymer science -- Prog. polym. sci, CODEN PRPSB8, ISSN 0079-6700, Vol. 26 (3) , pp. 337-377",
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "174 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Article synthèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Groupe fonctionnel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Groupe terminal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polymérisation radicalaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Préparation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polymérisation transfert atome"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Review"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Functional group"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "End group"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polymer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Free radical polymerization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Preparation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Atom transfer polymerization"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Artículo síntesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Grupo funcional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Grupo terminal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polímero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polimerización radicalar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Preparación"
+        },
+        "001D09D02B: Polymérisation / Polymerization"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 984430"
+}

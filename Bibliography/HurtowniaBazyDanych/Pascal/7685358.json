@@ -1,0 +1,83 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Economic design of T2 control charts with the VSSI sampling scheme",
+    "dc:creator": "CHEN, Yan-Kwang",
+    "dc:relation": "Quality & quantity -- Qual. quant, ISSN 0033-5177, Vol. 43 (1) , pp. 109-122",
+    "dc:date": "2009",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "14 p. ; 3/4 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse multivariée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Design"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Echantillonnage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Economie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthodologie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multivariate Analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sampling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Economy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Methodology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Economic design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Genetic algorithms"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multivariate control chart"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Variable sampling rate"
+        },
+        "521-: Sociologie / Sociology",
+        "521-1: Histoire, théorie et méthodologie / History, theory and methodology",
+        "521-8: Méthodologie / Methodology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 21094309"
+}

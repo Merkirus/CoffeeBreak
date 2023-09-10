@@ -1,0 +1,193 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Aging behaviour of Ti-15Mo-5Zr and Ti-15Mo-5Zr-3A1 alloy up to 573 K",
+    "dc:creator": [
+        "KOMATSU, S.-Y",
+        "IKEDA, M",
+        "SUGIMOTO, T",
+        "KAMEI, K",
+        "MAESAKI, O",
+        "KOJIMA, M.-A"
+    ],
+    "dc:contributor": [
+        "FUJISHIRO, Shiro (Editor)",
+        "EYLON, Daniel (Editor)",
+        "NISHIMURA, Takashi (Editor)",
+        "SAMPE ; Japan Chapter (Funder/Sponsor)",
+        "Air Force Office of Scientific Research ; AFOSR/AOARD (Funder/Sponsor)",
+        "International Symposium on Metallurgy and Technology of Titanium Alloys (5 ; Tokyo 1995-09-25)"
+    ],
+    "dc:relation": [
+        "Materials science & engineering. A, Structural materials : properties, microstructure and processing -- Mater. sci. eng. A Struct. mater. prop. microstruct. proces, ISSN 0921-5093, Vol. 213 (1-2) , pp. 61-65",
+        "International Symposium on Metallurgy and Technology of Titanium Alloys"
+    ],
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "13 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Alliage base titane"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Alliage quaternaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Alliage ternaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aluminium alliage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Condition isotherme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dureté Knoop"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mesure électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Molybdène alliage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Précipitation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résistance électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Titane"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement thermique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vieillissement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Zirconium alliage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Al Mo Ti Zr"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Alliage Ti77Mo15Zr5Al3"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Alliage Ti80Mo15Zr5"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mo Ti Zr"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Titanium base alloys"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quaternary alloys"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ternary alloys"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aluminium alloys"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Isothermal condition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Knoop hardness"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrical measurement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Molybdenum alloys"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Precipitation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Resistors"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Titanium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heat treatments"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Zirconium alloys"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Condición isoterma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medida eléctrica"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Elektrisches Messen"
+        },
+        "001B80A40G: Autres traitements thermiques et thermomécaniques / Other heat and thermomechanical treatments",
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy",
+        "8140G:  / Other heat and thermomechanical treatments"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3222171"
+}

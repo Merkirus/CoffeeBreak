@@ -1,0 +1,47 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Analyse de pratiques et formation des enseignants : Un point de vue didactique",
+    "dc:creator": "ORANGE, Christian",
+    "dc:contributor": [
+        "BUTLEN, Max (Editor)",
+        "CHARTIER, Anne-Marie (Editor)",
+        "Analyse de pratiques : de la recherche à la formation. Journée d'études (Nantes 2004-06)"
+    ],
+    "dc:relation": [
+        "Recherche et formation (Paris. 1987) -- Rech. form. (Paris, 1987), ISSN 0988-1824 (51) , pp. 119-131",
+        "Analyse de pratiques : de la recherche à la formation"
+    ],
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Institut national de recherche pédagogique",
+    "dc:format": [
+        "print",
+        "13 p. ; 7 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Formation des enseignants"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pratique de formation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Teachers training"
+        },
+        "520-: Sciences de l'éducation / Educational sciences",
+        "520-237: Personnel d'enseignement / Educational personnel",
+        "520-241: Méthodes / Methods"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17742965"
+}

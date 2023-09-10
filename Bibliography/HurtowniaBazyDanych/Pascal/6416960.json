@@ -1,0 +1,190 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Role of toll-like receptors and their adaptors in adjuvant immunotherapy for cancer",
+    "dc:creator": [
+        "SEYA, Tsukasa",
+        "AKAZAWA, Takashi",
+        "UEHORI, Junji",
+        "MATSUMOTO, Misako",
+        "AZUMA, Ichiro",
+        "TOYOSHIMA, Kumao"
+    ],
+    "dc:contributor": [
+        "SOMA, Gen-Ichiro (Editor)",
+        "KUROKI, Masahide (Editor)",
+        "FUKUSHIMA, Takeo (Editor)",
+        "Society of Biotherapeutic Approaches (Funder/Sponsor)",
+        "Annual Meeting of the Society of Biotherapeutic Approaches (6 ; Fukuoka 2002-12-07)"
+    ],
+    "dc:relation": [
+        "Anticancer research -- Anticancer res, ISSN 0250-7005, Vol. 23 (6A) , pp. 4369-4376",
+        "Proceedings of the Sixth Meeting of the Society of Biotherapeutic Approaches"
+    ],
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "International Institute of Anticancer Research",
+    "dc:format": [
+        "print",
+        "8 p. ; 46 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Adjuvant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BCG"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cancérologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunité naturelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunothérapie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Paroi cellulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RNA bicaténaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Squelette"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tumeur maligne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Récepteur TLR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adjuvant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BCG"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cancerology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Natural immunity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immunotherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cell wall"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Double stranded RNA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Skeleton"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Malignant tumor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Toll like receptor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adjuvants"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BCG-cell wall skeleton"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Toll-like receptor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "double-stranded RNA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "innate immunity"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Coadyuvante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "BCG"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cancerología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunidad natural"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunoterapia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pared celular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "ARN bicatenario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Esqueleto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tumor maligno"
+        },
+        "002B04: Tumeurs / Tumors"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15348952"
+}

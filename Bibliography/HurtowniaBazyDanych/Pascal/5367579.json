@@ -1,0 +1,170 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Automatic ultrastructure segmentation of reconstructed CryoEM maps of icosahedral viruses",
+    "dc:creator": [
+        "ZEYUN YU",
+        "BAJAJ, Chandrajit"
+    ],
+    "dc:contributor": [
+        "MURPHY, Robert F (Editor)",
+        "MEIJERING, Eric (Editor)",
+        "DANUSER, Gaudenz (Editor)"
+    ],
+    "dc:relation": "IEEE transactions on image processing -- IEEE trans. image process, ISSN 1057-7149, Vol. 14 (9) , pp. 1324-1337",
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institute of Electrical and Electronics Engineers",
+    "dc:format": [
+        "print",
+        "14 p. ; 36 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse image"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse structurale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fonction densité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Imagerie biomédicale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microscopie électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle 3 dimensions"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Segmentation image"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement automatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement image"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Image analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Structural analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Density function"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biomedical imaging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electron microscopy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Three dimensional model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Image segmentation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Automatic processing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Image processing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cryo-electron microscopy (cryo-EM) maps"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "icosahedral virus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "segmentation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "structure analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "symmetry detection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "three-dimensional (3-D) reconstruction"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis imagen"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis estructural"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Función densidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Microscopía electrónica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo 3 dimensiones"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento automático"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Procesamiento imagen"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Virus"
+        },
+        "001D04A04A1: Représentation du signal. Analyse spectrale / Signal representation. Spectral analysis",
+        "001D04A05C: Traitement des images / Image processing"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17136595"
+}

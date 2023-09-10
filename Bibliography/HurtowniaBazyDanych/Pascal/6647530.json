@@ -1,0 +1,242 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Cyclosporine A-induced cell cycle arrest and cell death in renal epithelial cells",
+    "dc:creator": [
+        "LALLY, C",
+        "HEALY, E",
+        "RYAN, M. P"
+    ],
+    "dc:contributor": [
+        "PREISIG, Patricia (Editor)",
+        "STERZEL, R. Bernd (Editor)",
+        "International Society of Nephrology (Funder/Sponsor)",
+        "In and Out of Control: The Regulation of Renal Growth. Nephrology Symposium (Jackson Hole, Wyoming 1998-06-13)"
+    ],
+    "dc:relation": [
+        "Kidney international -- Kidney int, CODEN KDYIA5, ISSN 0085-2538, Vol. 56 (4) , pp. 1254-1257",
+        "In and Out of Control: The Regulation of Renal Growth. Forefronts in Nephrology Symposium"
+    ],
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Nature Publishing",
+    "dc:format": [
+        "print",
+        "37 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil urinaire pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rein pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Apoptose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Arrêt"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cellule épithéliale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ciclosporine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Culture cellulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cycle cellulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cytotoxicité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DNA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunodépresseur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lésion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Protéine p53"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rein"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tube proximal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Urinary system disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Kidney disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Apoptosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Shutdown"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Epithelial cell"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ciclosporin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cell culture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cell cycle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cytotoxicity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DNA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immunosuppressive agent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lesion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "p53 Protein"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Kidney"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Proximal tube"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato urinario patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Riñón patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Apoptosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Parada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Célula epitelial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ciclosporina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cultivo celular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ciclo celular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Citotoxicidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "DNA"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunodepresor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lesión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Proteína p53"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Riñón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tubo proximal"
+        },
+        "002B02U06: Toxicité: appareil urogénital / Toxicity: urogenital system"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1965607"
+}

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>A multisine approach for trajectory optimization based on information gain</dc:title>
+  <dc:creator>MIHAYLOVA, L</dc:creator>
+  <dc:creator>DE SCHUTTER, J</dc:creator>
+  <dc:creator>BRUYNINCKX, H</dc:creator>
+  <dc:contributor>IEEE Robotics and Automation Society (Organiser of meeting)</dc:contributor>
+  <dc:contributor>IEEE Industrial Elelctronics Society (Organiser of meeting)</dc:contributor>
+  <dc:contributor>Robotics Society of Japan (Organiser of meeting)</dc:contributor>
+  <dc:contributor>Society of Instruments and Control Engineers (Organiser of meeting)</dc:contributor>
+  <dc:contributor>INRIA Rhône-Alpes (Organiser of meeting)</dc:contributor>
+  <dc:contributor>EPFL (Organiser of meeting)</dc:contributor>
+  <dc:contributor>IROS 2002 : international conference on intelligent robots and systems (Lausanne 2002-09-30)</dc:contributor>
+  <dc:relation>2002 IEEE/RSJ international conference on intelligent robots and systems (Lausanne, 30 September - 4 October 2002)</dc:relation>
+  <dc:date>2002</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Conference Paper</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>IEEE</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>6 p. ; 16 ref</dc:format>
+  <dc:subject xml:lang="fr">Balise</dc:subject>
+  <dc:subject xml:lang="fr">Capteur mesure</dc:subject>
+  <dc:subject xml:lang="fr">Combinaison linéaire</dc:subject>
+  <dc:subject xml:lang="fr">Critère optimalité</dc:subject>
+  <dc:subject xml:lang="fr">Informatique mobile</dc:subject>
+  <dc:subject xml:lang="fr">Méthode numérique</dc:subject>
+  <dc:subject xml:lang="fr">Optimisation</dc:subject>
+  <dc:subject xml:lang="fr">Prévention esquive collision</dc:subject>
+  <dc:subject xml:lang="fr">Robot mobile</dc:subject>
+  <dc:subject xml:lang="fr">Robotique</dc:subject>
+  <dc:subject xml:lang="fr">Roue</dc:subject>
+  <dc:subject xml:lang="fr">Temps minimal</dc:subject>
+  <dc:subject xml:lang="fr">Trajectoire optimale</dc:subject>
+  <dc:subject xml:lang="en">Beacon</dc:subject>
+  <dc:subject xml:lang="en">Measurement sensor</dc:subject>
+  <dc:subject xml:lang="en">Linear combination</dc:subject>
+  <dc:subject xml:lang="en">Optimality criterion</dc:subject>
+  <dc:subject xml:lang="en">Mobile computing</dc:subject>
+  <dc:subject xml:lang="en">Numerical method</dc:subject>
+  <dc:subject xml:lang="en">Optimization</dc:subject>
+  <dc:subject xml:lang="en">Collision avoidance</dc:subject>
+  <dc:subject xml:lang="en">Moving robot</dc:subject>
+  <dc:subject xml:lang="en">Robotics</dc:subject>
+  <dc:subject xml:lang="en">Wheel</dc:subject>
+  <dc:subject xml:lang="en">Minimum time</dc:subject>
+  <dc:subject xml:lang="en">Optimal trajectory</dc:subject>
+  <dc:subject xml:lang="es">Baliza</dc:subject>
+  <dc:subject xml:lang="es">Captador medida</dc:subject>
+  <dc:subject xml:lang="es">Combinación lineal</dc:subject>
+  <dc:subject xml:lang="es">Criterio optimalidad</dc:subject>
+  <dc:subject xml:lang="es">Método numérico</dc:subject>
+  <dc:subject xml:lang="es">Optimización</dc:subject>
+  <dc:subject xml:lang="es">Prevención esquiva colisión</dc:subject>
+  <dc:subject xml:lang="es">Robot móvil</dc:subject>
+  <dc:subject xml:lang="es">Robótica</dc:subject>
+  <dc:subject xml:lang="es">Rueda</dc:subject>
+  <dc:subject xml:lang="es">Tiempo mínimo</dc:subject>
+  <dc:subject xml:lang="es">Trayectoria óptima</dc:subject>
+  <dc:subject>001D02C03: Reconnaissance des formes. Traitement numérique des images. Géométrie algorithmique / Pattern recognition. Digital image processing. Computational geometry</dc:subject>
+  <dc:subject>001D02D11: Robotique / Robotics</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 15672090</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

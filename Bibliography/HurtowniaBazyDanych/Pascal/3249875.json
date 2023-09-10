@@ -1,0 +1,76 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THEORY OF SWITCHING PHENOMENA IN METAL/SEMI-INSULATOR/N-P+ SILICON DEVICES.",
+    "dc:creator": [
+        "SIMMONS JG",
+        "EL BADRY A"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "SOLID-STATE ELECTRON.; G.B.; DA. 1977; VOL. 20; NO 12; PP. 955-961; BIBL. 7 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DISPOSITIF ETAT SOLIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DISPOSITIF SEMICONDUCTEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMMUTATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARACTERISTIQUE COURANT TENSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AVALANCHE ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STRUCTURE MIS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID STATE DEVICE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SEMICONDUCTOR DEVICE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SWITCHING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VOLTAGE CURRENT CURVE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONIC AVALANCHE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MIS STRUCTURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONICS"
+        },
+        "001D03: Electronique / Electronics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7830198779"
+}

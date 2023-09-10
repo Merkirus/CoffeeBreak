@@ -1,0 +1,263 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Synthèse et caractérisation d'un polymère organo-minéral à liaisons siloxanes, comme conducteur protonique solide; Synthesis and characterization of an organic-inorganic polymer based on siloxane bonds, for solid state protonic conductor applications",
+    "dc:creator": "Denoyelle, Alain",
+    "dc:contributor": [
+        "Poinsignon, C (Advisor (for a thesis or dissertation))",
+        "Institut national polytechnique de Grenoble (Degree-grantor)"
+    ],
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Thesis"
+    ],
+    "dc:identifier": [
+        "NNT 95 INPG 0006",
+        "Inist-CNRS record number 170181"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "125 p. ; 250 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Accumulateur électrochimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conductivité protonique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Copolymère échelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet température"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Electrolyte solide polymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hydrolyse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ionomère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modification chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polycondensation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Procédé sol gel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Préparation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Silane organique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Siloxane copolymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sulfonate copolymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sulfonation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Utilisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau hybride"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Silsesquioxane polymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Supercondensateur"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrical properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Secondary cell"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Proton conductivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ladder copolymer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Temperature effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polymer solid electrolyte"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hydrolysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ionomer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical modification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Condensation polymerization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sol gel process"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Preparation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Organic silane"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Siloxane copolymer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sulfonate copolymer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sulfonation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Use"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Silsesquioxane polymer"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad eléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acumulador electroquímico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conductividad protónica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Copolímero escala"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efecto temperatura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Electrólito sólido polímero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hidrólisis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ionómero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modificación química"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Policondensación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Procedimiento sol gel"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Preparación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Silano orgánico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Siloxano copolímero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sulfonato copolímero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sulfonación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Utilización"
+        },
+        "001D05I03E: Conversion électrochimique: piles et accumulateurs électrochimiques, piles à combustibles / Electrochemical conversion: primary and secondary batteries, fuel cells",
+        "001D09E04: Divers / Miscellaneous"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

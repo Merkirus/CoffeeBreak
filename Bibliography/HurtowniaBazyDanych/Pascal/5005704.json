@@ -1,0 +1,182 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Food allergy: an update",
+    "dc:creator": [
+        "PASTORELLO, E. A",
+        "PRAVETTONI, V",
+        "INCORVAIA, C",
+        "BELLANTI, J. A"
+    ],
+    "dc:contributor": [
+        "VENUTI, Alberto (Editor)",
+        "ROMANO, Antonino (Editor)",
+        "International Consensus Conference of Allergology and Clinical Immunology (4 ; Rome 1999-03-21)"
+    ],
+    "dc:relation": [
+        "Allergy. Supplement -- Allergy, Suppl, ISSN 0108-1675, Vol. 54 (58) , pp. 43-45",
+        "Proceedings of the IV International Consensus Conference of Allergology and Clinical Immunology, Rome, March 21-24, 1999"
+    ],
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Blackwell",
+    "dc:format": [
+        "print",
+        "19 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunopathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Age"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aliment"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Allergie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Allergène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Anaphylaxie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cacahuète"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diagnostic"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fruit légume"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IgE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Symptomatologie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immunopathology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Age"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Food"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Allergy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Allergen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Anaphylaxis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Peanut"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diagnosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fruit vegetable"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IgE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Symptomatology"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunopatología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Edad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alimento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alergia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alergeno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anafilaxia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cacahuete"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diagnóstico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fruto legumbre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "IgE"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sintomatología"
+        },
+        "002B06C05: Localisations diverses / Other localizations"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1400889"
+}

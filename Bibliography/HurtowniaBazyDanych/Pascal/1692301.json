@@ -1,0 +1,94 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "GRAPHICAL AND COMPUTER ANALYSIS OF SINGLE THROTTLED SURGE TANKS.",
+    "dc:creator": "YU TEK LI",
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "WAT. POWER; G.B.; DA. 1974; VOL. 26; NO 8; PP. 296-299; BIBL. 5 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CENTRALE ELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CENTRALE HYDROELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHEMINEE EQUILIBRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE FONCTIONNEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STABILITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REGIME TRANSITOIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PERTURBATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORDINATEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROGRAMMATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CALCUL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CALCUL GRAPHIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE MATHEMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETRANGLEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROMAGNETISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROTECHNIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENIE CIVIL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROMAGNETISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRICAL ENGINEERING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CIVIL ENGINEERING"
+        },
+        "001D05: Electrotechnique. Electroenergetique / Electrical engineering. Electrical power engineering",
+        "001D14: Batiment. Travaux publics / Buildings. Public works"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7530025201"
+}

@@ -1,0 +1,73 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE MAJOR HISTOCOMPATIBILITY COMPLEX: ITS EVOLUTION AND INVOLVEMENT IN CELLULAR IMMUNITY",
+    "dc:creator": "SNELL GD",
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "HARVEY LECT.; ISSN 0073-0874; USA; DA. 1980; NO 74; PP. 49-80; BIBL. 5 P.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "SYSTEME HISTOCOMPATIBILITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IMMUNITE CELLULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ARTICLE SYNTHESE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LYMPHOCYTE T"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EVOLUTION BIOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DETERMINISME GENETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IMMUNOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HISTOCOMPATIBILITY SYSTEM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CELLULAR IMMUNITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REVIEW"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "T-LYMPHOCYTE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOLOGIC EVOLUTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INHERITANCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IMMUNOLOGY"
+        },
+        "002B05: Pathologie infectieuse / Infectious diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8110420009"
+}

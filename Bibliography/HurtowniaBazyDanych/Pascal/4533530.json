@@ -1,0 +1,45 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "UTILISATION D'UN CALCULATEUR ELECTRONIQUE DANS L'ETUDE DE LA REACTION D'UN MILIEU MULTI-COUCHES DANS LES COURBES DE SONDAGE RESISTIVITE",
+    "dc:creator": "KOVACEVIC S",
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "Serbo-croatian",
+    "dc:format": "NAFTA; JUGOSL.; DA. 1977; VOL. 28; NO 5; PP. 323-334; ABS. ANGL. RUSSE; BIBL. 6 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PROSPECTION ELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SONDAGE ELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE RESISTIVITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MILIEU STRATIFIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRICAL PROSPECTING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRICAL SOUNDING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LAYERED MATERIALS"
+        },
+        "001E01: Sciences de la terre / Earth sciences"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7830009939"
+}

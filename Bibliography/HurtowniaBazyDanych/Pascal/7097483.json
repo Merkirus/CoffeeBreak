@@ -1,0 +1,168 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Steady numerical simulation for heat and moisture migration in vegetation soil under various conditions",
+    "dc:creator": [
+        "FAN, A. W",
+        "LIU, W"
+    ],
+    "dc:contributor": [
+        "Taine, Jean (Editor)",
+        "International heat transfer conference (12 ; Grenoble 2002)"
+    ],
+    "dc:relation": "Heat transfer 2002 (proceedings of the Twelfth International Heat Transfer Conference, Grenoble, France, August 18-23. volume 1, Keynote lectures, transfer modes under local thermal non-equilibrium. volume 2, Single phase heat transfer, heat transfer in nonhomogeneous media (part 1). volume 3, Heat transfer in nonhomogeneous media (part 2), heat transfer in two-phase flow. volume 4, Heat transfer in engineering systems)",
+    "dc:date": "2002",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Elsevier",
+        "Elsevier",
+        "Elsevier"
+    ],
+    "dc:format": [
+        "print",
+        "6 p. ; 1/4 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Angiospermae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gramineae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Monocotyledones"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spermatophyta"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Blé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Humidité sol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation numérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transfert chaleur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transfert humidité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Triticum aestivum"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Angiospermae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gramineae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Monocotyledones"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spermatophyta"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wheat"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Soil moisture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Numerical simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heat transfer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Humidity transfer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Triticum aestivum"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Angiospermae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gramineae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Monocotyledones"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Spermatophyta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trigo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Humedad suelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simulación numérica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transferencia térmica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transferencia húmeda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Triticum aestivum"
+        },
+        "002A32B03A2: Dynamique de l'eau et des solutés (états et transfert) / Water and solute dynamics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 19207039"
+}

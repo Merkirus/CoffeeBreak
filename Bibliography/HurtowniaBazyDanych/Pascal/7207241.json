@@ -1,0 +1,180 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "An environmental assessment for office premises in Shanghai",
+    "dc:creator": "YANMIN, Cliu",
+    "dc:contributor": [
+        "Air conditioning in high rise buildings. International conference (Shanghai 2000-10-24)",
+        "Cryogenics. International conference (6 ; Praha 2000-10-24)"
+    ],
+    "dc:relation": [
+        "Science et technique du froid -- Sci. tech. froid -- Refrigeration science and technology, ISSN 0151-1637, pp. 186-190",
+        "ACHRB : air conditioning in high rise buildings '2000 (Shanghai, 24-27 October 2000)"
+    ],
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institut international du froid",
+    "dc:format": [
+        "print",
+        "6 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse multicritère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bâtiment bureau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Choix matériau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Congrès international"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Consommation énergie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude cas"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Impact environnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ozone"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Qualité environnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recyclage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multicriteria analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Office building"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Material selection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "International conference"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Energy consumption"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Case study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Environment impact"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ozone"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Environment quality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Recycling"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis multicriterio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Edificio oficina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Selección material"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Congreso internacional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Consumo energía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio caso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Impacto medio ambiente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ozono"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Calidad medio ambiente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reconversión"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works",
+        "001D14A11: Divers / Miscellaneous",
+        "001D14I04C: Bâtiment commercial / Commercial building"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Asie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "China"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "China"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 783737"
+}

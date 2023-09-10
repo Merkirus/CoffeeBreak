@@ -1,0 +1,113 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Approximate Cr-blending with tensor product polynomials",
+    "dc:creator": "PRAUTZSCH, H",
+    "dc:contributor": [
+        "FARIN, G (Editor)",
+        "HAGEN, H (Editor)",
+        "NOLTEMEIER, H (Editor)"
+    ],
+    "dc:relation": "Computing. Supplementum (Wien) -- Comput., Suppl. (Wien), CODEN COSPDM, ISSN 0344-8029, Vol. 8, pp. 251-258",
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Springer",
+        "Springer"
+    ],
+    "dc:format": [
+        "print",
+        "5 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Approximation polynomiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conception assistée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interpolation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Produit tensoriel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Taux convergence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Raccordement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sous division"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Surface Bézier"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polynomial approximation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computer aided design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interpolation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tensor product"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Convergence rate"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Blending"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aproximación polinomial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Concepción asistida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interpolación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Producto tensorial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Relación convergencia"
+        },
+        "001A02I01D: Approximation numérique / Numerical approximation",
+        "001A02I01P: Méthodes numériques en programmation mathématique, optimisation et calcul variationnel / Numerical methods in mathematical programming, optimization and calculus of variations",
+        "001A02I01P1: Programmation mathématique numérique / Numerical methods in mathematical programming",
+        "001A02I01P2: Optimisation et calcul variationnel numériques / Numerical methods in optimization and calculus of variations",
+        "001A02I01Q: Probabilités et statistiques numériques / Numerical methods in probability and statistics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3864078"
+}

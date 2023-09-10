@@ -1,0 +1,64 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A HISTORICAL PERSPECTIVE OF THE 1976-77 LAKE MICHIGAN ICE COVER",
+    "dc:creator": [
+        "ASSEL RA",
+        "QUINN FH"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "MONTH. WEATHER REV.; USA; DA. 1979; VOL. 107; NO 3; PP. 336-341; BIBL. 6 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "GLACE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LAC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HIVER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICHIGAN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONDITION METEOROLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GLACIOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ICE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WINTER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICHIGAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METEOROLOGICAL CONDITION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GLACIOLOGY"
+        },
+        "001E02F: Géophysique. Techniques, méthodes, appareillage et modèles / Geophysics. Techniques, methods, instrumentation and models"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7930393500"
+}

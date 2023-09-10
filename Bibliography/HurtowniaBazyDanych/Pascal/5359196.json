@@ -1,0 +1,56 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Special Volume on Connecting Language to the World",
+    "dc:contributor": [
+        "ROY, Deb (Editor)",
+        "REITER, Ehud (Editor)"
+    ],
+    "dc:relation": "Artificial intelligence -- Artif. intell, CODEN AINTBB, ISSN 0004-3702, Vol. 167 (1-2)",
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Serial Issue"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "243 p. ; dissem"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Désambiguïsation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Linguistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure compositionnelle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Disambiguation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Linguistics"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desambiguisación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Linguística"
+        },
+        "001D02C04: Reconnaissance et synthèse de la parole et du son. Linguistique / Speech and sound recognition and synthesis. Linguistics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17066725"
+}

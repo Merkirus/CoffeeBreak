@@ -1,0 +1,203 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Analyses of wave field from high-speed train on viaduct at shallow/deep soft grounds",
+    "dc:creator": "TAKEMIYA, H",
+    "dc:contributor": [
+        "METRIKINE, Andrei V (Editor)",
+        "TU Delft (Organiser of meeting)",
+        "EUROMECH Colloquium 484 (Delft 2007-09-19)"
+    ],
+    "dc:relation": [
+        "Journal of sound and vibration -- J. sound vib, CODEN JSVIAG, ISSN 0022-460X, Vol. 310 (3) , pp. 631-649",
+        "EUROMECH Colloquium 484 on Wave Mechanics and Stability of Long Flexible Structures Subject to Moving Loads and Flows"
+    ],
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "19 p. ; 26 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Basse fréquence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Champ intense"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Couche mince"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dispersion onde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Déplacement fréquence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Localisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mécanique sol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sol mou"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Source vibration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Surface sol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Train TGV"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vibration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Véhicule ferroviaire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Low frequency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High field"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thin film"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wave dispersion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Frequency shift"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Localization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Soil mechanics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Soft soil"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vibration source"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ground surface"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High speed train"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vibration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rail vehicle"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Baja frecuencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Campo intenso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Capa fina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dispersión onda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desplazamiento frecuencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Localización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mecánica suelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Suelo blando"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fuente vibración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Superficie suelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tren TGV"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vibración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vehículo ferroviario"
+        },
+        "001B40F30M: Vibration, onde mécanique, stabilité dynamique (aéroélasticité, contrôle vibration...) / Vibration, mechanical wave, dynamic stability (aeroelasticity, vibration control...)",
+        "001D14: Batiment. Travaux publics / Buildings. Public works",
+        "001D14F02: Mécanique des sols. Mécanique des roches / Soil mechanics. Rocks mechanics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20223961"
+}

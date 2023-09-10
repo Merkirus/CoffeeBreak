@@ -1,0 +1,66 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Recent advances in histamine research: papers/symposium of the Canadian Federation of Biological Societies, Ottawa, Ontario, Canada, June 14, 1983",
+    "dc:creator": [
+        "TRIGGLE, C. R",
+        "BIEGER, D",
+        "Canadian Federation of Biological Societies"
+    ],
+    "dc:contributor": "Canadian federation of biological societies. Symposium",
+    "dc:relation": "Canadian journal of physiology and pharmacology -- Can. j. physiol. pharmacol -- Journal canadien de physiologie et pharmacologie, CODEN CJPPA3, ISSN 0008-4212, Vol. 62 (6) , pp. 605-740",
+    "dc:date": "1984",
+    "dc:type": [
+        "Text",
+        "Conference Proceedings"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "National Research Council of Canada",
+    "dc:format": [
+        "print",
+        "dissem"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Congrès"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Histamine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ottawa,1983"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pharmacologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Physiologie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Congress"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Histamine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pharmacology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Physiology"
+        },
+        "002B02J: Histamine et antagonistes. Allergie / Histamine and antagonists. Allergy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 9666271"
+}

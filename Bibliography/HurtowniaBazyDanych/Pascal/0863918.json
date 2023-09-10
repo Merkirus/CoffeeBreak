@@ -1,0 +1,60 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ANODIC OXIDATION OF COBALT IN NEUTRAL AND BASIC SOLUTION",
+    "dc:creator": [
+        "SATO N",
+        "OHTSUKA T"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. ELECTROCHEM. SOC.; USA; DA. 1978; VOL. 125; NO 11; PP. 1735-1740; BIBL. 15 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ANODISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COBALT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MILIEU NEUTRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MILIEU BASIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANODIZING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COBALT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NEUTRAL MEDIUM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BASIC MEDIUM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METALLURGY"
+        },
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7900258194"
+}

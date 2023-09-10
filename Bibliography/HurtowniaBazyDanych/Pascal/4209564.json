@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ETUDE SUR LE MECANISME DE SUBSIDENCE, ET AMELIORATION DES CALCULS PRELIMINAIRES",
+    "dc:creator": [
+        "OKAMURA H",
+        "HIRAMATSU Y",
+        "SUGAWARA K"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "Japanese",
+    "dc:format": "J. MING METALLURG. INST. JAP.; JPN; DA. 1979; VOL. 95; NO 1102; PP. 865-870; ABS. ENG; BIBL. 5 REF.; 8 ILL.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "AFFAISSEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHARBON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE INGENIEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ROCHE CARBONEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ROCHE SEDIMENTAIRE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SUBSIDENCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LAND SUBSIDENCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MINES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENGINEERING GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORGANIC RESIDUES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SEDIMENTARY ROCKS"
+        },
+        "001E01N: Hydrologie. Hydrogéologie / Hydrology. Hydrogeology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALGEODEBRGM8020309910"
+}

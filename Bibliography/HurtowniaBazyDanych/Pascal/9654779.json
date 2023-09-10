@@ -1,0 +1,254 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Reproductive behaviour and multiple paternity of California ground squirrels",
+    "dc:creator": [
+        "BOELLSTORFF, D. E",
+        "OWINGS, D. H",
+        "PENEDO, M. C. T",
+        "HERSEK, M. J"
+    ],
+    "dc:relation": "Animal behaviour -- Anim. behav, CODEN ANBEA8, ISSN 0003-3472, Vol. 47, pp. 1057-1064",
+    "dc:date": "1994",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "1 p. 1/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Comportement reproducteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interaction sociale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aire déplacement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chevauchement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Comportement territorial"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Copulation multiple"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude sur terrain"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Paternité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réceptivité sexuelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Saison reproduction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système croisement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spermophylus beecheyi"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Breeding behavior"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Social interaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Home range"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Overlap"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Territorial behavior"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multiple mating"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Field study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Paternity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sexual receptivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Breeding season"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mating system"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conducta reproductora"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interacción social"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Area desplazamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Imbricación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conducta territorial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Copulación múltiple"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio en campo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Paternidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Receptividad sexual"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Temporada reproducción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema cruzamiento"
+        },
+        "002A13C04: Mammalia / Mammalia",
+        "770-: Psychologie. Psychanalyse. Psychiatrie / Psychology. Psychoanalysis. Psychiatry",
+        "770-A: Ethologie Animale / Animal ethology"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats Unis"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Californie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "California"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estados Unidos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "California"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4061120"
+}

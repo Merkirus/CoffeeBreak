@@ -1,0 +1,80 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE LOW FREQUENCY VARIABILITY OF EXTRAGALACTIC RADIO SOURCES: DISCUSSION OF THE PROPERTIES",
+    "dc:creator": [
+        "FANTI C",
+        "FANTI R",
+        "FICARRA A",
+        "GREGORINI L",
+        "MANTOVANI F",
+        "PADRIELLI L"
+    ],
+    "dc:date": "1983",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "ASTRONOMY AND ASTROPHYSICS; ISSN 0004-6361; DEU; DA. 1983; VOL. 118; NO 1; PP. 171-179; BIBL. 32 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "RADIOSOURCE EXTRAGALACTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "QUASAR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VARIABILITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OBSERVATION RADIOASTRONOMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE STATISTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TABLE DONNEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ECHELLE TEMPS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXTRAGALACTIC RADIOSOURCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "QUASAR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VARIABILITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RADIO OBSERVATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STATISTICAL STUDY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DATA TABLE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TIME SCALE"
+        },
+        "001E03: Astronomie / Astronomy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0387279"
+}

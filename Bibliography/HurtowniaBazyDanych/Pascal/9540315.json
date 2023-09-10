@@ -1,0 +1,60 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Hidden Text Detection by Infrared Thermography",
+    "dc:creator": [
+        "MERCURI, Fulvio",
+        "GNOLI, Roberta",
+        "PAOLONI, Stefano",
+        "ORAZI, Noemi",
+        "ZAMMIT, Ugo",
+        "CICERO, Cristina",
+        "MARINELLI, Massimo",
+        "SCUDIERI, Folco"
+    ],
+    "dc:relation": "Restaurator -- Restaurator, CODEN RESTBP, ISSN 0034-5806, Vol. 34 (3) , pp. 195-211",
+    "dc:date": "2013",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "De Gruyter",
+    "dc:format": [
+        "print",
+        "17 p. ; 1 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Détection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Texte"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Detection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Text"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Detección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Texto"
+        },
+        "001A01B02: Gestion des bibliothèques et des centres de documentation / Library and documentation centre management",
+        "790-C: Gestion des services d'information / Information service management",
+        "790-C02: Gestion des bibliothèques et des centres de documentation / Library and documentation centre management"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 27770782"
+}

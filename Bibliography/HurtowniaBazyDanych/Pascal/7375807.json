@@ -1,0 +1,166 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Traits majeurs de l'Archéen du nord de la Chine (Province de Hebei)",
+    "dc:creator": [
+        "AUVRAY, B",
+        "JAHN, B.M",
+        "SHEN, Q.H",
+        "LIU, D.Y",
+        "ZHANG, Q.Z"
+    ],
+    "dc:contributor": "Réunion annuelle des sciences de la terre. 11 (1986-03-27)",
+    "dc:relation": [
+        "Réunion annuelle des sciences de la terre, ISSN 0249-7557, Vol. 11",
+        "Réunion annuelle des sciences de la terre. 11 (1986-03-27)"
+    ],
+    "dc:date": "1986",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "6"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Antécambrien"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Asie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche métamorphique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Archéen"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Faciès granulite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hebei"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Intrusion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métamorphisme régional"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche ignée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche métavolcanique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "China"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metamorphic rocks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Precambrian"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Archean"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Granulite facies"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hebei"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Intrusions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Regional metamorphism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Igneous rocks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metavolcanic rocks"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antecámbrico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "China"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Roca metamórfica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arqueano"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Facies granulita"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hopei"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Intrusión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metamorfismo regional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Roca ignea"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Roca metavolcánica"
+        },
+        "001E01F01: Pétrologie des roches ignées et métamorphiques, phénomènes volcaniques, magmas / Igneous and metamorphic rocks petrology, volcanic processes, magmas"
+    ],
+    "dc:rights": [
+        "Bureau de Recherches Géologiques et Minières (BRGM)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 7922756"
+}

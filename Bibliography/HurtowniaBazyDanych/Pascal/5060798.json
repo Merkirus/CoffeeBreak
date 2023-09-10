@@ -1,0 +1,78 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Market efficiency and price formation when dealers are asymmetrically informed",
+    "dc:creator": [
+        "CALCAGNO, R",
+        "LOVO, S. M"
+    ],
+    "dc:contributor": "Groupe HEC (Editor)",
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Book"
+    ],
+    "dc:language": "English",
+    "dc:format": [
+        "print",
+        "53 p. ; 3 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "COURS DES VALEURS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EFFICIENCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INFORMATION BOURSIERE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SECURITIES PRICE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EFFICIENCY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STOCK MARKET REPORTING"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "COTIZACION DE LOS VALORES"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "EFICIENCIA"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "INFORMACION BURSATIL"
+        },
+        "616-: Doge / Gestion des entreprises / Doge / Company management",
+        "616-2: Finance - Comptabilité / Finance-accounting"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "GENERAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENERAL"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "GENERAL"
+        }
+    ],
+    "dc:rights": [
+        "Documentation en Gestion des Entreprises - Eurofidai (institut européen de données financières) (DOGE)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14322380"
+}

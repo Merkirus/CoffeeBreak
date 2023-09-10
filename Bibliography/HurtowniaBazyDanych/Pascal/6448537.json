@@ -1,0 +1,238 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Streptozotocin-induced diabetic hyperglycaemia produces more EEG activity than normoglycaemia and hypoglycaemia during and after anoxia loading in rats",
+    "dc:creator": [
+        "TAGAWA, A",
+        "MOKUDA, O",
+        "SAKAMOTO, Y",
+        "SHIMIZU, N"
+    ],
+    "dc:contributor": "International Symposium on Amino Acid/Protein Metabolism in Health and Disease: State of the art at the turn of the Millennium (5 )",
+    "dc:relation": [
+        "Diabetes, nutrition & metabolism (Testo stampato) -- Diabet. nutr. metab. (Testo stamp.), ISSN 0394-3402, Vol. 13 (2) , pp. 62-67",
+        "International Symposium on Amino Acid/Protein Metabolism in Health and Disease: State of the art at the turn of the Millennium"
+    ],
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Kurtis",
+    "dc:format": [
+        "print",
+        "24 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Electrodiagnostic"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Endocrinopathie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diabète"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Electroencéphalographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Encéphale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Glycémie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hyperglycémie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hypoglycémie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hypoxie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle animal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métabolisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Oxygène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rat"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrodiagnosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Endocrinopathy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diabetes mellitus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electroencephalography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Brain (vertebrata)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Glycemia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hyperglycemia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hypoglycemia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hypoxia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Animal model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metabolism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oxygen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rat"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Electrodiagnóstico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Endocrinopatía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diabetes"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Electroencefalografía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Encéfalo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Glucemia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hiperglicemia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hipoglicemia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hipoxia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo animal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metabolismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Oxígeno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rata"
+        },
+        "002B21E01B: Pathologies associées et complications / Associated diseases and complications"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1406220"
+}

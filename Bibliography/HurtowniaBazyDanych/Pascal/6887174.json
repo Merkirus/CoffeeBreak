@@ -1,0 +1,90 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Analysis of multipath fading observations on certain microwave paths in British Columbia; Analyse d'observations d'affaiblissement par trajets multiples sur certains trajets de microondes en Colombie Britannique",
+    "dc:creator": [
+        "OWEN, N",
+        "LEE, E",
+        "KHARADLY, M"
+    ],
+    "dc:contributor": "Wave propagation and remote sensing. Symposium (1983-06-09)",
+    "dc:relation": "Wave propagation and remote sensing. Symposium",
+    "dc:date": "1983",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "ESA",
+    "dc:format": [
+        "print",
+        "Illustration ; 15 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Canada Ouest"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Climat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Colombie Britannique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propagation onde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Topographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Affaiblissement trajet multiple"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hyperfréquence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propagation trajet multiple"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Western Canada"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Climate"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "British Columbia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Propagation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Topography"
+        },
+        "001E01M04: Géophysique appliquée / Applied geophysics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 9107466"
+}

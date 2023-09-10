@@ -1,0 +1,92 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Tumor Invasion of the Skin",
+    "dc:creator": [
+        "ROLZ-CRUZ, Gabriela",
+        "KIM, Caroline C"
+    ],
+    "dc:contributor": [
+        "THOMAS, Valencia D (Editor)",
+        "THOMAS, Charles R (Editor)"
+    ],
+    "dc:relation": "Dermatologic clinics -- Dermatol. clin, CODEN DRMCDJ, ISSN 0733-8635, Vol. 26 (1)",
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "viii, 89-102 [15 p.] ; 62 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Dermatologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Infiltration tumorale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Invasion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Peau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tumeur"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dermatology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tumorous infiltration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Invasion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Skin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tumor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dermatología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Infiltración tumoral"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Invasión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Piel"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tumor"
+        },
+        "002B08: Dermatologie / Dermatology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20017960"
+}

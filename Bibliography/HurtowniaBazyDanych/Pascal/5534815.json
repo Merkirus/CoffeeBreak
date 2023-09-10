@@ -1,0 +1,71 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Design of cold-cathode ion sources for precise electron-beam processing of the semiconductor structures",
+    "dc:creator": [
+        "KOZLOV, A. N",
+        "ZAITSEV, A. I",
+        "DANILOVSKIY, A. E",
+        "FILACHEV, A. M"
+    ],
+    "dc:contributor": [
+        "Filachev, Anatoly M (Editor)",
+        "Gaidoukova, Inna S (Editor)",
+        "Russia, Federal Agency on Industry (Organiser of meeting)",
+        "Rossiĭskaia akademiia nauk (Organiser of meeting)",
+        "Society of Photo-optical Instrumentation Engineers (Organiser of meeting)",
+        "Society of Photo-optical Instrumentation Engineers, Russian Chapter (Organiser of meeting)",
+        "State Scientific Center of the Russian Federation RD&P Center ORION (Organiser of meeting)",
+        "All-Russian Seminar on Problems of Theoretical and Applied Electron and Ion Optics (7 ; Moscow 2005)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, pp. 62780B.1-62780B.4",
+        "Seventh Seminar on Problems of Theoretical and Applied Electron and Ion Optics (25-27 May 2005, Moscow, Russia) -- 0Seminar on Problems of Theoretical and Applied Electron and Ion Optics -- 1Problems of theoretical and applied electron and ion optics"
+    ],
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "Russian",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "7 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Faisceau électron"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optique ionique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optique électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4185"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electron beams"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ion optics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electron optics"
+        },
+        "001B40A85: Optique des faisceaux / Beam optics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18360122"
+}

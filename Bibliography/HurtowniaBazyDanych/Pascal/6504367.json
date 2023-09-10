@@ -1,0 +1,157 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Transport and electrostatics in metallic carbon nanotubes",
+    "dc:creator": [
+        "ANANTRAM, M. P",
+        "SVIZHENKO, A",
+        "GOVINDAN, T. R"
+    ],
+    "dc:contributor": [
+        "Institute of Electrical and Electronics Engineers (Organiser of meeting)",
+        "IEEE conference on nanotechnology (Munich 2004-06-16)"
+    ],
+    "dc:relation": "2004 4th IEEE conference on nanotechnology (Munich, Germany, 16-19 June 2004)",
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "IEEE",
+    "dc:format": [
+        "print",
+        "4 p. ; 18 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Autocohérence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Champ électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffusion phonon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fonction Green"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Haute tension"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nanofil"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nanotube carbone"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nanotube monofeuillet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Potentiel électrostatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sous bande"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Température ambiante"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Self consistency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electric field"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phonon scattering"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Green function"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High voltage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nanowires"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Carbon nanotubes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Singlewalled nanotube"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrostatic potential"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Subband"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Room temperature"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Autocoherencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Campo eléctrico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Difusión fonón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Función Green"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alta tensión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nanotubo pared única"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Potencial electrostático"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Subbanda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Temperatura ambiente"
+        },
+        "001D03F18: Electronique moléculaire, nanoélectronique / Molecular electronics, nanoelectronics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17808146"
+}

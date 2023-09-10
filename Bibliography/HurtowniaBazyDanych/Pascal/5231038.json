@@ -1,0 +1,189 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Line-profile and critical dimension measurements using a normal incidence optical metrology system",
+    "dc:creator": [
+        "WEIDONG YANG",
+        "LOWE-WEBB, Roger",
+        "KORLAHALLI, Rahul",
+        "ZHUANG, Vera",
+        "SASANO, Hiroki",
+        "WEI LIU",
+        "MUI, David"
+    ],
+    "dc:contributor": [
+        "IEEE (Organiser of meeting)",
+        "SEMI (Organiser of meeting)",
+        "IEEE / SEMI advanced semiconductor manufacturing conference and workshop (Boston MA 2002-04-30)"
+    ],
+    "dc:relation": [
+        "ASMC proceedings, ISSN 1078-8743, pp. 119-124",
+        "ASMC 2002 : advancing the science and technology of semiconductor manufacturing (Boston MA, 30 April - 2 May 2002)"
+    ],
+    "dc:date": "2002",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "IEEE",
+    "dc:format": [
+        "print",
+        "6 p. ; 5 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Conception compacte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffraction lumière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffraction optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Extraction information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fabrication microélectronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Largeur raie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lithographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microscopie électronique balayage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Photorésist"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polycristal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau diffraction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Taille critique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Compact design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Light diffraction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical diffraction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information extraction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microelectronic fabrication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Line width"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lithography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Scanning electron microscopy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measurement method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photoresist"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polycrystal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diffraction grating"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Critical size"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Concepción compacta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Difracción óptica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Extracción información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fabricación microeléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anchura raya espectral"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Litografía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Microscopía electrónica barrido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método medida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fotorresistencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Policristal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rejilla difracción"
+        },
+        "001D03F17: Fabrication microélectronique (technologie des matériaux et des surfaces) / Microelectronic fabrication (materials and surfaces technology)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15852608"
+}

@@ -1,0 +1,147 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Comparison between linear and nonlinear PLS methods to explain overall liking from sensory characteristics",
+    "dc:creator": [
+        "DE KERMADEC, F. H",
+        "DURAND, J. F",
+        "SABATIER, R"
+    ],
+    "dc:contributor": [
+        "QANNARI, El Mostafa (Author of introductory parts)",
+        "DIJKSTERHUIS, Garmt B (Author of introductory parts)",
+        "HUNTER, E. Anthony (Author of introductory parts)",
+        "MACFIE, Halliday J. H (Author of introductory parts)",
+        "Sensometrics meeting (3 ; Nantes 1996-06-19)"
+    ],
+    "dc:relation": [
+        "Food quality and preference -- Food qual. prefer, ISSN 0950-3293, Vol. 8 (5-6) , pp. 395-402",
+        "Sensometrics meeting"
+    ],
+    "dc:date": "1997",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "22 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse sensorielle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude sur modèle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Produit alimentaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Produit confiserie au chocolat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Préférence alimentaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Régression PLS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Régression linéaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Régression non linéaire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sensory analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Model study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Foodstuff"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chocolate confectionery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Feeding preference"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PLS regression"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Linear regression"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Non linear regression"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis sensorial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio sobre modelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Producto alimenticio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Producto confitería de chocolate"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Preferencia alimentaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Regresión PLS"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Regresión lineal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Regresión no lineal"
+        },
+        "002A35A01: Méthodes d'analyse et contrôles de fabrication et de qualité, réglementation, normes / Methods of analysis, processing and quality control, regulation, standards"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2130945"
+}

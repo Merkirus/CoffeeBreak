@@ -1,0 +1,106 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Le système des autonomies en Espagne. Quelques questions en suspens",
+    "dc:creator": "CORCUERA ATIENZA, J",
+    "dc:relation": "Hérodote (Paris) -- Hérodote (Paris), ISSN 0338-487X (91) , pp. 102-117",
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "La Découverte",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Autonomie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conflit"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Géographie politique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Histoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nationalisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Régime politique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Séparatisme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Autonomy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Conflict"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Political geography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "History"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nationalism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Political regime"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Separatism"
+        },
+        "531-: Bgi / Prodig / Bgi / Prodig",
+        "531-153: Europe / Europe",
+        "531-262: Géographie humaine / Human geography"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Cataluña"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Espagne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vascongadas"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Catalonia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Basque Country"
+        }
+    ],
+    "dc:rights": [
+        "Bibliographie Géographique Internationale - Pôle de Recherche pour l'Organisation et la Diffusion de l'Information Géographique (PRODIG)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6228320"
+}

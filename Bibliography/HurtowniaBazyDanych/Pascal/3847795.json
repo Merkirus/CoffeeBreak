@@ -1,0 +1,110 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "LES PLEURESIES TUBERCULEUSES AUTONOMES: A PROPOS DE 73 CAS",
+    "dc:creator": [
+        "BEN HASSINE K",
+        "ZEGAYA M",
+        "GHARIANI K"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "TUNISIE MED.; TUN; DA. 1979; VOL. 57; NO 4-5; PP. 206-209; ABS. ARA/ENG; BIBL. 6 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PLEURESIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TUBERCULOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OBSERVATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MYCOBACTERIOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIAGNOSTIC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRONOSTIC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INFECTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "APPAREIL RESPIRATOIRE PATHOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PNEUMOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROBIOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PLEURISY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TUBERCULOSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OBSERVATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MYCOBACTERIAL INFECTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIAGNOSTIC"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PROGNOSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFECTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RESPIRATORY DISEASE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PNEUMOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROBIOLOGY"
+        },
+        "002B05: Pathologie infectieuse / Infectious diseases",
+        "002B12: Cardiologie. Appareil circulatoire / Cardiology. Vascular system"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8110023034"
+}

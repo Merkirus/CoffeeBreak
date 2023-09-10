@@ -1,0 +1,63 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "PROGRESS IN WATER TECHNOLOGY. INTERNATIONAL CONFERENCE ON WATER POLLUTION RESEARCH. 7; PARIS; 1974.",
+    "dc:date": "1976",
+    "dc:type": "Conference Proceedings",
+    "dc:language": [
+        "English",
+        "French"
+    ],
+    "dc:format": "OXFORD; PERGAMON PRESS; DA. 1976; PP. (1228P.); ABS. ANGL.; BIBL. DISSEM.; ISBN 008020225X; 2 VOL.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "EPURATION EAU USEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONGRES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PARIS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "1974"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NUISANCES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLLUTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WASTE WATER PURIFICATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONGRESS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PARIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NUISANCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLLUTION"
+        },
+        "001D16: Pollution / Pollution"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7760077573"
+}

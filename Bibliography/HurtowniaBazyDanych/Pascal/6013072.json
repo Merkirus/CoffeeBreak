@@ -1,0 +1,167 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Searching for adverse drug reactions at the margin of scientific fields. The scientometric detection of peripheral but potentially innovative developments in pharmaceutical research",
+    "dc:creator": [
+        "RIKKEN, F",
+        "VOS, R"
+    ],
+    "dc:contributor": [
+        "GLÄNZEL, Wolfgang (Editor)",
+        "KRETSCHMER, Hildrun (Editor)",
+        "International conference on bibliometrics, informetrics and scientometrics (4 ; Berlin 1993-09-11)"
+    ],
+    "dc:relation": [
+        "Scientometrics (Print) -- Scientometrics (Print), CODEN SCNTDX, ISSN 0138-9130, Vol. 30 (1) , pp. 187-199",
+        "International conference on bibliometrics, informetrics and scientometrics"
+    ],
+    "dc:date": "1994",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "12 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse mots associés"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bibliométrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cartographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Discipline"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dynamique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Développement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Innovation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Outil"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recherche scientifique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thème recherche"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Coword analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bibliometrics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cartography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Discipline"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dynamics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Development"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Innovation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tool"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Scientific research"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Research topic"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis palabras asociadas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bibliometría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cartografía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Disciplina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dinámica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desarrollo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inovación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Herramienta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Investigación científica"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation",
+        "001A01A02: Bibliométrie. Scientométrie. Evaluation / Bibliometrics. Scientometrics. Evaluation",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-B: Sciences de l'information et des bibliothèques. Etude d'ensemble / Library and information science. General aspects"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4084760"
+}

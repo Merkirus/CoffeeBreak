@@ -1,0 +1,110 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Computer simulations of protein translocation",
+    "dc:creator": [
+        "KIRMIZIALTIN, Serdal",
+        "LEI HUANG",
+        "MAKAROV, Dmitrii E"
+    ],
+    "dc:contributor": [
+        "CHELIKOWSKY, James (Editor)",
+        "DEMKOV, Alex (Editor)",
+        "Institute for the Theory of Advanced Materials in Information Technology (Organiser of meeting)",
+        "Institute for the Theory of Advanced Materials in Informatioin Technology Workshop on Computational Materials and Electronics (1 ; Austin, TX 2005-10-20)"
+    ],
+    "dc:relation": [
+        "Physica status solidi. B. Basic research -- Phys. status solidi, B, Basic res, CODEN PSSBBD, ISSN 0370-1972, Vol. 243 (9) , pp. 2038-2047",
+        "Computational materials and electronics, Austin, 20-22 October 2005"
+    ],
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Wiley",
+    "dc:format": [
+        "print",
+        "10 p. ; 52 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Energie libre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau nanoporeux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Peptide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Protéine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation ordinateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Translocation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "8714E"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Free energy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nanoporous materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Peptides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Protein"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computer simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Translocation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Energía libre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Péptido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Proteína"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simulación computadora"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Translocación"
+        },
+        "002A02D10: Divers / Miscellaneous"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17986835"
+}

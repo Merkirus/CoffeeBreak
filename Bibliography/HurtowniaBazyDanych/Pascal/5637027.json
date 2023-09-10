@@ -1,0 +1,144 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Vegetation ecology of Central Europe",
+    "dc:creator": "ELLENBERG, Heinz",
+    "dc:contributor": "STRUTT, Gordon K (Translator)",
+    "dc:date": "1988",
+    "dc:type": [
+        "Text",
+        "Book"
+    ],
+    "dc:identifier": [
+        "ISBN 0-521-23642-8",
+        "Inist-CNRS record number 19681359"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Cambridge univ",
+    "dc:format": [
+        "print",
+        "p ; 17 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Quaternaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Action homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Actuel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecosystème"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe Centrale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Flore"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Holocène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Monographie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quaternary"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human activity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modern"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ecosystems"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ecosystem"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Floral list"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Flora"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Holocene"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Monographs"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuaternario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acción hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Actual"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ecosistema"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa central"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Flora"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Holoceno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Monografía"
+        },
+        "001E01O04: Pollution, géologie de l'environnement / Pollution, environment geology"
+    ],
+    "dc:rights": [
+        "Bureau de Recherches Géologiques et Minières (BRGM)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

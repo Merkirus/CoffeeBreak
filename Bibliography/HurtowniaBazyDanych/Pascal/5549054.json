@@ -1,0 +1,140 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "1.75 μm emission from self-organized InAs quantum dots on GaAs",
+    "dc:creator": [
+        "USTINOV, V. M",
+        "EGOROV, A. Yu",
+        "SOSHNIKOV, I. P",
+        "ZAKHAROV, N",
+        "WERNER, P",
+        "BIMBERG, D",
+        "ZHUKOV, A. E",
+        "KOVSH, A. R",
+        "LEDENTSOV, N. N",
+        "MAXIMOV, M. V",
+        "VOLOVIK, B. V",
+        "TSATSUL'NIKOV, A. F",
+        "KOP'EV, P. S",
+        "ALFEROV, Z. I"
+    ],
+    "dc:contributor": [
+        "FAURIE, J.-P (Editor)",
+        "ETIENNE, B (Editor)",
+        "MASSIES, J (Editor)",
+        "International Conference on Molecular Beam Epitaxy (10 ; Cannes 1998-08-31)"
+    ],
+    "dc:relation": [
+        "Journal of crystal growth -- J. cryst. growth, CODEN JCRGAE, ISSN 0022-0248, Vol. 201202, pp. 1143-1145",
+        "Molecular beam epitaxy 1998"
+    ],
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "Russian",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "3 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé minéral"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé binaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gallium arséniure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Indium arséniure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau semiconducteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Photoluminescence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Point quantique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TEM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "As Ga"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "As In"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GaAs"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "InAs"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inorganic compounds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Binary compounds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gallium arsenides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Indium arsenides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Semiconductor materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photoluminescence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quantum dots"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TEM"
+        },
+        "001B70H55C: Semiconducteurs iii-v / Iii-v semiconductors",
+        "001B70H66F: Semiconducteurs iii-v / Iii-v semiconductors",
+        "7855C:  / III-V semiconductors",
+        "7866F:  / III-V semiconductors"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1849851"
+}

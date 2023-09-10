@@ -1,0 +1,69 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Einwanderung nach Australien im Wandel; Changement dans la politique d'immigration en Australie",
+    "dc:creator": "GROTZ, R",
+    "dc:relation": "Geographische Rundschau -- Geogr. Rundsch, ISSN 0016-7460, Vol. 47 (11) , pp. 626-632",
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "German",
+    "dc:publisher": "Westermann",
+    "dc:format": [
+        "print",
+        "Illustration ; 18 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Immigration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immigrés"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Migration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Politique de l'immigration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immigration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immigrants"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Migration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immigration policy"
+        },
+        "531-: Bgi / Prodig / Bgi / Prodig",
+        "531-524: Oceanie / Oceania",
+        "531-528: Géographie humaine / Human geography"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Australie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Australia"
+        }
+    ],
+    "dc:rights": [
+        "Bibliographie Géographique Internationale - Pôle de Recherche pour l'Organisation et la Diffusion de l'Information Géographique (PRODIG)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6317923"
+}

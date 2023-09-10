@@ -1,0 +1,233 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "London 2012 legacy: E20 - creating an integrated piece of city",
+    "dc:creator": "FIRTH, Kathryn",
+    "dc:contributor": [
+        "RAWLINGS, Colin (Author of introductory parts)",
+        "CACCAVONE, Tony (Author of introductory parts)"
+    ],
+    "dc:relation": "Proceedings of the Institution of Civil Engineers. Civil engineering -- Proc. Inst. Civ. Eng., Civ. eng, ISSN 0965-089X, Vol. 167 (6) , pp. 19-25",
+    "dc:date": "2014",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Telford",
+    "dc:format": [
+        "print",
+        "7 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Aménagement urbain"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Communauté"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Espace vert"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation projet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Héritage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Occupation sol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Piste cyclable"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pont"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Quartier voisinage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Raccordement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rénovation urbaine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Schéma directeur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tissu urbain"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Voie navigable"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Jeux Olympiques et Paralympiques de Londres 2012"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Urban planning"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Community"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Green area"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Project evaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inheritance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Land use"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cycle track"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bridges"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Residential neighborhoods"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Connection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Urban renewal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Master plan"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Urban structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Navigable waterway"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "London 2012 Olympic and Paralympic Games"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Planeamiento urbano"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Comunidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Area verde"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evaluación proyecto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Herencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ocupación terreno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pista bicicleta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Puente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Barrio vecindad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conexión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Renovación urbana"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Plan rector"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red urbana"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vía navegable"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works",
+        "001D14A01: Etablissement de projets. Techniques de conception / Project management. Process of design",
+        "001D14A06: Urbanisation / Urban development"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Royaume-Uni"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United Kingdom"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reino Unido"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 28881288"
+}

@@ -1,0 +1,105 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "METHANE-STEAM REFORMING",
+    "dc:creator": "VAN HOOK JP",
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "CATALYS. REV.; USA; DA. 1980; VOL. 21; NO 1; PP. 1-51; BIBL. 54 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PETROCHIMIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSFORMATION GAZ"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REFORMAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHANE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRODUCTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HYDROGENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARBONE MONOXYDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARBONE DIOXYDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHANOL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AMMONIAC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PETROCHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GAS TRANSFORMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REFORMING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METHANE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PRODUCTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HYDROGEN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CARBON MONOXIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CARBON DIOXIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METHANOL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AMMONIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY"
+        },
+        "001D06: Energie / Energy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8130031696"
+}

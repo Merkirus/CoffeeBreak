@@ -1,0 +1,122 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Gas measurement: API computer based training approach",
+    "dc:creator": [
+        "HEIDEMAN, K",
+        "WILD, M"
+    ],
+    "dc:contributor": "Annual convention. 67 (Dallas 1988-03-14)",
+    "dc:relation": "Annual convention. 67",
+    "dc:date": "1988",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Gas Processors Association",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Comptage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Débitmètre diaphragme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Formation professionnelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gaz naturel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Industrie gazière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Logiciel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle simulation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Programme ordinateur"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metering"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diaphragm flowmeter"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Occupational training"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Natural gas"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gas industry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Software"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Simulation model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computer program"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuenta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Caudalímetro diafragma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Formación profesional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gas natural"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Industria del gas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Logicial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo simulación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Programa computador"
+        },
+        "001D06B03C: Propriétés et caractéristiques des gaz. Echantillonnage. Analyses / Gas characteristics and properties. Sampling. Analysis"
+    ],
+    "dc:rights": [
+        "Institut Français du Pétrole et des Energies Nouvelles (IFP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 7173877"
+}

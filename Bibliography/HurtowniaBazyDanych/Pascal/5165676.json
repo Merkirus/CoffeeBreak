@@ -1,0 +1,131 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A framework for investigating security attacks in ATM networks",
+    "dc:creator": [
+        "GHOSH, S",
+        "ROBINSON, P"
+    ],
+    "dc:contributor": [
+        "IEEE Signal Processing Society (Organiser of meeting)",
+        "Armed Forces Communications and Electronics Association (Organiser of meeting)",
+        "MILCOM 1999. Conference (Atlantic City NJ 1999-10-31)"
+    ],
+    "dc:relation": "IEEE military communications conference (Atlantic City NJ, 31 October - 3 November 1999)",
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "IEEE",
+    "dc:format": [
+        "print",
+        "16 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Commutation paquet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Construction à ossature"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etat actuel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude théorique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau communication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sûreté"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transmission asynchrone"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vulnérabilité"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Packet switching"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Frame construction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "State of the art"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Theoretical study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Communication network"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Safeguard"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asynchronous transmission"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vulnerability"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conmutación por paquete"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Construcción esquelética"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estado actual"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio teórico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red de comunicación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Seguridad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transmisión asincrónica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vulnerabilidad"
+        },
+        "001D04A01: Généralités / General",
+        "001D04B02G: Transmission et modulation (techniques et équipements) / Transmission and modulation (techniques and equipments)",
+        "8440U:  / Telecommunications: signal transmission and processing; communication satellites"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1536771"
+}

@@ -1,0 +1,424 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Spatial and temporal patterns of surface water quality and ichthyotoxicity in urban and rural river basins in Texas",
+    "dc:creator": [
+        "VANLANDEGHEM, Matthew M",
+        "MEYER, Matthew D",
+        "COX, Stephen B",
+        "SHARMA, Bibek",
+        "PATINO, Reynaldo"
+    ],
+    "dc:contributor": [
+        "RAUCH, Wolfgang (Editor)",
+        "LEDIN, Anna (Editor)",
+        "ERIKSSON, Eva (Editor)",
+        "DELETIC, Ana (Editor)",
+        "HUNT, William (Editor)"
+    ],
+    "dc:relation": "Water research (Oxford) -- Water res. (Oxf.), CODEN WATRAG, ISSN 0043-1354, Vol. 46 (20) , pp. 6638-6651",
+    "dc:date": "2012",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "14 p. ; 1 p.3/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse composante principale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse régression"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cours eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dureté eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eau pluie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eau ruissellement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eau surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eau usée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effluent"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai biologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Montagne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Norme qualité eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nutriment"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Qualité eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Régression multiple"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Répartition spatiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Salinité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Surverse orage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Toxine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Toxique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Turbidité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Variation temporelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Zone rurale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Zone urbaine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Principal component analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Regression analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Statistical analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stream"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water hardness"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rain water"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Runoff water"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface water"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Waste water"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Effluent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bioassay"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mountain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Statistical method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water quality standard"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nutrient"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water quality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multiple regression"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spatial distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Salinity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Storm water"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Toxin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Poison"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Turbidity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Time variation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rural area"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Urban area"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Golden alga"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ichthyotoxicity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Runoff"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stormwater"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water hardness"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water quality"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis componente principal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis regresión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis estadístico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Curso agua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dureza agua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agua llovediza"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Escorrentía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agua superficie"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agua residual"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efluente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prueba biológica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Montaña"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método estadístico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Norma calidad agua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nutriente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Calidad agua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Regresión múltiple"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Distribución espacial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salinidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agua lluvia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Toxina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tóxico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Turbiedad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Variación temporal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Zona rural"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Zona urbana"
+        },
+        "001D16A: Traitement et pollution des eaux / Water treatment and pollution"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats-Unis"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Texas"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Texas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estados Unidos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Texas"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 26821886"
+}

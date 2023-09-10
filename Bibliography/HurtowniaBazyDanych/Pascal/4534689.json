@@ -1,0 +1,105 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "UTILISATION DE L'ELECTRODE A MEMBRANE SPECIFIQUE DES THIOCYANATES DANS UN MELANGE DE SOLVANT ORGANIQUE ET D'EAU",
+    "dc:creator": [
+        "SZARVAS P",
+        "KORONDAN I",
+        "SZABO M"
+    ],
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "Hungarian",
+    "dc:format": "MAGYAR KEM. FOLYOIRAT; MAGYAR.; DA. 1974; VOL. 80; NO 5; PP. 207-211; ABS. ALLEM.; BIBL. 10 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRODE SPECIFIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRODE MEMBRANE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "THIOCYANATE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOLVANT ORGANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETHANOL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACETONE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DMF"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIOXANNE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DMSO"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EAU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SELECTIVITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHLORURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BROMURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POTENTIEL ELECTRODE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TYPE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROCHIMIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE PHYSIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE GENERALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROCHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHYSICAL CHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENERAL CHEMISTRY"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7517000732"
+}

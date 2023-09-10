@@ -1,0 +1,114 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Integration durch energietechnische Verbundlösungen : ein Hauptweg der rationellen Energieverwendung; Integration with energetic compound solutions : a main way of rational use of energy",
+    "dc:creator": "MÜLLER, H",
+    "dc:contributor": [
+        "Verein Deutscher Ingenieure, Gesellschaft Energietechnik (Organiser of meeting)",
+        "Integrierte Energiesysteme. Tagung (Nürnberg 2000-04-04)"
+    ],
+    "dc:relation": [
+        "VDI-Berichte -- VDI-Ber, CODEN VDIBAP, ISSN 0083-5560, pp. 3-15",
+        "Integrierte Energiesysteme : Chancen im Wettbewerb (Nürnberg, 4-5 April 2000)"
+    ],
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "German",
+    "dc:publisher": "VDI",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Centrale combinée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conservation énergie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Coût"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Production chaleur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Production énergie électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rendement exergétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système intégré"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Combined power plant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Energy conservation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Costs"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heat production"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electric power production"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Exergetic efficiency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Integrated system"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Central combinada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conservación energética"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Costo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Producción calor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Producción energía eléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rendimiento exergético"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema integrado"
+        },
+        "001D06: Energie / Energy",
+        "001D06D04F: Centrales combinées / Combined power plants"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1382568"
+}

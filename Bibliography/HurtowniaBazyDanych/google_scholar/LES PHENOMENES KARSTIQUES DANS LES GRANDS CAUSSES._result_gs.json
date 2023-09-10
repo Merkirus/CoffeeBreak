@@ -1,0 +1,38 @@
+[
+    {
+        "position": 0,
+        "title": "Les ph\u00e9nom\u00e8nes karstiques dans les Grands Causses",
+        "result_id": "sEJ5dP42UWUJ",
+        "type": "Html",
+        "link": "https://www.persee.fr/doc/geoca_0035-113x_1954_num_29_4_1990",
+        "snippet": "\u2014Emersion des calcaires, d\u00e9veloppement, au moins local, de surfaces d'abrasion marine.\u2014Tertiaire inf\u00e9rieur et moyen: longue p\u00e9riode s\u00e8che, denudation aboutissant \u00e0 la formation de glacis sub-structuraux.\u2014Mioc\u00e8ne, climat toujours sec, soul\u00e8vement des hauteurs cristallines, en particulier Loz\u00e8re et Aigoual. Au Pontien, le climat devient continental; des t\u00eates de p\u00e9diments, reli\u00e9es aux surfaces calcaires, mordent sur le cristallin.\u2014Plioc\u00e8ne, p\u00e9riode chaude et humide, formation des d\u00e9pressions p\u00e9riph\u00e9riques. Ebauche de r\u00e9seaux \u2026",
+        "publication_info": {
+            "summary": "J Corbel - G\u00e9ocarrefour, 1954 - persee.fr"
+        },
+        "resources": [
+            {
+                "title": "persee.fr",
+                "file_format": "HTML",
+                "link": "https://www.persee.fr/doc/geoca_0035-113x_1954_num_29_4_1990"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=sEJ5dP42UWUJ",
+            "html_version": "https://www.persee.fr/doc/geoca_0035-113x_1954_num_29_4_1990",
+            "cited_by": {
+                "total": 12,
+                "link": "https://scholar.google.com/scholar?cites=7300676937447981744&as_sdt=80000005&sciodt=0,23&hl=en",
+                "cites_id": "7300676937447981744",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=80000005&cites=7300676937447981744&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:sEJ5dP42UWUJ:scholar.google.com/&scioq=LES+PHENOMENES+KARSTIQUES+DANS+LES+GRANDS+CAUSSES.&hl=en&as_sdt=0,23",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C23&engine=google_scholar&hl=en&q=related%3AsEJ5dP42UWUJ%3Ascholar.google.com%2F",
+            "versions": {
+                "total": 2,
+                "link": "https://scholar.google.com/scholar?cluster=7300676937447981744&hl=en&as_sdt=0,23",
+                "cluster_id": "7300676937447981744",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C23&cluster=7300676937447981744&engine=google_scholar&hl=en"
+            }
+        }
+    }
+]

@@ -1,0 +1,61 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "CRISTAUX MACLES DANS LA COUVERTURE DE GLACE ANTARCTIQUE",
+    "dc:creator": [
+        "MATSUDA M",
+        "WAKAHAMA G",
+        "BUDD WF"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "Japanese",
+    "dc:format": "LOW TEMPER. SCI., A; JAP.; DA. 1976; NO 34; PP. 163-171; ABS. ANGL.; BIBL. 15 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "GLACE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANTARCTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CRISTAL GLACE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CRISTALLOGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GLACIOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ICE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANTARCTICA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ICE CRYSTALS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CRYSTALLOGRAPHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GLACIOLOGY"
+        },
+        "001E02F: Géophysique. Techniques, méthodes, appareillage et modèles / Geophysics. Techniques, methods, instrumentation and models"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7730430423"
+}

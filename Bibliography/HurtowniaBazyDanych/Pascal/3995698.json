@@ -1,0 +1,81 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "VERNALISATION ET MISE A FLEUR DE LA JUSQUIAME NOIRE BISANNUELLE (HYOSCYAMUS NIGER L.). RECHERCHES ONTOGENIQUES",
+    "dc:creator": [
+        "DIOMAIUTO BONNAND J",
+        "HOUIVET JY",
+        "PICARD C"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "BULL. SOC. BOT. FR., LETT. BOT.; ISSN 500917; FRA; DA. 1980 PUBL. 1981; VOL. 127; NO 5; PP. 427-442; ABS. ENG; BIBL. 2 P.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DICOTYLEDONES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VERNALISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANATOMIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CYTOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACIDE NUCLEIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HYOSCYAMUS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOLOGIE VEGETALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DICOTYLEDONES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DICOTYLEDONEAE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VERNALIZATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANATOMY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CYTOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NUCLEIC ACID"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HYOSCYAMUS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PLANT BIOLOGY"
+        },
+        "002A10: Physiologie vegetale et developpement / Plant physiology and development"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8110329848"
+}

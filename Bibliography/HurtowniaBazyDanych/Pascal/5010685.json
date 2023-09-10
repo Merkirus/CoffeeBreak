@@ -1,0 +1,99 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "In search of a phase transition in the AC-matching problem",
+    "dc:creator": [
+        "KOLAITIS, Phokion G",
+        "RAFFILL, Thomas"
+    ],
+    "dc:contributor": [
+        "Walsh, Toby (Editor)",
+        "International conference on principles and practice of constriant programming (7 ; Paphos 2001-11-26)"
+    ],
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 433-450",
+        "CP 2001 : principles and practice of constraint programming (Paphos, 26 November - 1 December 2001)"
+    ],
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "18 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Problème NP complet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Programmation en nombres entiers"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Programmation linéaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Satisfaction contrainte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transition phase"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AC matching problem"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NP complete problem"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Integer programming"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Linear programming"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Constraint satisfaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phase transitions"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Problema NP completo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Programación entera"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Programación lineal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Satisfaccion restricción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transición fase"
+        },
+        "001D01A04: Flots dans les réseaux. Problèmes combinatoires / Flows in networks. Combinatorial problems"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14046039"
+}

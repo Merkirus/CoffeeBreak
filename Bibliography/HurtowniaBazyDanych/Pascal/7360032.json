@@ -1,0 +1,169 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Equilibres de phases à haute pression d'un basalte riche en MgO de St Vincent, arc des Petites Antilles; High pressure equilibrium phases of a MgO-rich basalt from Saint Vincent, Lesser Antilles arc",
+    "dc:creator": [
+        "PICHAVANT, M",
+        "MYSEN, B",
+        "MACDONALD, R"
+    ],
+    "dc:contributor": [
+        "Société géologique de France (Funder/Sponsor)",
+        "RST98 : Réunion des sciences de la terre (Brest 1998-03-31)"
+    ],
+    "dc:relation": [
+        "Réunion des Sciences de la Terre",
+        "Penser la Terre -- Think the Earth"
+    ],
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "p. 175"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche ignée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche volcanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Région des Caraïbes"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Basalte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Haute pression"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Magnésium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Origine mantellique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Relation phase"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "igneous rocks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "volcanic rocks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Caribbean region"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "basalts"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "high pressure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "magnesium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "mantle origin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "phase relations"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Roca ignea"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Roca volcánica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Región del Caribe"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Basalto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alta presión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Magnesio"
+        },
+        "001E01F01: Pétrologie des roches ignées et métamorphiques, phénomènes volcaniques, magmas / Igneous and metamorphic rocks petrology, volcanic processes, magmas"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Antilles"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Iles Caraïbes"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Petites Antilles"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ile Saint Vincent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antilles"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "West Indies"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lesser Antilles"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Saint Vincent"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antillas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pequeñas Antillas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Isla Saint Vincent"
+        }
+    ],
+    "dc:rights": [
+        "Bureau de Recherches Géologiques et Minières (BRGM)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6225478"
+}

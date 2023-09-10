@@ -1,0 +1,93 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Une construction territoriale et proximité des acteurs",
+    "dc:creator": "GUNDOLF, K",
+    "dc:relation": "REM. Revue de l'économie méridionale -- REM, Rev. écon. mérid, ISSN 0987-3813, Vol. 52 (208) , pp. 315-335",
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Centre régional de la productivité et des études économiques",
+    "dc:format": [
+        "print",
+        "21 p. ; 35 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Externalités"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Proximité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stratégie d'acteurs"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Territoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tourisme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Externalities"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Proximity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Network"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Decision making process"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Territory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tourism"
+        },
+        "531-: Bgi / Prodig / Bgi / Prodig",
+        "531-97: Géographie humaine / Human geography",
+        "531-151: Tourisme. Loisirs / Tourism. Recreation"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Alpes"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Alps (The)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        }
+    ],
+    "dc:rights": [
+        "Bibliographie Géographique Internationale - Pôle de Recherche pour l'Organisation et la Diffusion de l'Information Géographique (PRODIG)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18064812"
+}

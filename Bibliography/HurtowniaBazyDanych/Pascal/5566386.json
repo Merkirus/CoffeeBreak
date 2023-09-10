@@ -1,0 +1,123 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Performance of the XRS/ASTRO-E engineering model ADR",
+    "dc:creator": [
+        "SERLEMITSOS, A. T",
+        "SANSEBASTIAN, M",
+        "KUNES, E. S",
+        "BEHR, J"
+    ],
+    "dc:contributor": "1997 Space Cryogenics Workshop (Eugene, OR 1997-08-04)",
+    "dc:relation": [
+        "Cryogenics (Guildford) -- Cryogenics (Guildf.), CODEN CRYOAX, ISSN 0011-2275, Vol. 39 (4) , pp. 399-404",
+        "1997 Space Cryogenics Workshop"
+    ],
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "8 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Application spatiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conception"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cryogénie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Refroidissement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réfrigérateur magnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectrométrie RX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spécification"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Adiabatic demagnetization refrigerator"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Space application"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cryogenics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cooling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetic refrigerator"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "X ray spectrometry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Specification"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aplicación espacial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diseño"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Criogenia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enfriamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Refrigerador magnético"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Espectrometría RX"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Especificación"
+        },
+        "001D06: Energie / Energy",
+        "001D06D09B: Techniques cryogéniques / Cryogenics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1866354"
+}

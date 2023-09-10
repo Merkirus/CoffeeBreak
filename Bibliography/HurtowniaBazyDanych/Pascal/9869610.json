@@ -1,0 +1,201 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Effect of unsaturated polyester resin on the mechanical and ultrasonic properties of SBR and NBR",
+    "dc:creator": [
+        "YOUSSEF, M. H",
+        "MANSOUR, S. H",
+        "TAWFIK, S. Y"
+    ],
+    "dc:relation": "Polymer (Guildford) -- Polymer (Guildf.), CODEN POLMAG, ISSN 0032-3861, Vol. 41 (21) , pp. 7815-7826",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "29 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Ester copolymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Caoutchouc nitrile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Copolycondensation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Copolymère insaturé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Esteramide copolymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Maléate copolymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mélange polymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété mécanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Préparation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Relaxation ultrasonore"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Renforcement mécanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SBR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vitesse ultrason"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vulcanisat"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ester copolymer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nitrile rubber"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Copolycondensation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Unsaturated copolymer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Esteramide copolymer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Maleate copolymer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polymer blends"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mechanical properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Preparation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ultrasonic relaxation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Strengthening"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SBR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ultrasonic velocity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vulcanizate"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ester copolímero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Caucho nitrilo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Copolicondensación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Copolímero insaturado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Esteramida copolímero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Maleato copolímero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad mecánica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Preparación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Relajación ultrasonora"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Refuerzo mecánico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "SBR"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vulcanizado"
+        },
+        "001D09D02A: Polycondensation / Polycondensation"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1390861"
+}

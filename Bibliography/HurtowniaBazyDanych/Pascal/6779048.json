@@ -1,0 +1,115 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Low-cost outdoor solar cells in-line measurement with Zigbee",
+    "dc:creator": [
+        "XU, Wen-Kai",
+        "YI YANG",
+        "JIAN CUI",
+        "HUI LIU"
+    ],
+    "dc:contributor": [
+        "Dong, Xinyong (Editor)",
+        "Zhongguo yi qi yi biao xue hui (Organiser of meeting)",
+        "Zhongguo guang xue xue hui (Organiser of meeting)",
+        "SPIE (Organiser of meeting)",
+        "International Conference on Optical Instruments and Technology (Beijing 2011-11-06)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, Vol. 8201",
+        "Optoelectronic measurement technology and systems (6-9 November 2011, Beijing, China) -- 0Optoelectronic measurement technology and systems -- 1International Conference on Optical Instruments and Technology"
+    ],
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "820127.1-820127.8 ; 16 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Caractéristique courant tension"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cellule solaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur remplissage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Température ambiante"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0130C"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0760"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "8460J"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métrologie optique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IV characteristic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Solar cells"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fill factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measuring methods"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ambient temperature"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical metrology"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método óptico"
+        },
+        "001B00A30C: Actes de congrès / Conference proceedings",
+        "001B00G60: Instrumentation, équipement et techniques optiques / Optical instruments, equipment and techniques",
+        "001D06: Energie / Energy",
+        "001D06C02D1: Cellules solaires. Cellules photoélectrochimiques / Solar cells. Photoelectrochemical cells"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 25529363"
+}

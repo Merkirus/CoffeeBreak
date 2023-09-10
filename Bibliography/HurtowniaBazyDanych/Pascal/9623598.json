@@ -1,0 +1,162 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Planning more powerful ways to deliver information to the desktop",
+    "dc:creator": "DYKMAN, E. K",
+    "dc:relation": "Online (Weston, CT) -- Online (West., CT), CODEN ONLIDN, ISSN 0146-5422, Vol. 20 (5) , pp. 20-28",
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Online",
+    "dc:format": [
+        "print",
+        "8 p. ; 6 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Technologie information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Accès information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Besoin utilisateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude cas"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude comparative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Filtrage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système gestion électronique document"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information technology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information access"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "User need"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Case study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Filtering"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information network"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic document management system"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tecnología información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acceso información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Necesidad usuario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio caso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio comparativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Filtrado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema gestíon electrónica documento"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation",
+        "001A01F04: Systèmes de gestion documentaire et d'information / Information and document management systems",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-G: Système de recherche documentaire. Système de gestion documentaire et d'information / Information retrieval systems. Information and document management system"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats Unis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estados Unidos"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3260608"
+}

@@ -1,0 +1,117 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A fast and simple method to determine the clonal relationship among human T-cell lymphocytes",
+    "dc:creator": [
+        "DE BOER, J. G",
+        "CURRY, J. D",
+        "GLICKMAN, B. W"
+    ],
+    "dc:contributor": [
+        "GLICKMAN, B. W (Editor)",
+        "GORELICK, N. J (Editor)"
+    ],
+    "dc:relation": "Mutation research -- Mutat. res, CODEN MUREAV, ISSN 0027-5107, Vol. 288 (1) , pp. 173-180",
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "22 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Clonage cellulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lymphocyte T"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mutation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode étude"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polymorphisme longueur fragment restriction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réaction chaîne polymérase"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cell cloning"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "T-Lymphocyte"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mutation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Investigation method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Restriction fragment length polymorphism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polymerase chain reaction"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Clonación celular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Linfocito T"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mutación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método estudio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polimorfismo longitud fragmento restricción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reacción cadena polimerasa"
+        },
+        "002A04B: Méthodes diverses / Diverse techniques"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4781539"
+}

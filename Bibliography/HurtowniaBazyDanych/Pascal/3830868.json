@@ -1,0 +1,128 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "LES COMPOSANTS DE VISUALISATION ELECTROLUMINESCENTS.",
+    "dc:creator": [
+        "AUZEL F",
+        "NOBLANC JP"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "ECHO RECH.; FR.; DA. 1976; NO 86; PP. 34-43; ABS. ANGL.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "AFFICHAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EQUIPEMENT AFFICHAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIODE ELECTROLUMINESCENTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AFFICHAGE ALPHANUMERIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHOSPHURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE GALLIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ARSENIURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LUMIERE BLEUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ADDITION PHOTON TRANSFERT ENERGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POUDRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLYCRISTAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIODE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHOSPHURE GALLIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHOSPHO ARSENIURE GALLIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROMAGNETISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DISPLAY EQUIPMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIGHT EMITTING DIODE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ALPHANUMERIC DISPLAY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHOSPHIDES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ARSENIDES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BLUE LIGHT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POWDER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLYCRYSTAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIODE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROMAGNETISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONICS"
+        },
+        "001D03: Electronique / Electronics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7730158049"
+}

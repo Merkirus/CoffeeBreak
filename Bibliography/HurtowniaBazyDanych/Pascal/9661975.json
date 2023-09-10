@@ -1,0 +1,123 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Schizophrenia trials in China : a survey",
+    "dc:creator": [
+        "CHAKRABARTI, A",
+        "ADAMS, C. E",
+        "BLATTER, J",
+        "MANTZ, M",
+        "KLOECKNER, K",
+        "RATHBONE, J",
+        "WRIGHT, J",
+        "XIA, J",
+        "WONG, W",
+        "VON REIBNITZ, P",
+        "KOENIG, C",
+        "BAIER, S",
+        "PFEIFFER, C"
+    ],
+    "dc:relation": "Acta psychiatrica Scandinavica -- Acta psychiatr. Scand, CODEN APYSA9, ISSN 0001-690X, Vol. 116 (1) , pp. 6-9",
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Blackwell",
+    "dc:format": [
+        "print",
+        "4 p. ; 19 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Psychose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enquête"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai thérapeutique contrôlé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Schizophrénie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Psychosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Survey"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Controlled therapeutic trial"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Schizophrenia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "randomized controlled trial"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "schizophrenia; China"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Psicosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Encuesta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo terapéutico controlado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Esquizofrenia"
+        },
+        "002B18C06A: Schizophrénie / Schizophrenia",
+        "770-: Psychologie. Psychanalyse. Psychiatrie / Psychology. Psychoanalysis. Psychiatry",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Asie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "China"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "China"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18822312"
+}

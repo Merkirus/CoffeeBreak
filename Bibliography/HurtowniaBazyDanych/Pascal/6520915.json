@@ -1,0 +1,181 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Viscoelastic effects on the scratch resistance of polymers: relationship between mechanical properties and scratch properties at various temperatures",
+    "dc:creator": [
+        "JARDRET, Vincent",
+        "MOREL, Pierre"
+    ],
+    "dc:contributor": [
+        "PATSIS, Gregory S (Editor)",
+        "BIERWAGEN, Gordon P (Editor)",
+        "PIENS, Marcel (Editor)",
+        "Athens 2002 Conference on Organic Coatings and Technology (Athens 2002-07)"
+    ],
+    "dc:relation": [
+        "Progress in organic coatings -- Prog. org. coat, ISSN 0300-9440, Vol. 48 (2-4) , pp. 322-331",
+        "Athens 2002 Conference on Organic Coatings and Technology, Athens, Greece, July 2002"
+    ],
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Sequoia",
+    "dc:format": [
+        "print",
+        "10 p. ; 16 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété mécanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété rhéologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrainte déformation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Formulation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Liant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau revêtement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthacrylate de méthyle polymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Relation contrainte déformation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résistance rayure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traction uniaxiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transition ductile fragile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Viscoélasticité"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mechanical properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rheological properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stress strain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Formulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Binders"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Coating material"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Methyl methacrylate polymer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stress strain relation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Score strength"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Uniaxial tension stress"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ductile brittle transition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Viscoelasticity"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad mecánica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad rheológica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tensión deformante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Formulación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ligante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Material revestimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metacrilato de metilo polímero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Relación tensión deformación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resistencia al rayado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tracción uniaxial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transición ductil frágil"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Viscoelasticidad"
+        },
+        "001D10B04: Formation et durcissement des feuils, propriétés, essais / Film formation and curing, properties, testing"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15369320"
+}

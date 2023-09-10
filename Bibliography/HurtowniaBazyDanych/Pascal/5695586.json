@@ -1,0 +1,218 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Effect of pH on degradation of acetaminophen and production of 1,4-benzoquinone in water chlorination",
+    "dc:creator": [
+        "XAGORARAKI, Irene",
+        "HULLMAN, Rebecca",
+        "WENLU SONG",
+        "HUI LI",
+        "VOICE, Thomas"
+    ],
+    "dc:contributor": [
+        "ITOH, Sadahiko (Author of introductory parts)",
+        "VON GUNTEN, Urs (Author of introductory parts)",
+        "WESTERHOFF, Paul (Author of introductory parts)"
+    ],
+    "dc:relation": "Journal of water supply : research and technology. AQUA (Print) -- J. water supply : res. technol., AQUA (Print), ISSN 1606-9935, Vol. 57 (6) , pp. 381-390",
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "International Water Association",
+    "dc:format": [
+        "print",
+        "10 p. ; 3/4 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Benzoquinone"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chloration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eau potable"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epuration eau usée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude comparative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode analytique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Oxydation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Paracétamol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résultat expérimental"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sous produit"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "pH"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Benzoquinone"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chlorination"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Drinking water"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Waste water purification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Analytical method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oxidation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Paracetamol"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental result"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "By product"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "pH"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "acetaminophen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "benzoquinone"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "byproducts"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "chlorination"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "oxidation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "pharmaceutical"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Benzoquinona"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Clorinación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agua potable"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Depuración aguas servidas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio comparativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método analítico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Oxidación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Paracetamol"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resultado experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Subproducto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento agua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "pH"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works",
+        "001D14J01: Généralités / General",
+        "001D14K: Assainissement. Construction des égouts / Sewerage. Sewer construction"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20792547"
+}

@@ -1,0 +1,131 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Gestion des ressources végétales dans des communautés agricoles. Une approche sur l'amélioration participative et l'agrobiodiversité",
+    "dc:creator": "MACHADO, Altair Toledo",
+    "dc:contributor": [
+        "Institut national de la recherche agronomique (INRA) (Organiser of meeting)",
+        "Confédération paysanne (Organiser of meeting)",
+        "Quelles variétés et semences pour des agricultures paysannes durables ? Séminaire (Angers 2005-05-11)"
+    ],
+    "dc:relation": [
+        "Les Dossiers de l'environnement de l'INRA -- Doss. environ. INRA, ISSN 1257-4627 (30) , pp. 139-143",
+        "Quelles variétés et semences pour des agricultures paysannes durables ?"
+    ],
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Institut national de la recherche agronomique",
+    "dc:format": [
+        "print",
+        "5 p. ; 1/4 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Agriculture durable"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Agroécosystème"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amélioration génétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Communauté"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diversité biologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gestion ressources"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recherche agronomique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sélection variétale"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sustainable agriculture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Agroecosystem"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Genetic improvement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Community"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biodiversity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Resource management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Agronomic research"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Varietal selection"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agricultura sostenible"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agroecosistema"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enriquecimiento genético"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Comunidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diversidad biológica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gestión recursos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Investigación agronómica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Selección varietal"
+        },
+        "002A32C01B1: Agroécologie générale / General agroecology",
+        "002A32C01B2: Systèmes agraires et d'exploitation / Agricultural and farming systems",
+        "002A32D03: Sélection variétale. Amélioration spéciale, objectifs d'amélioration / Varietal selection. Specialized plant breeding, plant breeding aims"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18855562"
+}

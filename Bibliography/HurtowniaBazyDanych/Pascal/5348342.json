@@ -1,0 +1,149 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Combined probability distributions of random-walks : A new method to simulate diffusion processes",
+    "dc:creator": [
+        "LARSSON, Henrik",
+        "AGREN, John"
+    ],
+    "dc:contributor": [
+        "JANSSENS, K. G. F (Editor)",
+        "LUSK, M. T (Editor)",
+        "The Minerals, Metals and Materials Society (TMS) (Funder/Sponsor)",
+        "Computational Microstructure Evolution in Steels Symposium (New Orleans, Louisiana 2004-09-26)"
+    ],
+    "dc:relation": [
+        "Computational materials science -- Comput. mater. sci, ISSN 0927-0256, Vol. 34 (3) , pp. 254-263",
+        "Papers of the Materials Science and Technology 2004 Meeting Symposium on Computational microstructure evolution in steels, New Orleans, Louisiana, USA, 26-30 September, 2004"
+    ],
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "10 p. ; 15 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Couple diffusion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffusion(transport)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet Kirkendall"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Loi probabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Marche aléatoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Porosité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Processus stochastique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transformation phase"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "6630D"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diffusion pair"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diffusion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Kirkendall effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Probability distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Random walk"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Porosity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stochastic processes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phase transformations"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "02.60.Cb"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "05.60.-k"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "66.10.Cb"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "81 Diffusion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interface movement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Kirkendall effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multi-component"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phase transformation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Simulation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Par difusión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ley probabilidad"
+        },
+        "001B60F30D: Théorie de la diffusion et de la conduction ionique dans les solides / Theory of diffusion and ionic conduction in solids"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16983657"
+}

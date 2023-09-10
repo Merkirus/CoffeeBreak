@@ -1,0 +1,69 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SUR L'APPROXIMATION DE FONCTIONS INTEGRABLES SUR (0,1) PAR DES POLYNOMES DE BERNSTEIN MODIFIES",
+    "dc:creator": "DERRIENNIC MM",
+    "dc:date": "1981",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "J. APPROX. THEORY; ISSN 0021-9045; USA; DA. 1981; VOL. 31; NO 4; PP. 325-343; ABS. ENG; BIBL. 8 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "APPROXIMATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FONCTION MATHEMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "APPROXIMATION POLYNOMIALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLYNOME BERNSTEIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLYNOME BERNSTEIN MODIFIEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE NUMERIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATHEMATIQUES APPLIQUEES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "APPROXIMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MATHEMATICAL FUNCTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLYNOMIAL APPROXIMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BERNSTEIN POLYNOMIAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NUMERICAL ANALYSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "APPLIED MATHEMATICS"
+        },
+        "001A02: Mathematiques / Mathematics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8130465485"
+}

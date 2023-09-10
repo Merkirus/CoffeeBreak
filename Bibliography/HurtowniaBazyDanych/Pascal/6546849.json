@@ -1,0 +1,87 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Sources X et XUV intenses et brèves : Journées d'Orsay des 5 et 6 mars 1998; Strong and short X-ray and XUV sources : orsay meeting (5th and 6th march 1998)",
+    "dc:creator": [
+        "ZEITOUN, Ph",
+        "PETITE, G",
+        "KLISNICK, A",
+        "D'OLIVEIRA, P",
+        "JAMELOT, G"
+    ],
+    "dc:contributor": [
+        "CHAMPEAUX, Corinne (Editor)",
+        "CATHERINOT, Alain (Editor)",
+        "UVX 98 Colloque sur les Sources cohérentes et incohérentes UV, VUV et X - Applications et développements récents (4 ; Collonges-la-Rouge 1998-10-06)"
+    ],
+    "dc:relation": [
+        "Journal de physique. IV -- J. phys., IV, ISSN 1155-4339, Vol. 9 (5) , pp. Pr5.53-Pr5.56",
+        "4e Colloque sur les Sources cohérentes et incohérentes UV, VUV et X - Applications et développements récents"
+    ],
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "EDP sciences",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Application"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Multicouche"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rayon X"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rayonnement UV extrême"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Source rayonnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etat de l'art"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Application"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multilayers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "X radiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Extreme ultraviolet radiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiation sources"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aplicación"
+        },
+        "001B00G85F: Sources, miroirs, réseaux et détecteurs dans le domaine x et γ / X- and γ-ray sources, mirrors, gratings and detectors",
+        "001B40B72B: Sources dans le domaine du visible et de l'ultraviolet / Visible and ultraviolet sources",
+        "0785F:  / X- and γ-ray sources, mirrors, gratings, and detectors",
+        "4272B:  / Visible and ultraviolet sources"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1912837"
+}

@@ -1,0 +1,225 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Simultaneous islet-liver transplantation : Preliminary results from the UC islet transplantation consortium",
+    "dc:creator": [
+        "SMITH, C. V",
+        "IMAGAWA, D. K",
+        "MULLEN, Y",
+        "STOCK, P. G",
+        "ARITA, S",
+        "UNE, S",
+        "KAWAHARA, T",
+        "SAKAMOTO, Y",
+        "OCHIAI, M",
+        "NAGAI, T",
+        "SHEVLIN, L"
+    ],
+    "dc:contributor": [
+        "SECCHI, Antonio (Editor)",
+        "International Pancreas and Islet Transplant Association (IPITA) (Funder/Sponsor)",
+        "Congress of the International Pancreas and Islet Transplant Association (6 ; Milan 1997-09-24)"
+    ],
+    "dc:relation": [
+        "Transplantation proceedings -- Transplant. proc, CODEN TRPPA8, ISSN 0041-1345, Vol. 30 (2) , pp. 295-296",
+        "Congress of the International Pancreas and Islet Transplant Association"
+    ],
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "1 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Chirurgie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pancréas endocrine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transplantation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chirurgie combinée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diabète insulinodépendant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Efficacité traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai clinique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude multicentrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Foie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homogreffe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homotransplantation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ilot Langerhans"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simultané"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surgery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Endocrine pancreas"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transplantation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Combined surgery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Insulin dependent diabetes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment efficiency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Clinical trial"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multicenter study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Liver"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Homograft"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Homotransplantation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Langerhans islet"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Concurrent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cirugía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Páncreas endocrino"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trasplantación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cirugía combinada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diabetes insulinodependiente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Eficacia tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo clínico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio multicéntrico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hígado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Homoinjerto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Homotrasplante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Isla Langerhans"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simultáneo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        "002B25G03: Foie, voies biliaires, pancréas, circulation portale, rate / Liver, biliary tract, pancreas, portal circulation, spleen"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2244657"
+}

@@ -1,0 +1,25 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "PRESENTATION ET ETUDE CRITIQUE D'UN DOSSIER INFORMATISE D'ASTHME: AU SUJET DE 215 CAS",
+    "dc:creator": "BENEL PATRICK",
+    "dc:date": "1978",
+    "dc:type": "Thesis",
+    "dc:language": "French",
+    "dc:format": "; FRA; BORDEAUX: AMICALE CORPORATIVE ETUDIANTS MED.; DA. 1978; 308; 80 P.; 25 CM; BIBL. 2 P.; TH.: MED./BORDEAUX 2/1978",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PNEUMOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PNEUMOLOGY"
+        },
+        "002B12: Cardiologie. Appareil circulatoire / Cardiology. Vascular system"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8050352893"
+}

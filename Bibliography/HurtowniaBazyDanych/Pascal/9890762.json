@@ -1,0 +1,125 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Frequency stable I2 Raman laser excited by a cw frequency doubled monolithic Nd :YAG laser",
+    "dc:creator": [
+        "KLUG, M",
+        "SCHULZE, K",
+        "HINZE, U",
+        "APOLONSKII, A",
+        "TIEMANN, E",
+        "WELLEGEHAUSEN, B"
+    ],
+    "dc:relation": "Optics communications -- Opt. commun, CODEN OPCOB8, ISSN 0030-4018, Vol. 184 (1-4) , pp. 215-223",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "Russian",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "27 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet Stark"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Iode 127"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Iode 129"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Laser Raman"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Laser continu"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Laser iode"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optique non linéaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pompage par laser"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stabilité fréquence laser"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet Stark dynamique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Puissance sortie 10 mW"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stark effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Iodine 127"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Iodine 129"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Raman lasers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CW lasers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Iodine lasers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nonlinear optics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laser pumping"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laser frequency stability"
+        },
+        "001B40B55Y: Lasers raman / Raman lasers",
+        "001B40B60P: Fonctionnement en continu / Continuous operation",
+        "001B40B65: Optique non linéaire / Nonlinear optics",
+        "4255Y:  / Raman lasers",
+        "4260P:  / Continuous operation",
+        "4265:  / Nonlinear optics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1519664"
+}

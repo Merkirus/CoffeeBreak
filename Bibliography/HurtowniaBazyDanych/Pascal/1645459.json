@@ -1,0 +1,129 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "FUSION OF HAMSTER MACROPHAGES INDUCED BY LECTINS.",
+    "dc:creator": "CHAMBERS TJ",
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. PATHOL.; G.B.; DA. 1977; VOL. 123; NO 1; PP. 53-61; H.T. 4; BIBL. 21 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "GRANULOME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FUSION CELLULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MACROPHAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CELLULE GEANTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUCTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYTOAGGLUTININE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CULTURE CELLULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORIGINE ANIMALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HAMSTER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CULTURE MONOCOUCHE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CULTURE EN SUSPENSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RODENTIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MAMMALIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INFLAMMATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROBIOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GRANULOMA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CELL FUSION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MACROPHAGE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GIANT CELL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INDUCTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHYTOAGGLUTININ"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CELL CULTURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANIMAL ORIGIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HAMSTER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MONOLAYER CULTURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SUSPENSION CULTURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFLAMMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROBIOLOGY"
+        },
+        "002B05: Pathologie infectieuse / Infectious diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7850137033"
+}

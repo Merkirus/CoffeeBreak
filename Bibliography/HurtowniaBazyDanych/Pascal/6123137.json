@@ -1,0 +1,306 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Projet sans toit, ni loi. 100 entretiens avec des personnes SDF sur la santé et le sida",
+    "dc:creator": [
+        "LEGLISE, Yves",
+        "MASSON, David",
+        "Centre de Santé Espoir. (C.S.P.). Montpellier"
+    ],
+    "dc:date": "1994",
+    "dc:type": [
+        "Text",
+        "Book"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Centre de Santé Espoir",
+    "dc:format": [
+        "print",
+        "78 p. ; 9 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lentivirinae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Retroviridae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Virose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Comportement sexuel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Comportement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Consommation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dépistage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ethanol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude cas"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Programme sanitaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Questionnaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rejet social"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SIDA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Toxicomanie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Témoignage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Virus immunodéficience humaine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lentivirinae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Retroviridae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Viral disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sexual behavior"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Behavior"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Consumption"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Medical screening"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ethanol"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Case study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sanitary program"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Questionnaire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Social rejection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AIDS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Drug addiction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Testimony"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human immunodeficiency virus"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Infección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lentivirinae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Retroviridae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Virosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conducta sexual"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conducta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Consumo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Descubrimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Etanol"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio caso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Programa sanitario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuestionario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rechazo social"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "SIDA"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Toxicomanía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Testimonio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Human immunodeficiency virus"
+        },
+        "002B30A03B: Populations particulières (famille, femme, enfant, personne âgée...) / Specific populations (family, woman, child, elderly...)"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Languedoc Roussillon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hérault"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Languedoc Roussillon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Herault"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Languedoc Roussillon"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Herault"
+        }
+    ],
+    "dc:rights": [
+        "Banque de données en santé publique - Ecole des hautes études en santé publique (BDSP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6279145"
+}

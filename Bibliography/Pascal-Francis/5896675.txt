@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Risk group detection and survival function estimation for interval coded survival methods</dc:title>
+  <dc:creator>VAN BELLE, Vanya</dc:creator>
+  <dc:creator>NEVEN, Patrick</dc:creator>
+  <dc:creator>HARVEY, Vernon</dc:creator>
+  <dc:creator>VAN HUFFEL, Sabine</dc:creator>
+  <dc:creator>SUYKENS, Johan A. K</dc:creator>
+  <dc:creator>BOYD, Stephen</dc:creator>
+  <dc:contributor>SCHLEIF, Frank-Michael (Editor)</dc:contributor>
+  <dc:contributor>MICHELI, Alessio (Editor)</dc:contributor>
+  <dc:contributor>TINO, Peter (Editor)</dc:contributor>
+  <dc:relation>Neurocomputing (Amsterdam) -- Neurocomputing (Amst.), ISSN 0925-2312, Vol. 112, pp. 200-210</dc:relation>
+  <dc:date>2013</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Article</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>Elsevier</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>11 p. ; 37 ref</dc:format>
+  <dc:subject xml:lang="fr">Cancer</dc:subject>
+  <dc:subject xml:lang="fr">Analyse risque</dc:subject>
+  <dc:subject xml:lang="fr">Apprentissage(intelligence artificielle)</dc:subject>
+  <dc:subject xml:lang="fr">Cancer du sein</dc:subject>
+  <dc:subject xml:lang="fr">Classification à vaste marge</dc:subject>
+  <dc:subject xml:lang="fr">Courbe survie</dc:subject>
+  <dc:subject xml:lang="fr">Echantillon censuré</dc:subject>
+  <dc:subject xml:lang="fr">Etalonnage</dc:subject>
+  <dc:subject xml:lang="fr">Fonction survie</dc:subject>
+  <dc:subject xml:lang="fr">Intelligence artificielle</dc:subject>
+  <dc:subject xml:lang="fr">Modèle Cox</dc:subject>
+  <dc:subject xml:lang="fr">Modélisation</dc:subject>
+  <dc:subject xml:lang="fr">Pronostic</dc:subject>
+  <dc:subject xml:lang="fr">Prévision</dc:subject>
+  <dc:subject xml:lang="fr">Structure donnée</dc:subject>
+  <dc:subject xml:lang="fr">Survie</dc:subject>
+  <dc:subject xml:lang="fr">Tumeur maligne</dc:subject>
+  <dc:subject xml:lang="fr">Analyse survie</dc:subject>
+  <dc:subject xml:lang="fr">Donnée censurée</dc:subject>
+  <dc:subject xml:lang="fr">Estimation intervalle</dc:subject>
+  <dc:subject xml:lang="fr">Temps survie</dc:subject>
+  <dc:subject xml:lang="en">Cancer</dc:subject>
+  <dc:subject xml:lang="en">Risk analysis</dc:subject>
+  <dc:subject xml:lang="en">Learning (artificial intelligence)</dc:subject>
+  <dc:subject xml:lang="en">Breast cancer</dc:subject>
+  <dc:subject xml:lang="en">Vector support machine</dc:subject>
+  <dc:subject xml:lang="en">Survival curve</dc:subject>
+  <dc:subject xml:lang="en">Censored sample</dc:subject>
+  <dc:subject xml:lang="en">Calibration</dc:subject>
+  <dc:subject xml:lang="en">Survival function</dc:subject>
+  <dc:subject xml:lang="en">Artificial intelligence</dc:subject>
+  <dc:subject xml:lang="en">Cox model</dc:subject>
+  <dc:subject xml:lang="en">Modeling</dc:subject>
+  <dc:subject xml:lang="en">Prognosis</dc:subject>
+  <dc:subject xml:lang="en">Forecasting</dc:subject>
+  <dc:subject xml:lang="en">Data structure</dc:subject>
+  <dc:subject xml:lang="en">Survival</dc:subject>
+  <dc:subject xml:lang="en">Malignant tumor</dc:subject>
+  <dc:subject xml:lang="en">Survival analysis</dc:subject>
+  <dc:subject xml:lang="en">Censored data</dc:subject>
+  <dc:subject xml:lang="en">Interval estimation</dc:subject>
+  <dc:subject xml:lang="en">Survival time</dc:subject>
+  <dc:subject xml:lang="en">Breast cancer prognosis</dc:subject>
+  <dc:subject xml:lang="en">Monotonic regression</dc:subject>
+  <dc:subject xml:lang="en">Survival analysis</dc:subject>
+  <dc:subject xml:lang="es">Cáncer</dc:subject>
+  <dc:subject xml:lang="es">Análisis riesgo</dc:subject>
+  <dc:subject xml:lang="es">Cáncer del pecho</dc:subject>
+  <dc:subject xml:lang="es">Máquina ejemplo soporte</dc:subject>
+  <dc:subject xml:lang="es">Curva sobrevivencia</dc:subject>
+  <dc:subject xml:lang="es">Muestra censurada</dc:subject>
+  <dc:subject xml:lang="es">Contraste</dc:subject>
+  <dc:subject xml:lang="es">Función sobrevivencia</dc:subject>
+  <dc:subject xml:lang="es">Inteligencia artificial</dc:subject>
+  <dc:subject xml:lang="es">Modelo Cox</dc:subject>
+  <dc:subject xml:lang="es">Modelización</dc:subject>
+  <dc:subject xml:lang="es">Pronóstico</dc:subject>
+  <dc:subject xml:lang="es">Previsión</dc:subject>
+  <dc:subject xml:lang="es">Estructura datos</dc:subject>
+  <dc:subject xml:lang="es">Sobrevivencia</dc:subject>
+  <dc:subject xml:lang="es">Tumor maligno</dc:subject>
+  <dc:subject xml:lang="es">Análisis de supervivencia</dc:subject>
+  <dc:subject xml:lang="es">dato censurado</dc:subject>
+  <dc:subject xml:lang="es">Estimación por intervalos</dc:subject>
+  <dc:subject xml:lang="es">Tiempo de supervivencia</dc:subject>
+  <dc:subject>001A02H02J: Inférence linéaire, régression / Linear inference, regression</dc:subject>
+  <dc:subject>001D02B07B: Traitement des données. Listes et chaînes de caractères / Data processing. List processing. Character string processing</dc:subject>
+  <dc:subject>001D02C02: Apprentissage et systèmes adaptatifs / Learning and adaptive systems</dc:subject>
+  <dc:subject>002B20E02: Tumeurs / Tumors</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 27454437</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

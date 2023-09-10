@@ -1,0 +1,341 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Biological manganese removal from acid mine drainage in constructed wetlands and prototype bioreactors",
+    "dc:creator": [
+        "HALLBERG, Kevin B",
+        "JOHNSON, D. Barrie"
+    ],
+    "dc:contributor": [
+        "WHITEHEAD, Paul (Editor)",
+        "NEAL, Colin (Editor)"
+    ],
+    "dc:relation": "Science of the total environment -- Sci. total environ, CODEN STENDL, ISSN 0048-9697, Vol. 338 (1-2) , pp. 115-124",
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "10 p. ; 19 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Métal lourd"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Anaérobie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aérobie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Biogéochimie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bioréacteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Compost"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eau usée industrielle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epuration biologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epuration eau usée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exhaure mine acide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Filtration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Industrie extractive"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Manganèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu artificiel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mine abandonnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Oxydation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Précipitation chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système passif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Zone humide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heavy metal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Anaerobe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aerobe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biogeochemistry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bioreactor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Compost"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Industrial waste water"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biological purification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Waste water purification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Acid mine drainage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Filtration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mining industry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Manganese"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Artificial medium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Old mine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oxidation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical precipitation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Passive system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wetland"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Acid mine drainage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bioreactors"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bioremediation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Manganese-oxidizing bacteria"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Manganese"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wetland"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wheal Jane"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metal pesado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anaerobio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aerobio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biogeoquímica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biorreactor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Compost"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agua servida industrial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Depuración biológica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Depuración aguas servidas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desague ácido de mina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Filtración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Industria extractiva"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Manganeso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio artificial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mina abandonada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Oxidación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Precipitación química"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema pasivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Zona húmeda"
+        },
+        "001D16A05B: Eaux usées industrielles / Industrial wastewaters",
+        "001E01O04: Pollution, géologie de l'environnement / Pollution, environment geology",
+        "002A31: Biotechnologie / Biotechnology",
+        "002A31D07A: Epuration biologique des eaux / Biological treatment of waters"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grande Bretagne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Royaume Uni"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Angleterre"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Great Britain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United Kingdom"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "England"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gran Bretaña"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reino Unido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inglaterra"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16558358"
+}

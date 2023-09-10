@@ -1,0 +1,184 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Microscopic mechanisms of low-temperature yield stress anomaly in solids",
+    "dc:creator": [
+        "KISSEL, Nelly S",
+        "KISEL, Valery P"
+    ],
+    "dc:contributor": [
+        "LEVINE, L (Editor)",
+        "KUBIN, L (Editor)",
+        "BECKER, R (Editor)",
+        "Dislocations 2000: International Conference on the Fundamentals of Plastic Deformation (Gaithersburg, Maryland 2000-06-19)"
+    ],
+    "dc:relation": [
+        "Materials science & engineering. A, Structural materials : properties, microstructure and processing -- Mater. sci. eng. A Struct. mater. prop. microstruct. proces, ISSN 0921-5093, Vol. 309-10, pp. 97-101",
+        "Dislocations 2000: An International Conference on the Fundamentals of Plastic Deformation, 19-22 June 2000, Gaithersburg, Maryland, USA"
+    ],
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "Russian",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "27 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Anomalie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bande déformation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Basse température"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrainte déformation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrainte élasticité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrôle déformation mécanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dilatation thermique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dislocation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet température"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lithium fluorure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau cristallin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Multiplication dislocation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété thermomécanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sodium chlorure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Anomaly"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Deformation band"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Low temperature"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stress strain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Yield stress"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Strain control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermal expansion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dislocations"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Temperature effects"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lithium fluorides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Crystalline material"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dislocation multiplication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermomechanical properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sodium chlorides"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anomalía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Banda deformación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Baja temperatura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tensión deformante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Material cristalino"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propriedad termomecánica"
+        },
+        "001B60A72H: Mise en évidence indirecte de dislocations et d'autres défauts (résistivité, glissement, fluage, déformations, frottement interne, rpe, rmn, etc.) / Indirect evidence of dislocations and other defects (resistivity, slip, creep, strains, internal friction, epr, nmr, etc.)",
+        "001B60E40: Propriétés thermiques des solides cristallins / Thermal properties of crystalline solids",
+        "6172H:  / Indirect evidence of dislocations and other defects (resistivity, slip, creep, strains, internal friction, EPR, NMR, etc.)",
+        "6540:  / Heat capacities of solids"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1035240"
+}

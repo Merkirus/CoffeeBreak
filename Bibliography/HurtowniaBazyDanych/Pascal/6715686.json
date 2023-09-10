@@ -1,0 +1,135 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Focal Ratio Degradation : A new perspective",
+    "dc:creator": [
+        "HAYNES, Dionne M",
+        "WITHFORD, Michael J",
+        "DAWES, Judith M",
+        "HAYNES, Roger",
+        "BLAND-HAWTHORN, Joss"
+    ],
+    "dc:contributor": [
+        "Atad-Ettedgui, Eli (Editor)",
+        "Lemke, Dietrich (Editor)",
+        "SPIE (Organiser of meeting)",
+        "SPIE Europe (Organiser of meeting)",
+        "American Astronomical Society (Organiser of meeting)",
+        "Advanced optical and mechanical technologies in telescopes and instrumentation (Marseille 2008)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, Vol. 7018, pp. 70182U.1-70182U.8",
+        "Advanced optical and mechanical technologies in telescopes and instrumentation (23-28 June 2008, Marseille, France)"
+    ],
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "13 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Application spatiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Convolution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffusion(transport)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Faisceau laser"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fonction Voigt"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Instrument astronomique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Instrument spatial"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle empirique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Performance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0130C"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0787"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Space application"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Convolution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diffusion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laser beams"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Voigt function"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Astronomical instruments"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spaceborne instruments"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Empirical model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Performance"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aplicación espacial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Función Voigt"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo empírico"
+        },
+        "001B00A30C: Actes de congrès / Conference proceedings",
+        "001B00G87: Instruments, appareillage et composants en technique et recherche spatiale (satellite, engin spatial, etc.) / Spaceborne and space research instruments, apparatus and components (satellites, space vehicles, etc.)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 21131470"
+}

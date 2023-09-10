@@ -1,0 +1,211 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A model for predicting the quantities of dissolved inorganic nitrogen released in effluents from a sea bass (Dicentrarchus labrax) recirculating water system",
+    "dc:creator": [
+        "PAGAND, P",
+        "BLANCHETON, J. P",
+        "CASELLAS, C"
+    ],
+    "dc:contributor": [
+        "PIEDRAHITA, Raul H (Editor)",
+        "VERRETH, Johan (Editor)",
+        "Aquacultural Engineering Society (Funder/Sponsor)",
+        "European Aquaculture Society (Funder/Sponsor)",
+        "Aquaculture Europe 98'. Annual Conference (Bordeaux 1998-10)"
+    ],
+    "dc:relation": [
+        "Aquacultural engineering -- Aquac. eng, CODEN AQEND6, ISSN 0144-8609, Vol. 22 (1-2) , pp. 137-153",
+        "Developments in Recirculation Aquaculture System Technology"
+    ],
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "2 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Alimentation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu marin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pisces"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Azote"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dicentrarchus labrax"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecoulement recirculation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effluent"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle prévision"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pisciculture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Poids corporel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Régime alimentaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Taux croissance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Azote minéral"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dissolved Inorganic Nitrogen (DIN)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Serranidae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Feeding"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Marine environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pisces"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nitrogen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dicentrarchus labrax"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Recirculating flow"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Effluent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Forecast model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pisciculture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Body weight"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diet"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Growth rate"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inorganic nitrogen"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alimentación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio marino"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pisces"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nitrógeno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dicentrarchus labrax"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Flujo recirculación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efluente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo previsión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Piscicultura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Peso corporal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Régimen alimentario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tasa crecimiento"
+        },
+        "002A36B03A: Pisciculture / Pisciculture"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1417991"
+}

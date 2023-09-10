@@ -1,0 +1,265 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A dissociation in attentional control: Evidence from methamphetamine dependence",
+    "dc:creator": [
+        "SALO, Ruth",
+        "NORDAHL, Thomas E",
+        "MOORE, Charles",
+        "WATERS, Christy",
+        "NATSUAKI, Yutaka",
+        "GALLOWAY, Gantt P",
+        "KILE, Shawn",
+        "SULLIVAN, Edith V"
+    ],
+    "dc:relation": "Biological psychiatry (1969) -- Biol. psychiatry (1969), CODEN BIPCBF, ISSN 0006-3223, Vol. 57 (3) , pp. 310-313",
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "4 p. ; 35 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amphétamine dérivé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cognition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Encéphale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Noyau gris central"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Psychotrope"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stimulant SNC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sympathomimétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système nerveux central"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vigilance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Alternance tâche"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Attention sélective"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Corps strié"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cortex frontal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dénomination"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Inhibition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métamfétamine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement information"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Amphetamine derivatives"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cognition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Encephalon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Basal ganglion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Psychotropic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CNS stimulant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sympathomimetic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central nervous system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vigilance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Task switching"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Selective attention"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Corpus striatum"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Frontal cortex"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Naming"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inhibition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metamfetamine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information processing"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Amfetamina derivado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cognición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Encéfalo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Núcleo basal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Psicotropo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estimulante SNC"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simpaticomimético"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso central"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vigilancia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alternación trata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Atención selectiva"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuerpo estriado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Corteza frontal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Denominación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inhibición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metanfetamina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Procesamiento información"
+        },
+        "002A26D05: Vigilance. Attention. Sommeil / Vigilance. Attention. Sleep",
+        "002A26H05: Raisonnement. Résolution de problème / Reasoning. Problem solving",
+        "770-: Psychologie. Psychanalyse. Psychiatrie / Psychology. Psychoanalysis. Psychiatry",
+        "770-B: Psychologie. Psychophysiologie / Psychology. Psychophysiology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16484096"
+}

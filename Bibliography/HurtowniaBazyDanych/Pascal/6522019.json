@@ -1,0 +1,114 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Volatility rate by thermogravimetry : An ASTM interlaboratory study for ASTM international E2008",
+    "dc:creator": [
+        "KWOK, Q",
+        "SEYLER, R. J"
+    ],
+    "dc:contributor": [
+        "PYDA, M (Editor)",
+        "MENCZEL, J (Editor)",
+        "JUDOVITS, L (Editor)",
+        "North American Thermal Analysis Society (Organiser of meeting)",
+        "North American Thermal Analysis Society NATAS. Annual meeting (32 ; Williamsburg, Virginia 2004-10-04)"
+    ],
+    "dc:relation": [
+        "Journal of thermal analysis and calorimetry -- J. therm. anal. calorim, ISSN 1388-6150, Vol. 83 (1) , pp. 117-123",
+        "North American Thermal Analysis Society, NATAS 2004, selected papers"
+    ],
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "7 p. ; 6 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse thermique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai interlaboratoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode essai"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thermogravimétrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Volatilité"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermal analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Round robin test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Test method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermogravimetry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Volatility"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "interlaboratory study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "pin-hole technology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "thermogravimetry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "volatility rate"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis térmico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Essayo interlaboratorio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método ensayo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Termogravimetría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Volatibilidad"
+        },
+        "001C04F: Méthodes chimiques et thermiques / Chemical and thermal methods"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17509170"
+}

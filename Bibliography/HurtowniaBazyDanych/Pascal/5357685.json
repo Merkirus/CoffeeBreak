@@ -1,0 +1,297 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Analytical monitoring of photocatalytic treatments. Degradation of 2,3,6-trichlorobenzoic acid in aqueous TiO2 dispersions",
+    "dc:creator": [
+        "BIANCO PREVOT, A",
+        "PRAMAURO, E"
+    ],
+    "dc:contributor": [
+        "CHRISTIAN, Gary D (Editor)",
+        "KAUFFMANN, Jean-Michel (Editor)",
+        "Analytical Sciences (5 ; Nice 1997-06-02)"
+    ],
+    "dc:relation": [
+        "Talanta (Oxford) -- Talanta (Oxford), CODEN TLNTA2, ISSN 0039-9140, Vol. 48 (4) , pp. 847-857",
+        "Symposium on Analytical Sciences"
+    ],
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Elsevier",
+        "Elsevier"
+    ],
+    "dc:format": [
+        "print",
+        "29 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Pesticide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Acide carboxylique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Agent surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chlore Composé organique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chromatographie phase gazeuse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dégradation photochimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epuration eau usée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epuration physicochimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Herbicide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Intermédiaire réaction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Minéralisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode couplée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Organochloré"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Performance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Photocatalyse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rayonnement solaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Solution micellaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectrométrie masse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Titane oxyde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Benzoïque acide(2,3,6-trichloro)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pesticides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Carboxylic acid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surfactant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chlorine Organic compounds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gas chromatography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photochemical degradation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Waste water purification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Physicochemical purification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Herbicide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reaction intermediate"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mineralization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Coupled method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Organochlorine compounds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Performance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photocatalysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Solar radiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Micellar solution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mass spectrometry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Titanium oxide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water treatment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Plaguicida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acido carboxílico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agente superficie"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis químico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cloro Compuesto orgánico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cromatografía fase gaseosa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Degradación fotoquímica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Depuración aguas servidas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Depuración fisicoquímica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Herbicida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Intermediario reacción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mineralización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método acoplado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Organoclorado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rendimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fotocatálisis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radiación solar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Solución micelar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Espectrometría masa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Titanio óxido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento agua"
+        },
+        "001C01F01: Photochimie / Photochemistry",
+        "001D16A01: Généralités / General",
+        "001E01O04: Pollution, géologie de l'environnement / Pollution, environment geology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1704930"
+}

@@ -1,0 +1,141 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "IMPROVMENT OF GENERATOR EFFICIENCY",
+    "dc:creator": [
+        "AJIRO K",
+        "INOUE T",
+        "SATO S"
+    ],
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "FUJI ELECTR. REV.; ISSN 0429-8284; JPN; DA. 1982; VOL. 28; NO 2; PP. 52-58; BIBL. 4 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "GENERATEUR ELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MACHINE SYNCHRONE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TURBOGENERATEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TURBOGENERATEUR THERMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TURBOGENERATEUR HYDRAULIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RENDEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AMELIORATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONCEPTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OPTIMISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PERTE ENERGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CENTRALE ELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CENTRALE HYDROELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CENTRALE THERMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROMAGNETISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROTECHNIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRIC GENERATOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SYNCHRONOUS MACHINE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TURBINE GENERATOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TURBOGENERATOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HYDROGENERATOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "YIELD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IMPROVEMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DESIGN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPTIMIZATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY LOSS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POWER PLANT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HYDROELECTRIC POWER PLANT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THERMAL POWER PLANT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROMAGNETISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRICAL ENGINEERING"
+        },
+        "001D05: Electrotechnique. Electroenergetique / Electrical engineering. Electrical power engineering"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0092049"
+}

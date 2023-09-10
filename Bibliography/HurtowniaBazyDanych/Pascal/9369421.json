@@ -1,0 +1,227 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Differential regulation of neurogenesis in two neurogenic regions of APPswe/PSIdE9 transgenic mice",
+    "dc:creator": [
+        "NIIDOME, Tetsuhiro",
+        "TANIUCHI, Nobuhiko",
+        "AKAIKE, Akinori",
+        "KIHARA, Takeshi",
+        "SUGIMOTO, Hachiro"
+    ],
+    "dc:relation": "Neuroreport (Oxford) -- Neuroreport (Oxf.), ISSN 0959-4965, Vol. 19 (14) , pp. 1361-1364",
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Lippincott Williams and Wilkins",
+    "dc:format": [
+        "print",
+        "4 p. ; 14 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Maladie dégénérative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie de l'encéphale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie du système nerveux central"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie du système nerveux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Animal transgénique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Antigène PCNA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Démence d'Alzheimer"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Neurogenèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Protéine amyloïde β"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Souris"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Degenerative disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cerebral disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central nervous system disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nervous system diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transgenic animal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PCNA antigen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Alzheimer disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neurogenesis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "β Amyloid protein"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mouse"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Alzheimer's disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "amyloid beta"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "bromodeoxyuridine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "mice"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "neurogenesis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "proliferating cell nuclear antigen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "subgranular zone"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "subventricular zone"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "transgenic"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enfermedad degenerativa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Encéfalo patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervosio central patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Animal transgénico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antígeno PCNA"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Demencia Alzheimer"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Neurogénesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Proteína amiloide β"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ratón"
+        },
+        "002A25L: Développement. Sénescence. Régénération. Transplantation / Development. Senescence. Regeneration. Transplantation",
+        "002B17G: Maladies dégénératives et hérédodégénératives du système nerveux. Leucodystrophies. Maladies à prions / Degenerative and inherited degenerative diseases of the nervous system. Leukodystrophies. Prion diseases",
+        "002B18C13: Troubles mentaux organiques. Neuropsychologie / Organic mental disorders. Neuropsychology",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry",
+        "770-D03M: Troubles mentaux organiques. Neuropsychologie / Organic mental disorders. Neuropsychology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20593637"
+}

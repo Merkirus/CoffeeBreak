@@ -1,0 +1,92 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "RNA POLYMERASES FROM AVIAN LIVER: ISOLATION AND FRACTIONATION BY HEPARIN-SEPHAROSE CHROMATOGRAPHY",
+    "dc:creator": [
+        "WALLIN EA",
+        "MAENPAA PH"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "ACTA CHEM. SCAND., SER. B; ISSN 0302-4369; DNK; DA. 1979; VOL. 33; NO 7; PP. 519-527; BIBL. 33 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ARN NUCLEOTIDYLTRANSFERASE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FOIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AVES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHROMATOGRAPHIE AFFINITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PURIFICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENZYME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLYMERASE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SEPHAROSE HEPARINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENZYMOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOCHIMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIVER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AVES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AFFINITY CHROMATOGRAPHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PURIFICATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENZYMES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLYMERASE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENZYMOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOCHEMISTRY"
+        },
+        "002A02: Biochimie analytique, structurale et metabolique / Analytical, structural and metabolic biochemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8050208944"
+}

@@ -1,0 +1,208 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Effets de la gravité sur la section des voies aériennes supérieures chez l'homme au cours de vols paraboliques; Effects of variations in gravity on upper airway patency",
+    "dc:creator": [
+        "BEAUMONT, M",
+        "LAGARDE, D",
+        "FODIL, R",
+        "ISABEY, D",
+        "LOFASO, F",
+        "TOUCHARD, D",
+        "HARF, A",
+        "LOUIS, B"
+    ],
+    "dc:contributor": [
+        "SFM Société française de mécanique (Funder/Sponsor)",
+        "Délégation générale à l'armement (Funder/Sponsor)",
+        "Société de biomécanique (Funder/Sponsor)",
+        "MECAMED 3. Mécanique et médecine . L'homme et l'accélération. Comportement et protection. Journées SFM (1999-03-24)"
+    ],
+    "dc:relation": [
+        "R.F.M. Revue française de mécanique -- RFM, Rev. franç. méc, CODEN RFMQAQ, ISSN 0373-6601 (3) , pp. 195-198",
+        "MECAMED 3: Mécanique et médecine. L'homme et l'accélération. Comportement et protection -- MECAMED 3: Mechanics and medicine. The human being and the acceleration. Behavior and protection"
+    ],
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Groupement pour l'avancement des méthodes d'analyse des contraintes",
+    "dc:format": [
+        "print",
+        "3 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Accélération"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Forme parabolique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gravité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microgravité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pléthysmodiagraphie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Position assise"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Posture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Respiration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Voie respiratoire supérieure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Volume pulmonaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hypergravité"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Acceleration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Parabolic shape"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gravity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microgravity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plethysmodiagraphy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Seated position"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Posture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Respiration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Upper respiratory tract"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Flight"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lung volume"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hypergravity"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aceleración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Forma parabólica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gravedad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Microgravidez"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pletismodiagrafía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Posición sentada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Postura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Respiración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vía respiratoria superior"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vuelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Volumen pulmonar"
+        },
+        "002A08E: Action d'agents physiques divers sur la matière vivante (vibrations, champ électrique, ultrason, son...) / Effects of various physical factors on living matter (vibrations, electric field, ultrasound, sound...)",
+        "002B29C02: Transports. Aérospatiale. Plongée. Altitude / Transports. Aerospace. Diving. Altitude"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1490288"
+}

@@ -1,0 +1,92 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "UTILISATION EN SYSTEME INTERACTIF DES FICHIERS D'INFORMATION AMERICAINS",
+    "dc:creator": "LETULLIER A",
+    "dc:date": "1974",
+    "dc:type": "Conference Paper",
+    "dc:language": [
+        "English",
+        "French"
+    ],
+    "dc:format": "IN: CENT. INF. DOC. SEMIN. C. R. INTEGRAL; LUXEMBOURG; 1974; BRUXELLES; BUR. MARCEL VAN DIJK; DA. 1974; PP. 287-295 (4 P.); MEME DOC. ANGL",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "BASE DONNEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "UTILISATION INFORMATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SYSTEME DOCUMENTAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AUTOMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MODE CONVERSATIONNEL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SIDERAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PETROLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FRANCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DATA BASE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INFORMATION USE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DOCUMENT RETRIEVAL SYSTEM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AUTOMATIC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTERACTIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PETROLEUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LETULLIER (A.)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "UTILISATION EN SYSTEME INTERACTIF DES FICHIERS D'INFORMATION AMERICAINS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCE INFORMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFORMATION SCIENCE"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7610102269"
+}

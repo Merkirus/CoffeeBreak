@@ -1,0 +1,211 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Turbulence-induced fluctuations in ionization and application to PMSE",
+    "dc:creator": [
+        "HILL, R. J",
+        "GIBSON-WILDE, D. E",
+        "WERNE, J. A",
+        "FRITTS, D. C"
+    ],
+    "dc:contributor": [
+        "FRITTS, David C (Editor)",
+        "SHEPHERD, Gordon G (Editor)",
+        "TSUDA, Toshitaka (Editor)",
+        "Scientific Committee on Solar-Terrestrial Physics (SCOSTEP) ; Planetary Scale Mesopause Observing System (Funder/Sponsor)",
+        "IAMAS ; International Commission on the Middle Atmosphere (Funder/Sponsor)",
+        "Society of Geomagnetism and Earth, Planetary and Space Sciences (Funder/Sponsor)",
+        "Meteorological Society of Japan (Funder/Sponsor)",
+        "DYSMER International Symposium on Dynamics and Structure of the Mesopause Region (Kyoto 1998-03-16)"
+    ],
+    "dc:relation": [
+        "Earth, planets and space -- Earth planets space, ISSN 1343-8832, Vol. 51 (7-8) , pp. 499-513",
+        "Dynamics and Structure of the Mesopause Region (DYSMER)"
+    ],
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Terra",
+    "dc:format": [
+        "print",
+        "42 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Advection atmosphérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Densité électron"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Echo radar"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude comparative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eté"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Instabilité Kelvin Helmholtz"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ionisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle hydrodynamique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mésosphère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nombre Schmidt"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Observation par fusée sonde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectre puissance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Turbulence atmosphérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Zone polaire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Atmospheric advection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electron density"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radar echo"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Summer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Kelvin Helmholtz instability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ionization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hydrodynamic model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mesosphere"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Schmidt number"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rocket observation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Power spectrum"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Atmospheric turbulence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polar region"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Advección atmosférica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Densidad electrón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Eco radar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio comparativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Verano"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inestabilidad Kelvin Helmholtz"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ionización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo hidrodinámico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mesosfera"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Número Schmidt"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Observación por cohete-sonda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Espectro potencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Turbulencia atmosférica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Zona polar"
+        },
+        "001E02H01: Propriétés générales de la haute atmosphère / General properties of the high atmosphere"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1201011"
+}

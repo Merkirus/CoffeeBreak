@@ -1,0 +1,77 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Michel Déon",
+    "dc:contributor": "TACOU, Laurence (Editor)",
+    "dc:relation": "L' Herne -- Herne, ISSN 0440-7237, Vol. 91",
+    "dc:date": "2009",
+    "dc:type": [
+        "Text",
+        "Serial Issue"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Editions de l'Herne",
+    "dc:format": [
+        "print",
+        "269 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Engagement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Roman"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Théâtre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hussards"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Michel Déon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Commitment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Novel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Theater"
+        },
+        "523-: Histoire et sciences de la litterature / History and sciences of litterature",
+        "523-36: Histoire de la littérature / History of literature",
+        "523-186: Anonymes. Auteurs / Anonymous writers. Authors"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Siècle 20"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Century 20"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 21972305"
+}

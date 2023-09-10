@@ -1,0 +1,70 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "RELATION ENTRE LES FLUX D'ELECTRONS MOUS (0,2 A 10 KEV) ET L'INTENSITE DU RAYONNEMENT RADIO SPORADIQUE DE LA MAGNETOSPHERE TERRESTRE DANS LA GAMME DE FREQUENCE DE 0,7 A 2,3 MHZ",
+    "dc:creator": [
+        "ARTEM'EVA GM",
+        "PISAREVA VV",
+        "SAVIN BI",
+        "TARASOV AF"
+    ],
+    "dc:date": "1983",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "KOSMICESKIE ISSLEDOVANIJA; ISSN 0023-4206; SUN; DA. 1983; VOL. 21; NO 1; PP. 76-82; BIBL. 13 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MAGNETOSPHERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EMISSION RADIOELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MOYENNE FREQUENCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRECIPITATION ELECTRON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OBSERVATION PAR SATELLITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOPHYSIQUE EXTERNE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MAGNETOSPHERE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RADIO EMISSION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MEDIUM FREQUENCY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRON PRECIPITATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SATELLITE OBSERVATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXTERNAL GEOPHYSICS"
+        },
+        "001E02: Geophysique externe / External geophysics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0203028"
+}

@@ -1,0 +1,104 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Interaction protocol mediation in web service composition",
+    "dc:creator": [
+        "ARDISSONO, Liliana",
+        "FURNARI, Roberto",
+        "PETRONE, Giovanna",
+        "SEGNAN, Marino"
+    ],
+    "dc:relation": "International journal of Web engineering and technology -- Int. j. Web eng. technol, ISSN 1476-1289, Vol. 6 (1) , pp. 4-32",
+    "dc:date": "2010",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Inderscience Publishers",
+    "dc:format": [
+        "print",
+        "29 p. ; 2 p.3/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Informatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Orienté service"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recherche information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Web technology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computer science"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Service oriented"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information retrieval"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "application frameworks and architectures"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "interaction protocol mediation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "service-oriented computing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "web service integration and synchronisation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "web technologies"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Informática"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Orientado servicio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Búsqueda información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema información"
+        },
+        "001A01E03C: Processus de recherche. Evaluation / Research process. Evaluation",
+        "790-F: Traitement et recherche d'information / Information processing and retrieval",
+        "790-F03C: Processus de recherche. Evaluation / Research process. Evaluation"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 23337068"
+}

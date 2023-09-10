@@ -1,0 +1,75 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Appariement de l'actif et du passif d'un assureur vie par l'utilisation de produits dérivés",
+    "dc:creator": "LAPORTE, N",
+    "dc:contributor": "Ecole des Hautes Etudes Commerciales. (HEC). Chaire de Gestion des Risques (Editor)",
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Book"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "20 p. ; 1 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ASSURANCE-VIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RISQUE FINANCIER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TAUX D'INTERET"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIFE INSURANCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FINANCIAL RISK"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTEREST RATE"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "SEGURO DE VIDA"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "RIESGO FINANCIERO"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "TIPO DE INTERES"
+        },
+        "616-: Doge / Gestion des entreprises / Doge / Company management",
+        "616-9: Environnement de l'entreprise / Business environment"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CANADA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CANADA"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "CANADA"
+        }
+    ],
+    "dc:rights": [
+        "Documentation en Gestion des Entreprises - Eurofidai (institut européen de données financières) (DOGE)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14322419"
+}

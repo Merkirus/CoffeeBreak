@@ -1,0 +1,159 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The Ohio Historical Society and establishment of the State's archives: A tale of angst and apathy",
+    "dc:creator": "EAST, D",
+    "dc:relation": "The American archivist -- Am. arch, CODEN AAVSAP, ISSN 0360-9081, Vol. 55 (4) , pp. 562-577",
+    "dc:date": "1992",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Society of American Archivists",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Archives publiques"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Echelon régional"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Histoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Historique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Organisme régional"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rôle professionnel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Statut"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public archives"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Regional scope"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "History"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Case history"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Regional institution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Occupational role"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Status"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Archivos públicos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Escalafón regional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Historia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Histórica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Organismo regional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rol profesional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estatuto"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation",
+        "001A01C01: Archives. Musées / Archives. Museums",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-D: Organismes documentaires / Documentation institutions"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats Unis"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ohio"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ohio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estados Unidos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ohío"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3793858"
+}

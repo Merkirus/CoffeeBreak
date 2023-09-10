@@ -1,0 +1,103 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Computers and Dual-Use Products: Developments in the European Community",
+    "dc:creator": "MASRI, S",
+    "dc:relation": "Computers and Law, Vol. 3 (5) , pp. 3-6",
+    "dc:date": "1992",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "contrôle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "droit communautaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "défense nationale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "exportation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "importation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "industrie informatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "sécurité nationale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "transfert de technologie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EEC"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "community law"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "national defence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "export"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "import"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "computer industry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "national security"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "technology transfer"
+        },
+        "603-3: Problèmes juridiques / Legal issues"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "EUROPE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        }
+    ],
+    "dc:rights": [
+        "Informatique et Sciences Juridiques (réseau) (ISJ)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6518167"
+}

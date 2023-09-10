@@ -1,0 +1,114 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Stacks Management : An Organic Approach to Growing Space",
+    "dc:creator": [
+        "CASE, Jackie L",
+        "THORP INGRAM, Marion"
+    ],
+    "dc:relation": "Journal of access services -- J. access serv, ISSN 1536-7967, Vol. 4 (3-4) , pp. 137-147",
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "The Haworth Information Press",
+    "dc:format": [
+        "print",
+        "11 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Développement collection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gestion bibliothèque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gestion fonds"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stockage document"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sélection document"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Collection development"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Library management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stock management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Document storage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Document selection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stacks management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "University of North Carolina at Greensboro-Jackson Library"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "collection analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "collection management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "shelving"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "shifting"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desarrollo colección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gestión bibliotecaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gestión fondos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Almacenamiento documento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Selección documento"
+        },
+        "001A01B02B2: Conservation. Stockage / Preservation. Storage",
+        "790-C: Gestion des services d'information / Information service management",
+        "790-C02B02: Conservation. Stockage / Preservation. Storage"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20178821"
+}

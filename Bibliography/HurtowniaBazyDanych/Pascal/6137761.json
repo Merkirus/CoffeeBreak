@@ -1,0 +1,96 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "La discipline dans la fonction publique de l'Etat",
+    "dc:contributor": "Direction générale de l'administration et de la fonction publique (Funder/Sponsor)",
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Book"
+    ],
+    "dc:identifier": [
+        "ISBN 2-11-087831-2",
+        "Inist-CNRS record number 6341320"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "La Documentation française",
+    "dc:format": [
+        "print",
+        "69 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrôle juridictionnel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Discipline"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Droits du fonctionnaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fonction publique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Obligations du fonctionnaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sanction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Judicial Control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Discipline"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Civil Servant's Rights"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Civil Service"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Duties of the Civil Servant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sanction"
+        },
+        "002B30A: Santé publique. Hygiène / Public health. Hygiene",
+        "528-: Science administrative / Administrative science",
+        "528-221: Milieu administratif / Civil service",
+        "528-293: Discipline / Discipline"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        }
+    ],
+    "dc:rights": [
+        "Banque de données en santé publique - Ecole des hautes études en santé publique (BDSP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

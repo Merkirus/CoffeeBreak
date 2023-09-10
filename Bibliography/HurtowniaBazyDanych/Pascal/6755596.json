@@ -1,0 +1,167 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Infrared-to-visible conversion luminescence of Er3+ ions in lead borate transparent glass-ceramics",
+    "dc:creator": [
+        "PISARSKI, Wojciech A",
+        "PISARSKA, Joanna",
+        "LISIECKI, Radołslaw",
+        "GROBELNY, Lukasz",
+        "DOMINIAK-DZIK, Grazyna",
+        "RYBA-ROMANOWSKI, Witold"
+    ],
+    "dc:contributor": [
+        "GRINBERG, Marek (Editor)",
+        "SUCHOCKI, Andrzej (Editor)",
+        "WOJTOWICZ, Andrzej J (Editor)",
+        "WISNIEWSKI, Krzyszof (Editor)",
+        "University of Gdańsk, Institute of Experimental Physics (Organiser of meeting)",
+        "Polish Academy of Science, Institute of Physics (Organiser of meeting)",
+        "Polish Physical Society, Branch in Gdańsk (Organiser of meeting)",
+        "University of Gdańsk, The Foundation for Development (Organiser of meeting)",
+        "International Workshop on Advanced Spectroscopy and Optical Materials, IWASOM 08 (2 ; Gdańsk 2008-07-13)"
+    ],
+    "dc:relation": [
+        "Optical materials (Amsterdam) -- Opt. mater. (Amst.), ISSN 0925-3467, Vol. 31 (12) , pp. 1781-1783",
+        "Proceedings of the Second International Workshop on Advanced Spectroscopy and Optical Materials"
+    ],
+    "dc:date": "2009",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "3 p. ; 17 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Conversion fréquence optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Céramique transparente"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffraction RX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Largeur raie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Luminescence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optique non linéaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement thermique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Verre borate"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Verre plomb"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4265K"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4270"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Upconversion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical frequency conversion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transparent ceramics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "XRD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Line widths"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Luminescence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nonlinear optics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heat treatments"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Borate glasses"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lead glass"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Upconversion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "78.55.Qr"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Er3+ ions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Glass-ceramics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Up-conversion luminescence"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cerámica transparente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vidrio plomo"
+        },
+        "001B40B65K: Conversion de fréquences; génération d'harmoniques, incluant la génération d'harmoniques d'ordre élevé / Frequency conversion ; harmonic generation, including high-order harmonic generation",
+        "001B40B70: Matériaux optiques / Optical materials"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 22114676"
+}

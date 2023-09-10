@@ -1,0 +1,147 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Modelling strategic actor relationships to support intellectual property management",
+    "dc:creator": [
+        "YU, Eric",
+        "LIN LIU",
+        "YING LI"
+    ],
+    "dc:contributor": [
+        "Kunii, Hideko S (Editor)",
+        "Jajodia, Sushil (Editor)",
+        "Sølvberg, Arne (Editor)",
+        "International conference on conceptual modeling (20 ; Yokohama 2001-11-27)"
+    ],
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 164-178",
+        "Conceptual modeling - ER 2001 (Yokohama, 27-30 November 2001)"
+    ],
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "20 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Commerce électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Connaissance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Economie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gestion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle entité relation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété industrielle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Savoir faire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation conceptuelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ontologie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic trade"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Knowledge"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Economy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Entity relationship model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Patent rights"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Know how"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ontology"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Comercio electronico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conocimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Economía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gestión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo entidad relación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad industrial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Saber hacer"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema información"
+        },
+        "001D02B07D: Systèmes d'information. Bases de données / Information systems. Data bases",
+        "001D04B03: Réseaux téléinformatiques. Rnis / Teleprocessing networks. Isdn"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14047777"
+}

@@ -1,0 +1,164 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Polymers designed for laser ablation-influence of photochemical properties",
+    "dc:creator": [
+        "LIPPERT, T",
+        "DICKINSON, J. T",
+        "TOMITA, K",
+        "WOKAUN, A",
+        "HAUER, M",
+        "KOPITKOVAS, G",
+        "LANGFORD, S. C",
+        "MASUHARA, H",
+        "NUYKEN, O",
+        "ROBERT, J",
+        "SALMIO, H",
+        "TADA, T"
+    ],
+    "dc:contributor": [
+        "MURAKAMI, Kouichi (Editor)",
+        "YABE, Akira (Editor)",
+        "HORWITZ, J. S (Editor)",
+        "FOTAKIS, C (Editor)",
+        "DICKINSON, J. T (Editor)",
+        "International Conference on Laser Ablation (6 ; Tsukuba 2001-10-01)"
+    ],
+    "dc:relation": [
+        "Applied surface science -- Appl. surf. sci, ISSN 0169-4332, Vol. 197-98, pp. 746-756",
+        "Proceedings of the 6th international conference on laser ablation, Tsukuba, Japan, 1st-5th October 2001"
+    ],
+    "dc:date": "2002",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "11 p. ; 44 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Coefficient absorption"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet physique rayonnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ester polymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gonflement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Imide polymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interférométrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode ablation laser"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode temps vol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rayonnement laser"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectre masse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Triazène dérivé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vitesse gravure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Absorption coefficients"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Physical radiation effects"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polyesters"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Swelling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polyimides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interferometry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laser ablation technique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Time-of-flight method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polymers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laser radiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mass spectra"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Triazene derivatives"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Etching rate"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Triazeno derivado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Velocidad grabado"
+        },
+        "001B70I20D: Phénomènes d'impact par faisceau laser / Laser-beam impact phenomena",
+        "001C01F01: Photochimie / Photochemistry",
+        "7920D:  / Laser-beam impact phenomena",
+        "8250:  / Photochemistry and radiation chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14002478"
+}

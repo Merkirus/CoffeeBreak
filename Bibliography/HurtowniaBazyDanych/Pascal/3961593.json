@@ -1,0 +1,112 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SYNDROME DE GARDNER.",
+    "dc:creator": [
+        "LARREGUE M",
+        "TUPIN J"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "BULL. SOC. FR. DERMATOL. SYPHILIGR.; FR.; DA. 1976; VOL. 83; NO 4; PP. 253-254",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "GARDNER SYNDROME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "KYSTE EPIDERMOIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PEAU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OSTEOME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OS LONG"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RADIOGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OS MEMBRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENFANT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PEAU PATHOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TUMEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HEREDITAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DERMATOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GARDNER SYNDROME"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EPIDERMOID CYST"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SKIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OSTEOMA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LONG BONE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RADIOGRAPHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHILD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SKIN DISEASE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TUMOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEREDITARY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DERMATOLOGY"
+        },
+        "002B08: Dermatologie / Dermatology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7750144907"
+}

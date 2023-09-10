@@ -1,0 +1,81 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Development and new application of Raman/Mie Lidar : severe weather research and earth observation atmospheric correction",
+    "dc:creator": [
+        "JINYE ZHANG",
+        "WEI GONG",
+        "ZHENLUAN HU",
+        "ZHONGMIN ZHU",
+        "JUN LI",
+        "PINGXIANG LI",
+        "LIANGPEI ZHANG",
+        "SHALEI SONG",
+        "YINGYING MA",
+        "FEIYUE MAO",
+        "RONGLIANG ZENG"
+    ],
+    "dc:contributor": [
+        "Berghmans, Francis (Editor)",
+        "Society of photo-optical instrumentation engineers Europe (Organiser of meeting)",
+        "SPIE (Organiser of meeting)",
+        "Alsace international (Organiser of meeting)",
+        "Association française des industries de l'optique et de la photonique (Organiser of meeting)",
+        "Optical sensors (Strasbourg 2008)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, pp. 700323.1-700323.6",
+        "Optical sensors 2008 (7-10 April 2008, Strasbourg, France)"
+    ],
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "11 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Capteur optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lidar"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0130C"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0707D"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical sensors"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lidar"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measuring methods"
+        },
+        "001B00A30C: Actes de congrès / Conference proceedings",
+        "001B00G07D: Capteurs (chimiques, optiques, électriques, de mouvement, de gaz, etc.); télédétection / Sensors (chemical, optical, electrical, movement, gas, etc.); remote sensing"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20859119"
+}

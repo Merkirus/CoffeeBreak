@@ -1,0 +1,188 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Study of noise characteristics of BAW and SAW quartz resonators",
+    "dc:creator": [
+        "LUCHININ, A. S",
+        "KOROBEINIKOV, A. V"
+    ],
+    "dc:contributor": "All-Union Coordinating. Conference (Chernogolovka 1991-06)",
+    "dc:relation": [
+        "Radiophysics and quantum electronics -- Radiophys. quantum electron, ISSN 0033-8443, Vol. 36 (12) , pp. 856-861",
+        "All-Union Coordinating. Conference (Chernogolovka 1991-06)"
+    ],
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "5 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse fonctionnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bruit basse fréquence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bruit phase"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Figure bruit"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fluctuation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fréquence résonance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Inductance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Niveau bruit"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Onde acoustique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résonateur hyperfréquence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résonateur quartz"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectre puissance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Operation study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "1/f noise"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phase noise"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Noise figure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fluctuations"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Resonance frequency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inductance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Noise level"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Acoustic wave"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microwave resonator"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quartz resonator"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Power spectrum"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis funcionamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ruido baja frecuencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ruido fase"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Figura ruido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fluctuación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Frecuencia resonancia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inductancia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nivel ruido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Onda acústica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resonador hiperfrecuencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resonador cuarzo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Espectro potencia"
+        },
+        "001D03G02B: Circuits hyperfréquences, circuits intégrés hyperfréquences, lignes de transmission hyperfréquences, circuits à ondes submillimétriques / Microwave circuits, microwave integrated circuits, microwave transmission lines, submillimeter wave circuits"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3539098"
+}

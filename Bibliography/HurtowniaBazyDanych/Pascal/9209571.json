@@ -1,0 +1,229 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Response to an unsolicited intervention offer to persons aged > 75 years after screening positive for depressive symptoms: a qualitative study",
+    "dc:creator": [
+        "DER WEELE, Gerda M. Van",
+        "DE JONG, Roos",
+        "DE WAAL, Margot W. M",
+        "SPINHOVEN, Philip",
+        "ROOZE, Herman A. H",
+        "REIS, Ria",
+        "ASSENDELFT, Willem J. J",
+        "GUSSEKLOO, Jacobijn",
+        "DER MAST, Roos C. Van"
+    ],
+    "dc:relation": "International psychogeriatrics -- Int. psychogeriatr, ISSN 1041-6102, Vol. 24 (2) , pp. 270-277",
+    "dc:date": "2012",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Cambridge University Press",
+    "dc:format": [
+        "print",
+        "8 p. ; 3/4 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé publique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble de l'humeur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Acceptation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse qualitative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dépistage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etat dépressif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grand vieillard"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Personne âgée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Soin santé primaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Symptomatologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Symptôme positif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thérapie comportementale"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mood disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Acceptance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Qualitative analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Medical screening"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Depression"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oldest old"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Elderly"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Primary health care"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Symptomatology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Positive symptom"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Behavior therapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "behavioral therapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "depression"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "intervention acceptance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "oldest old"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "primary care"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud pública"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno humor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aceptación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis cualitativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Descubrimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estado depresivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Persona muy mayor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anciano"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuidados salud primaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sintomatología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Síntoma positivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Terapia conductual"
+        },
+        "002B18C07A: Etat dépressif / Depression",
+        "002B18E: Gériatrie / Geriatrics",
+        "002B18I06: Thérapie comportementale. Thérapie cognitive / Behavior therapy. Cognitive therapy",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry",
+        "770-D03G01: Etat dépressif / Depression",
+        "770-D05: Gériatrie / Geriatrics",
+        "770-D09F: Thérapie comportementale. Thérapie cognitive / Behavior therapy. Cognitive therapy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 25639304"
+}

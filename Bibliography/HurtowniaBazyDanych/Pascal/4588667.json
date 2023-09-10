@@ -1,0 +1,64 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "METODICHE DI BANDEGGIAMENTO CROMOSOMICO.; METHODES D'INDUCTION DE BANDES CHROMOSOMIQUES",
+    "dc:creator": [
+        "FORABOSCO A",
+        "DALLAPICCOLA B"
+    ],
+    "dc:date": "1975",
+    "dc:type": "Serial Issue",
+    "dc:language": "Italian",
+    "dc:format": "FOLIA HERED. PATHOL.; ITAL.; DA. 1975; VOL. 24; NO 4; PP. 66-89; ABS. ANGL.; BIBL. 3 P. 1/2",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUCTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BANDE CHROMOSOMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CYTOGENETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATERIEL NON PRECISE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENETIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METHOD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INDUCTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHROMOSOME BANDING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CYTOGENETICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENETICS"
+        },
+        "002A31C02: Techniques génétiques / Genetic technics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7850070275"
+}

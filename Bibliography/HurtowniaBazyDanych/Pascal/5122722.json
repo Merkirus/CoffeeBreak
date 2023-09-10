@@ -1,0 +1,324 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Fractional factorial design applied to investigate properties of Ti/IrO2-Nb2O5 electrodes",
+    "dc:creator": [
+        "TEREZO, A. J",
+        "PEREIRA, E. C"
+    ],
+    "dc:contributor": [
+        "TRASATTI, S (Editor)",
+        "JAKSIC, M. M (Editor)"
+    ],
+    "dc:relation": "Electrochimica acta -- Electrochim. acta, CODEN ELCAAV, ISSN 0013-4686, Vol. 45 (25-26) , pp. 4351-4358",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "26 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Métal transition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffraction RX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dégagement gazeux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Electrocatalyse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Electrode"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fabrication électrode"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Iridium IV Oxyde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau modifié"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microscopie électronique balayage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Morphologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Niobium V Oxyde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optimisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Oxygène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Perchlorique acide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plan factoriel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Procédé sol gel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété électrochimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Relation fabrication propriété"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réaction électrochimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Solution acide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Titane"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode Pechini"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transition metal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "X ray diffraction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gas release"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrocatalysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrodes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrode production"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Iridium IV Oxides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modified material"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Scanning electron microscopy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Morphology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Niobium V Oxides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optimization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oxygen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Perchloric acid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Factorial design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sol gel process"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrochemical properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fabrication property relation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrochemical reaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Acidic solution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Titanium"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metal transición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Difracción RX"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Desprendimiento gaseoso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Electrocatálisis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Electrodo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fabricación electrodo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Iridio IV Óxido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Material modificado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Microscopía electrónica barrido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Morfología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Niobio V Óxido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Optimización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Oxígeno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Perclórico ácido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Plan factorial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Procedimiento sol gel"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad electroquímica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Relación fabricación propiedad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reacción electroquímica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Solución ácida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estabilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estructura superficie"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Titanio"
+        },
+        "001C01H02B: Autres électrodes / Other electrodes"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1494791"
+}

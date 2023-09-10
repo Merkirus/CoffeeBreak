@@ -1,0 +1,62 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SUBPICOSECOND COHERENT ANALYSIS OF THE IMPULSE RESPONSE OF OPTICAL FIBERS",
+    "dc:creator": [
+        "PIASECKI J",
+        "COLOMBEAU B",
+        "VAMPOUILLE M",
+        "FROEHLY C"
+    ],
+    "dc:date": "1981",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. OPT.; ISSN 0150-536X; FRA; DA. 1981; VOL. 12; NO 1; PP. 43-48; ABS. FRE; BIBL. 4 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "GUIDE ONDE OPTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FIBRE OPTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REPONSE IMPULSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FONCTION TRANSFERT OPTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OPTIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPTICAL WAVEGUIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPTICAL FIBER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PULSE RESPONSE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPTICAL TRANSFER FUNCTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPTICS"
+        },
+        "001B: Physique / Physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8130236787"
+}

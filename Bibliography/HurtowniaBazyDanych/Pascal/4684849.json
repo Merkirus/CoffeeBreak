@@ -1,0 +1,199 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Congélation et qualité de la viande",
+    "dc:creator": "Genot, Claude",
+    "dc:contributor": "Goutefongea, René (Author of introductory parts)",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Book"
+    ],
+    "dc:identifier": [
+        "ISBN 2-7380-0931-X",
+        "Inist-CNRS record number 111044"
+    ],
+    "dc:language": [
+        "English",
+        "French"
+    ],
+    "dc:publisher": "INRA Editions",
+    "dc:format": [
+        "print",
+        "98 p. ; 14 p.1/2"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Produit carné"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété organoleptique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété physicochimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement thermique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Congélation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conservation aliment"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Couleur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Flaveur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Qualité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Température"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Teneur eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Texture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Valeur nutritive"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Viande"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Meat product"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Organoleptic properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Physicochemical properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heat treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Freezing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Food preservation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Color"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Flavor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Temperature"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Water content"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Texture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nutritive value"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Meat"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Producto de carne"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad organoléptica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad fisicoquímica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento térmico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Congelación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conservación alimento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Color"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Flavor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Calidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Temperatura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dosis agua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Textura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Valor nutritivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carne"
+        },
+        "002A35B05: Industries de la viande et des produits carnés / Meat and meat product industries"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

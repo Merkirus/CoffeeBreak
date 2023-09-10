@@ -1,0 +1,164 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Nonlinear stabilizing control of multimachine systems",
+    "dc:creator": [
+        "QIANG LU",
+        "YUAN ZHANG SUN"
+    ],
+    "dc:contributor": "IEEE/PES summer meeting (Portland 1988)",
+    "dc:relation": [
+        "IEEE transactions on power systems -- IEEE trans. power syst, CODEN ITPSEG, ISSN 0885-8950, Vol. 4 (1) , pp. 236-241",
+        "IEEE/PES summer meeting (Portland 1988)"
+    ],
+    "dc:date": "1989",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institute of Electrical and Electronics Engineers",
+    "dc:format": [
+        "print",
+        "6 p. ; 17 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Commande optimale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Commande puissance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Géométrie différentielle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle mathématique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Performance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau multimachine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stabilisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Synthèse commande"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système grande taille"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système non linéaire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optimal control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Power control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Differential geometry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mathematical model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Performance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multimachine power system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrical network"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stabilization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Control synthesis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Large scale system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Non linear system"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Control optimal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Control potencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Geometría diferencíal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo matemático"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rendimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema transporte fuerzas multimáquina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red eléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estabilización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Síntesis control"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema gran escala"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema no lineal"
+        },
+        "001D05I01B: Perturbation. Régulation. Protection / Disturbances. Regulation. Protection"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 19297613"
+}

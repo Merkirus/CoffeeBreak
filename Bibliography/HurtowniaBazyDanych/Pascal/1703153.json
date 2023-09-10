@@ -1,0 +1,111 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "GUETTARDITE FROM TUSCANY, ITALY: A SECOND OCCURRENCE",
+    "dc:creator": [
+        "BRACCI G",
+        "DALENA D",
+        "ORLANDI P",
+        "DUCHI G",
+        "VEZZALINI G"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "CANAD. MINERALOGIST; CAN; DA. 1980; VOL. 18; NO 1; PP. 13-15; ABS. FRE; BIBL. 4 REF.; 2 ILL.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PB"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SB"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIAGRAMME POUDRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FORMULE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TOSCANE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GUETTARDITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SERAVEZZA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MINERALOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ITALIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EUROPE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "X-RAY POWDER DIFFRACTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FORMULA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TUSCANY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GUETTARDITE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MINERALOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ITALY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EUROPE"
+        },
+        "001E01: Sciences de la terre / Earth sciences"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALGEODEBRGM8020440151"
+}

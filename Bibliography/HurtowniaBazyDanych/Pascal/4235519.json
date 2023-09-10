@@ -1,0 +1,48 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "GAZ DE PETROLE",
+    "dc:date": "1974",
+    "dc:type": "Book Chapter",
+    "dc:language": "Russian",
+    "dc:format": "IN: GAZ I PRIMEN. NAR. KHOZ.; MOSKVA; NAUKA; DA. 1974; PP. 167-173",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "COMBUSTIBLE GAZEUX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GAZ PETROLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GAZ NATUREL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HYDROCARBURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETHANE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "URSS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY"
+        },
+        "001D06: Energie / Energy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7573014186"
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Incremental Type-Checking for Type-Reflective Metaprograms</dc:title>
+  <dc:creator>WEIYU MIAO</dc:creator>
+  <dc:creator>SIEK, Jeremy</dc:creator>
+  <dc:contributor>Association for Computing Machinery (ACM) (Organiser of meeting)</dc:contributor>
+  <dc:contributor>Conference on Generative Programming and Component Engineering (GPCE'10) (9 ; Eindhoven 2010-10-10)</dc:contributor>
+  <dc:relation>ACM SIGPLAN notices -- ACM SIGPLAN not, ISSN 1523-2867, Vol. 46 (2) , pp. 167-176</dc:relation>
+  <dc:relation>Proceedings of the 2010 Conference on GENERATIVE PROGRAMMING AND COMPONENT ENGINEERING (GPCE'10)</dc:relation>
+  <dc:date>2011</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Conference Paper</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>Association for Computing Machinery</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>10 p. ; 20 ref</dc:format>
+  <dc:subject xml:lang="fr">Lambda calcul</dc:subject>
+  <dc:subject xml:lang="fr">Métaprogrammation</dc:subject>
+  <dc:subject xml:lang="fr">Programmation générique</dc:subject>
+  <dc:subject xml:lang="fr">Typage</dc:subject>
+  <dc:subject xml:lang="fr">Type donnée</dc:subject>
+  <dc:subject xml:lang="fr">Vérification programme</dc:subject>
+  <dc:subject xml:lang="en">Lambda calculus</dc:subject>
+  <dc:subject xml:lang="en">Metaprogramming</dc:subject>
+  <dc:subject xml:lang="en">Generic programming</dc:subject>
+  <dc:subject xml:lang="en">Typing</dc:subject>
+  <dc:subject xml:lang="en">Data type</dc:subject>
+  <dc:subject xml:lang="en">Program verification</dc:subject>
+  <dc:subject xml:lang="en">Languages</dc:subject>
+  <dc:subject xml:lang="en">gradual typing</dc:subject>
+  <dc:subject xml:lang="en">metaprogramming</dc:subject>
+  <dc:subject xml:lang="en">type reflection</dc:subject>
+  <dc:subject xml:lang="en">type systems</dc:subject>
+  <dc:subject xml:lang="es">Lambda cálculo</dc:subject>
+  <dc:subject xml:lang="es">Metaprogramación</dc:subject>
+  <dc:subject xml:lang="es">Programación genérica</dc:subject>
+  <dc:subject xml:lang="es">Tipificación</dc:subject>
+  <dc:subject xml:lang="es">Tipo dato</dc:subject>
+  <dc:subject xml:lang="es">Verificación programa</dc:subject>
+  <dc:subject>001D02B02: Langages de programmation / Programming languages</dc:subject>
+  <dc:subject>001D02B09: Génie logiciel / Software engineering</dc:subject>
+  <dc:subject>001D02B10: Performances des systèmes informatiques. Fiabilité / Computer systems performance. Reliability</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 23969595</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

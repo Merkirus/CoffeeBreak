@@ -1,0 +1,197 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Prostate-specific antigen in the assessment of organ donors",
+    "dc:creator": [
+        "FRUTOS, M. A",
+        "DAGA, D",
+        "RUIZ, P",
+        "MANSILLA, J. Jose",
+        "REQUENA, M. V"
+    ],
+    "dc:contributor": [
+        "LLOVERAS, Josep (Editor)",
+        "MARGARIT, Carlos (Editor)",
+        "Catalan Transplantation Society (CTS) (Funder/Sponsor)",
+        "Congress of the Catalan Transplantation Society (7 ; Barcelona 2003-02-02)"
+    ],
+    "dc:relation": [
+        "Transplantation proceedings -- Transplant. proc, CODEN TRPPA8, ISSN 0041-1345, Vol. 35 (5) , pp. 1644-1646",
+        "Proceedings of the 7th Congress of the Catalan Transplantation Society, February 2-5, 2003, Barcelona, Spain"
+    ],
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "3 p. ; 6 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil génital mâle pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil urinaire pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prostate pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Antigène spécifique prostate"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Donneur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dépistage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Organe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prostate"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Préopératoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prévention"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transmission"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tumeur maligne"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Male genital diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Urinary system disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prostate disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prostate specific antigen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Donor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Medical screening"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Organ"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prostate"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Preoperative"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prevention"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transmission"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Malignant tumor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato genital macho patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato urinario patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prostata patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antigeno específico prostata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Donador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Descubrimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Organo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prostata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Preoperatorio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prevención"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transmisión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tumor maligno"
+        },
+        "002B14D02: Voies urinaires. Prostate / Urinary tract. Prostate gland",
+        "002B27C: Mort clinique. Soins palliatifs. Don et conservation organe / Clinical death. Palliative care. Organ gift and preservation"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15163766"
+}

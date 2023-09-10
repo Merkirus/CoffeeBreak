@@ -1,0 +1,80 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "PROSPECTIVE STUDY OF CHLAMYDIAL INFECTION IN NEONATES",
+    "dc:creator": [
+        "SCHACHTER J",
+        "GROSSMAN M",
+        "HOLT J",
+        "SWEET R",
+        "GOODNER E",
+        "MILLS J"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "LANCET; GBR; DA. 1979; NO 8139; PP. 377-380; BIBL. 21 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CHLAMYDIOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EPIDEMIOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NOUVEAU NE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHLAMYDIA TRACHOMATIS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SYMPTOMATOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROBIOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHLAMYDIOSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EPIDEMIOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NEW BORN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHLAMYDIA TRACHOMATIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SYMPTOMATOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROBIOLOGY"
+        },
+        "002B05: Pathologie infectieuse / Infectious diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8050165498"
+}

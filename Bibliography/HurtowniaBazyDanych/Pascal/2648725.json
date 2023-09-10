@@ -1,0 +1,57 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "RESTRICTED POSTERIOR CORTICAL LESION INFLUENCES ON LEARNING AND RETENTION OF A SUCCESSIVE BRIGHTNESS DISCRIMINATION; INFLUENCES DES LESIONS CORTICALES POSTERIEURES RESTREINTES SUR L'APPRENTISSAGE ET LA RETENTION D'UNE DISCRIMINATION D'INTENSITES D'ECLAIRAGE SUCCESSIVES",
+    "dc:creator": [
+        "TREICHLER FR",
+        "HUBBARD MJ",
+        "HOLLAND EJ"
+    ],
+    "dc:date": "1975",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "PHYSIOL. PSYCHOL.; U.S.A.; DA. 1975; VOL. 3; NO 1; PP. 73-76; BIBL. 7REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "RAT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CORTEX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STIMULUS VISUEL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONDITIONNEMENT DIFFERENTIEL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANIMAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROCESSUS ACQUISITION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE EXPERIMENTALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PSYCHOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PSYCHOLOGY"
+        },
+        "002A26: Psychologie. Psychophysiologie / Psychology. Psychophysiology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7539007892"
+}

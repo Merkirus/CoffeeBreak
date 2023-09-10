@@ -1,0 +1,177 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Electrical potential change due to fluid flow during rock fracture",
+    "dc:creator": [
+        "CLINT, O. C",
+        "SAMMONDS, P. R",
+        "YOSHIDA, S"
+    ],
+    "dc:contributor": [
+        "Society of Petroleum Engineers (Funder/Sponsor)",
+        "Norwegian University of Science and Technology (Funder/Sponsor)",
+        "EUROCK 98. Symposium (Trondheim 1998-07-08)"
+    ],
+    "dc:relation": "SPE/ISRM rock mechanics in petroleum engineering : Trondheim, 8-10 July 1998",
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:format": [
+        "print",
+        "vol 2, 251-260 ; 12 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Conductivité électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Déformation roche"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecoulement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Electrocinétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai laboratoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fracture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mécanique roche"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Potentiel électrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété piézoélectrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prévision"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Séisme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrical conductivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rock deformation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Flow(fluid)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrokinetics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laboratory test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fracture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rock mechanics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electric potential"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Piezoelectric properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Forecasting"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Earthquakes"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conductividad eléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Deformación roca"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Flujo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Electrocinética"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo laboratorio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fractura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mecánica roca"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Potencial eléctrico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad piezoeléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Previsión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sismo"
+        },
+        "001E01O02: Risques naturels: prévisions, dommages, etc / Natural hazards: prediction, damages, etc"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6215862"
+}

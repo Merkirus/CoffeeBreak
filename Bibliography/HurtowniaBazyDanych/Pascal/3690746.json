@@ -1,0 +1,96 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ETUDE D'UNE CINETIQUE DE DECOMPOSITION HETEROGENE ENTRE UN GAZ ET UNE PAROI CATALYTIQUE DANS UN REACTEUR OUVERT PARFAITEMENT AGITE. APPLICATION A LA DECOMPOSITION CATALYTIQUE DE L'OZONE SUR OXYDE DE NICKEL.",
+    "dc:creator": [
+        "HOUZELOT JL",
+        "VILLERMAUX J"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "J. CHIM. PHYS. PHYS.-CHIM. BIOL.; FR.; DA. 1976; VOL. 73; NO 7-8; PP. 807-810; ABS. ANGL.; BIBL. 13 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "OZONE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DECOMPOSITION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REACTION CATALYTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NICKEL II OXYDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CATALYSEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CINETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CATALYSE HETEROGENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EFFET PAROI"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE PHYSIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE GENERALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OZONE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DECOMPOSITION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CATALYTIC REACTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CATALYST"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "KINETICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HETEROGENEOUS CATALYSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WALL EFFECT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHYSICAL CHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENERAL CHEMISTRY"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7760096786"
+}

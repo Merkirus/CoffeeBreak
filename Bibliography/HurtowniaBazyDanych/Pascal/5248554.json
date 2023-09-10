@@ -1,0 +1,245 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Biocompatibility of calcium phosphate-coated and of geometrically structured nickel-titanium (NiTi) by in vitro testing methods",
+    "dc:creator": [
+        "BOGDANSKI, D",
+        "EPPLE, M",
+        "ESENWEIN, S. A",
+        "MUHR, G",
+        "PETZOLDT, V",
+        "PRYMAK, O",
+        "WEINERT, K",
+        "KÖLLER, M"
+    ],
+    "dc:contributor": [
+        "FRIEND, Clifford M (Editor)",
+        "ESOMAT: European Symposium on Martensitic Transformation (2003)"
+    ],
+    "dc:relation": [
+        "Materials science & engineering. A, Structural materials : properties, microstructure and processing -- Mater. sci. eng. A Struct. mater. prop. microstruct. proces, ISSN 0921-5093, Vol. 378 (1-2) , pp. 527-531",
+        "European Symposium on Martensitic Transformation and Shape-Memory"
+    ],
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "5 p. ; 18 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé minéral"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métal transition composé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métal transition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Alliage mémoire forme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Biocompatibilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet mémoire forme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nickel alliage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Passivation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété mécanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Revêtement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structuration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Superélasticité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Titane alliage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ca"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ni"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "O Ti"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ti"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TiO2"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inorganic compound"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transition element compounds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transition metal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Shape memory alloy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biocompatibility"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Shape memory effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immunology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nickel alloy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Passivation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mechanical properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Coatings"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Structuration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Superelasticity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Titanium alloy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cytokines"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Leukocytes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NiTi"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Osteoblasts"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface coating"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Compuesto inorgánico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metal transición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aleación memoria forma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biocompatibilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efecto memoria forma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Níquel aleación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pasivación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad mecánica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Revestimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estructuración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Superelasticidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Titanio aleación"
+        },
+        "002A06B06: Techniques / Techniques"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16024233"
+}

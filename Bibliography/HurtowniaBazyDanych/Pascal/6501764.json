@@ -1,0 +1,122 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Towards zero-input personalization : Referrer-based page prediction",
+    "dc:creator": [
+        "KUSHMERICK, N",
+        "MCKEE, J",
+        "TOOLAN, F"
+    ],
+    "dc:contributor": [
+        "Brusilovsky, Peter (Editor)",
+        "Stock, Oliviero (Editor)",
+        "Strapparava, Carlo (Editor)",
+        "Adaptive hypermedia and adaptive web-based systems. International conference (Trento 2000-08-28)"
+    ],
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 133-143",
+        "AH 2000 : adaptive hypermedia and adaptive web-based systems (Trento, 28-30 August 2000)"
+    ],
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "11 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Hypermédia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interface utilisateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Internet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recherche information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau WWW"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Site Web"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système adaptatif"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hypermedia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "User interface"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Internet"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information retrieval"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "World wide web"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Web site"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adaptive system"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hipermedia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interfase usuario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Internet"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Recuperación información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red WWW"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sitio Web"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema adaptativo"
+        },
+        "001D02B04: Systèmes informatiques et systèmes répartis. Interface utilisateur / Computer systems and distributed systems. User interface"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1382701"
+}

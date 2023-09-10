@@ -1,0 +1,97 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "BREVET. BIODEGRADATION OF CARBONACEOUS MATERIALS; BIODEGRADATION DE MATERIAUX CARBONES",
+    "dc:creator": "ROMERO-SIERRA (CESAR)",
+    "dc:date": "1982",
+    "dc:type": "Patent",
+    "dc:language": "English",
+    "dc:format": "; EUR; DA. 1982-02-10; EP/A1/0 045 614; DEP.81303445.1/1981-07-27; PR. NZ/193588/1980-07-31; 20 P.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "BIODEGRADATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BACTERIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOREACTEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRODUCTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRESSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TEMPERATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BREVET"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GROUPE METHYLENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE CARBONE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOTECHNOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIODEGRADATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BACTERIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOREACTOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PRODUCTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PRESSURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TEMPERATURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PATENTS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOTECHNOLOGY"
+        },
+        "002A31: Biotechnologie / Biotechnology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0309107"
+}

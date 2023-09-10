@@ -1,0 +1,168 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Practitioner's guide to laser pulse propagation models and simulation: Numerical implementation and practical usage of modern pulse propagation models",
+    "dc:creator": [
+        "COUAIRON, A",
+        "BRAMBILLA, E",
+        "CORTI, T",
+        "MAJUS, D",
+        "RAMIREZ-GONGORA, O. De J",
+        "KOLESIK, M"
+    ],
+    "dc:contributor": [
+        "BONDANI, Maria (Editor)",
+        "DI TRAPANI, Paolo (Editor)",
+        "STELLA School for Training in Experiments with Lasers and Laser Applications (5 ; Como 2011-06-20)"
+    ],
+    "dc:relation": [
+        "The European physical journal. Special topics -- Eur. phys. j., spec. top, ISSN 1951-6355, Vol. 199, pp. 5-76",
+        "STELLA: Experiments with Lasers and Laser Applications"
+    ],
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "EDP Sciences",
+    "dc:format": [
+        "print",
+        "72 p. ; 62 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet non linéaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Equation Maxwell"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Equation non linéaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fonction enveloppe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Impulsion laser"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Impulsion ultracourte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Loi Gauss"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode différence finie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode numérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Onde scalaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plasma produit par laser"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Problème valeur limite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propagation onde"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Non linear effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Maxwell equations"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nonlinear equations"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Envelope function"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laser pulse"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ultrashort pulse"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gaussian distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Finite difference method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Numerical method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Scalar wave"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laser-produced plasma"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Boundary-value problems"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wave propagation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efecto no lineal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Función envolviente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Impulsión láser"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Impulsión ultracorto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método numérico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Onda escalar"
+        },
+        "001B40B55A: Théorie générale / General laser theory"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 25343837"
+}

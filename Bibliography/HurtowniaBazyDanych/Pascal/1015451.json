@@ -1,0 +1,37 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "CATHODIC PROTECTION MAINTENANCE PROGRAMS",
+    "dc:creator": "GORDON HL",
+    "dc:date": "1973",
+    "dc:type": "Serial Issue",
+    "dc:language": "English",
+    "dc:format": "MATER. PROTECT. PERFORM.; U.S.A.; DA. 1973; VOL. 12; NO 5; PP. 37-40; BIBL. 1 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PROTECTION CATHODIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DONNEE ECONOMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIVERS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METALLURGY"
+        },
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7374014700"
+}

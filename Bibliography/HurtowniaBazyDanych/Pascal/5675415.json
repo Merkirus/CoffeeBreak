@@ -1,0 +1,85 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The library and the computer center : Friends or foes? : A general overview",
+    "dc:creator": "BEN-CHAIM, D",
+    "dc:contributor": [
+        "van Marle, Gerard A.J.S (Editor)",
+        "Törnudd, Elin (Editor)",
+        "International Association of Technological University Libraries (Organiser of meeting)",
+        "IATUL biennial conference (16 ; Enschede 1995-06-05)"
+    ],
+    "dc:relation": [
+        "IATUL proceeding (1992), ISSN 0966-4769, Vol. vol.5, pp. 229-235",
+        "Resources managment (Enschede, June 5-9, 1995)"
+    ],
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "IATUL",
+    "dc:format": [
+        "print",
+        "7 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Automatisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bibliothèque universitaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Centre calcul"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Coopération"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Automation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "University library"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computer center"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cooperation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Automatización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biblioteca universitaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Centro cálculo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cooperación"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation",
+        "001A01C02D: Bibliothèques universitaires et d'enseignement supérieur / High education and university libraries",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-D: Organismes documentaires / Documentation institutions"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2039646"
+}

@@ -1,0 +1,112 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "AUTOMATION OF THE RAPID PLASMA REAGIN TEST USING THE AUTOTAPE SYSTEM.",
+    "dc:creator": [
+        "BOOTH JR",
+        "SEQUEIRA PJL",
+        "WAGSTAFF W",
+        "HOPKINSON I",
+        "GIBBS D",
+        "BENNETT E"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. CLIN. PATHOL.; G.B.; DA. 1977; VOL. 30; NO 2; PP. 171-176; BIBL. 7 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "AUTOMATISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SYPHILIS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIAGNOSTIC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TEST RPR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TECHNIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "APPLICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MALADIE VENERIENNE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BACTERIOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE IMMUNOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROBIOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AUTOMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SYPHILIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIAGNOSTIC"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RPR TEST"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TECHNIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "APPLICATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VENEREAL DISEASE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BACTERIOSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IMMUNOLOGICAL METHOD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROBIOLOGY"
+        },
+        "002B05: Pathologie infectieuse / Infectious diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7750302786"
+}

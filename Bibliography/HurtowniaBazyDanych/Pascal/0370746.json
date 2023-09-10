@@ -1,0 +1,97 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "HAENDEWASCHEN-WICHTIG AUCH IM ZEITALTER DER ANTIBIOTIKA.; LE LAVAGE DES MAINS EST IMPORTANT EGALEMENT A L'AGE DES ANTIBIOTIQUES",
+    "dc:creator": "SCHWEISHEIMER W",
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "MED. LAB.; DTSCH.; DA. 1977; VOL. 30; NO 6; PP. 165-167",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ENFANT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HYGIENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LAVAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MAIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INFECTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PREVENTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EDUCATION SANITAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PEAU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROBIOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHILD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HYGIENE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WASHING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HAND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INFECTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PREVENTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEALTH EDUCATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SKIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROBIOLOGY"
+        },
+        "002B05: Pathologie infectieuse / Infectious diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7750428981"
+}

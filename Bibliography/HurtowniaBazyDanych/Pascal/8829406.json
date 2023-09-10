@@ -1,0 +1,111 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Lowbury Hill, Oxon : a re-assessment of the probable Romano-Celtic temple and the Anglo-Saxon barrow",
+    "dc:creator": [
+        "FULFORD, M. G",
+        "RIPPON, S. J"
+    ],
+    "dc:contributor": [
+        "KAMINSKI, J (Collaborator)",
+        "RICHARDS, D (Collaborator)",
+        "SOMERVILLE, E (Collaborator)",
+        "TIMBY, J (Collaborator)",
+        "TINGLE, M (Collaborator)",
+        "ALLEN, D (Collaborator)",
+        "ALLEN, J. R. L (Collaborator)",
+        "ALLEN, S. J (Collaborator)",
+        "FIRTH, J (Collaborator)",
+        "GAFFNEY, C (Collaborator)",
+        "GATER, J (Collaborator)",
+        "HAMILTON-DYER, S (Collaborator)",
+        "HÄRKE, H (Collaborator)"
+    ],
+    "dc:relation": "Archaeological journal (London) -- Archaeol. j. (Lond.), ISSN 0066-5983, Vol. 151, pp. 158-211",
+    "dc:date": "1994",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Royal Archaeological Institute",
+    "dc:format": [
+        "print",
+        "4 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Céramique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ceramics"
+        },
+        "525-: Prehistoire et protohistoire / Prehistory and protohistory",
+        "525-46: Europe / Europe",
+        "525-81: Généralités / Generalities"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grande-Bretagne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lowbury Hill"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Oxon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ancien"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bronze"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fer"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Final"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Great Britain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Early"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bronze"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Iron"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Late"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3285375"
+}

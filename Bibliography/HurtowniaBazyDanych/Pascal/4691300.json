@@ -1,0 +1,235 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Formation of silicon carbide and silicon carbonitride by RF-plasma CVD",
+    "dc:creator": [
+        "SACHDEV, H",
+        "SCHEID, P"
+    ],
+    "dc:contributor": [
+        "ROBERTSON, John (Editor)",
+        "KAWARADA, Hiroshi (Editor)",
+        "KOHN, Erhard (Editor)",
+        "SITAR, Zlatko (Editor)",
+        "European Conference on Diamond, Diamond-like Materials, Carbon Nanotubes, Nitrides and Silicon Carbide (Diamond 2000) (11 ; Porto 2000-09-03)"
+    ],
+    "dc:relation": [
+        "Diamond and related materials -- Diam. relat. mater, ISSN 0925-9635, Vol. 10 (3-7) , pp. 1160-1164",
+        "Proceedings of Diamond 2000, the 11th European Conference on Diamond, Diamond-like Materials, Carbon Nanotubes, Nitrides and Silicon Carbide"
+    ],
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "13 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé minéral"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composition chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Couche mince"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cristallinité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cristallisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Céramique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dépôt chimique phase vapeur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hyperfréquence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Morphologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mécanisme croissance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mécanisme réaction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode MOCVD"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode PECVD"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nanocristal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Préparation chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recuit thermique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Revêtement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Silicium Carbonitrure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Silicium carbure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "C N Si"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "C Si"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SiC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SiCN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inorganic compounds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical composition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thin films"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Crystallinity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Crystallization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ceramics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CVD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microwave radiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Morphology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Growth mechanism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reaction mechanism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOCVD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PECVD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nanocrystal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical preparation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermal annealing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Coatings"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Silicon Carbonitrides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Silicon carbides"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cristalinidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mecanismo crecimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mecanismo reacción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nanocristal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Recocido térmico"
+        },
+        "001B80A15G: Dépôt chimique en phase vapeur (incluant le cvd activé par plasma, mocvd, etc.) / Chemical vapor deposition (including plasma-enhanced cvd, mocvd, etc.)",
+        "8115G:  / Chemical vapor deposition (including plasma-enhanced CVD, MOCVD, etc.)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1144473"
+}

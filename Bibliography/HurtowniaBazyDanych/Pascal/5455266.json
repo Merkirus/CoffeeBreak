@@ -1,0 +1,163 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "High drop test reliability : Lead-free solders",
+    "dc:creator": [
+        "AMAGAI, Masazumi",
+        "TOYODA, Yoshitaka",
+        "OHNISHI, Tsukasa",
+        "AKITA, Satoru"
+    ],
+    "dc:contributor": [
+        "Electronic Components, Assemblies & Materials Association (Organiser of meeting)",
+        "Electronic Industries Alliance (Organiser of meeting)",
+        "IEEE Components, Packaging & Manufacturing Technology Society (Organiser of meeting)",
+        "ECTC : electronic components & technology conference (54 ; Las Vegas NV 2004-06-01)"
+    ],
+    "dc:relation": [
+        "Proceedings - Electronic Components Conference, ISSN 0569-5503",
+        "54th electronic components & technology conference (Las Vegas NV, 1-4 June 2004)"
+    ],
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "IEEE",
+    "dc:format": [
+        "print",
+        "Vol 2, 1304-1309 ; 4 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Alliage eutectique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Assemblage circuit intégré"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Brasage sans plomb"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cavité dans réseau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Comportement thermique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai circuit intégré"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai thermique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fiabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métal fondu brasage tendre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optimisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vieillissement thermique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Eutectic alloy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Integrated circuit bonding"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lead free soldering"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Void"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermal behavior"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Integrated circuit testing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermal test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reliability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Solder metal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optimization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermal ageing"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aleación eutéctica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Soldeo sin plomo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cavidad en red"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Comportamiento térmico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prueba térmica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fiabilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metal fundido soldeo blando"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Optimización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Envejecimiento térmico"
+        },
+        "001D03F06A: Conception. Technologies. Analyse fonctionnement. Essais / Design. Technologies. Operation analysis. Testing"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17805219"
+}

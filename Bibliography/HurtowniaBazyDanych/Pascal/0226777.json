@@ -1,0 +1,49 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ANMERKUNGEN ZU GETRIEBEN MIT STUFENLOS VERAENDERLICHER ABTRIEBSDREHZAHL; REMARQUES SUR LES VARIATEURS DE VITESSE, A VITESSE DE SORTIE VARIABLE DE FACON CONTINUE",
+    "dc:creator": "BASEDOW G",
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "KLEPZIG FACHBER. FUEHRUNGSKRAEFTE MASCH.-BAU HUETTENWES.; DTSCH.; DA. 1974; VOL. 82; NO 6; PP. 199-202; BIBL. 2 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "VARIATEUR VITESSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VARIATION CONTINUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FONCTIONNEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONCEPTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RAPPORT TRANSMISSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RENDEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUSTRIE MECANIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MECHANICAL ENGINEERING"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7589003531"
+}

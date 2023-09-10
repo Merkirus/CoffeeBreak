@@ -1,0 +1,107 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ETUDE DE LA COPRECIPITATION CATHODIQUE DU RUTHENIUM EN ALLIAGE AVEC LE NICKEL PAR METHODE RADIOCHIMIQUE",
+    "dc:creator": [
+        "ISHINA VA",
+        "KRASIKOV BS",
+        "SUKHODOLOV GM",
+        "BYKOV AM"
+    ],
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "ZH. PRIKL. KHIM.; S.S.S.R.; DA. 1974; VOL. 47; NO 9; PP. 2043-2047; BIBL. 15 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DEPOT ELECTROLYTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NICKEL 50-100"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RUTHENIUM 01-10"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MILIEU ACIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BORIQUE ACIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SULFATE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHLORURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE ETUDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MARQUAGE ISOTOPIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NICKELAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REVETEMENT METALLIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RADIOISOTOPE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALLIAGE NI-RU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROCHIMIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE PHYSIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE GENERALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROCHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHYSICAL CHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENERAL CHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METALLURGY"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry",
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7517014684"
+}

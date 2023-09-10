@@ -1,0 +1,119 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Prévision des contraintes résiduelles en fin de fabrication de produits longs laminés à chaud; Prediction of residual stresses at the end of manufacturing long hot rolled products",
+    "dc:creator": "MARCELIN, Jean-Luc",
+    "dc:contributor": "Ec. natl. supér. mines Paris (Degree-grantor)",
+    "dc:date": "1983",
+    "dc:type": [
+        "Text",
+        "Thesis"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "105 f"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse contrainte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrainte résiduelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle mathématique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode élément fini"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Poutre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Produit laminé à chaud"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rail"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stress analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Residual stress"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mathematical model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Finite element method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Finite element methode"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Beam(mechanics)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Girder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hot rolled product"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rail"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Spannungsanalyse"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Eigenspannung"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Mathematisches Modell"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Finite Element Methode"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Traeger"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Warmgewalztes Erzeugnis"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Schiene"
+        },
+        "001B80A05B: Métaux, semimétaux et alliages / Metals, semimetals and alloys",
+        "001D11F: Propriétés chimiques et électrochimiques / Chemical and electrochemical properties",
+        "001D11H: Contrôle / Analysing. Testing. Standards",
+        "001D11H03: Analyse des contraintes / Stress analysis"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 9412968"
+}

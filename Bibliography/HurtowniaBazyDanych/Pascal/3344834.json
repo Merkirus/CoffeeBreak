@@ -1,0 +1,72 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "UNDERGROUND CAR PARK AT THE HOUSE OF COMMONS, LONDON: GEOTECHNICAL ASPECTS.",
+    "dc:creator": [
+        "BURLAND JB",
+        "HANCOCK RJR"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "STRUCT. ENGR; G.B.; DA. 1977; VOL. 55; NO 2; PP. 87-100; BIBL. 17 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CONSTRUCTION SOUTERRAINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PARC STATIONNEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOTECHNIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STABILITE SOL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MOUVEMENT(CINEMATIQUE)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ROYAUME-UNI"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PARC DE STATIONNEMENT SOUTERRAIN PROXIMITE WESTMINSTER HALL A LONDRES(ROYAUME UNI)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENIE CIVIL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "UNDERGROUND CONSTRUCTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PARKING LOT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENGINEERING GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOIL STABILITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CIVIL ENGINEERING"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7780244335"
+}

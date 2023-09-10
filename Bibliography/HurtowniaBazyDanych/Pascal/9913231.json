@@ -1,0 +1,342 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Insight into the mechanism of asparaginase-induced depletion of antithrombin III in treatment of childhood acute lymphoblastic leukemia",
+    "dc:creator": [
+        "BUSHMAN, J. E",
+        "PALMIERI, D",
+        "WHINNA, H. C",
+        "CHURCH, F. C"
+    ],
+    "dc:relation": "Leukemia research -- Leuk. res, CODEN LEREDD, ISSN 0145-2126, Vol. 24 (7) , pp. 559-565",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "37 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil circulatoire pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Coagulopathie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enzyme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hydrolases"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hémopathie maligne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hémopathie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lymphoprolifératif syndrome"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vaisseau sanguin pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aigu"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Anticancéreux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Anticoagulant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Antithrombine III"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Asparaginase"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Biosynthèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chimiothérapie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Complication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Déficit"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enfant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Foie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fonction hépatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Leucémie lymphoblastique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métabolisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thrombose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Toxicité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cardiovascular disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Coagulopathy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Enzyme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hydrolases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Malignant hemopathy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hemopathy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lymphoproliferative syndrome"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vascular disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Acute"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antineoplastic agent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Anticoagulant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antithrombin III"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asparaginase"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biosynthesis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemotherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Complication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Deficiency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Child"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Liver"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Liver function"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Acute lymphocytic leukemia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metabolism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thrombosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Toxicity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato circulatorio patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Coagulopatía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enzima"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hydrolases"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hemopatía maligna"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hemopatía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Linfoproliferativo síndrome"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vaso sanguíneo patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agudo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anticanceroso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anticoagulante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antitrombina III"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asparaginase"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biosíntesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Quimioterapia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Complicación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Déficiencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Niño"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hígado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Función hepática"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Leucemia linfoblástica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metabolismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trombosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Toxicidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        "002B02U04: Toxicité: appareil digestif / Toxicity: digestive system"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1446449"
+}

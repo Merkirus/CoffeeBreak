@@ -1,0 +1,186 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Spin echo NMR in Nd2(CoFe)14B; RMN d'écho de spin dans Nd2(CoFe)14B",
+    "dc:creator": [
+        "JEDRYKA, E",
+        "WOJCIK, M",
+        "PANISSOD, P",
+        "ROSENBERG, M",
+        "HIROSAWA, S",
+        "SAGAWA, M"
+    ],
+    "dc:contributor": "International conference on magnetism (1988)",
+    "dc:relation": [
+        "Journal de physique. Colloques -- J. phys., Colloq, CODEN JPQCAK, ISSN 0449-1947, Vol. 49 (8) , pp. 587-588",
+        "International conference on magnetism (1988)"
+    ],
+    "dc:date": "1988",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Société française de physique",
+    "dc:format": [
+        "print",
+        "6 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Champ magnétique hyperfin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composition chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lanthanide Alliage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métal transition Alliage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résonance magnétique nucléaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résonance magnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Très basse température"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Alliage3 Co:>50 B:0,5-1 Nd:20-30"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Site cristallographique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Alliage3 Fe:>50 B:0,5-1 Nd:20-30"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SystèmeM B:0,5-1 Co Fe Nd:20-30"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hyperfine magnetic field"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical composition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lanthanide Alloys"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transition metal Alloys"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NMR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nuclear magnetic resonance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetic resonance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Very low temperature"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Crystallographic site"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Campo magnético hiperfino"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Composición química"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lantánido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metal transición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resonancia magnética nuclear"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resonancia magnética"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Temperatura muy baja"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sitio cristalográfico"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Hyperfeines magnetisches Feld"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Chemische Zusammensetzung"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Experimentelle Untersuchung"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "KMR"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Magnetische Resonanz"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Tiefsttemperatur"
+        },
+        "001B70E90: Divers / Other topics in magnetic properties and materials",
+        "001B70F60L: Echos de spin / Spin echoes",
+        "001B80A05B: Métaux, semimétaux et alliages / Metals, semimetals and alloys"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 7306428"
+}

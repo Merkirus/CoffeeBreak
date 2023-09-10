@@ -1,0 +1,45 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ENERGY CURRENTS IN SUPERCONDUCTORS",
+    "dc:creator": "COHEN GS",
+    "dc:date": "1973",
+    "dc:type": "Serial Issue",
+    "dc:language": "English",
+    "dc:format": "J. PHYS. F; G.B.; DA. 1973; VOL. 3; NO 3; PP. 585-596; BIBL. 14 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "SUPRACONDUCTIVITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPRIETE THERMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VOISINAGE TRANSITION SUPRACONDUCTRICE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ECOULEMENT CHALEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COURANT ENERGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE SOLIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID PHYSICS"
+        },
+        "001B60: Etat condense: structure, proprietes mecaniques et thermiques / Condensed matter: structure, mechanical and thermal properties"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7316009234"
+}

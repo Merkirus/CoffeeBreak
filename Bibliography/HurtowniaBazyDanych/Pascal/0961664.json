@@ -1,0 +1,77 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "BIOSYNTHETIC ORIGIN OF THE C2 UNITS OF GELDANAMYCIN AND DISTRIBUTION OF LABEL FROM D-(6-13C) GLUCOSE.",
+    "dc:creator": [
+        "HABER A",
+        "JOHNSON RD",
+        "RINEHART KL JR"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. AMER. CHEM. SOC.; U.S.A.; DA. 1977; VOL. 99; NO 10; PP. 3541-3544; BIBL. 26 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "STREPTOMYCES HYGROSCOPICUS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOSYNTHESE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANTIBIOTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACTINOMYCETE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METABOLISME SECONDAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MACROLIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GELDAMYCINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROBIOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STREPTOMYCES HYGROSCOPICUS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOSYNTHESIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANTIBIOTIC"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SECONDARY METABOLISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MACROLIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROBIOLOGY"
+        },
+        "002B05: Pathologie infectieuse / Infectious diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7750441112"
+}

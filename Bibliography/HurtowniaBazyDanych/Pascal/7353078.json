@@ -1,0 +1,103 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Metodos para la determinación del mecanismo focal de los terremotos a partir de la polaridad de los ondas P; Méthodes de détermination du mécanisme focal des séismes à partir de la polarité des ondes P",
+    "dc:creator": "BUFORN, E",
+    "dc:contributor": [
+        "UDIAS, A",
+        "MUNOZ, D",
+        "BUFURN, E",
+        "Mecanismo de los terremotos y tectónica"
+    ],
+    "dc:relation": "Mecanismo de los terremotos y tectónica -- Mécanismes des séismes et tectonique",
+    "dc:date": "1985",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "Spanish, Castilian",
+    "dc:publisher": "Univ. Complutense",
+    "dc:format": [
+        "print",
+        "Table ; 4 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Algorithme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cisaillement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fracture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle physique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mécanisme focal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Onde P"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Onde sismique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Orientation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Séisme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Algorithms"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Shear"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fractures"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Physical models"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Focal mechanism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "P-waves"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Elastic waves"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Orientation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Earthquakes"
+        },
+        "001E01M03: Séismes, sismologie / Earthquakes, seismology"
+    ],
+    "dc:rights": [
+        "Bureau de Recherches Géologiques et Minières (BRGM)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 8652573"
+}

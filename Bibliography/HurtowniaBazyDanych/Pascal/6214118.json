@@ -1,0 +1,230 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Conference on colloids and interfaces, Cetraro, ITA, 28 September-1 October 1987",
+    "dc:creator": [
+        "TADROS, T. F",
+        "PELIZZETTI, E"
+    ],
+    "dc:contributor": "Conference on colloids and interfaces (1987-09-28)",
+    "dc:relation": "Colloids and surfaces -- Colloids surf, CODEN COSUD3, ISSN 0166-6622, Vol. 35 (2-4) , pp. 121-361",
+    "dc:date": "1989",
+    "dc:type": [
+        "Text",
+        "Conference Proceedings"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "dissem"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Agent surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Agrégation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Concentration critique micellaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Congrès"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Couche monomoléculaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Membrane"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Micelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microémulsion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Particule monodispersée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété thermodynamique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sol colloïdal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Solubilisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure interface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure moléculaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Suspension particule"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cetraro"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Septembre-octobre 1987"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surfactant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aggregation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Micellar critical concentration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Congress"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Monolayer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Membrane"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Micelle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microemulsion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Monodisperse particle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermodynamic properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Colloidal sol"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Solubilization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interface structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Molecular structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Particle suspension"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agente superficie"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agregación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Concentración crítica micelar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Congreso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Capa monomolecular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Membrana"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Micela"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Microemulsión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Partícula monodispersada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad termodinámica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Suelo coloidal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Solubilización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estructura interfaz"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estructura molecular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estructura superficie"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Suspensión partícula"
+        },
+        "001C01J01: Généralités, appareillage, technique de préparation / General, apparatus, technics of preparation",
+        "001C01J10: Divers / Miscellaneous"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 7233663"
+}

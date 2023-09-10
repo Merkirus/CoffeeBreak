@@ -1,0 +1,202 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Effects of caloric stimuli on frog ampullar receptors",
+    "dc:creator": [
+        "ZUCCA, G",
+        "BOTTA, L",
+        "VALLI, S",
+        "GIANNONI, B",
+        "MIRA, E",
+        "PERIN, P",
+        "BUIZZA, A",
+        "VALLI, P"
+    ],
+    "dc:relation": "Hearing research -- Hear. res, CODEN HERED3, ISSN 0378-5955, Vol. 137 (1-2) , pp. 8-14",
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "27 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amphibia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Electrophysiologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Oreille interne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Salientia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système vestibulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Canal semicirculaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Endolymphe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gravité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grenouille"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mode décharge"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Récepteur sensoriel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stimulation calorique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stimulus thermique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Amphibia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electrophysiology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inner ear"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Salientia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vestibular system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Semicircular canal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Endolymph"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gravity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Frog"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Discharge pattern"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sensory receptor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Caloric vestibular test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermal stimulus"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Amphibia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Electrofisiología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Oido interno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salientia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema vestibular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conducto semicircular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Endolinfa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gravedad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rana"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Forma descarga"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Receptor sensorial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estimulación calórica vestibular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estímulo termico"
+        },
+        "002A25E: Motricité et voies motrices. Réflexes. Centres de contrôle des fonctions végétatives. Système vestibulaire et équilibration / Motor control and motor pathways. Reflexes. Control centers of vegetative functions. Vestibular system and equilibration"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1262849"
+}

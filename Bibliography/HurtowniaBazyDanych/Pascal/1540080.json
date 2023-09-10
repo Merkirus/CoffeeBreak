@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "EVOLUTION OF THE SOLAR PROTON SPECTRUM IN INTERPLANETARY SPACE",
+    "dc:creator": "KONTOR NN",
+    "dc:date": "1981",
+    "dc:type": "Conference Paper",
+    "dc:language": "English",
+    "dc:format": "INTERNATIONAL COSMIC RAY CONFERENCE. 17/1981/PARIS; FRA; SACLAY: COMMISSARIAT A L'ENERGIE ATOMIQUE; DA. 1981; PP. 73-76; BIBL. 7 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PROTON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATIERE INTERPLANETAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACCELERATION PARTICULE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTRE ENERGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ERUPTION CHROMOSPHERIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RAYONNEMENT COSMIQUE SOLAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPAGATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOPHYSIQUE EXTERNE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ASTRONOMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PROTON"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTERPLANETARY SPACE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PARTICLE ACCELERATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY SPECTRUM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLAR FLARE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLAR COSMIC RAY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PROPAGATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXTERNAL GEOPHYSICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ASTRONOMY"
+        },
+        "001E03: Astronomie / Astronomy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL82X0255314"
+}

@@ -1,0 +1,130 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A LOW-TEMPERATURE CHAMBER FOR THE CALIBRATION OF RADIATION HEAT FLOW RECEIVERS; CHAMBRE A BASSE TEMPERATURE POUR L'ETALONNAGE DES CAPTEURS DE FLUX THERMIQUES DE RAYONNEMENT",
+    "dc:creator": [
+        "KISELEV SB",
+        "POPOV OB",
+        "EHL'DAROV FG"
+    ],
+    "dc:date": "1983",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "PROMYSLENNAJA TEPLOTEHNIKA; ISSN 508144; UKR; DA. 1983; VOL. 5; NO 1; PP. 95-98; ABS. ENG; BIBL. 3 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "FLUX THERMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "APPAREIL MESURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CAPTEUR MESURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BASSE TEMPERATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETALONNAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MONOGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RAYONNEMENT THERMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DETECTEUR RAYONNEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FLUXMETRIE THERMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RADIOMETRIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHAMBRE BASSE TEMPERATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METROLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE THEORIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEAT FLOW"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MEASURING INSTRUMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MEASUREMENT SENSOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LOW TEMPERATURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CALIBRATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MONOGRAPHS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEAT RADIATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RADIATION DETECTOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEAT FLOW MEASUREMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RADIOMETRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MEASUREMENT SCIENCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THEORETICAL PHYSICS"
+        },
+        "001B: Physique / Physics",
+        "001D06: Energie / Energy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0179413"
+}

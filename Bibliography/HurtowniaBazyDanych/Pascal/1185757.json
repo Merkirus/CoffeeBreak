@@ -1,0 +1,111 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "CORRELATION BETWEEN SIZE AND AGE AT DIFFERENT EVENTS IN THE CELL DIVISION CYCLE OF ESCHERICHIA COLI",
+    "dc:creator": [
+        "KOPPES LJH",
+        "MEYER M",
+        "OONK HB",
+        "DE JONG MA",
+        "NANNINGA N"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. BACTERIOL.; ISSN 0021-9193; USA; DA. 1980; VOL. 143; NO 3; PP. 1241-1252; BIBL. 41 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ESCHERICHIA COLI"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REGULATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIVISION CELLULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CYCLE CELLULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INITIATION REPLICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ADN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHROMOSOME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TAILLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BACTERIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CROISSANCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROBIOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ESCHERICHIA COLI"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REGULATION(CONTROL)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CELL DIVISION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CELL CYCLE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REPLICATION INITIATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHROMOSOME"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AGE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BACTERIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GROWTH"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROBIOLOGY"
+        },
+        "002B05: Pathologie infectieuse / Infectious diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8110077454"
+}

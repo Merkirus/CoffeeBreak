@@ -1,0 +1,246 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Intravenous thiodan (30 % endosulfan in xylene)",
+    "dc:creator": [
+        "GRIMMETT, W. G",
+        "DZENDOLET, I",
+        "WHYTE, I"
+    ],
+    "dc:contributor": [
+        "WATSON, WILLIAM A (Editor)",
+        "CHYKA, PETER. A (Editor)",
+        "ECMO American Board of Applied Toxicology (Funder/Sponsor)",
+        "Clinical Controversies Symposium: ECMO American Board of Applied Toxicology"
+    ],
+    "dc:relation": [
+        "Journal of toxicology. Clinical toxicology -- J. toxicol., Clin. toxicol, ISSN 0731-3810, Vol. 34 (4) , pp. 447-452",
+        "Clinical Controversies Symposium: ECMO American Board of Applied Toxicology"
+    ],
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Dekker",
+    "dc:format": [
+        "print",
+        "10 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Encéphale pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epilepsie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système nerveux central pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système nerveux pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude cas"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grand mal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Insecticide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Intoxication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Organochloré"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pesticide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réanimation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Solvant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Suicide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Toxicité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Voie intraveineuse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Xylène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Endosulfan"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cerebral disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Epilepsy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central nervous system disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nervous system diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Case study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Grand mal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Insecticide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Poisoning"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Organochlorine compounds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pesticides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Resuscitation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Solvent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Suicide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Toxicity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Intravenous administration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Xylene"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Encéfalo patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Epilepsia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervosio central patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio caso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gran mal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Insecticida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Intoxicación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Organoclorado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Plaguicida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reanimación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Solvente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Suicidio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Toxicidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vía intravenosa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Xileno"
+        },
+        "002B03G: Toxicologie des pesticides, engrais et autres produits chimiques à usage agricole / Pesticides, fertilizers and other agrochemicals toxicology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3198679"
+}

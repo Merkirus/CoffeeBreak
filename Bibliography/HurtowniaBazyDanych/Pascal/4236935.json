@@ -1,0 +1,81 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "GEOCHIMIE DES METAPELITES MESOTHERMALES A LA LUMIERE DE NOUVELLES METHODES STATISTIQUES",
+    "dc:creator": [
+        "VASILENKO VB",
+        "KEPEZHINSKAS KB",
+        "MAKITRO NF"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "TRUDY INST. GEOL. GEOFIZ., MOSKVA; SUN; DA. 1978; NO 407; PP. 163-172; BIBL. 2 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "FACIES METAMORPHISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE MULTIVARIABLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CORRELATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ROCHES CRISTALLINES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FACIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL ANALYSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL COMPOSITION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MULTIVARIATE ANALYSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CORRELATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CRYSTALLINE ROCKS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        "001E02F: Géophysique. Techniques, méthodes, appareillage et modèles / Geophysics. Techniques, methods, instrumentation and models"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALGEODEBRGM7920331061"
+}

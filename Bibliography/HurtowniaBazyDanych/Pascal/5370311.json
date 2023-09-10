@@ -1,0 +1,108 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Li-inserted carbon nanotube Raman scattering",
+    "dc:creator": [
+        "LEMOS, V",
+        "GUERINI, S",
+        "LALA, S. M",
+        "MONTORO, L. A",
+        "ROSOLEN, J. M"
+    ],
+    "dc:contributor": [
+        "DA SILVA, E. F (Editor)",
+        "HENINI, M (Editor)",
+        "SCOLFARO, L. M. R (Editor)",
+        "SIPAHI, G. M (Editor)",
+        "NanoSemiMat-4 Workshop of Semiconductor Nanodevices and Nanostructured Materials (4 ; São Pedro, São Paulo 2005-03-09)"
+    ],
+    "dc:relation": [
+        "Microelectronics journal -- Microelectronics j, ISSN 0959-8324, Vol. 36 (11) , pp. 1020-1022",
+        "4th Workshop of Semiconductor Nanodevices and Nanostructured Materials (NanoSemiMat-4)"
+    ],
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "3 p. ; 11 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Addition lithium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé insertion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffusion Raman"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau dopé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nanotube carbone"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nanotube monofeuillet"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lithium additions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Intercalation compounds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Raman scattering"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Doped materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Carbon nanotubes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Singlewalled nanotube"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lithium intercalation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Raman scattering"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Single wall carbon nanotubes"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Difusión Ramán"
+        },
+        "001B70H30N: Fullerènes et matériaux apparentés / Fullerenes and related materials",
+        "001B70H67C: Nanotubes / Nanotubes",
+        "7830N:  / Fullerenes and related materials",
+        "7867C:  / Nanotubes"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17158010"
+}

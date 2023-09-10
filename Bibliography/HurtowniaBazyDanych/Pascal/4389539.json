@@ -1,0 +1,76 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "PREDICTION NON LINEAIRE ET FILTRAGE DES PROCESSUS GAUSSIENS ALEATOIRES SOUMIS A DES TRANSFORMATIONS POLYNOMIALE ET EXPONENTIELLE PAR MORCEAUX",
+    "dc:creator": [
+        "PIRANASHVILI ZA",
+        "SULABERIDZE TG"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "SOOBSHCH. AKAD. NAUK GRUZ. S.S.R.; S.S.S.R.; DA. 1976; VOL. 84; NO 2; PP. 321-324; ABS. GEORGIEN ANGL.; BIBL. 4 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "FILTRAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FILTRAGE NON LINEAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PREDICTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROCESSUS GAUSS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SERIE FOURIER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AUTOMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATHEMATIQUES APPLIQUEES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FILTERING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NON LINEAR FILTERING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PREDICTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GAUSSIAN PROCESS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FOURIER SERIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONTROL THEORY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "APPLIED MATHEMATICS"
+        },
+        "001A02: Mathematiques / Mathematics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7730275403"
+}

@@ -1,0 +1,182 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Color Centers in Doped Bi12GeO20 Crystals Irradiated by Gamma Quanta with High Dose",
+    "dc:creator": [
+        "POTERA, P",
+        "PIECUCH, A",
+        "PELLOWSKI, W"
+    ],
+    "dc:contributor": [
+        "MICHELOTTI, Francesco (Editor)",
+        "Molecular Photonics Laboratory (Organiser of meeting)",
+        "SAPIENZA University of Roma, Engineering Faculty (Organiser of meeting)",
+        "European Conference on Applications of Polar Dielectrics (ECAPD) (9 ; Rome 2008-08-25)"
+    ],
+    "dc:relation": [
+        "Ferroelectrics (Print) -- Ferroelectrics (Print), CODEN FEROA8, ISSN 0015-0193, Vol. 390, pp. 79-83",
+        "Proceedings of THE 9TH EUROPEAN CONFERENCE ON APPLICATIONS OF POLAR DIELECTRICS (ECAPD-9):PART II OF IV, Rome, Italy, August 25-29, 2008"
+    ],
+    "dc:date": "2009",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Taylor & Francis",
+    "dc:format": [
+        "print",
+        "5 p. ; 9 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Addition cuivre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Addition gadolinium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Addition plomb"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Addition praséodyme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Centre coloré"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dopage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dose rayonnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Défaut irradiation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet rayonnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Germanate de bismuth"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Irradiation gamma"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Monocristal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectre UV visible"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectre absorption"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Copper additions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gadolinium additions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lead additions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Praseodymium additions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Color centers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Doping"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiation doses"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Irradiation defect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiation effects"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bismuth germanates"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gamma irradiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Monocrystals"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ultraviolet visible spectrum"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Absorption spectra"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BGO"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "color centers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "gamma irradiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "radiation defects"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Doping"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Defecto irradiación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Irradiación gama"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Espectro UV visible"
+        },
+        "001B70H40H: Autres non métaux / Other nonmetals"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 22597209"
+}

@@ -1,0 +1,344 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Microbiologic efficacy of moxifloxacin for the treatment of community-acquired pneumonia due to Chlamydia pneumoniae",
+    "dc:creator": [
+        "HAMMERSCHLAG, M. R",
+        "ROBLIN, P. M"
+    ],
+    "dc:relation": "International journal of antimicrobial agents -- Int. j. antimicrob. agents, ISSN 0924-8579, Vol. 15 (2) , pp. 149-152",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Elsevier",
+        "Elsevier",
+        "Elsevier"
+    ],
+    "dc:format": [
+        "print",
+        "15 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil respiratoire pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bactérie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chlamydiaceae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chlamydiales"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Poumon pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Activité biologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Antibactérien"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bactériose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chimiothérapie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chlamydia pneumoniae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Clarithromycine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Concentration minimale bactéricide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Concentration minimale inhibitrice"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai clinique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude double insu"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fluoroquinolone dérivé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "In vitro"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "In vivo"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Macrolide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Moxifloxacine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pneumonie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Quinolone dérivé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Randomisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Voie orale"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Respiratory disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bacteria"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chlamydiaceae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chlamydiales"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lung disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biological activity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antibacterial agent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bacteriosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemotherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chlamydia pneumoniae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Clarithromycin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Minimum bactericidal concentration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Minimum inhibitory concentration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Clinical trial"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Double blind study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fluoroquinolone derivatives"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "In vitro"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "In vivo"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Macrolide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Moxifloxacin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pneumonia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quinolone derivatives"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Randomization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oral administration"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato respiratorio patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bacteria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Chlamydiaceae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Chlamydiales"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Infección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pulmón patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Actividad biológica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antibacteriano"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bacteriosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Quimioterapia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Chlamydia pneumoniae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Claritromicina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Concentración mínima bactericida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Concentración mínima inhibidora"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo clínico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio doble ciego"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fluoroquinolone derivado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "In vitro"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "In vivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Macrólido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Moxifloxacina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Neumonía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Quinolone derivado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aleatorización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vía oral"
+        },
+        "002B02S02: Antibactériens / Antibacterial agents"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1386816"
+}

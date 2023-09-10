@@ -1,0 +1,48 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "EVALUATION OF ISOMERIZED HOP EXTRACTS.",
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "AMER. SOC. BREW. CHEMISTS, PROC., ANNU. MEETG; U.S.A.; DA. 1974; PP. 25-27; BIBL. 9 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "HOUBLON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONTROLE QUALITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE AMER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TECHNOLOGIE ALIMENTAIRE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HOP"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "QUALITY CONTROL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BITTER COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FOOD SCIENCES"
+        },
+        "002A35: Industries agroalimentaires / Food industries"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7710054092"
+}

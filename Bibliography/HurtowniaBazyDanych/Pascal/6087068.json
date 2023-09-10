@@ -1,0 +1,60 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Augustine on the State as a Natural Society",
+    "dc:creator": "BURT, D. X",
+    "dc:contributor": [
+        "BRUNING, B (Editor)",
+        "LAMBERIGTS, M (Editor)",
+        "VAN HOUTEM, J (Editor)"
+    ],
+    "dc:relation": "Augustiniana -- Augustiniana, ISSN 0004-8003, Vol. 40 (1-4) , pp. 155-166",
+    "dc:date": "1990",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Augustijns Historisch Instituut",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Augustin, Saint"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Autorité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Société"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Augustine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Authority"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "State"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Society"
+        },
+        "519-1: Etudes historiques (Histoire de la philosophie. Histoire des idées) / Historical studies (History of philosophy. History of ideas)",
+        "519-1C: Antiquité tardive / Late Antiquity"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6128796"
+}

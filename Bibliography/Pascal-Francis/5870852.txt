@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListRecords>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:title>Assessment of a layerwise mixed least-squares model for analysis of multilayered piezoelectric composite plates</dc:title>
+  <dc:creator>MOLEIRO, F</dc:creator>
+  <dc:creator>MOTA SOARES, C. M</dc:creator>
+  <dc:creator>MOTA SOARES, C. A</dc:creator>
+  <dc:creator>REDDY, J. N</dc:creator>
+  <dc:contributor>ADAM, J. M (Editor)</dc:contributor>
+  <dc:contributor>PALLARES, F. J (Editor)</dc:contributor>
+  <dc:contributor>BRU, R (Editor)</dc:contributor>
+  <dc:contributor>ROMERO, M. L (Editor)</dc:contributor>
+  <dc:contributor>TOPPING, B. H. V (Editor)</dc:contributor>
+  <dc:relation>Computers &amp; structures -- Comput. struct, ISSN 0045-7949, Vol. 108-09, pp. 14-30</dc:relation>
+  <dc:date>2012</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Article</dc:type>
+  <dc:language>English</dc:language>
+  <dc:publisher>Elsevier</dc:publisher>
+  <dc:format>print</dc:format>
+  <dc:format>17 p. ; 28 ref</dc:format>
+  <dc:subject xml:lang="fr">Analyse structurale</dc:subject>
+  <dc:subject xml:lang="fr">Electrostatique</dc:subject>
+  <dc:subject xml:lang="fr">Interface solide solide</dc:subject>
+  <dc:subject xml:lang="fr">Interphase</dc:subject>
+  <dc:subject xml:lang="fr">Matériau composite</dc:subject>
+  <dc:subject xml:lang="fr">Matériau stratifié</dc:subject>
+  <dc:subject xml:lang="fr">Modèle mixte</dc:subject>
+  <dc:subject xml:lang="fr">Modélisation</dc:subject>
+  <dc:subject xml:lang="fr">Méthode mixte</dc:subject>
+  <dc:subject xml:lang="fr">Méthode moindre carré</dc:subject>
+  <dc:subject xml:lang="fr">Méthode élément fini</dc:subject>
+  <dc:subject xml:lang="fr">Piézoélectricité</dc:subject>
+  <dc:subject xml:lang="fr">Piézoélectrique</dc:subject>
+  <dc:subject xml:lang="fr">Potentiel surface</dc:subject>
+  <dc:subject xml:lang="fr">Potentiel électrique</dc:subject>
+  <dc:subject xml:lang="fr">Propriété électromécanique</dc:subject>
+  <dc:subject xml:lang="fr">Solution exacte</dc:subject>
+  <dc:subject xml:lang="fr">Transducteur piézoélectrique</dc:subject>
+  <dc:subject xml:lang="fr">Modèle discret par couches</dc:subject>
+  <dc:subject xml:lang="en">Structural analysis</dc:subject>
+  <dc:subject xml:lang="en">Electrostatics</dc:subject>
+  <dc:subject xml:lang="en">Solid solid interface</dc:subject>
+  <dc:subject xml:lang="en">Interphase</dc:subject>
+  <dc:subject xml:lang="en">Composite material</dc:subject>
+  <dc:subject xml:lang="en">Stratified material</dc:subject>
+  <dc:subject xml:lang="en">Mixed model</dc:subject>
+  <dc:subject xml:lang="en">Modeling</dc:subject>
+  <dc:subject xml:lang="en">Mixed method</dc:subject>
+  <dc:subject xml:lang="en">Least squares method</dc:subject>
+  <dc:subject xml:lang="en">Finite element method</dc:subject>
+  <dc:subject xml:lang="en">Piezoelectricity</dc:subject>
+  <dc:subject xml:lang="en">Piezoelectric materials</dc:subject>
+  <dc:subject xml:lang="en">Surface potential</dc:subject>
+  <dc:subject xml:lang="en">Electric potential</dc:subject>
+  <dc:subject xml:lang="en">Electromechanical properties</dc:subject>
+  <dc:subject xml:lang="en">Exact solution</dc:subject>
+  <dc:subject xml:lang="en">Piezoelectric sensor</dc:subject>
+  <dc:subject xml:lang="en">Layerwise model</dc:subject>
+  <dc:subject xml:lang="en">Composite layers</dc:subject>
+  <dc:subject xml:lang="en">Finite element model</dc:subject>
+  <dc:subject xml:lang="en">Layerwise mixed formulation</dc:subject>
+  <dc:subject xml:lang="en">Least-squares formulation</dc:subject>
+  <dc:subject xml:lang="en">Piezoelectric layers</dc:subject>
+  <dc:subject xml:lang="es">Análisis estructural</dc:subject>
+  <dc:subject xml:lang="es">Electroestática</dc:subject>
+  <dc:subject xml:lang="es">Interfase sólido sólido</dc:subject>
+  <dc:subject xml:lang="es">Interfase</dc:subject>
+  <dc:subject xml:lang="es">Material compuesto</dc:subject>
+  <dc:subject xml:lang="es">Material estratificado</dc:subject>
+  <dc:subject xml:lang="es">Modelo mixto</dc:subject>
+  <dc:subject xml:lang="es">Modelización</dc:subject>
+  <dc:subject xml:lang="es">Método mixto</dc:subject>
+  <dc:subject xml:lang="es">Método cuadrado menor</dc:subject>
+  <dc:subject xml:lang="es">Método elemento finito</dc:subject>
+  <dc:subject xml:lang="es">Piezoelectricidad</dc:subject>
+  <dc:subject xml:lang="es">Piezoeléctrica</dc:subject>
+  <dc:subject xml:lang="es">Potencial superficie</dc:subject>
+  <dc:subject xml:lang="es">Potencial eléctrico</dc:subject>
+  <dc:subject xml:lang="es">Propiedad electromecánica</dc:subject>
+  <dc:subject xml:lang="es">Solución exacta</dc:subject>
+  <dc:subject xml:lang="es">Transductor piezoelectrico</dc:subject>
+  <dc:subject xml:lang="es">Modelo dicreto por capas</dc:subject>
+  <dc:subject>001B40A20J: Propagation des ondes électromagnétiques, propagation des ondes radioélectriques / Electromagnetic wave propagation, radiowave propagation</dc:subject>
+  <dc:subject>001B40F30C: Elasticité statique (thermoélasticité...) / Static elasticity (thermoelasticity...)</dc:subject>
+  <dc:subject>001B40F30M: Vibration, onde mécanique, stabilité dynamique (aéroélasticité, contrôle vibration...) / Vibration, mechanical wave, dynamic stability (aeroelasticity, vibration control...)</dc:subject>
+  <dc:rights>Inist-CNRS</dc:rights>
+  <dc:identifier>Inist-CNRS record number 26442305</dc:identifier>
+  <dc:rights>Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS</dc:rights>
+</metadata>
+</ListRecords>

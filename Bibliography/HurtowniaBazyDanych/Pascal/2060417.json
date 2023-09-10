@@ -1,0 +1,76 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "MECHANISM FOR DETECTING SUPER LOW ROTATING SPEED UTILIZING SQUARE HYSTERESIS LOOP CORES.",
+    "dc:creator": [
+        "OUCHI T",
+        "OHTOMO T"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "I.E.E.E. TRANS. INDUSTR. ELECTRON. CONTROL INSTRUMENT.; U.S.A.; DA. 1977; VOL. 24; NO 2; PP. 203-210; BIBL. 5 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CAPTEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CAPTEUR VITESSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VITESSE FAIBLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HYSTERESIS MAGNETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CYCLE HYSTERESIS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "APPAREILLAGE ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROMAGNETISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROTECHNIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VELOCITY SENSOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MAGNETIC HYSTERESIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HYSTERESIS LOOP"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONIC EQUIPMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROMAGNETISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRICAL ENGINEERING"
+        },
+        "001D05: Electrotechnique. Electroenergetique / Electrical engineering. Electrical power engineering"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7830395855"
+}

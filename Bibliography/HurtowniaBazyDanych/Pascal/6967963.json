@@ -1,0 +1,113 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "NOAA national ocean service voluntary observing ship program",
+    "dc:creator": [
+        "NOE, C. D",
+        "SZABADOS, M. W",
+        "WOODWARD, W. E"
+    ],
+    "dc:contributor": [
+        "IEEE, Oceanic Engineering Society (Organiser of meeting)",
+        "Oceans 91 conference (Honolulu HI 1991-10-01)"
+    ],
+    "dc:relation": "OCEANS 91 : ocean technologies and opportunities in the Pacific for the 90's, October 1-3, 1991, Honolulu HI",
+    "dc:date": "1991",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "IEEE",
+    "dc:format": [
+        "print",
+        "vol. 2, p. 676 ; 16 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Modification climat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Monitorage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Observation météorologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Observation océanographique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Programme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prévision"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NOAA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Programme TOGA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Climate modification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Monitoring"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Meteorological observation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oceanographic survey"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Program"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Forecasting"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modificación clima"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Monitoreo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Observación meteorológica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Observación oceanográfica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Programa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Previsión"
+        },
+        "001E02F: Géophysique. Techniques, méthodes, appareillage et modèles / Geophysics. Techniques, methods, instrumentation and models"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4594273"
+}

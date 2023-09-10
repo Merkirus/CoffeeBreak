@@ -1,0 +1,97 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A parallel algorithm for the simultaneous solution of direct and adjoint multigroup diffusion problems",
+    "dc:creator": [
+        "VARIN, E",
+        "ROY, R",
+        "NKAOUA, T"
+    ],
+    "dc:contributor": [
+        "Alexandrov, Vassil (Editor)",
+        "Dongarra, Jack (Editor)",
+        "European PVM/MPI users' group meeting (5 ; Liverpool 1998-09-07)"
+    ],
+    "dc:relation": [
+        "Lecture notes in computer science -- Lect. notes comput. sci, ISSN 0302-9743, pp. 403-410",
+        "Recent advances in parallel virtual machine and message passing interface (Liverpool, 7-9 September 1998)"
+    ],
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "9 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Algorithme parallèle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Equation diffusion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Performance algorithme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Problème valeur propre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation numérique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Parallel algorithm"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diffusion equation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Algorithm performance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Eigenvalue problem"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Numerical simulation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Algoritmo paralelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ecuación difusión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resultado algoritmo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Problema valor propio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simulación numérica"
+        },
+        "001D02B08: Simulation / Simulation"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2290863"
+}

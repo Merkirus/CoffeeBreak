@@ -1,0 +1,98 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Exécution Parallèle de Requêtes Base de Données en Mémoire Partagée: un Modèle et son Implantation; Parallel Execution of Database Requests in Shared Stored Systems: a Model and its Implementation",
+    "dc:creator": "Dageville, Benoît",
+    "dc:contributor": [
+        "Gardarin, G (Advisor (for a thesis or dissertation))",
+        "Université de Paris 06 (Degree-grantor)"
+    ],
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Thesis"
+    ],
+    "dc:identifier": [
+        "NNT 95 PA06 6575",
+        "Inist-CNRS record number 176996"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "180 p. ; 98 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Base donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mémoire partagée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Parallélisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système gestion base donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DBS3"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exécution parallèle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Database"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Models"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Shared memory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Parallelism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Database management system"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Base dato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Memoria compartida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Paralelismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema gestión base datos"
+        },
+        "001D02B07D: Systèmes d'information. Bases de données / Information systems. Data bases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

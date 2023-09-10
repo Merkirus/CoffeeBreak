@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "MERCURY: A POST-MARINER 10 ASSESSMENT",
+    "dc:creator": "STROM RG",
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "SPACE SCI. REV.; NLD; DA. 1979; VOL. 24; NO 1; PP. 3-70; BIBL. 3 P.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MERCURE PLANETE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STRUCTURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORBITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ATMOSPHERE PLANETAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SURFACE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CRATERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TECTONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MERCURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ASTRONOMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MERCURY PLANET"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STRUCTURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORBIT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PLANETARY ATMOSPHERE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SURFACE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CRATERS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TECTONICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MERCURY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ASTRONOMY"
+        },
+        "001E03: Astronomie / Astronomy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8030067797"
+}

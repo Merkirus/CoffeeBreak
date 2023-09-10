@@ -1,0 +1,358 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Development of acute lymphoblastic leukemia following hemophagocytic lymphohistiocytosis : is it secondary leukemia?",
+    "dc:creator": [
+        "SUZUKI, T",
+        "MUGISHIMA, H",
+        "YAMADA, A",
+        "NAGATA, T",
+        "SHICHINO, H",
+        "CHIN, M",
+        "IMASHUKU, S",
+        "HARADA, K"
+    ],
+    "dc:relation": "International journal of hematology -- Int. j. hematol, ISSN 0925-5710, Vol. 70 (1) , pp. 58-59",
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "10 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Enzyme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Histiocytose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hémopathie maligne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hémopathie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Isomerases"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lymphoprolifératif syndrome"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aigu"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Anticancéreux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Antimitotique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Association médicamenteuse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chimiothérapie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Corticostéroïde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DNA topoisomerase (ATP-hydrolysing)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dexaméthasone"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enfant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etoposide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude cas"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Femelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Glucocorticoïde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hémophagocytose syndrome"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Inhibiteur enzyme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Leucémie lymphoblastique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lymphohistiocytose hémophagocytique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Podophyllotoxine dérivé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Second cancer"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Enzyme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Histiocytosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Malignant hemopathy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hemopathy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Isomerases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lymphoproliferative syndrome"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Acute"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antineoplastic agent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antimitotic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Drug combination"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemotherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Corticosteroid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DNA topoisomerase (ATP-hydrolysing)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dexamethasone"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Child"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Etoposide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Case study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Female"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Glucocorticoid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hemophagocytic syndrome"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Enzyme inhibitor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Acute lymphocytic leukemia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hemophagocytic lymphohistiocytosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Podophyllotoxine derivatives"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Second cancer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enzima"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Histiocitosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hemopatía maligna"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hemopatía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Isomerases"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Linfoproliferativo síndrome"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agudo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anticanceroso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antimitótico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asociación medicamentosa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Quimioterapia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Corticoesteroide"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "DNA topoisomerase (ATP-hydrolysing)"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dexametasona"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Niño"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Etopósido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio caso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hembra"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Glucocorticoide"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hemofagocitosis síndrome"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inhibidor enzima"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Leucemia linfoblástica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Linfohistiocitosis hemofagocitica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Podofilotoxina derivado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Segundo cáncer"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        "002B19B: Leucémies. Lymphomes malins. Réticuloses malignes. Hématodermies. Splénomégalie myéloïde / Leukemias. Malignant lymphomas. Malignant reticulosis. Myelofibrosis"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1284437"
+}

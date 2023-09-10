@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Bayesian t tests for accepting and rejecting the null hypothesis",
+    "dc:creator": [
+        "ROUDER, Jeffrey N",
+        "SPECKMAN, Paul L",
+        "DONGCHU SUN",
+        "MOREY, Richard D",
+        "IVERSON, Geoffrey"
+    ],
+    "dc:relation": "Psychonomic bulletin & review -- Psychon. bull. rev, ISSN 1069-9384, Vol. 16 (2) , pp. 225-237",
+    "dc:date": "2009",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "13 p. ; 1 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Estimation Bayes"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Test hypothèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Test statistique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hypothèse nulle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Test t"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bayes estimation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Statistical method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hypothesis test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Statistical test"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estimación Bayes"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método estadístico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Test hipótesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Test estadístico"
+        },
+        "002A26B03: Statistique. Mathématiques / Statistics. Mathematics",
+        "770-B: Psychologie. Psychophysiologie / Psychology. Psychophysiology",
+        "770-B02C: Statistique. Mathématiques / Statistics. Mathematics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 21336052"
+}

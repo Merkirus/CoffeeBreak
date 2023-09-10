@@ -1,0 +1,115 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The Ocean Drilling Program: results from the fourth year of field operations",
+    "dc:creator": [
+        "RABINOWITZ, P. D",
+        "GARRISON, L. E",
+        "BALDAUF, J. G",
+        "DEVOGE, S. C",
+        "HARDING, B. W",
+        "MERRILL, R. B",
+        "MEYER, A. W",
+        "OLIVAS, R. E"
+    ],
+    "dc:contributor": "Annual Offshore Technology Conference. 21 (Houston 1989-05-01)",
+    "dc:relation": "Annual Offshore Technology Conference. 21",
+    "dc:date": "1989",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPE of AIME",
+    "dc:format": [
+        "print",
+        "25 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Caractéristiques"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Forage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Monde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prévision"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résultat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Site"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4ème année Projet Forage Océan"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bateau forage Joïdes Résolution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Characteristics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Drilling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "World"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Forecasting"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Result"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Site"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Características"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sondeo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mundo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Previsión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resultado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sitio"
+        },
+        "001D06B02B3A: Généralités. Espacement des puits. Programme de forage. Législation / General. Spacing of wells. Planning of development. Legislation"
+    ],
+    "dc:rights": [
+        "Institut Français du Pétrole et des Energies Nouvelles (IFP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6574034"
+}

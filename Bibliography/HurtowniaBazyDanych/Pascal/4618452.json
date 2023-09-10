@@ -1,0 +1,76 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "BADANIE STOPOW ALMG5 I ALZN5MG1 PRZEZNACZONYCH NA SPAWANE KONSTRUKCJE; INVESTIGATIONS ON ALMG5 AND ALZN5MG1 ALLOYS DESIGNED FOR WELDED STRUCTURES; ESSAIS SUR LES ALLIAGES ALMG5 ET ALZN5MG1 DESTINES AUX CONSTRUCTIONS SOUDEES",
+    "dc:creator": [
+        "CUDNY K",
+        "JASINSKI R"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "Polish",
+    "dc:format": "RUDY MET. NIEZELAZ.; ISSN 0035-9696; POL; DA. 1980; VOL. 25; NO 8; PP. 322-327; ABS. RUS/ENG/FRE/GER; BIBL. 3 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CARACTERISTIQUE MECANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FATIGUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CORROSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ASSEMBLAGE SOUDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALLIAGE2 AL:>50 MG:5-10"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALLIAGE3 AL:>50 MG:1-1,5 ZN:5-10"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOUDAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MECHANICAL CHARACTERISTIC"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FATIGUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CORROSION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WELDED JOINT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WELDING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METALLURGY"
+        },
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALSOUDAGE8100094517"
+}

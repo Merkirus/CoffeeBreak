@@ -1,0 +1,186 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Study on thermal decomposition characteristics of AIBN",
+    "dc:creator": [
+        "LI, Xin-Rui",
+        "WANG, Xin-Long",
+        "KOSEKI, Hiroshi"
+    ],
+    "dc:contributor": [
+        "SAM MANNAN, M (Editor)",
+        "Annual Symposium of the Mary Kay O'Connor Process Safety Center (College Station, Texas 2006-10-23)"
+    ],
+    "dc:relation": [
+        "Journal of hazardous materials -- J. hazard. mater, CODEN JHMAD9, ISSN 0304-3894, Vol. 159 (1) , pp. 13-18",
+        "Papers Presented at the 2006 Annual Symposium of the Mary Kay O'Connor Process Safety Center"
+    ],
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "6 p. ; 11 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Autocatalyse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Autoéchauffement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Calorimètre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Calorimétrie différentielle balayage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Décomposition thermique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fusion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Manutention"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réaction chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stockage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sublimation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transfert chaleur"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Autocatalysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Self heating"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Calorimeter"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Differential scanning calorimetry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermal decomposition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Melting"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Handling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical reaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Storage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sublimation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heat transfer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quasi-autocatalysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Self-heating"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Self-reactive material"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermal decomposition"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Autocatálisis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Autocalentamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Calorímetro"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis calorimétrico barrido exploración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Descomposición térmica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fusión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Manutención"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reacción química"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Almacenamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sublimación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transferencia térmica"
+        },
+        "001D07G: Transferts de chaleur et de matière. Garnissages, plateaux de contact / Heat and mass transfer. Packings, plates",
+        "001D07H: Réacteurs / Reactors",
+        "001D16: Pollution / Pollution"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20791892"
+}

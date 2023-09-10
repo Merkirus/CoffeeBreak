@@ -1,0 +1,244 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Vapor infiltration techniques for spin-on mesoporous silica films",
+    "dc:creator": [
+        "TANAKA, Shunsuke",
+        "TADA, Hiromi",
+        "MARUO, Takanori",
+        "NISHIYAMA, Norikazu",
+        "EGASHIRA, Yasuyuki",
+        "UEYAMA, Korekazu"
+    ],
+    "dc:contributor": [
+        "AYRAL, André (Editor)",
+        "HILLHOUSE, Hugh W (Editor)",
+        "KLOTZ, Michaela (Editor)",
+        "OGAWA, Makoto (Editor)",
+        "RUIZ-HITZKY, Eduardo (Editor)",
+        "European Materials Research Society (Organiser of meeting)",
+        "EMRS 2005 Conference. Symposium E (Strasbourg 2005-05-31)",
+        "Synthesis, characterization and applications of mesostructured thin layers. Symposium E (Strasbourg 2005-05-31)"
+    ],
+    "dc:relation": [
+        "Thin solid films -- Thin solid films, CODEN THSFAP, ISSN 0040-6090, Vol. 495 (1-2) , pp. 186-190",
+        "Proceeedings of Symposium E on synthesis, characterization and applications of mesostructured thin layers. EMRS 2005 Conference, Strasbourg, France, May 31-June 3, 2005"
+    ],
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "5 p. ; 12 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé minéral"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Adhérence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Agent surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Catalyseur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé binaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Constante diélectrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Couche mince diélectrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diélectrique basse permittivité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dépôt centrifugation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Infiltration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mésoporosité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Procédé sol gel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réaction dirigée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau hexagonal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résistance mécanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Silicium oxyde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Solution acide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stabilité thermique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "O Si"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SiO2"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Substrat Si"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inorganic compounds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adhesion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surfactants"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Catalysts"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Binary compounds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Permittivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dielectric thin films"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Low k dielectric"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spin-on coating"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infiltration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mesoporosity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sol-gel process"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Template reaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hexagonal lattices"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mechanical strength"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Silicon oxides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Acidic solution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermal stability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Low-k film"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mesoporous silica"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thin film"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vapor infiltration treatment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dieléctrico baja constante dieléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mesoporosidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reacción dirigida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Solución ácida"
+        },
+        "001B70G22C: Permittivité (fonction diélectrique) / Permittivity (dielectric function)",
+        "001B80A15L: Epitaxie en phase liquide; dépôt en phase liquide (phases fondues, solutions et couches superficielles sur des liquides) / Liquid phase epitaxy; deposition from liquid phases (melts, solutions, and surface layers on liquids)",
+        "7722C:  / Permittivity (dielectric function)",
+        "8115L:  / Liquid phase epitaxy; deposition from liquid phases (melts, solutions, and surface layers on liquids)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17515171"
+}

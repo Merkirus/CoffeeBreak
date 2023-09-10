@@ -1,0 +1,195 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Nonlinear vibration of a coupled high-Tc superconducting levitation system",
+    "dc:creator": [
+        "SUGIURA, T",
+        "INOUE, T",
+        "URA, H"
+    ],
+    "dc:contributor": [
+        "TACHIKI, Masashi (Editor)",
+        "TAJIMA, Setsuko (Editor)",
+        "International Superconductivity Technology Center (Funder/Sponsor)",
+        "ISS 2003 International Symposium on Superconductivity (16 ; Tsukuba 2003-10-27)"
+    ],
+    "dc:relation": [
+        "Physica. C. Superconductivity -- Phys., C Supercond, ISSN 0921-4534, Vol. 412-14, pp. 778-783",
+        "Advances in Superconductivity XVI. Part I"
+    ],
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "6 p. ; 7 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Aimant permanent"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amortissement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Degré liberté"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet non linéaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Electroaimant supraconducteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hystérésis"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lévitation magnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau ferromagnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résonance paramétrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation numérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Supraconducteur haute température"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système dynamique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système non linéaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vibration forcée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "7472"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "7550"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "7550W"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Permanent magnets"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Damping"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Degrees of freedom"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Non linear effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Superconducting magnets"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hysteresis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetic levitation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ferromagnetic materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modelling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Parametric resonance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Digital simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High-Tc superconductors"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dynamical systems"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nonlinear systems"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Forced vibration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "85.25.Ly Superconducting levitation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Forced vibration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nonlinear dynamics"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efecto no lineal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resonancia paramétrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vibración forzada"
+        },
+        "001B70D72: Cuprates supraconducteurs (supraconducteurs à haute tc et composés mères isolants) / Cuprates superconductors (high tc and insulating parent compounds)",
+        "001B70E50W: Aimants permanents / Permanent magnets"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16178555"
+}

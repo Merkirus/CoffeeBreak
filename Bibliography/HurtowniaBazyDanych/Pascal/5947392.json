@@ -1,0 +1,204 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A backward look at the forward progress of serials",
+    "dc:creator": "WARD, M. J",
+    "dc:contributor": "STEVENS, Norman D (Author of introductory parts)",
+    "dc:relation": "The Serials librarian -- Ser. libr, CODEN SELID4, ISSN 0361-526X, Vol. 26 (1) , pp. 57-62",
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Haworth Press",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Edition électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude générale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evolution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fonctionnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Futurologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Historique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Journal électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prospective"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Siècle 21eme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technologie information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "1982-2053"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Age post électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Science fiction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic publishing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "General study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Evolution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Running"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Futurology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Case history"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic journal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prospective"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Century 21th"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information technology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Post electronic age"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Science fiction"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Edición electrónica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio general"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evolución"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Funcionamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Futurología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Histórica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diario electrónico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prospectiva"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Siglo 21"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tecnología información"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation",
+        "001A01H03: Edition. Edition électronique. Aspects bibliologiques / Publishing. Electronic publishing. Bibliological aspects",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-I: Edition, diffusion et reproduction de l'information / Information publishing, dissemination and reproduction"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats Unis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estados Unidos"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2968246"
+}

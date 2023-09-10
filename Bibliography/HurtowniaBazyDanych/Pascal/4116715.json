@@ -1,0 +1,85 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DIAGRAMMES D'ETAT, PHOTOCONDUCTIVITE ET PROPRIETES ELECTRIQUES DES HALOGENOCHALCOGENURES D'ANTIMOINE ET BISMUTH",
+    "dc:creator": [
+        "BELOTSKIJ DP",
+        "GAVRILENKO NV",
+        "ZHORNOVYJ IV",
+        "KULIKOVSKAYA SM",
+        "KORMISH ME",
+        "NOVAL'KOVSKIJ NP",
+        "ONIPKO AF"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "IZVEST. AKAD. NAUK S.S.S.R., NEORG. MATER.; S.S.S.R.; DA. 1978; VOL. 14; NO 2; PP. 210-214; BIBL. 25 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PHOTOCONDUCTIVITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONDUCTIVITE ELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSITION CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COUCHE MINCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PIEGEAGE PORTEUR CHARGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RECOMBINAISON PORTEUR CHARGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IODOSULFURE ANTIMOINE BISMUTH"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE SOLIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHOTOCONDUCTIVITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRICAL CONDUCTIVITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL COMPOSITION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THIN FILM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHARGE CARRIER TRAPPING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHARGE CARRIER RECOMBINATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID PHYSICS"
+        },
+        "001B60: Etat condense: structure, proprietes mecaniques et thermiques / Condensed matter: structure, mechanical and thermal properties"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7830367822"
+}

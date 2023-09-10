@@ -1,0 +1,127 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Développement de nouvelles sondes pour l'endosonographie temps réel; Development of new real time endosonography probes",
+    "dc:creator": [
+        "BELE",
+        "CATHIGNOL",
+        "Compagnie générale de radiologie Ultrasonic"
+    ],
+    "dc:contributor": "FRT (Funder/Sponsor)",
+    "dc:date": "1984",
+    "dc:type": [
+        "Text",
+        "Report"
+    ],
+    "dc:identifier": [
+        "REPORTNUMBER FRT - 81 M 1132",
+        "Inist-CNRS record number 7825226"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "31 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Echographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exploration ultrason"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Génie biomédical"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rectum"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sonde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Temps réel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Urètre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Voie intracavitaire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sonography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ultrasonic investigation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biomedical engineering"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rectum"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Probe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Real time"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Urethra"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Intracavitary administration"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ecografía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Exploración ultrasonido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ingeniería biomédica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Recto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sonda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tiempo real"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Uretra"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vía intracavitaria"
+        },
+        "002B24C09: Divers. Technologie / Miscellaneous. Technology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

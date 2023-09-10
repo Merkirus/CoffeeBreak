@@ -1,0 +1,106 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "CARBON DIFFUSION IN BE OF DIFFERENT PURITIES; DIFFUSION DU CARBONE DANS BE DE DIFFERENTES PURETES",
+    "dc:creator": "ZOTOV VS",
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "FIZ. HIM., OBRAB. MATER.; ISSN 0015-3214; SUN; DA. 1979; NO 4; PP. 125-129; BIBL. 24 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DIFFUSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARBONE!SEC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EFFET TEMPERATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EFFET IMPURETE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METAL FRITTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HETERODIFFUSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HAUTE TEMPERATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PURETE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METAL PUR BE!SUB"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BERYLLIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE SOLIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIFFUSION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TEMPERATURE EFFECT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IMPURITY EFFECT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SINTERED METAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IMPURITY DIFFUSION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HIGH TEMPERATURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PURITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BERYLLIUM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METALLURGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID PHYSICS"
+        },
+        "001B60: Etat condense: structure, proprietes mecaniques et thermiques / Condensed matter: structure, mechanical and thermal properties",
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8000112468"
+}

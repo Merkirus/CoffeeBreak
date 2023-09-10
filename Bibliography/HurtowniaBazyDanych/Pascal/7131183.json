@@ -1,0 +1,144 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The loading on a vertical cylinder in random waves at high Reynolds numbers",
+    "dc:creator": [
+        "KLOPMAN, G",
+        "KOSTENSE, J. K"
+    ],
+    "dc:contributor": "NATO Advanced Research Workshop on water wave kinematics (Molde 1989-05-22)",
+    "dc:relation": [
+        "NATO ASI series. Series E, Applied sciences -- NATO ASI ser., Ser. E Appl. sci, CODEN NAESDI, ISSN 0168-132X, Vol. 178, pp. 679-699",
+        "NATO Advanced Research Workshop on water wave kinematics (Molde 1989-05-22)"
+    ],
+    "dc:date": "1990",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Kluwer",
+    "dc:format": [
+        "print",
+        "21 p. ; 12 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Chargement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cinématique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Coefficient traînée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Inertie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interaction onde obstacle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nombre Reynolds"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Onde océanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rugosité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Onde aléatoire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Loading"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Kinematics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Drag coefficient"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inertia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Obstacle wave interaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reynolds number"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ocean wave"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Roughness"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cargamento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cinemática"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Coeficiente resistencia aerodinámica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inercia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interacción onda obstáculo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Número Reynolds"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Onda oceánica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rugosidad"
+        },
+        "001E02B02: Dynamique océanique (océan superficiel et profond) / Dynamics of the ocean (upper and deep oceans)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 19346091"
+}

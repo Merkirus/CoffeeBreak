@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ESTUDIO COMPARATIVO DE LA SENSIBILIDAD \"IN VITRO\" DE CEFOXITINA Y CEFALOSPORINAS; ETUDE COMPARATIVE DE LA SENSIBILITE IN VITRO A LA CEFOXITINE ET AUX CEFALOSPORINES",
+    "dc:creator": [
+        "TORRES A",
+        "AGUIRRE M",
+        "ALES JM"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "Spanish",
+    "dc:format": "REV. CLIN. ESP.; ESP; DA. 1979; VOL. 155; NO 4; PP. 249-252; ABS. ENG/GER/FRE; BIBL. 17 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ACTIVITE BIOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANTIBACTERIEN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TEST SENSIBILITE MEDICAMENTEUSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANTIBIOTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE COMPARATIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATERIEL CLINIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CEFOXITINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CEFALOSPORINE DERIVE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BETA -LACTAMINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROBIOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOLOGICAL ACTIVITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANTIBACTERIAL AGENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DRUG SUSCEPTIBILITY TEST"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANTIBIOTIC"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COMPARATIVE STUDY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CLINICAL EQUIPMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROBIOLOGY"
+        },
+        "002B05: Pathologie infectieuse / Infectious diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8050280367"
+}

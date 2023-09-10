@@ -1,0 +1,114 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Causation as simultaneous and continuous; La causation, simultanée et continue",
+    "dc:creator": [
+        "HUEMER, Michael",
+        "KOVITZ, Ben"
+    ],
+    "dc:relation": "Philosophical quarterly -- Philos. q, ISSN 0031-8094, Vol. 53 (213) , pp. 556-565",
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Blackwell",
+    "dc:format": [
+        "print",
+        "10 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Calcul infinitésimal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Causation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Continu"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mathématiques"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Newtonianisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réciprocité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simultanéité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Temps"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Séquence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infinitesimal calculus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Causation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Continuum"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mathematics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Newtonianism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reciprocity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Simultaneity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Time"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cálculo infinitesimal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Matemáticas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Newtonismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tiempo"
+        },
+        "522-: Histoire des sciences et des techniques / History of science and technology",
+        "522-75: Sciences et techniques physiques / Physical sciences and techniques",
+        "522-116: Mécanique classique / Classic(al) mechanics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15115785"
+}

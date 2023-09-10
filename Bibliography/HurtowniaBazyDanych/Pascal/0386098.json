@@ -1,0 +1,81 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "KAELTERESISTENZ DER FICHTE. I: STEUERUNG VON KAELTERESISTENZ, KOHLEHYDRAT- UND-PROTEINSTOFFURCHSEL DURCH PHOTOPERIODE UND TEMPERATUR; RESISTANCE AU FROID DE PICEA ABIES. I: CONTROLE DE LA RESISTANCE AU FROID, DU METABOLISME GLUCIDIQUE ET PROTEIQUE PAR L'INTERMEDIAIRE DE LA PHOTOPERIODE ET DE LA TEMPERATURE",
+    "dc:creator": [
+        "KANDLER O",
+        "DOVER C",
+        "ZIEGLER P"
+    ],
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "BER. DTSCH. BOT. GESELLSCH.; DEU; DA. 1979; VOL. 92; NO 1; PP. 225-241; ABS. ENG; BIBL. 16 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "GYMNOSPERMAE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RESISTANCE FROID"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METABOLISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FACTEUR PHOTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FACTEUR THERMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PICEA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOLOGIE VEGETALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GYMNOSPERMAE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GYMNOSPERMS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COLD RESISTANCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METABOLISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIGHT EFFECT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TEMPERATURE EFFECT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PICEA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PLANT BIOLOGY"
+        },
+        "002A10: Physiologie vegetale et developpement / Plant physiology and development"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8010270173"
+}

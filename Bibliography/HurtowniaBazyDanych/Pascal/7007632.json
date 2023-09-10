@@ -1,0 +1,191 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Nonlinear pulse propagation inside coupled silicon nanowires",
+    "dc:creator": [
+        "LOZANO-CRISOSTOMO, N",
+        "AGRAWAL, G. P",
+        "SANCHEZ-MONDRAGON, J. J"
+    ],
+    "dc:contributor": [
+        "Rodríguez-Vera, Ramón (Editor)",
+        "Díaz-Uribe, Rufino (Editor)",
+        "International Commission for Optics (Organiser of meeting)",
+        "Centro de Investigaciones en Optica (Organiser of meeting)",
+        "Consejo Nacional de Ciencia y Tecnología (Organiser of meeting)",
+        "International Commission for Optics. Congress (22 ; Puebla de Zaragoza 2011-08-15)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, Vol. 8011",
+        "22nd Congress of the International Commission for Optics (light for the development of the world) -- 0Light for the development of the world"
+    ],
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "80115H.1-80115H.8 ; 9 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Absorption 2 photons"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude théorique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Guide onde optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Impulsion optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nanofil"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optique non linéaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Porteur libre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propagation impulsion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propagation onde électromagnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau guide onde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Silicium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Solution analytique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technologie silicium sur isolant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Théorie mode couplé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0130C"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4225B"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4265A"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4279G"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Two photon absorption"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Theoretical study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical waveguides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical pulse"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nanowires"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nonlinear optics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Free carrier"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pulse propagation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electromagnetic wave propagation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Waveguide array"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Silicon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Analytical solution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Silicon-on-insulator"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Coupled mode theory"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Absorción 2 fotones"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Impulsión óptica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Portador libre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red guía onda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Teoría modo acoplado"
+        },
+        "001B00A30C: Actes de congrès / Conference proceedings",
+        "001B40B25B: Propagation, transmission et absorption des ondes / Wave propagation, transmission and absorption",
+        "001B40B65A: Susceptibilité optique, hyperpolarisabilité / Optical susceptibility, hyperpolarizability",
+        "001B40B79G: Guides d'onde et coupleurs optiques / Optical waveguides and coupleurs"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 25670785"
+}

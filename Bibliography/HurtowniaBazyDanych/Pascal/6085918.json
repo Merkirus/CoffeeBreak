@@ -1,0 +1,57 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Sur Tristan Derème",
+    "dc:creator": "COINTAT, M",
+    "dc:relation": "Revue de Pau et du Béarn -- Rev. Pau Béarn, ISSN 0241-7413 (suppl) , pp. 25-38",
+    "dc:date": "1989",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Société des sciences, lettres et arts",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Derème (T.)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Poésie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Derème (T.)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Poetry"
+        },
+        "523-36: Histoire de la littérature / History of literature",
+        "523-186: Anonymes. Auteurs / Anonymous writers. Authors"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Siècle 20"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Century 20th"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6119535"
+}

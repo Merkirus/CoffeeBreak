@@ -1,0 +1,142 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Spectral measurements of optical sources and optical components characteristics",
+    "dc:creator": [
+        "DEJER, Piotr",
+        "LAMPERSKI, Jan"
+    ],
+    "dc:contributor": [
+        "Wójcik, Jan (Editor)",
+        "Wójcik, Waldemar (Editor)",
+        "Smolarz, Andrzej (Editor)",
+        "Uniwersytet Marii Curie-Skłodowskiej (Organiser of meeting)",
+        "Technical University of Lublin (Organiser of meeting)",
+        "Society of photo-optical instrumentation engineers, Poland chapter (Organiser of meeting)",
+        "Society of photo-optical instrumentation engineers (Organiser of meeting)",
+        "Lightguides and their applications (3 ; Krasnobrod 2006)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, pp. 660815.1-660815.5",
+        "Lightguides and their applications III (4-7 October, 2006, Krasnobrod, Poland) -- 0TAL 2006 -- 1Light guides and their applications III"
+    ],
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "2 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Automatisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Efficacité diffraction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Elément optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur transmission"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Faisceau laser"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interféromètre Fabry Pérot"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Puissance sortie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Source rayonnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4272"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4279"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Automation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diffraction efficiency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical elements"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transmittance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laser beams"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fabry-Perot interferometers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measuring methods"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Output power"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiation sources"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Eficacia difracción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor transmisión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Potencia salida"
+        },
+        "001B40B72: Sources optiques et étalons / Optical sources and standards",
+        "001B40B79: Eléments, dispositifs, et systèmes optiques / Optical elements, devices, and systems"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 19105521"
+}

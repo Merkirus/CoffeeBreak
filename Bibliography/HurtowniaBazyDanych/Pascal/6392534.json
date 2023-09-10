@@ -1,0 +1,170 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Proximity templates for modeling of Skin and Proximity effects on packages and high frequency interconnect",
+    "dc:creator": [
+        "DANIEL, Luca",
+        "SANGIOVANNI-VINCENTELLI, Alberto",
+        "WHITE, Jacob"
+    ],
+    "dc:contributor": [
+        "IEEE Circuits & Systems Society (Organiser of meeting)",
+        "IEEE Computer Society (Organiser of meeting)",
+        "ACM, SIGDA (Organiser of meeting)",
+        "InternationaI conference on computer-aided design (San Jose CA 2002-11-10)"
+    ],
+    "dc:relation": [
+        "Digest of technical papers - IEEE/ACM International Conference on Computer-Aided Design, ISSN 1092-3152, pp. 326-333",
+        "ICCAD-2002 : IEEE/ACM international conference on computer aided design (San Jose CA, 10-14 November 2002)"
+    ],
+    "dc:date": "2002",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "IEEE",
+    "dc:format": [
+        "print",
+        "8 p. ; 19 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Circuit intégré"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conception assistée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conception circuit"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Distribution courant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet peau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet proximité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation performance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interconnexion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Packaging électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Temps calcul"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Integrated circuit"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computer aided design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Circuit design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Current distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Skin effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Proximity effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Performance evaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interconnection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic packaging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computation time"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Circuito integrado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Concepción asistida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diseño circuito"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Distribución corriente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efecto piel"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efecto proximidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evaluación prestación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interconexión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Packaging electrónico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tiempo computación"
+        },
+        "001D03F06A: Conception. Technologies. Analyse fonctionnement. Essais / Design. Technologies. Operation analysis. Testing"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 15670905"
+}

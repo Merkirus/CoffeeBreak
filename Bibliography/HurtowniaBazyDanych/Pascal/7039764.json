@@ -1,0 +1,118 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Polymerase chain reaction-restriction fragment length polymorphism analysis : a simple method for species identification in food",
+    "dc:creator": [
+        "MEYER, R",
+        "HÖFELEIN, C",
+        "LÜTHY, J",
+        "CANDRIAN, U"
+    ],
+    "dc:contributor": "AOAC. International symposium. Europe sect. (4 ; Nyon 1994-09-29)",
+    "dc:relation": [
+        "Journal of AOAC International -- J. AOAC Int, ISSN 1060-3271, Vol. 78 (6) , pp. 1542-1551",
+        "AOAC. International symposium. Europe sect. (4 ; Nyon 1994-09-29)"
+    ],
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "AOAC International",
+    "dc:format": [
+        "print",
+        "35 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Produit carné"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Condition opératoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cuisson"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Identification"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Marinage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réaction chaîne polymérase"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Viande"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Meat product"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Operating conditions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cooking"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Identification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Marinating"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polymerase chain reaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Meat"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Producto de carne"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Condición operatoria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cocción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Identificación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Escabechado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reacción cadena polimerasa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carne"
+        },
+        "002A35B05: Industries de la viande et des produits carnés / Meat and meat product industries"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2936283"
+}

@@ -1,0 +1,84 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "COMPUTATIONAL ACCURACY AND MESH REYNOLDS NUMBER",
+    "dc:creator": [
+        "CHENG SI",
+        "SHUBIN G"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. COMPUT. PHYS.; USA; DA. 1978; VOL. 28; NO 3; PP. 315-326; BIBL. 7 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PROGRAMME ORDINATEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRECISION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DISCRETISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NOMBRE REYNOLDS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EQUATION BURGERS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EQUATION NON LINEAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MECANIQUE FLUIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MECANIQUE FLUIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COMPUTER PROGRAMS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ACCURACY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DISCRETIZATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REYNOLDS NUMBER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BURGERS EQUATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NON LINEAR EQUATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FLUID MECHANICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FLUID MECHANICS"
+        },
+        "001B: Physique / Physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7930175835"
+}

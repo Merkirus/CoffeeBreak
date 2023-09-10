@@ -1,0 +1,147 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Targeted therapy in advanced colon cancer: the role of new therapies",
+    "dc:creator": [
+        "TABERNERO, J",
+        "SALAZAR, R",
+        "CASADO, E",
+        "MARTINELLI, E",
+        "GOMEZ, P",
+        "BASELGA, J"
+    ],
+    "dc:contributor": [
+        "SCHRIJVERS, Dirk (Editor)",
+        "BOKEMEYER, Carsten (Editor)",
+        "KRAEMER, Doris (Editor)",
+        "CERVANTES RUIPEREZ, Andrés (Editor)",
+        "HEGEWISCH-BECKER, Susanna (Editor)",
+        "KUMPULAINEN, Eero Juha (Editor)",
+        "LICITRA, Lisa (Editor)",
+        "PAVLIDIS, Nicholas (Editor)",
+        "SORIA, Jean-Charles (Editor)",
+        "STAHEL, Rolf A (Editor)",
+        "VERMOKEN, Jan B (Editor)",
+        "European Society for Medical Oncology (ESMO) (Funder/Sponsor)",
+        "ESMO Congress (29 ; Vienna 2004-10-29)"
+    ],
+    "dc:relation": [
+        "Annals of oncology -- Ann. oncol, ISSN 0923-7534, Vol. 15, pp. iv55-iv62",
+        "Educational Book of the 29th ESMO Congress, 29 October-2 November, 2004: Vienna, Austria"
+    ],
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Oxford University Press",
+    "dc:format": [
+        "print",
+        "48 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil digestif pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Côlon pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Intestin pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ciblage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cible"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stade avancé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cancer du côlon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Digestive diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Colonic disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Intestinal disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Targeting"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Target"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Advanced stage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Colon cancer"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato digestivo patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Colón patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Intestino patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Blancado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Blanco"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estadio avanzado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cáncer del colon"
+        },
+        "002B02R: Anticancéreux / Antineoplastic agents",
+        "002B13B01: Tumeurs / Tumors"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16313785"
+}

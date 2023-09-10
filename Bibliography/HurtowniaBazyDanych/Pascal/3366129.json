@@ -1,0 +1,62 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "USE OF THE MUNSELL SYSTEM TO COMPUTE COLOR DIFFERENCES IN COMPOSITE RESINS",
+    "dc:creator": [
+        "MOSER JB",
+        "WOZNIAK WT",
+        "MULLER TP",
+        "MOORE BK"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. DENT. RES.; USA; DA. 1978; VOL. 57; NO 11-12; PP. 958-963; BIBL. 12 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "RESINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COLORATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATERIAU COMPOSITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DENTISTERIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENIE BIOMEDICAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RESINS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COLORATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COMPOSITE MATERIAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DENTISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOMEDICAL ENGINEERING"
+        },
+        "002B26: Radiotherapie. Traitement instrumental. Physiotherapie. Reeducation. Readaptation, orthophonie, crenotherapie. Traitement dietetique et traitements divers (generalites) / Radiotherapy. Instrumental treatment. Physiotherapy. Reeducation. Rehabilitation, orthophony, crenotherapy. Diet therapy and various other treatments (general aspects)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7950342750"
+}

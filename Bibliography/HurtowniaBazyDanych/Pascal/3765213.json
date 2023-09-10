@@ -1,0 +1,66 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "L'ENCERCLEMENT. PROBLEMES DE SURVIE EN MILIEU TERRESTRE",
+    "dc:creator": "COMMONER B",
+    "dc:date": "1972",
+    "dc:type": "Book Chapter",
+    "dc:language": "French",
+    "dc:format": "PARIS; SEUIL; DA. 1972; PP. 1-300; BIBL. DISSEM.; TRAD. DE L'AM. PAR G. DURAND. (SCI. OUVERTE)",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "POLLUTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENVIRONNEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TECHNOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORGANISATION SOCIALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROTECTION ENVIRONNEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE SOCIOECONOMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PSYCHOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NUISANCES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLLUTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PSYCHOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NUISANCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLLUTION"
+        },
+        "001D16: Pollution / Pollution",
+        "002A26: Psychologie. Psychophysiologie / Psychology. Psychophysiology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7339001421"
+}

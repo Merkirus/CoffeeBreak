@@ -1,0 +1,83 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Thermodynamic study of zinc-rich zinc-sodium alloys",
+    "dc:creator": [
+        "YAN, X. Y",
+        "LANGBERG, D. E",
+        "RANKIN, W. J"
+    ],
+    "dc:relation": "Metallurgical and materials transactions. B, Process metallurgy and materials processing science -- Metall. mater. trans., B, Proc. metall. mater. proc. sci, ISSN 1073-5615, Vol. 31 (2) , pp. 419-424",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "26 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Alliage binaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse thermodynamique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété thermodynamique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sodium"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Zinc"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Binary alloys"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermodynamic analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermodynamic properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sodium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Zinc"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis termodinámico"
+        },
+        "001B60E40G: Propriétés thermodynamiques / Thermodynamic properties",
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy",
+        "6540:  / Heat capacities of solids"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1359012"
+}

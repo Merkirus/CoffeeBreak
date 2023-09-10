@@ -1,0 +1,164 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Banques de données : recherche de textes officiels. 100 ans de formation infirmière",
+    "dc:creator": [
+        "GOFFI, Martine",
+        "REGENT, Liliane"
+    ],
+    "dc:date": "1996",
+    "dc:type": [
+        "Text",
+        "Book"
+    ],
+    "dc:identifier": [
+        "ISBN 2-842-04005-8",
+        "Inist-CNRS record number 6267369"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Editions hospitalières",
+    "dc:format": [
+        "print",
+        "299 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Cadre entreprise"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enseignant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enseignement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Formation permanente"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Formation professionnelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Infirmier psychiatrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Infirmier"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Responsabilité professionnelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réglementation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Manager"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Teacher"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Teaching"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Continuing education"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Occupational training"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Psychiatric nurse"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nurse"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Occupational responsibility"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Regulation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gerente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Docente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enseñanza"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Educación continua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Formación profesional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enfermero psiquiatrico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enfermero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Responsabilidad profesional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reglamentación"
+        },
+        "002B30A05: Acteurs de santé / Health participants"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Francia"
+        }
+    ],
+    "dc:rights": [
+        "Banque de données en santé publique - Ecole des hautes études en santé publique (BDSP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE CASE OF THE RHEUMATOID LUNG",
+    "dc:creator": "SEAMAN WB",
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "HOSP. PRACT.; ISSN 0018-5809; USA; DA. 1980; VOL. 15; NO 3; PP. 159-160; BIBL. 3 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "POLYARTHRITE RHUMATOIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POUMON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OPACITE ARRONDIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NODULE RHUMATOIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SIGNE RADIOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "APPAREIL RESPIRATOIRE PATHOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SYSTEME OSTEOARTICULAIRE PATHOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PATHOLOGIE OSTEOARTICULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PNEUMOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RHEUMATOID ARTHRITIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LUNG"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COIN LESION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RHEUMATOID NODULE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RADIOLOGIC SIGN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RESPIRATORY DISEASE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DISEASES OF THE OSTEOARTICULAR SYSTEM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BONE AND JOINT DISEASES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PNEUMOLOGY"
+        },
+        "002B12: Cardiologie. Appareil circulatoire / Cardiology. Vascular system",
+        "002B15: Pathologie osteoarticulaire / Diseases of the osteoarticular system"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8110181308"
+}

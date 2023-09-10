@@ -1,0 +1,45 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "TEILCHENGROESSENANALYSE. VI. TRENNVERFAHREN; ANALYSE DE LA TAILLE DES PARTICULES. VI. METHODE DE SEPARATION (SUITE)",
+    "dc:creator": [
+        "LESCHONSKI K",
+        "ALEX W",
+        "KOGLIN B"
+    ],
+    "dc:date": "1974",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "CHEM.-INGR-TECH.; DTSCH.; DA. 1974; VOL. 46; NO 21; PP. 901-904; BIBL. 20 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE GRANULOMETRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TAMISAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENIE CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUSTRIE CHIMIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL ENGINEERING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL INDUSTRY"
+        },
+        "001D07: Genie chimique / Chemical engineering"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7588003443"
+}

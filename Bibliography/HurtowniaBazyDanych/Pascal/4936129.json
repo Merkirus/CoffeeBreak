@@ -1,0 +1,102 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Kinetics of Insulin Release in Health and Type 2 Diabetes",
+    "dc:contributor": [
+        "CERASI, Erol (Editor)",
+        "Servier (Funder/Sponsor)",
+        "International Group on Insulin Secretion (IGIS) (Funder/Sponsor)",
+        "Servier-IGIS Symposium (2 ; St. Jean Cap Ferrat 2001-03-22)"
+    ],
+    "dc:relation": "Diabetes (New York, NY) -- Diabetes (N.Y. NY), CODEN DIAEAZ, ISSN 0012-1797, Vol. 51",
+    "dc:date": "2002",
+    "dc:type": [
+        "Text",
+        "Conference Proceedings"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "American Diabetes Association",
+    "dc:format": [
+        "print",
+        "286 p. ; dissem"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Endocrinopathie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hormone pancréatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cinétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diabète non insulinodépendant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Insuline"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sécrétion endocrine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Endocrinopathy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pancreatic hormone"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Kinetics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Non insulin dependent diabetes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Insulin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Endocrine secretion"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Endocrinopatía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hormona pancreática"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cinética"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diabetes no insulinodependiente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Insulina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Secreción endocrina"
+        },
+        "002B21E01A: Etiopathogénie. Dépistage. Explorations. Résistance tissu cible / Etiopathogenesis. Screening. Investigations. Target tissue resistance"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 13341520"
+}

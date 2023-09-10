@@ -1,0 +1,90 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Les organisations complexes à risques : gérer la sûreté par les ressources. Etude de situations de conduite de centrales nucléaires; Complex and risky organizations : a resource-based management of safety. A study of normal processing situations in nuclear power plants",
+    "dc:creator": "JOURNE, B",
+    "dc:contributor": [
+        "GIRIN, J (Advisor (for a thesis or dissertation))",
+        "Ecole Polytechnique. Centre de Recherche en Gestion. (CRG) (Degree-grantor)"
+    ],
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Thesis"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "429 p. ; 238 réf"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CENTRALE NUCLEAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DECISION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GESTION DES RESSOURCES HUMAINES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GESTION DU RISQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NUCLEAR POWER STATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DECISION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN RESOURCES MANAGEMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RISK MANAGEMENT"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "CENTRAL NUCLEAR"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "DECISION"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "GESTION DE LOS RECURSOS HUMANOS"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "GESTION DEL RIESGO"
+        },
+        "616-: Doge / Gestion des entreprises / Doge / Company management",
+        "616-1: Politique générale de l'entreprise / Business policy"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "FRANCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FRANCE"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "FRANCIA"
+        }
+    ],
+    "dc:rights": [
+        "Documentation en Gestion des Entreprises - Eurofidai (institut européen de données financières) (DOGE)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6204983"
+}

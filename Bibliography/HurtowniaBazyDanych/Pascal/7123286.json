@@ -1,0 +1,255 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The behavior of elastomers at high strain rates",
+    "dc:creator": [
+        "HOO FATT, M. S",
+        "OUYANG, X"
+    ],
+    "dc:contributor": [
+        "Jones, Norman (Editor)",
+        "Brebbia, C. A (Editor)",
+        "International Conference on Structures Under Shock and Impact (9 ;  2006)"
+    ],
+    "dc:relation": [
+        "Transactions on the built environment, ISSN 1746-4498, Vol. v. 87, pp. 97-106",
+        "Structures under shock and impact IX"
+    ],
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "WIT",
+    "dc:format": [
+        "print",
+        "10 p. ; 3 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Caoutchouc"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Elastomère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Equation constitutive"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai choc"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai traction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grande vitesse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Relation contrainte déformation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rupture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réponse transitoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résistance traction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traction uniaxiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ténacité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tôle mince"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vibration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Viscoélasticité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vitesse déformation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rubber"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Elastomer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Constitutive equation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Impact test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tension test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "High speed"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stress strain relation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rupture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transient response"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tensile strength"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Uniaxial tension stress"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fracture toughness"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thin sheet"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vibration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Viscoelasticity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Strain rate"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Caucho"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Elastómero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ecuación constitutiva"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo choque"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo tracción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gran velocidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Relación tensión deformación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ruptura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Respuesta transitoria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resistencia tracción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tracción uniaxial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tenacidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Chapa fina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vibración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Viscoelasticidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Velocidad deformación"
+        },
+        "001B40F30C: Elasticité statique (thermoélasticité...) / Static elasticity (thermoelasticity...)",
+        "001B40F30M: Vibration, onde mécanique, stabilité dynamique (aéroélasticité, contrôle vibration...) / Vibration, mechanical wave, dynamic stability (aeroelasticity, vibration control...)",
+        "001B40F30N: Mécanique de la rupture (fissure, fatigue, endommagement...) / Fracture mechanics (crack, fatigue, damage...)",
+        "001D10A02D: Elastomères / Elastomers"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 21308295"
+}

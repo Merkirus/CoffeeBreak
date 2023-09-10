@@ -1,0 +1,79 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Flaw classification by a spectral division of ultrasonic echoes; Classification des défauts par division spectrale des échos ultrasonores",
+    "dc:creator": [
+        "SEIGER, H",
+        "WAGNER, J"
+    ],
+    "dc:contributor": "Nondestructive Testing. European Conference",
+    "dc:relation": "Nondestructive Testing. European Conference",
+    "dc:date": "1984",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Italian Society for NDT",
+    "dc:format": [
+        "print",
+        "5 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Classification"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Défaut soudure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai ultrason"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Classifying"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Weld defect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ultrasonic testing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Klassifizierung"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Schweissfehler"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Ultraschallpruefung"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Experimentelle Untersuchung"
+        },
+        "001D11D01: Soudage / Welding",
+        "001D11H02A: Recherche des défauts / Testing for defects",
+        "001D11H02B: Mesure des propriétés. Etude des structures / Measurement of properties and materials state"
+    ],
+    "dc:rights": [
+        "Institut de la Soudure (IS)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 9050532"
+}

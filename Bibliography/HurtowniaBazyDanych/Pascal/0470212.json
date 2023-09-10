@@ -1,0 +1,56 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SOCIETE SUISSE DE CHIRURGIE. 68E ASSEMBLEE ANNUELLE, DU 25 AU 27 JUIN 1981, A INTERLAKEN",
+    "dc:creator": "SOCIETE SUISSE DE CHIRURGIE",
+    "dc:date": "1982",
+    "dc:type": "Conference Paper",
+    "dc:language": [
+        "French",
+        "German"
+    ],
+    "dc:format": "HELV. CHIR. ACTA; ISSN 0018-0181; CHE; DA. 1982; VOL. 48; NO 5; PP. 519-730; ABS. ENG/GER/FRE; BIBL. DISSEM.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIRURGIE ORTHOPEDIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONGRES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTERLAKEN,1981"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PATHOLOGIE OSTEOARTICULAIRE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORTHOPEDIC SURGERY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONFERENCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BONE AND JOINT DISEASES"
+        },
+        "002B15: Pathologie osteoarticulaire / Diseases of the osteoarticular system"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL82X0107196"
+}

@@ -1,0 +1,61 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE ACTION PRINCIPLE FOR THE LONGITUDINAL ELECTROMAGNETIC FIELD",
+    "dc:creator": "STARUSZKIEWICZ A",
+    "dc:date": "1983",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "ACTA PHYSICA POLONICA. B; ISSN 0587-4254; POL; DA. 1983; VOL. 14; NO 1; PP. 63-65; BIBL. 7 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CHAMP ELECTROMAGNETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "THEORIE CHAMP"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "THEORIE JAUGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRINCIPE ACTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METROLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE THEORIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROMAGNETIC FIELD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FIELD THEORY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GAUGE THEORY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MEASUREMENT SCIENCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THEORETICAL PHYSICS"
+        },
+        "001B: Physique / Physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0255668"
+}

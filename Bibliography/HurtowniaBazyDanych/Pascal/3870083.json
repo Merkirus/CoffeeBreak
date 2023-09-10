@@ -1,0 +1,153 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "METHODES DE REFERENCE EN BIOCHIMIE ANALYTIQUE: ROLE DE L'ENSEMBLE COLONNE CAPILLAIRE-SPECTROMETRE DE MASSE.",
+    "dc:creator": [
+        "JACOLOT F",
+        "BERTHOU F",
+        "PICART D"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "SPECTRA 2000; FR.; DA. 1978; VOL. 6; NO 41; PP. 37-48; BIBL. 67 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOLOGIE CLINIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DOSAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NORMALISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATERIEL BIOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHROMATOGRAPHIE PHASE GAZEUSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COLONNE CAPILLAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE MASSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TECHNIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PERFORMANCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETALON INTERNE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "APPAREIL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STEROIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE CRITIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE REFERENCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FRAGMENTOGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOCHIMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CLINICAL BIOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ANALYTICAL DETERMINATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STANDARDIZATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOLOGICAL MATERIAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GAS CHROMATOGRAPHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CAPILLARY COLUMN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MASS SPECTROMETRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MASS SPECTROSCOPY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TECHNIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PERFORMANCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTERNAL STANDARD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "STEROID"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CATIONS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CRITICAL REVIEW"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FRAGMENTOGRAPHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOCHEMISTRY"
+        },
+        "002A02: Biochimie analytique, structurale et metabolique / Analytical, structural and metabolic biochemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7850380255"
+}

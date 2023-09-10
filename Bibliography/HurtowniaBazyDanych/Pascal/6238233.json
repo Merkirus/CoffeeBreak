@@ -1,0 +1,93 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Logiciel d'édition de générateurs de caractères pour terminaux Scorpion ou Vidéal 300; Characters generator editor software for terminals Scorpion or Videal 300",
+    "dc:creator": [
+        "ARDITTI, D",
+        "LE QUENVEN, A",
+        "CNET Paris A. Division télématique, informatique et mathématiques appliquées"
+    ],
+    "dc:date": "1985",
+    "dc:type": [
+        "Text",
+        "Report"
+    ],
+    "dc:identifier": [
+        "REPORTNUMBER NT-PAA-TIM-DRI - 1639",
+        "Inist-CNRS record number 7935568"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "CNET",
+    "dc:format": [
+        "print",
+        "32 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Affinage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Caractère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Edition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Générateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Logiciel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metal refining"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Character"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Publishing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Generator"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Software"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Afinacion"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Caracter"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Edición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Generador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Logicial"
+        },
+        "001D03J: Matériel informatique / Hardware",
+        "001D03J03: Equipements d'entrée-sortie / Input-output equipment",
+        "430A09G:  / Computer hardware"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

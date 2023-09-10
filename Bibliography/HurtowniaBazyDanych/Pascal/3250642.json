@@ -1,0 +1,96 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THEORY OF VALENCE TRANSITION",
+    "dc:creator": [
+        "MISAWA S",
+        "TAKANO F"
+    ],
+    "dc:date": "1981",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "PROG. THEOR. PHYS.; ISSN 0033-068X; JPN; DA. 1981; VOL. 65; NO 1; PP. 35-53; BIBL. 9 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "STRUCTURE BANDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BANDE VALENCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LANTHANIDE COMPOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SUSCEPTIBILITE MAGNETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSITION METAL ISOLANT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BANDE CONDUCTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTERACTION ELECTRON PHONON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "THEORIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE SOLIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BAND STRUCTURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VALENCE BAND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LANTHANIDE COMPOUND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MAGNETIC SUSCEPTIBILITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METAL INSULATOR TRANSITION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONDUCTION BAND"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRON PHONON INTERACTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THEORY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THEORETICAL STUDIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID PHYSICS"
+        },
+        "001B60: Etat condense: structure, proprietes mecaniques et thermiques / Condensed matter: structure, mechanical and thermal properties"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8130500727"
+}

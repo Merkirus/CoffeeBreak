@@ -1,0 +1,284 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Onshore tsunami deposits caused by the 1993 Southwest Hokkaido and 1983 Japan Sea earthquakes",
+    "dc:creator": [
+        "SATO, H",
+        "SHIMAMOTO, T",
+        "TSUTSUMI, A",
+        "KAWAMOTO, E"
+    ],
+    "dc:contributor": [
+        "SATAKE, Kenji (Editor)",
+        "IMAMURA, Fumihiko (Editor)"
+    ],
+    "dc:relation": "Pure and Applied Geophysics -- Pure Appl. Geophys, CODEN PAGYAV, ISSN 0033-4553, Vol. 144 (3-4) , pp. 693-717",
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "Illustration ; 1 p.1/2"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche sédimentaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Classification"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dimension grain"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Distribution spatiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dune côtière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dépôt"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Erosion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude faisabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Paléosismicité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche clastique meuble"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sable substance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Séisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Topographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tsunami"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "sedimentary rocks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "classification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "grain size"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "spatial distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "coastal dunes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "deposition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "erosion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "feasibility studies"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "paleoseismicity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "clastic sediments"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "sands"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "earthquakes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "topography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "tsunamis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Roca sedimentaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Clasificación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dimensión grano"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Distribución espacial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Duna costera"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Depósito"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Erosión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio factibilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sedimento clástico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arena sustancia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Topografía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tsunami"
+        },
+        "001E01M03: Séismes, sismologie / Earthquakes, seismology"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Asie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Japon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Océan Pacifique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pacifique Ouest"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Extrême Orient"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hokkaïdo"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mer du Japon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Japan"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pacific Ocean"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "West Pacific"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Far East"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hokkaido"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Japan Sea"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Japón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Océano Pacífico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pacífico Oeste"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Extremo Oriente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hokkaído"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mar de Japón"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2918321"
+}

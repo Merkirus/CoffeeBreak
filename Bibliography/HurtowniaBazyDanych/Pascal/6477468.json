@@ -1,0 +1,113 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The effect of tag recognition on non-local adaptation",
+    "dc:creator": [
+        "ASHLOCK, Dan",
+        "POWERS, Brad"
+    ],
+    "dc:contributor": "Congress on evolutionary computation (Portland OR 2004-06-19)",
+    "dc:relation": "Proceedings of the 2004 congress on evolutionary computation (CEC 2004, June 19-23, 2004, Portland OR, USA) -- 0CEC2004",
+    "dc:date": "2004",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "IEEE",
+    "dc:format": [
+        "print",
+        "vol 2, 2045-2051 ; 6 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Algorithme évolutionniste"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Biologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Complexité tâche"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grille"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Identificateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Machine état fini"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système multiagent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Evolutionary algorithm"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Task complexity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Grid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Identifier"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Finite state machine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multiagent system"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Algoritmo evoluciónista"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Complejidad tarea"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rejilla"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Identificador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Máquina estado finito"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema multiagente"
+        },
+        "001D02C: Intelligence artificielle / Artificial intelligence"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17480128"
+}

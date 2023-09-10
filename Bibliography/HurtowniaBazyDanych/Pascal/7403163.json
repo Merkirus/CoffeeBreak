@@ -1,0 +1,159 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Thermodynamic aspects of reformulation of automotive fuels",
+    "dc:creator": [
+        "ZUDKEVITCH, D",
+        "MURTHY, A.K.S",
+        "GMEHLING, J"
+    ],
+    "dc:contributor": "1995 NPRA Annual Meeting (San Francisco, CA 1995-03-19)",
+    "dc:relation": "1995 NPRA Annual Meeting",
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "National Petroleum Refiners Association",
+    "dc:format": [
+        "print",
+        "29 p. ; 35 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Alcool"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essence auto"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essence sans plomb"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ethanol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle simulation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthanol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pression vapeur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Produit pétrolier"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simulation ordinateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thermodynamique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Additif MTBE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ether(t-butyl méthyl)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Alcohol"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Motor gasoline"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Unleaded gasoline"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ethanol"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Simulation model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Methanol"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vapor pressure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Petroleum product"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computer simulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermodynamics"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alcohol"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gasolina coche"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gasolina sin plomo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Etanol"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo simulación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metanol"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Presión vapor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Producto petrolero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simulación computadora"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Termodinámica"
+        },
+        "001D06: Energie / Energy",
+        "001D06B02E: Produits dérivés du pétrole et des schistes bitumineux. Produits finis, gaz, carburants, fuels, huiles et bitumes raffinés / Petroleum products, gas and fuels. Motor fuels, lubricants and asphalts"
+    ],
+    "dc:rights": [
+        "Institut Français du Pétrole et des Energies Nouvelles (IFP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6216927"
+}

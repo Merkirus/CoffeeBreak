@@ -1,0 +1,327 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Decomposition and distribution of 15N labelled mustard litter (Sinapis alba) in physical soil fractions of a cropland with high- and low-yield field areas",
+    "dc:creator": [
+        "KÖLBL, A",
+        "VON LÜTZOW, M",
+        "KÖGEL-KNABNER, I"
+    ],
+    "dc:contributor": [
+        "BOUTTON, Thomas W (Editor)",
+        "FILLEY, Timothy R (Editor)",
+        "Symposium: Ecosystems in Flux: Molecular and Stable Isotope Assessments of Soil Organic Matter Storage and Dynamics (San Francisco, CA 2004-12-13)"
+    ],
+    "dc:relation": [
+        "Soil biology & biochemistry -- Soil biol. biochem, CODEN SBIOAH, ISSN 0038-0717, Vol. 38 (11) , pp. 3292-3302",
+        "Ecosystems in Flux: Molecular and Stable Isotope Assessments of Soil Organic Matter Storage and Dynamics"
+    ],
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Elsevier Science",
+        "Elsevier Science"
+    ],
+    "dc:format": [
+        "print",
+        "11 p. ; 29 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Angiospermae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cruciferae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dicotyledones"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plante condimentaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spermatophyta"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Azote organique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Carbone organique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Champ cultivé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Décomposition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fractionnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Litière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Marquage isotopique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matière organique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété physique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Science du sol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sinapis alba"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technique traceur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Azote 15"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matière organique particulaire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Angiospermae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cruciferae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dicotyledones"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Flavoring crop"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spermatophyta"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Organic nitrogen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Organic carbon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cultivated field"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Decomposition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fractionation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Litter"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Isotope labelling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Organic matter"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Physical properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Soil science"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sinapis alba"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Soils"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tracer technique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nitrogen-15"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Particulate organic matter"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "15N tracer techniques"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Organic carbon and nitrogen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Particulate organic matter"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Physical fractionation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Soil organic matter"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Angiospermae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cruciferae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dicotyledones"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Planta condimentaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Spermatophyta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nitrógeno orgánico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carbono orgánico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Campo cultivado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Descomposición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fraccionamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hojarasca"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Marcación isotópica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Materia orgánica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad física"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ciencia del suelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sinapis alba"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Suelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Técnica trazador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Nitrógeno-15"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Materia orgánica particular"
+        },
+        "002A32B03B3: Matière organique / Organic matter",
+        "002A32B03B4: Biochimie et biologie / Biochemistry and biology"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Allemagne"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Germany"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alemania"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18217860"
+}

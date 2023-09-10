@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "DESCUBRIEUDO A VENUS; A LA DECOUVERTE DE VENUS",
+    "dc:creator": "BROWN H",
+    "dc:date": "1981",
+    "dc:type": "Article",
+    "dc:language": "Spanish",
+    "dc:format": "REV. GEOGR. UNIVERS; ISSN 525057; ESP; DA. 1981; VOL. 9; NO 1; PP. 66-89; 19 PLANCH. ; PL.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PLANETE VENUS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ATMOSPHERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TEMPERATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONSTITUTION PLANETE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPARAISON TERRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE EXTRATERRESTRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COSMOCHIMIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VENUS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ATMOSPHERE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TEMPERATURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PLANETARY INTERIORS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TERRESTRIAL COMPARISON"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXTRATERRESTRIAL GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COSMOCHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        "001E01: Sciences de la terre / Earth sciences"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCALGEODEBRGM8220160446"
+}

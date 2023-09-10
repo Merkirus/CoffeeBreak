@@ -1,0 +1,218 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Detection of delamination defect inside timber by sonic IR",
+    "dc:creator": [
+        "CHOI, M. Y",
+        "PARK, J. H",
+        "KIM, W. T",
+        "KANG, K. S"
+    ],
+    "dc:contributor": [
+        "Vavilov, Vladimir Platonovich (Editor)",
+        "Burleigh, Douglas D (Editor)",
+        "SPIE (Organiser of meeting)",
+        "Thermosense (30 ; Orlando FL 2008)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, pp. 69391F.1-69391F.4",
+        "Thermosense XXX (18-20 March 2008, Orlando, Florida, USA) -- 0Thermosense 30 -- 1Thermosense thirty"
+    ],
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "5 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bois"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diapason"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Délaminage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Détection défaut"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet structure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Endommagement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai non destructif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai ultrason"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Frottement interne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Imagerie thermique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mesure température"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polymère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Processus fabrication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Procédé fabrication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thermographie IR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thermographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ultrason"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0130C"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0720"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0720D"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4335"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wood"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tuning fork"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Delamination"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Defect detection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Structure effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Damage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nondestructive testing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ultrasonic testing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Internal friction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermal imaging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Temperature measurement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polymers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Production process"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Manufacturing processes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infrared thermography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ultrasonic waves"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diapasón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Detección imperfección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efecto estructura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Proceso fabricación"
+        },
+        "001B00A30C: Actes de congrès / Conference proceedings",
+        "001B00G20D: Thermométrie / Thermometry",
+        "001B40F30N: Mécanique de la rupture (fissure, fatigue, endommagement...) / Fracture mechanics (crack, fatigue, damage...)",
+        "001B40F30R: Méthodes de mesure et d'essai / Measurement and testing methods"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20858926"
+}

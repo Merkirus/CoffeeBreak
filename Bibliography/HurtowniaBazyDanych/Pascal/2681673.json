@@ -1,0 +1,61 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SASOL - A PROVEN PRESCRIPTION TO CONVERT TONS OF COAL TO BARRELS OF FUEL",
+    "dc:creator": "SAMUEL WA",
+    "dc:date": "1981",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "IND. HEAT.; USA; DA. 1981-11; VOL. 48; NO 11; PP. 16, 18; BIBL. 2 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "HYDRATATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHARBON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INSTALLATION INDUSTRIELLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AFRIQUE AUSTRALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SASOL-VERFAHREN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HYDRATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INDUSTRIAL INSTALLATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOUTH AFRICA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METALLURGY"
+        },
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8300223510"
+}

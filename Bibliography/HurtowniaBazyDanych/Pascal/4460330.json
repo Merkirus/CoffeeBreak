@@ -1,0 +1,64 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SOLUBILITE DES FLUORURES DE TERRES RARES DANS LES ACIDES MINERAUX",
+    "dc:creator": [
+        "DADABAEVA G",
+        "IKRAMI DD"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "DOKL. AKAD. NAUK TADZHIK. S.S.R.; S.S.S.R.; DA. 1976; VOL. 19; NO 12; PP. 31-33; ABS. TADZH.; BIBL. 9 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "LANTHANIDE III FLUORURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOLUBILITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACIDE MINERAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPRIETE PHYSIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE PHYSIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE GENERALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLUBILITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INORGANIC ACIDS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHYSICAL PROPERTIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHYSICAL CHEMISTRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GENERAL CHEMISTRY"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7760295091"
+}

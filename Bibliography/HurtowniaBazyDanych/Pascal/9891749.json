@@ -1,0 +1,234 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Future USN aircraft carrier Analysis of alternatives",
+    "dc:creator": [
+        "RABER, J. D",
+        "PERIN, D. A"
+    ],
+    "dc:relation": "Naval engineers journal -- Nav. eng. j, CODEN NVEJAX, ISSN 0028-1425, Vol. 112 (3) , pp. 15-25",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Blackwell",
+    "dc:format": [
+        "print",
+        "3 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Aspect économique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Combustible fossile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Combustible nucléaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conception"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Construction navale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Coût global"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Critère sélection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Elément ouvrage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exigence sécurité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Piste atterrissage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pont navire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Porte avions"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propulseur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vitesse déplacement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Economic aspect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fossil fuel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nuclear fuel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Shipbuilding"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Life cycle cost"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Selection criterion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Building functional element"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Safety requirement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Runway"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ship deck"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aircraft carrier"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Propeller"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Speed"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aspecto económico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Combustible fósil"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Combustible nuclear"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diseño"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Construcción naval"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Costo global"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Criterio selección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Elemento obra"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Exigencia seguridad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pista aterrizaje"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Puente navío"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Portaaviones"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propulsor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Velocidad desplazamiento"
+        },
+        "001D15F: Constructions navales / Marine construction"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats Unis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estados Unidos"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1481495"
+}

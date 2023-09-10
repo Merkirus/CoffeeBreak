@@ -1,0 +1,190 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Citrinin, a mycotoxin from Penicillium citrinum, plays a role in inducing motility of Paenibacillus polymyxa",
+    "dc:creator": [
+        "PARK, Soo-Young",
+        "KIM, Rumi",
+        "RYU, Choong-Min",
+        "CHOI, Soo-Keun",
+        "LEE, Choong-Hwan",
+        "KIM, Jong-Guk",
+        "PARK, Seung-Hwan"
+    ],
+    "dc:contributor": [
+        "HARTMANN, Anton (Editor)",
+        "LEMANCEAU, Philippe (Editor)"
+    ],
+    "dc:relation": "FEMS microbiology ecology -- FEMS microbiol. ecol, ISSN 0168-6496, Vol. 65 (2) , pp. 229-237",
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Blackwell",
+    "dc:format": [
+        "print",
+        "9 p. ; 1 p.1/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bactérie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fungi Imperfecti"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fungi"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Orientation spatiale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Toxine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chimiotactisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essaimage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Motilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mycotoxine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Paenibacillus polymyxa"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Penicillium citrinum"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bacteria"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fungi Imperfecti"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fungi"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spatial orientation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Toxin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemotaxis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Swarming"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Motility"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mycotoxin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Paenibacillus polymyxa"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Penicillium citrinum"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Paenibacillus polymyxa"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Penicillium citrinum"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "chemotactic motility"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "citrinin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "swarming motility"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bacteria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fungi Imperfecti"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fungi"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Orientación espacial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Toxina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Quimiotactismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enjambrazón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Motilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Micotoxina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Paenibacillus polymyxa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Penicillium citrinum"
+        },
+        "002A05D10: Divers / Miscellaneous",
+        "002A14C: Ecologie microbienne / Microbial ecology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20594044"
+}

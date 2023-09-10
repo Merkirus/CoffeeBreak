@@ -1,0 +1,71 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ETUDE D'UNE LIGNINE D'EXTRACTION PAR DIFFUSION DE LA LUMIERE AVEC SOURCE LASER.",
+    "dc:creator": [
+        "PLA F",
+        "FROMENT P",
+        "CAPITINI R",
+        "TISTCHENKO AM",
+        "ROBERT A"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "CELLULOSE CHEM. TECHNOL.; ROMAN.; DA. 1977; VOL. 11; NO 6; PP. 711-718; ABS. ALLEM.; BIBL. 32 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "LIGNINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DETERMINATION MASSE MOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DIFFUSION LUMIERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LASER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLYMERES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE MACROMOLECULAIRE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIGNIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOLECULAR WEIGHT DETERMINATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIGHT SCATTERING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LASER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLYMERS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MACROMOLECULAR CHEMISTRY"
+        },
+        "001D09: Physicochimie des polymeres / Physicochemistry of polymers"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7860292916"
+}

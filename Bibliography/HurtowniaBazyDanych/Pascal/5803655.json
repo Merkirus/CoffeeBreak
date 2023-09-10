@@ -1,0 +1,234 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE USE OF CHELATING SOLID PHASE MATERIALS IN FLOW INJECTION SYSTEMS: A REVIEW",
+    "dc:creator": "KARA, Derya",
+    "dc:contributor": "TZANAVARAS, Paraskevas D (Editor)",
+    "dc:relation": "Analytical letters -- Anal. lett, CODEN ANALBP, ISSN 0003-2719, Vol. 44 (1-3) , pp. 457-482",
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Taylor & Francis",
+    "dc:format": [
+        "print",
+        "26 p. ; 6 p.1/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amélioration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse trace"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Article synthèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chimie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Efficacité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Injection en écoulement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ion métallique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Limite détection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phase solide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phase stationnaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Préparation échantillon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sensibilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Utilisation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Improvement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Trace analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Review"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemistry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Efficiency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Flow injection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metal ion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Detection limit"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Metal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Solid phase"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stationary phase"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sample preparation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sensitivity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Technique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Use"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chelating solid phase materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Flow injection analyses"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Review"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Trace metals"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mejora"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis huella"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Artículo síntesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Química"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Eficacia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inyección flujo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ión metálico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Límite detección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fase sólida"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fase estacionaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Preparación muestreo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sensibilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Técnica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Uso"
+        },
+        "001C04: Chimie analytique / Analytical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 24016827"
+}

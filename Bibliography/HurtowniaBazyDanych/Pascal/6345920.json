@@ -1,0 +1,141 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Behavior of medium and low plasticity clays under cyclic simple shear conditions; Comportement d'argiles de faible et moyenne plasticité soumis à des conditions de cisaillement simple cyclique",
+    "dc:creator": [
+        "TAN, K",
+        "VUCETIC, M"
+    ],
+    "dc:contributor": "International conference on soil dynamics and earthquake engineering. 4 (Mexico 1989-10-23)",
+    "dc:relation": "International conference on soil dynamics and earthquake engineering. 4",
+    "dc:date": "1989",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Computational mech. publ",
+    "dc:format": [
+        "print",
+        "11 p. ; 12 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche clastique meuble"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche sédimentaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Argile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai cisaillement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mise en charge cyclique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mécanique sol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plasticité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété géotechnique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Séisme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Clastic sediments"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sedimentary rocks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Clay"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Shear tests"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Shear test"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cyclic loading"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Soil mechanics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plasticity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Engineering properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Earthquakes"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Roca sedimentaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sedimento clástico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arcilla"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ensayo cortante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carga cíclica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mecánica suelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Plasticidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad geotécnica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sismo"
+        },
+        "001E01O01: Géotechnique / Engineering geology"
+    ],
+    "dc:rights": [
+        "Bureau de Recherches Géologiques et Minières (BRGM)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 19433915"
+}

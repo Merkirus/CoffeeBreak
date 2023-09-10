@@ -1,0 +1,315 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Work function changes in the (111)Pd/(111)Cu and CO/(111)Pd/(111)Cu systems; Variations du travail de sortie dans les systèmes Pd(111)/Cu(111) et CO/Pd(111)/Cu(111)",
+    "dc:creator": [
+        "VOOK, R. W",
+        "SWIRBEL, T. J",
+        "CHAO, S. S"
+    ],
+    "dc:contributor": "International conference on solid films and surfaces. 4 (1987)",
+    "dc:relation": [
+        "Applied surface science -- Appl. surf. sci, ISSN 0169-4332, Vol. 33-34, pp. 220-237",
+        "International conference on solid films and surfaces. 4 (1987)"
+    ],
+    "dc:date": "1988",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "28 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Adsorption"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Carbone monoxyde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Couche mince"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Couche multiple"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Degré recouvrement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffraction électron réflexion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epitaxie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microscopie électronique transmission"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microstructure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métal transition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recuit"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectrométrie Auger"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectrométrie photoélectron"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stabilité thermique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Travail sortie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métal pur Cu"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métal pur Pd"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adsorption"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Carbon monoxide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thin film"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multiple layer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Coverage rate"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RHEED diffraction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reflection high energy electron diffraction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Epitaxy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transmission electron microscopy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microstructure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transition metal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Annealing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Auger electron spectrometry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Photoelectron spectrometry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermal stability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surface structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Work function"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adsorción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carbono monóxido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Capa fina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Capa múltiple"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Grado recubrimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Difracción electrón reflexión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Epitaxia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Microscopía electrónica transmisión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Microestructura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metal transición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Recocido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Espectrometría Auger"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Espectrometría fotoelectrón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estabilidad térmica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estructura superficie"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Función de trabajo"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Adsorption"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Kohlenmonoxid"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Duennschicht"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Mehrfachschicht"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "RHEED'sche Beugung"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Epitaxie"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Experimentelle Untersuchung"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Transmissionselektronenmikroskopie"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Mikrogefuege"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Uebergangsmetalle"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Gluehen"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Auger Spektrometrie"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "ESCA Spektrometrie"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Thermische Stabilitaet"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Oberflaechenbeschaffenheit"
+        },
+        {
+            "@xml:lang": "de",
+            "#text": "Austrittsarbeit"
+        },
+        "001B60H55: Structure et morphologie de couches minces / Thin film structure and morphology",
+        "001B80A05B: Métaux, semimétaux et alliages / Metals, semimetals and alloys",
+        "001D11H02B: Mesure des propriétés. Etude des structures / Measurement of properties and materials state"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 7018427"
+}

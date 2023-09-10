@@ -1,0 +1,240 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Administration électronique, interopérabilité et sécurité : les risques de l'ambivalence; E-administration, interoperability, security and safety : The risks of ambivalence",
+    "dc:creator": "LAVENUE, Jean-Jacques",
+    "dc:contributor": [
+        "DE LAMBERTERIE, Isabelle (Editor)",
+        "STRUBEL, Xavier (Editor)"
+    ],
+    "dc:relation": "Annales des télécommunications -- Ann. télécommun -- Annals of telecommunications, CODEN ANTEAU, ISSN 0003-4347, Vol. 61 (7-8) , pp. 809-829",
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Springer",
+    "dc:format": [
+        "print",
+        "21 p. ; 5 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Administration électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Biométrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Carte à puce"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Extraction caractéristique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fiabilité système"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fraude"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Internet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interopérabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle 2 dimensions"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prévention vol"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Reconnaissance automatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Reconnaissance forme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sécurité informatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Terrorisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement signal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vie privée"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic government"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biometrics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Smart cards"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Feature extraction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "System reliability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fraud"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Internet"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interoperability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Two dimensional model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Theft prevention"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Automatic recognition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pattern recognition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computer security"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Terrorism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Signal processing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Private life"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biometry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Computer security"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Internet security"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Interoperability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Private life protection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public administration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Smart card"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Administración electrónica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biometría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fiabilidad sistema"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Internet"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interoperabilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo 2 dimensiones"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prevención vuelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reconocimiento automático"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reconocimiento patrón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Seguridad informatica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Terrorismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Procesamiento señal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vida privada"
+        },
+        "001D04A05A: Reconnaissance des formes / Pattern recognition",
+        "001D04A05D: Divers / Miscellaneous",
+        "001D04B03D4: Réseaux interconnectés / Interconnected networks",
+        "001D04B03E: Exploitation, maintenance, fiabilité des réseaux téléinformatiques / Operation, maintenance, reliability of teleprocessing networks"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18229819"
+}

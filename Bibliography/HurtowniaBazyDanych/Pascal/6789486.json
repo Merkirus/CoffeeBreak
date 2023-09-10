@@ -1,0 +1,101 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Mechanism of action of licensed vaccine adjuvants",
+    "dc:creator": [
+        "TRITTO, Elaine",
+        "MOSCA, Flaviana",
+        "DE GREGORIO, Ennio"
+    ],
+    "dc:contributor": [
+        "KURSTAK, Edouard (Editor)",
+        "Infections Control World Organization (ICWO) (Organiser of meeting)",
+        "WCVII World Congress on Vaccines, Immunisation and Immunotherapy (6 ; Milan 2008-09-23)"
+    ],
+    "dc:relation": [
+        "Vaccine -- Vaccine, CODEN VACCDE, ISSN 0264-410X, Vol. 27 (25-26) , pp. 3331-3334",
+        "VACCINES, IMMUNISATION AND IMMUNOTHERAPY: Based on the Sixth World Congress on Vaccines, Immunisation and Immunotherapy, Milan, Italy, 23-25 September 2008"
+    ],
+    "dc:date": "2009",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "4 p. ; 31 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Adjuvant immunologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunité naturelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mécanisme action"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vaccin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immunological adjuvant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Natural immunity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mechanism of action"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vaccine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Alum"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Innate immunity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MF59"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NLRP3 inflammasome"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Coadyuvante inmunológico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunidad natural"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mecanismo acción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vacuna"
+        },
+        "002A05F04: Vaccins, immunsérums, immunoglobulines et anticorps monoclonaux thérapeutiques en général / Vaccines, antisera, therapeutical immunoglobulins and monoclonal antibodies (general aspects)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 21749826"
+}

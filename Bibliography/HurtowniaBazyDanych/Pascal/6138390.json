@@ -1,0 +1,161 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Les chemins de l'aide : enquête auprès des personnes âgées dépendantes. Programme Philémon et Baucis, Genève, 1992-1994",
+    "dc:creator": [
+        "DU PASQUIER, J.N",
+        "USEL, M",
+        "DE ROULET, A.M",
+        "COMBA, F"
+    ],
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Book"
+    ],
+    "dc:identifier": [
+        "ISBN 2-881-46074-7",
+        "Inist-CNRS record number 6342038"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Réalités Sociales",
+    "dc:format": [
+        "print",
+        "326 p. ; 2 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Autonomie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Besoin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Demande"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dépendance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enquête"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude cohorte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vieillard"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etablissement sanitaire et social"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Maintien à domicile"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Autonomy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Need"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Demand"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dependence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inquiry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cohort study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Evaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Elderly"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Autonomía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Necesidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Petición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dependencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Encuesta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio cohorte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evaluación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anciano"
+        },
+        "002B30: Sante publique. Hygiene-medecine du travail / Public health. Hygiene-occupational medicine",
+        "002B30A11: Divers / Miscellaneous"
+    ],
+    "dc:rights": [
+        "Banque de données en santé publique - Ecole des hautes études en santé publique (BDSP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

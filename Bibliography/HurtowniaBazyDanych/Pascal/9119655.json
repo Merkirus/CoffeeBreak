@@ -1,0 +1,312 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Olomoucine inhibits cathepsin L nuclear translocation, activates autophagy and attenuates toxicity of 6-hydroxydopamine",
+    "dc:creator": [
+        "FEI, Xi-Feng",
+        "QIN, Zheng-Hong",
+        "BEI XIANG",
+        "LI, Ling-Yun",
+        "FENG HAN",
+        "FUKUNAGA, Kohji",
+        "LIANG, Zhong-Qin"
+    ],
+    "dc:relation": "Brain research -- Brain res, CODEN BRREAP, ISSN 0006-8993, Vol. 1264, pp. 85-97",
+    "dc:date": "2009",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "13 p. ; 1 p.1/2"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Cysteine endopeptidases"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enzyme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hydrolases"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Maladie dégénérative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie de l'encéphale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie du système nerveux central"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie du système nerveux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Peptidases"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Syndrome extrapyramidal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cathepsin L"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cycle cellulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cycline"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Maladie de Parkinson"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Neurone dopaminergique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Oxidopamine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Toxicité"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cysteine endopeptidases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Enzyme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hydrolases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Degenerative disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cerebral disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central nervous system disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nervous system diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Peptidases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Extrapyramidal syndrome"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cathepsin L"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cell cycle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cyclin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Parkinson disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dopaminergic neuron"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oxidopamine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rat"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Toxicity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cathepsin L"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cell cycle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cyclin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dopaminergic neuron"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LC3"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Parkinson's disease"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cysteine endopeptidases"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enzima"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hydrolases"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enfermedad degenerativa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mammalia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Encéfalo patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervosio central patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Peptidases"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rodentia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Extrapiramidal síndrome"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cathepsin L"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ciclo celular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ciclina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Parkinson enfermedad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Neurona dopaminérgica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Oxidopamina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Rata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Toxicidad"
+        },
+        "002B17G: Maladies dégénératives et hérédodégénératives du système nerveux. Leucodystrophies. Maladies à prions / Degenerative and inherited degenerative diseases of the nervous system. Leukodystrophies. Prion diseases",
+        "002B18C13: Troubles mentaux organiques. Neuropsychologie / Organic mental disorders. Neuropsychology",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry",
+        "770-D03M: Troubles mentaux organiques. Neuropsychologie / Organic mental disorders. Neuropsychology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 21464543"
+}

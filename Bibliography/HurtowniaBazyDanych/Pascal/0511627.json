@@ -1,0 +1,50 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "UNTERSUCHUNGEN UEBER DIE ZUSAMMENHAENGE DES DURCHSCHNITTSWERTES VON DEN DIE CHEMISCHEN TRANSPORTPROZESSE BESCHREIBENDEN POTENTIALFUNKTIONEN; ETUDE DES RELATIONS ENTRE DES VALEURS MOYENNES DES FONCTIONS POTENTIEL QUI DECRIVENT LES PROCESSUS DE TRANSFERT CHIMIQUE",
+    "dc:creator": [
+        "BOSCHAN P",
+        "FULOP J",
+        "SEITZ K",
+        "VAJDA T"
+    ],
+    "dc:date": "1975",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "HUNGAR. J. INDUSTR. CHEM.; HUNGARY; DA. 1975; VOL. 3; NO 4; PP. 537-548; ABS. RUSSE; BIBL. 6 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSFERT CHALEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSFERT MATIERE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FONCTION POTENTIEL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENIE CHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUSTRIE CHIMIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL ENGINEERING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHEMICAL INDUSTRY"
+        },
+        "001D07: Genie chimique / Chemical engineering"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7688006788"
+}

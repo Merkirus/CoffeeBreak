@@ -1,0 +1,94 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "QoFIS 2003",
+    "dc:contributor": [
+        "STILLER, Burkhard (Editor)",
+        "KARLSSON, Gunnar (Editor)",
+        "QoFIS 2003 International Workshop on Quality of Future Internet Services (4 ; Stockholm 2003-10)"
+    ],
+    "dc:relation": "Computer communications -- Comput. commun, ISSN 0140-3664, Vol. 28 (3)",
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Conference Proceedings"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Elsevier Science",
+        "Elsevier Science",
+        "Elsevier Science"
+    ],
+    "dc:format": [
+        "print",
+        "81 p. ; dissem"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse performance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Internet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Qualité service"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau ad hoc"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système FIFO"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Performance analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Internet"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Service quality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ad hoc network"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FIFO system"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis eficacia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Internet"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Calidad servicio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red ad hoc"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema FIFO"
+        },
+        "001D01A05: Théorie des files d'attente. Théorie du trafic / Queuing theory. Traffic theory",
+        "001D04B03: Réseaux téléinformatiques. Rnis / Teleprocessing networks. Isdn"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 16516901"
+}

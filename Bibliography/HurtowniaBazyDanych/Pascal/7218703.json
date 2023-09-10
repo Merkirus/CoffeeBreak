@@ -1,0 +1,267 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Characterization of Aloe vera gel before and after autodegradation, and stabilization of the natural fresh gel",
+    "dc:creator": "YARON, A",
+    "dc:contributor": "International congress of phytotherapy (1 ; Seoul 1991-10-15)",
+    "dc:relation": [
+        "PTR. Phytotherapy research -- PTR, Phytother. res, ISSN 0951-418X, Vol. 7, pp. S11-S13",
+        "International congress of phytotherapy (1 ; Seoul 1991-10-15)"
+    ],
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Wiley",
+    "dc:format": [
+        "print",
+        "9 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Angiospermae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Liliaceae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Monocotyledones"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spermatophyta"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composition chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrôle qualité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dégradation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Extrait"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Feuille végétal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Origine végétale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pharmacognosie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plante médicinale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polyoside"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété rhéologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Récolte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Saison"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stockage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aloe vera"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Condition culture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Angiospermae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Liliaceae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Monocotyledones"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spermatophyta"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical composition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quality control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Degradation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Extract"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plant leaf"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plant origin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pharmacognosy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Medicinal plant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polysaccharide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rheological properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Harvesting"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Season"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Storage"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Angiospermae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Liliaceae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Monocotyledones"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Spermatophyta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Composición química"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Control calidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Degradación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Extracto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hoja vegetal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Origen vegetal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Farmacognosia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Planta medicinal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Poliósido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad rheológica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cosecha"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Almacenamiento"
+        },
+        "002B02A04: Pharmacognosie. Homéopathie. Aliment santé / Pharmacognosy. Homeopathy. Health food"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Asie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Israël"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Israel"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Israel"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4771974"
+}

@@ -1,0 +1,86 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "LIFETIMES OF EXCITED LEVELS IN CAI-CAIII.",
+    "dc:creator": [
+        "EMMOTH B",
+        "BRAUN M",
+        "BROMANDER J",
+        "MARTINSON I"
+    ],
+    "dc:date": "1975",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "PHYS. SCRIPTA; SUEDE; DA. 1975; VOL. 12; NO 1-2; PP. 75-79; BIBL. 32 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CALCIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EXCITATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE FAISCEAU FEUILLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETAT ELECTRONIQUE EXCITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DUREE VIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CASCADE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CORRECTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MOYENNE ENERGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FONCTION EXCITATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CALCIUM ATOME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CALCIUM ION ATOMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETUDE EXPERIMENTALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE ATOMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE MOLECULAIRE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ATOMIC PHYSICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOLECULAR PHYSICS"
+        },
+        "001B30: Physique atomique et moleculaire / Atomic and molecular physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7640081035"
+}

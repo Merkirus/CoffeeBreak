@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ISOLATION OF PURE THIOCAPSA CULTURES AND INVESTIGATION OF THEIR PHYSIOLOGY AND SULFUR METABOLISM; ISOLEMENT DE CULTURES PURES DE THIOCAPSA ET ETUDE DE LEUR PHYSIOLOGIE ET DU METABOLISME DU SOUFRE",
+    "dc:creator": [
+        "DUBININA GA",
+        "GRABOVICH M YU"
+    ],
+    "dc:date": "1983",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "MIKROBIOLOGIJA (MOSKVA); ISSN 50727X; SUN; DA. 1983; VOL. 52; NO 1; PP. 5-12; ABS. ENG; BIBL. 10 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "THIOCAPSA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METABOLISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SOUFRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ISOLEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BACTERIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CULTURE MICROORGANISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CULTURE PURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOTECHNOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROBIOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THIOCAPSA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METABOLISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SULFUR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ISOLATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BACTERIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROORGANISM CULTURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOTECHNOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROBIOLOGY"
+        },
+        "002A31: Biotechnologie / Biotechnology",
+        "002B05: Pathologie infectieuse / Infectious diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0299905"
+}

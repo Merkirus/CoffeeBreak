@@ -1,0 +1,157 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "The effect of optically-induced random anisotropic disorder on a two-dimensional electron system",
+    "dc:creator": [
+        "MELHUISH, G. P",
+        "PLAUT, A. S",
+        "SIMON, S. H",
+        "HOLLAND, M. C",
+        "STANLEY, C. R"
+    ],
+    "dc:contributor": [
+        "DAS SARMA, Sankar (Editor)",
+        "EISENSTEIN, Jim (Editor)",
+        "PELLEGRINI, Vittorio (Editor)",
+        "SIMON, Steve (Editor)"
+    ],
+    "dc:relation": "Solid state communications -- Solid state commun, CODEN SSCOA4, ISSN 0038-1098, Vol. 140 (2) , pp. 94-99",
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "6 p. ; 24 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Aluminium arséniure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Anisotropie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet Hall quantique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet Shubnikov de Haas"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet aléatoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gallium arséniure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hétérostructure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Magnétorésistance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Oscillation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Semiconducteur III-V"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Speckle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Spectrométrie laser"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système 2 dimensions"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "7363"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aluminium arsenides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Anisotropy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quantum Hall effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Shubnikov-de Haas effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Random effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gallium arsenides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heterostructures"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Magnetoresistance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oscillations"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "III-V semiconductors"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Speckles"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laser spectroscopy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Two-dimensional systems"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "72.10.Fk; 73.50.Jt; 73.43.-f; 73.40.Kp; 73.21.-b"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "A. Heterojunction; D. Quantum Hall effect; D. Disorder"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efecto aleatorio"
+        },
+        "001B70C63: Transport électronique dans les multicouches, nanomatériaux et nanostructures / Electronic transport in multilayers, nanoscale materials and structures"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18164953"
+}

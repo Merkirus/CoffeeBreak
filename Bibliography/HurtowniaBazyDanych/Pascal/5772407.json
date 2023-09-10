@@ -1,0 +1,134 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Temperature dependence of the order parameter at the quasitricritical phase transition in ferroelectric TGSe",
+    "dc:creator": [
+        "IGLESIAS, T",
+        "FERNANDEZ DEL CASTILLO, J. R",
+        "CERECEDA, N",
+        "LIFANTE, G",
+        "PRZESLAWSKI, J",
+        "GONZALO, J. A"
+    ],
+    "dc:contributor": [
+        "PETERSSON, Jörn (Editor)",
+        "GONZALO, Julio (Editor)",
+        "KOBAYASHI, Jinzo (Editor)",
+        "LEMANOV, Vladislav (Editor)",
+        "SCHMIDT, V. Hugo (Editor)"
+    ],
+    "dc:relation": "Ferroelectrics (Print) -- Ferroelectrics (Print), CODEN FEROA8, ISSN 0015-0193, Vol. 208-09, pp. 273-278",
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Taylor and Francis",
+    "dc:format": [
+        "print",
+        "6 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Biréfringence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dépendance température"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hystérésis ferroélectrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau ferroélectrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Paramètre ordre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Point tricritique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Polarisation spontanée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transformation phase"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TGSe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Triglycine séléniate"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Birefringence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Temperature dependence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ferroelectric hysteresis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ferroelectric materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Order parameters"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tricritical point"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spontaneous polarization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phase transformations"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Histéresis ferroeléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Punto tricrítico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polarización espontánea"
+        },
+        "001B60D60F: Propriétés d'équilibre au voisinage des points critiques, exposants critiques / Equilibrium properties near critical points, critical exponents",
+        "001B60D70K: Transformations solide-solide / Solid-solid transitions",
+        "6460F:  / Equilibrium properties near critical points, critical exponents",
+        "6470K:  / Solid-solid transitions"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2300262"
+}

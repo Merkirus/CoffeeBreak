@@ -1,0 +1,97 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Un autre regard",
+    "dc:creator": "LEVI-STRAUSS, C",
+    "dc:relation": "Homme (Paris. 1961) -- Homme (Paris. 1961), ISSN 0439-4216 (126-128) , pp. 7-10",
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Ecole des hautes études en sciences sociales",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Américanisme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ethnologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Histoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Siècle 20 (fin)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Americanism"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ethnology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "History"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Century 20th (late)"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Americanismo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Etnología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Historia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Siglo 20 (fines)"
+        },
+        "533-: Amérique latine / Latin America",
+        "533-70: Ethnologie / Ethnology"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amazonie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Sud"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Amazonia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "South America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Amazonia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sudamérica"
+        }
+    ],
+    "dc:rights": [
+        "Réseau Amérique Latine (AMLAT)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6445103"
+}

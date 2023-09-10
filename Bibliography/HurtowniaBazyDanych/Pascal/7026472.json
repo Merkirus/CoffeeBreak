@@ -1,0 +1,120 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "PSO-Based Methods for Medical Image Registration and Change Assessment of Pigmented Skin",
+    "dc:creator": [
+        "KACENJAR, Steve",
+        "ZOOK, Matthew",
+        "BALINT, Michael"
+    ],
+    "dc:contributor": [
+        "Astola, Jaakko (Editor)",
+        "Egiazarian, Karen (Editor)",
+        "SPIE (Organiser of meeting)",
+        "Image processing : algorithms and systems (09 ; San francisco CA 2011)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, Vol. 7870",
+        "Image processing (algorithms and systems IX)"
+    ],
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "IS&T",
+        "SPIE"
+    ],
+    "dc:format": [
+        "print",
+        "78700C.1-78700C.15 ; 15 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Corps rigide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Imagerie biomédicale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Imagerie médicale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Peau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Topographie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement image"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Télédétection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0130C"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0705P"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4230V"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "8757"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rigid bodies"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biomedical imaging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Medical imagery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Skin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Topography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Image processing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Remote sensing"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Imaginería médica"
+        },
+        "001B00A30C: Actes de congrès / Conference proceedings",
+        "001B00G05P: Traitement image / Image processing",
+        "001B40B30V: Formation et traitement des images / Image forming and processing",
+        "002A08A: Généralités, techniques d'étude, appareils / General aspects, investigation technics, apparatus"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 24459767"
+}

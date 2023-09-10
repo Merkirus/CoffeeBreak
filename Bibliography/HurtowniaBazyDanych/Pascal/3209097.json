@@ -1,0 +1,46 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THE STEREOCHEMISTRY OF (+)-OCCIDENTALOL. FURTHER SUPPORT FOR THE REVISED STRUCTURE",
+    "dc:creator": [
+        "SUGA T",
+        "IMAMURA K",
+        "SHISHIBORI T",
+        "VON RUDLOFF E"
+    ],
+    "dc:date": "1972",
+    "dc:type": "Serial Issue",
+    "dc:language": "English",
+    "dc:format": "BULL. CHEM. SOC. JAP.; JAP.; DA. 1972; VOL. 45; NO 11; PP. 3502-3504; BIBL. 14 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "SESQUITERPENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OCCIDENTALOL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENANTIOMERE(+)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONFIGURATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE ORGANIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORGANIC CHEMISTRY"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7317018775"
+}

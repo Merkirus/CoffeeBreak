@@ -1,0 +1,198 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Glacier mass balance changes and meltwater discharge",
+    "dc:contributor": [
+        "Ginot, Patrick (Editor)",
+        "Sicart, Jean Emmanuel (Editor)",
+        "International commission of snow and ice (Organiser of meeting)",
+        "Association internationale des sciences hydrologiques (Organiser of meeting)",
+        "International Association of Hydrological Sciences. Scientific Assembly (7 ; Foz do Iguaçu 2005)"
+    ],
+    "dc:relation": "IAHS-AISH publication -- IAHS-AISH publ, CODEN IAPUEP, ISSN 0144-7815",
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Conference Proceedings"
+    ],
+    "dc:identifier": [
+        "ISBN 978-1-901502-39-8",
+        "Inist-CNRS record number 20055421"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "IAHS Press",
+    "dc:format": [
+        "print",
+        "210 p. ; Includes bibliographical references and index"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bassin versant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bilan eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bilan masse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Changement climatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eau fonte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eau souterraine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eau surface"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Glacier"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hydrologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lac"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Massif montagneux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Météorologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Précipitation atmosphérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rivière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Condition météorologique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "drainage basins"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "water balance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "mass balance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "climate change"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "meltwater"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ground water"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "surface water"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "glaciers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "hydrology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "lakes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "mountains"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "meteorology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "atmospheric precipitation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "rivers"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuenca"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Balance agua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Balance masa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agua deshielo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agua subterránea"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agua superficie"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Glaciar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lago"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Macizo montañoso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Meteorología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Precipitación atmosférica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Río"
+        },
+        "001E01N01: Hydrologie / Hydrology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

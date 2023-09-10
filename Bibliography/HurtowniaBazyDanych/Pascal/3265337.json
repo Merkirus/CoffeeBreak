@@ -1,0 +1,53 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "THIN FILM OPTICAL COMPONENTS DUPLICATION METHOD",
+    "dc:creator": "PUECH C",
+    "dc:date": "1973",
+    "dc:type": "Serial Issue",
+    "dc:language": "English",
+    "dc:format": "OPTICS COMMUNIC.; NETHERL.; DA. 1973; VOL. 7; NO 2; PP. 135-138; BIBL. 7 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "LENTILLE FRESNEL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSANT OPTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FABRICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COUCHE MINCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RESEAU DIFFRACTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOLOGRAMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DUPLICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OPTIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPTICS"
+        },
+        "001B: Physique / Physics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7313016536"
+}

@@ -1,0 +1,101 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "PERCUTANEOUS TRANSFEMORAL LUMBAR AORTOGRAPHY AS AN OUTPATIENT PROCEDURE",
+    "dc:creator": [
+        "SHAW PJ",
+        "REIDY JF",
+        "SALARI MR"
+    ],
+    "dc:date": "1983",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "BRITISH MEDICAL JOURNAL; ISSN 0007-1447; GBR; DA. 1983; VOL. 286; NO 6365; PP. 604; BIBL. 5 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ARTERIOGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AORTE ABDOMINALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VOIE PERCUTANEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CATHETERISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ARTERE FEMORALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AMBULATOIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AORTOGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ARTERE MEMBRE INFERIEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PATHOLOGIE CARDIOVASCULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARDIOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ARTERIOGRAPHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ABDOMINAL AORTA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PERCUTANEOUS ADMINISTRATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CATHETERIZATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FEMORAL ARTERY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AMBULATORY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AORTOGRAPHY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CARDIOLOGY"
+        },
+        "002B12: Cardiologie. Appareil circulatoire / Cardiology. Vascular system"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0253472"
+}

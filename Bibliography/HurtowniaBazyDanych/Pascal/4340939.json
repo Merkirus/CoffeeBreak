@@ -1,0 +1,60 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "MODELE EMPIRIQUE DE LA COUCHE ES-1 A MOYENNE LATITUDE",
+    "dc:creator": [
+        "OVEZGEL'DYEV O",
+        "MIKHAJLOVA GV"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "IZVEST. AKAD. NAUK TURKM. S.S.R., FIZ.-TEKH. KHIM. GEOL. NAUK; S.S.S.R.; DA. 1976; NO 3; PP. 65-72; ABS. TURKM. ANGL.; BIBL. 6 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "E SPORADIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REFLEXION ONDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MOYENNE LATITUDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MODELE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOPHYSIQUE EXTERNE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SPORADIC E"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REFLECTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MID LATITUDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MODELS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXTERNAL GEOPHYSICS"
+        },
+        "001E01: Sciences de la terre / Earth sciences"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7730236864"
+}

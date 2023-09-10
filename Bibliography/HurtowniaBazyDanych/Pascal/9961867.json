@@ -1,0 +1,154 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Bemessung Z-förmiger Distanzprofile bei Windsogbelastung; Design of Z-profiles in walls under wind suction; Dimensionnement de profilés en Z de distanciation dans des murs soumis à l'aspiration du vent",
+    "dc:creator": [
+        "ALBRECHT, N",
+        "PODLESCHNY, R",
+        "SAAL, H"
+    ],
+    "dc:relation": "Der Stahlbau -- Stahlbau, CODEN STAHAE, ISSN 0038-9145, Vol. 70 (12) , pp. 959-966",
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "German",
+    "dc:publisher": [
+        "Ernst",
+        "Ernst",
+        "Ernst"
+    ],
+    "dc:format": [
+        "print",
+        "4 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Action vent"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Appui"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Calcul construction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Forme en Z"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode élément fini"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Panneau sandwich"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pression négative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Profilé laminé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tôle ondulée"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wind effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Support(construction)"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Structural design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Z shape"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Building wall"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Finite element method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sandwich board"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Negative pressure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rolled structural section"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Corrugated sheet"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acción viento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Apoyo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cálculo construcción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Forma de una Z"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Muro"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método elemento finito"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Panel sandwich"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Presión negativa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Perfil laminado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Chapa ondulada"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works",
+        "001D14H02C: Structure métallique / Metal structure"
+    ],
+    "dc:rights": [
+        "Ecole Nationale des Ponts et Chaussées (ENPC)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14315355"
+}

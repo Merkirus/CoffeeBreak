@@ -1,0 +1,132 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Calorimetric measurement and modelling of the equivalent series of capacitors",
+    "dc:creator": [
+        "SEGUIN, B",
+        "GOSSE, J. P",
+        "FERRIEUX, J. P"
+    ],
+    "dc:relation": "EPJ. Applied physics (Print) -- EPJ, Appl. phys. (Print), ISSN 1286-0042, Vol. 8 (3) , pp. 275-283",
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "EDP Sciences",
+        "Springer"
+    ],
+    "dc:format": [
+        "print",
+        "12 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Calorimétrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Condensateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dissipation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dépendance fréquence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Perte diélectrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résistance série"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résonance paramagnétique électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Schéma équivalent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Calorimetry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Capacitor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dissipation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Frequency dependence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dielectric loss"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Series resistance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electron paramagnetic resonance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Equivalent circuit"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Calorimetría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Condensador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pérdida dieléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resistencia en serie"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resonancia paramagnética electrónica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Esquema equivalente"
+        },
+        "001D03F01: Interfaces / Interfaces"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1353901"
+}

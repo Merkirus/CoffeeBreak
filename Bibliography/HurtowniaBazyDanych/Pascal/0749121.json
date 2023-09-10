@@ -1,0 +1,73 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ACOUSTIC BEHAVIOR OF ECHOLOCATING ATLANTIC BOTTLENOSE DOLPHINS",
+    "dc:creator": [
+        "AU WWL",
+        "PENNER RH",
+        "KADANE J"
+    ],
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. ACOUST. SOC. AM.; ISSN 0001-4966; USA; DA. 1982; VOL. 71; NO 5; PP. 1269-1275; BIBL. 12 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CETACEA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AUDITION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MASQUAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ECHOLOCATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MAMMALIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MILIEU MARIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TURSIOPS TRUNCATUS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CETACEA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HEARING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MASKING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ECHOLOCATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MAMMALIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MARINE ENVIRONMENT"
+        },
+        "002A14: Ecologie animale, vegetale et microbienne / Animal, plant and microbial ecology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL82X0374765"
+}

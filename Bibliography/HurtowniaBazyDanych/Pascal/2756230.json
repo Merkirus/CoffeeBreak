@@ -1,0 +1,60 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SKINNER'S METHOD FOR COMPUTING BOUNDS ON DISTRIBUTIONS AND THE NUMERICAL SOLUTION OF CONTINUOUS-TIME QUEUEING PROBLEMS",
+    "dc:creator": [
+        "ACKROYD MH",
+        "KANYANGARARA R"
+    ],
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "IEEE TRANSACTIONS ON COMMUNICATIONS; ISSN 0090-6778; USA; DA. 1982; VOL. 30; NO 7; PART. 2; PP. 1746-1749; BIBL. 9 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TELETRAFIC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FILE ATTENTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "THEORIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TELECOMMUNICATIONS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TELETRAFFIC"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "QUEUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THEORY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TELECOMMUNICATIONS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONICS"
+        },
+        "001D03: Electronique / Electronics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0273880"
+}

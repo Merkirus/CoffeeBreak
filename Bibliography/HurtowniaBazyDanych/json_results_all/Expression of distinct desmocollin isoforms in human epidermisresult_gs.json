@@ -1,0 +1,36 @@
+[
+    {
+        "position": 0,
+        "title": "Expression of distinct desmocollin isoforms in human epidermis",
+        "result_id": "LbAO2_fbcJcJ",
+        "link": "https://www.sciencedirect.com/science/article/pii/S0022202X9391187R",
+        "snippet": "Previous evidence suggested the presence of two distinct desmocollin isoforms in human epidermis. These isoforms have now been distinguished at the protein level using monoclonal and polyclonal antibodies against N-terminal fragments of desmosomal glycoprotein (DG) IV/V isolated from plantar callus and antibodies against a fusion protein containing the extracellular domain of DGII/III. Immune blotting of glycoprotein fractions from whole epidermis, plantar callus, psoriatic scales and cultured keratinocytes showed that \u2026",
+        "publication_info": {
+            "summary": "IA King, A Tabiowo, P Purkis, I Leigh\u2026 - Journal of investigative \u2026, 1993 - Elsevier"
+        },
+        "resources": [
+            {
+                "title": "sciencedirect.com",
+                "file_format": "PDF",
+                "link": "https://www.sciencedirect.com/science/article/pii/S0022202X9391187R/pdf?md5=493faefc7917343158f31bf7f3b34c59&pid=1-s2.0-S0022202X9391187R-main.pdf&_valck=1"
+            }
+        ],
+        "inline_links": {
+            "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&q=LbAO2_fbcJcJ",
+            "cited_by": {
+                "total": 48,
+                "link": "https://scholar.google.com/scholar?cites=10912463754697289773&as_sdt=10005&sciodt=0,8&hl=en",
+                "cites_id": "10912463754697289773",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=10005&cites=10912463754697289773&engine=google_scholar&hl=en"
+            },
+            "related_pages_link": "https://scholar.google.com/scholar?q=related:LbAO2_fbcJcJ:scholar.google.com/&scioq=Expression+of+distinct+desmocollin+isoforms+in+human+epidermis&hl=en&as_sdt=0,8",
+            "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C8&engine=google_scholar&hl=en&q=related%3ALbAO2_fbcJcJ%3Ascholar.google.com%2F",
+            "versions": {
+                "total": 8,
+                "link": "https://scholar.google.com/scholar?cluster=10912463754697289773&hl=en&as_sdt=0,8",
+                "cluster_id": "10912463754697289773",
+                "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C8&cluster=10912463754697289773&engine=google_scholar&hl=en"
+            }
+        }
+    }
+]

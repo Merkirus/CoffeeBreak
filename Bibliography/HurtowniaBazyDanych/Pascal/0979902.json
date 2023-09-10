@@ -1,0 +1,57 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "BRILLOUIN SCATTERING, A TECHNIQUE FOR MEASURING ELASTIC PROPERTIES",
+    "dc:creator": "BASSETT WA",
+    "dc:date": "1981",
+    "dc:type": "Conference Paper",
+    "dc:language": "English",
+    "dc:format": "HIGH PRESSURE AS A REAGENT AND ON ENVIRONMENT. STATE-OF-THE-ART SYMPOSIUM. 17/1981/WASHINGTON DC; USA; WASHINGTON: AMERICAN CHEMICAL SOCIETY; DA. 1981; PP. 81-84; BIBL. 16 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DIFFUSION BRILLOUIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPRIETE ELASTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONGRES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "WASHINGTON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "1981"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE SOLIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BRILLOUIN EFFECT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELASTIC PROPERTIES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONFERENCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID PHYSICS"
+        },
+        "001B60: Etat condense: structure, proprietes mecaniques et thermiques / Condensed matter: structure, mechanical and thermal properties"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL82X0215285"
+}

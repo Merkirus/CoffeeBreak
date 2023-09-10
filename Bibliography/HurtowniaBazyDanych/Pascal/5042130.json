@@ -1,0 +1,252 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Microjet printing of high precision microlens array for packaging of fiber-optic components",
+    "dc:creator": [
+        "TING CHEN",
+        "COX, W. Royall",
+        "LENHARD, Diana",
+        "HAYES, Donald J"
+    ],
+    "dc:contributor": [
+        "Eldada, Louay A (Editor)",
+        "Heyler, Randy A (Editor)",
+        "International Society for Optical Engineering (Organiser of meeting)",
+        "Optoelectronic interconnects, integrated circuits, and packaging. Conference (San Jose CA 2002-01-22)"
+    ],
+    "dc:relation": [
+        "SPIE proceedings series -- SPIE proc. ser, pp. 136-141",
+        "Optoelectronic interconnects, integrated circuits, and packaging (San Jose CA, 22-25 January 2002)"
+    ],
+    "dc:date": "2002",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "7 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Collimation faisceau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composant optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dispositif microélectromécanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dispositif optoélectronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Distance focale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation performance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fabrication microélectronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fibre optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Impression"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interconnexion circuit intégré"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microlentille"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microoptique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optique réfractive"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optoélectronique intégrée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Packaging électronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rapport aspect"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résultat expérimental"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stabilité thermique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Beam channeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical component"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microelectromechanical device"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optoelectronic device"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Focal length"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Performance evaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microelectronic fabrication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical fiber"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Printing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Integrated circuit interconnections"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microlens"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microoptics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Refractive optics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Integrated optoelectronics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electronic packaging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aspect ratio"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental result"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermal stability"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Colimación haz"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Componente óptico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dispositivo microelectromecánico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dispositivo optoelectrónico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Distancia focal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evaluación prestación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fabricación microeléctrica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fibra óptica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Impresión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Microlente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Microóptica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Optica refractiva"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Optoelectrónica integrada"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Packaging electrónico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Relación dimensional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resultado experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estabilidad térmica"
+        },
+        "001D03D: Appareillage électronique et fabrication. Composants passifs, circuits imprimés, connectique / Electronic equipment and fabrication. Passive components, printed wiring boards, connectics",
+        "001D03G02C2: Optoélectronique intégrée. Circuits optoélectroniques / Integrated optoelectronics. Optoelectronic circuits"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14183096"
+}

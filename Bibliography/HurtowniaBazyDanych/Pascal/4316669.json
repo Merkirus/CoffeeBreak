@@ -1,0 +1,97 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "LUMINESCENCE DE MONOCRISTAUX DE CAO ET MGO DOPES PAR LE GALLIUM",
+    "dc:creator": [
+        "VALBIS YA A",
+        "LATSIS I EH",
+        "YANSON YA L"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "LATV. P.S.R. ZINAT. AKAD. VEST., FIZ. TEH. ZINAT. SER.; SUN; DA. 1980; NO 3; PP. 63-69; ABS. ENG; BIBL. 13 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MONOCRISTAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHOTOLUMINESCENCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CATHODOLUMINESCENCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DECLIN LUMINESCENCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RAYONNEMENT VISIBLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RAYONNEMENT UV"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CALCIUM OXYDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MAGNESIUM OXYDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IMPURETE GALLIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIQUE SOLIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SINGLE CRYSTAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHOTOLUMINESCENCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CATHODOLUMINESCENCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LUMINESCENCE DECAY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VISIBLE RADIATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ULTRAVIOLET RADIATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CALCIUM OXIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MAGNESIUM OXIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID PHYSICS"
+        },
+        "001B60: Etat condense: structure, proprietes mecaniques et thermiques / Condensed matter: structure, mechanical and thermal properties"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8130003643"
+}

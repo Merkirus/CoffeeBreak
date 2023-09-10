@@ -1,0 +1,108 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "LES VASCULARITES. ETUDE PATHOLOGIQUE",
+    "dc:creator": [
+        "DEMINIERE C",
+        "VITAL C"
+    ],
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "BORDEAUX MED.; ISSN 0021-7867; FRA; DA. 1982; VOL. 15; NO 15; PP. 751-756; ABS. ENG; BIBL. 23 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "VASCULARITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANATOMOPATHOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ALLERGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VASCULARITE NECROSANTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VASCULARITE GRANULOMATEUSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CLASSIFICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PEAU PATHOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VAISSEAU SANGUIN PEAU PATHOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MALADIE SYSTEME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HOMME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DERMATOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VASCULITIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PATHOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ALLERGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NECROTIZING VASCULITIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GRANULOMATOUS VASCULITIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CLASSIFICATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SKIN DISEASE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VASCULAR DISORDERS OF THE SKIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SYSTEMIC DISEASE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HUMAN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DERMATOLOGY"
+        },
+        "002B08: Dermatologie / Dermatology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0017512"
+}

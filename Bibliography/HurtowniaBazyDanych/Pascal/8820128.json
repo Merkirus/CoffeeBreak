@@ -1,0 +1,72 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Sacrements et droit: une relation qui engage; Sacraments and Law: a Relation which Commits",
+    "dc:creator": "STEVENS, P",
+    "dc:relation": "Questions liturgiques (1971) -- Quest. liturg. (1971) -- Studies in liturgy, ISSN 0774-5524, Vol. 76 (1) , pp. 20-41",
+    "dc:date": "1995",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Peeters",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Code 1917"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Code 1983"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Droit canon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eglise latine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Eglise uniate"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sacrement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Code 1917"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Code 1983"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Canon law"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Latin church"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Uniat church"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sacrament"
+        },
+        "527-: Histoire et sciences des religions / History and sciences of religions",
+        "527-865: Christianisme / Christianity",
+        "527-1372: Droit / Law"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3737077"
+}

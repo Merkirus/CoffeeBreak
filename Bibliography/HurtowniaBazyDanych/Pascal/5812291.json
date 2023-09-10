@@ -1,0 +1,379 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Biogeochemical processes in a clay formation in situ experiment: Part B: Results from overcoring and evidence of strong buffering by the rock formation",
+    "dc:creator": [
+        "KOROLEVA, M",
+        "LEROUGE, C",
+        "MÄDER, U",
+        "CLARET, F",
+        "GAUCHER, E"
+    ],
+    "dc:contributor": "PETIT, Jean-Claude (Editor)",
+    "dc:relation": "Applied geochemistry -- Appl. geochem, CODEN APPGEY, ISSN 0883-2927, Vol. 26 (6) , pp. 954-966",
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "13 p. ; 1/2 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche clastique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Roche sédimentaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Alcalinité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Argile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Capacité échange cation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Carbonate"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Condition aux limites"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conservation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Densité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffusion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dissolution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "In situ"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Isotope stable"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lessivat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microscopie électronique balayage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Minéralogie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PH"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Proton"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Précipitation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Préparation échantillon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Puits forage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réduction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sulfure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Teneur eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traceur"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "clastic rocks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "sedimentary rocks"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "alkalinity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "clay"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "cation exchange capacity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "carbonates"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "cations"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "boundary conditions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "conservation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "density"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "diffusion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "dissolution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "experimental studies"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "in situ"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "stable isotopes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "leachate"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "scanning electron microscopy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "mineralogy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "pH"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "protons"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "precipitation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "sample preparation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "boreholes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "reduction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "sulfides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "water content"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "tracers"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Roca clástica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Roca sedimentaria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alcalinidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arcilla"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Capacidad intercambio catión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carbonato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Condiciones límites"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conservación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Densidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Difusión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Disolución"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Isótopo estable"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mineralogía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "pH"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Protón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Precipitación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Preparación muestreo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sulfuro"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contenido en agua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trazador"
+        },
+        "001E01B: Géochimie / Geochemistry",
+        "001E01O04: Pollution, géologie de l'environnement / Pollution, environment geology"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe Centrale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Jura Chaîne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Suisse"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Jura Mountains"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Switzerland"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa central"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Suiza"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 24252696"
+}

@@ -1,0 +1,93 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "NEWER DEVELOPMENTS IN CHLORAMPHENICOL METABOLISM.; NOUVEAUX DEVELOPPEMENTS SUR LE METABOLISME DU CHLORAMPHENICOL",
+    "dc:creator": [
+        "BONANOMI L",
+        "DELLA BELLA D",
+        "GAZZANIGA A"
+    ],
+    "dc:date": "1975",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "PHARMACOL. RES. COMMUNIC.; G.B.; DA. 1975; VOL. 7; NO 5; PP. 437-441; BIBL. 12 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ANTIBIOTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VOIE ORALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE MARQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RAT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TAUX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SANG"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHARMACOCINETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DOSAGE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHROMATOGRAPHIE PHASE GAZEUSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE RADIOCHIMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METABOLITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RODENTIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LIQUIDE BIOLOGIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METABOLISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHLORAMPHENICOL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METABOLISME MEDICAMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHARMACOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHARMACOLOGY"
+        },
+        "002B02: Pharmacologie. Traitements medicamenteux / Pharmacology. Drug treatments"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7650099456"
+}

@@ -1,0 +1,156 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Current status and issues of low emission vehicles in Japan",
+    "dc:creator": [
+        "ISHITANI, H",
+        "BABA, Y",
+        "TSUNODA, Y"
+    ],
+    "dc:contributor": [
+        "Agence de l'environnement et de la maîtrise de l'énergie (Organiser of meeting)",
+        "Agency of Industrial Science and Technology",
+        "Japanese-French expert meeting on energy and environmental technologies (7 ; Tokyo 1993-06-01)"
+    ],
+    "dc:relation": "Japanese-French expert meeting on energy and environmental technologies, Tokyo, May 31th and June 1st 1993",
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:identifier": [
+        "REPORTNUMBER ADEME - 93-09-DOC",
+        "Inist-CNRS record number 4277189"
+    ],
+    "dc:language": "English",
+    "dc:format": "print",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Alcool"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Combustible remplacement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Coût"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gaz naturel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hydrogène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lutte antipollution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pollution air"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Véhicule électrique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Alcohol"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Alternative fuel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Costs"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Natural gas"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hydrogen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pollution control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Air pollution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electric vehicle"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alcohol"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Combustible reemplazamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Costo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Gas natural"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hidrógeno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lucha anticontaminación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contaminación aire"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vehículo eléctrico"
+        },
+        "001D06: Energie / Energy",
+        "001D06D11E1: Généralités / General"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Asie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Japon"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Japan"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Japón"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

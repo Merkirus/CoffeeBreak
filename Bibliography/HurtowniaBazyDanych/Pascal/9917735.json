@@ -1,0 +1,318 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Ischemia reperfusion-induced dynamic changes of protein tyrosine phosphorylation during human lung transplantation",
+    "dc:creator": [
+        "KESHAVJEE, S",
+        "ZHANG, X.-M",
+        "FISCHER, S",
+        "MINGYAO LIU"
+    ],
+    "dc:relation": "Transplantation -- Transplantation, CODEN TRPLAU, ISSN 0041-1337, Vol. 70 (3) , pp. 525-531",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Lippincott",
+    "dc:format": [
+        "print",
+        "44 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil circulatoire pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chirurgie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enzyme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Esterases"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hydrolases"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phosphoric monoester hydrolases"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transferases"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transplantation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Activité enzymatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aminoacide"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Apoptose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evolution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exploration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homotransplantation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ischémie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Peropératoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Phosphorylation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Poumon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Protein-tyrosine kinase"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Protein-tyrosine-phosphatase"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Reperfusion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transduction signal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tyrosine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cardiovascular disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surgery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Enzyme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Esterases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hydrolases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phosphoric monoester hydrolases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transferases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transplantation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Enzymatic activity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aminoacid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Apoptosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Evolution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Exploration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Homotransplantation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ischemia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Intraoperative"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Phosphorylation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lung"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Protein-tyrosine kinase"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Protein-tyrosine-phosphatase"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reperfusion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Signal transduction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tyrosine"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato circulatorio patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cirugía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enzima"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Esterases"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hydrolases"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Phosphoric monoester hydrolases"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transferases"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trasplantación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Actividad enzimática"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aminoácido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Apoptosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evolución"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Exploración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Homotrasplante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Isquemia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Peroperatorio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fosforilación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pulmón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Protein-tyrosine kinase"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Protein-tyrosine-phosphatase"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reperfusión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transducción señal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tirosina"
+        },
+        "002B25D: Chirurgie de l'appareil respiratoire / Surgery of the respiratory system"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1516885"
+}

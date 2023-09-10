@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ELASTIC-PLASTIC ANALYSIS OF THE MAXIMUM POSTULATED FLAW IN THE BELTLINE REGION OF A REACTOR VESSEL; CALCUL ELASTOPLASTIQUE DE LA FISSURE MAXIMALE ADMISE DANS LA REGION DE LA CEINTURE DE RENFORCEMENT D'UNE CUVE DE REACTEUR",
+    "dc:creator": "DELORENZI HG",
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "JOURNAL OF PRESSURE VESSEL TECHNOLOGY; ISSN 0094-9930; USA; DA. 1982; VOL. 104; NO 4; PP. 278-286; BIBL. 16 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "RUPTURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROPAGATION FISSURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MODELE MATHEMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METHODE ELEMENT FINI"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FACTEUR KIC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DEFORMATION PLASTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRESSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ACIERA MN MO NI C"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ASTMA533"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FRACTURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CRACK PROPAGATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MATHEMATICAL MODEL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FINITE ELEMENT METHODE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "KIC FACTOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PLASTIC DEFORMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PRESSURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METALLURGY"
+        },
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8300293612"
+}

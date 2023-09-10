@@ -1,0 +1,481 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Sexualité et procréation confrontées au sida dans les pays du Sud",
+    "dc:contributor": [
+        "FERRY, B (Advisor (for a thesis or dissertation))",
+        "DESGREES DU LOU, A (Advisor (for a thesis or dissertation))",
+        "La santé de la reproduction confrontée au sida : enjeux sociaux et comportementaux dans les pays du Sud (2004-11-22)"
+    ],
+    "dc:creator": [
+        "ABO, Y",
+        "GOURVELLEC, G",
+        "HUET, C",
+        "COULIBALY, A",
+        "KONATE, S",
+        "DABIS, F",
+        "SALAMON, R",
+        "SOBNGWI, J",
+        "NDIAYE, A",
+        "PUREN, A",
+        "BAJOS, N",
+        "TALJAARD, D",
+        "GUMEDE, G",
+        "NKOSI, Z",
+        "POUPARD, M",
+        "MALES, S",
+        "LAGARDE, E",
+        "AUVERT, B",
+        "LEROY, V",
+        "LALLEMANT, C",
+        "BRIAND, N",
+        "LALOU, R",
+        "LE COEUR, S",
+        "LALLEMANT, M",
+        "TRAORE, A.T",
+        "BECQUET, R",
+        "GRENIER-TORRES, C",
+        "HANCART PETITET, P",
+        "DESCHAMPS M-M-H",
+        "COULIBALY, M",
+        "NOBA, V",
+        "REY, J.L",
+        "ROGIER, C",
+        "BROU, H",
+        "AGBO, H",
+        "DESCLAUX, A",
+        "CROCHET, S",
+        "ALFIERI, C",
+        "THA",
+        "THAIRU, L.N",
+        "PELTO, G.H",
+        "ROLLINS, N.C",
+        "BLAND, R.R",
+        "PURUENHCE, M.F",
+        "NTSHANGASE, N",
+        "ENEL, C",
+        "QUERRE, M",
+        "MINGA, A",
+        "DOHOUN, L",
+        "Centre français sur la Population et le Développement. (C.E.P.E.D.). Nogent-sur-Marne"
+    ],
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Conference Proceedings"
+    ],
+    "dc:identifier": [
+        "ISBN 2-877-62150-2",
+        "Inist-CNRS record number 18222050"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "CEPED",
+    "dc:format": [
+        "print",
+        "273 p. ; 360 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lentivirus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Retroviridae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Virose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Allaitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Comportement sexuel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Condom"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contraception"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dépistage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Désir"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enfant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Femme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Malade"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pays en développement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prénatal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prévention"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SIDA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Surveillance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Utilisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Virus immunodéficience humaine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lentivirus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Retroviridae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Viral disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Breast feeding"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sexual behavior"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Condom"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Contraception"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Medical screening"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Desire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Child"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Woman"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Patient"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Developing countries"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prenatal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prevention"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AIDS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surveillance"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Use"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human immunodeficiency virus"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Infección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lentivirus"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Retroviridae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Virosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lactancia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conducta sexual"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Condón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anticoncepción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Descubrimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Deseo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Niño"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mujer"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enfermo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Países en desarrollo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prenatal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prevención"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "SIDA"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vigilancia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Uso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Human immunodeficiency virus"
+        },
+        "002B30A03C: Divers / Miscellaneous"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Afrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique Centrale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Antilles"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Asie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Afrique australe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Congo Brazzaville"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Côte d'Ivoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Haiti"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Inde"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thaïlande"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Africa"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Central America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "West Indies"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Southern Africa"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Congo"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ivory Coast"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Haiti"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "India"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thailand"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Africa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America central"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antillas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Asia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Africa austral"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Congo Brazzaville"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Costa de Marfil"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Haiti"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "India"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tailandia"
+        }
+    ],
+    "dc:rights": [
+        "Banque de données en santé publique - Ecole des hautes études en santé publique (BDSP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

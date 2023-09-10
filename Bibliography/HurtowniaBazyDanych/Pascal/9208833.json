@@ -1,0 +1,265 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Rasch analysis supports the use of the Depression, Anxiety, and Stress Scales to measure mood in groups but not in individuals with chronic low back pain",
+    "dc:creator": [
+        "PARKITNY, Luke",
+        "MCAULEY, James Henry",
+        "WALTON, David",
+        "PENA COSTA, Leonardo Oliveira",
+        "REFSHAUGE, Kathryn M",
+        "WAND, Benedict Martin",
+        "DI PIETROA, Flavia",
+        "LORIMER MOSELEYA, G"
+    ],
+    "dc:relation": "Journal of clinical epidemiology -- J. clin. epidemiol, ISSN 0895-4356, Vol. 65 (2) , pp. 189-198",
+    "dc:date": "2012",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "10 p. ; 57 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie du rachis"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie du système ostéoarticulaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rachialgie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble de l'humeur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Angoisse anxiété"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chronique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Douleur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etat dépressif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Fiabilité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Humeur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lombalgie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Questionnaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rachis lombaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stress"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble anxieux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Utilisation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Spine disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diseases of the osteoarticular system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rachialgia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mood disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Anxiety"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chronic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Depression"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reliability"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mood"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Low back pain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Questionnaire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lumbar spine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stress"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Anxiety disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Use"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Clinimetric"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Instrument"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mood"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pain"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Questionnaire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Reliability"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Raquis patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema osteoarticular patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Raquialgia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno humor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Angustia ansiedad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Crónico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dolor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estado depresivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Fiabilidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Humor"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lumbalgia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuestionario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Raquis lumbar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estrés"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno ansiedad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Uso"
+        },
+        "002B15F: Pathologie du rachis / Diseases of the spine",
+        "002B18C07A: Etat dépressif / Depression",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry",
+        "770-D03G01: Etat dépressif / Depression"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 25572707"
+}

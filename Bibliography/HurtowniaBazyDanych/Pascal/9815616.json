@@ -1,0 +1,184 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Allogeneic hematopoietic stem cell transplantation: current issues and future prospects : Médecine transfusionnelle (1re partie); Transfusion medicine (first part)",
+    "dc:creator": [
+        "SOCIE, G",
+        "GLUCKMAN, E"
+    ],
+    "dc:relation": "Annales de médecine interne (Paris) -- Ann. méd. interne (Paris), CODEN AMDIBO, ISSN 0003-410X, Vol. 150 (8) , pp. 642-655",
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Masson",
+    "dc:format": [
+        "print",
+        "128 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Hémopathie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunopathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aplasie myélosanguine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Article synthèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cellule hématopoïétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cellule souche"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Complication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Greffe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hémopathie maligne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Indication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Maladie greffon hôte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hemopathy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immunopathology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bone marrow aplasia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Review"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hematopoietic cell"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stem cell"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Complication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Graft"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Malignant hemopathy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Indication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Graft versus host reaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hemopatía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunopatología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aplasia medular"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Artículo síntesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Célula hematopoyética"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Célula primitiva"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Complicación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Injerto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hemopatía maligna"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Indicación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enfermedad injerto huesped"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        "002B27D02: Greffes de moelle osseuse, cellules souches. Réaction greffon contre l'hôte / Bone marrow, stem cells transplantation. Graft versus host reaction"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1232191"
+}

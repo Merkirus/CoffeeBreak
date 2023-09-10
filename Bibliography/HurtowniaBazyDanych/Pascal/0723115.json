@@ -1,0 +1,61 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A TENTATIVE EXPLANATION OF THE COLOUR GRADIENTS IN THE CORES OF GLOBULAR CLUSTERS",
+    "dc:creator": [
+        "ANGELETTI L",
+        "CAPUZZO DOLCETTA R",
+        "GIANNONE P"
+    ],
+    "dc:date": "1981",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "ASTRON. ASTROPHYS. (BERL.); ISSN 0004-6361; DEU; DA. 1981; VOL. 98; NO 2; PP. 344-351; BIBL. 43 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "AMAS GLOBULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COULEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GRADIENT RADIAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTERPRETATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MODELE DYNAMIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GLOBULAR CLUSTER"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COLOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RADIAL GRADIENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTERPRETATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DYNAMIC MODEL"
+        },
+        "001E03: Astronomie / Astronomy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8130443152"
+}

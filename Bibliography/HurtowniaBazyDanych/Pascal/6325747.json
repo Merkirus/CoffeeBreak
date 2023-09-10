@@ -1,0 +1,44 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Les juristes à votre secours",
+    "dc:creator": "DAVER, Corinne",
+    "dc:contributor": [
+        "Club de réflexion des cabinets et groupes d'hépato-gastroentérologie (Organiser of meeting)",
+        "Congrès du CREGG (25 ; Reims 2006-09-29)"
+    ],
+    "dc:relation": [
+        "Acta endoscopica. Supplément -- Acta endosc., Suppl, ISSN 1242-1383, Vol. 36 (3) , pp. 419-422",
+        "CREGG, 25e congrès : «Les menaces qui vous guettent. Comment les éviter ?», Reims, 29 septembre 2006"
+    ],
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "French",
+    "dc:publisher": "Endoscopica",
+    "dc:format": [
+        "print",
+        "4 p. ; NS"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Endoscopie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Endoscopy"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Endoscopía"
+        },
+        "002B24E08: Divers. Technologie / Miscellaneous. Technology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 18336790"
+}

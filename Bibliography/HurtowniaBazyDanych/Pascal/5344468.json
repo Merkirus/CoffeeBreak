@@ -1,0 +1,195 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Simulation of contact-induced fracture",
+    "dc:creator": "BUSH, M. B",
+    "dc:contributor": "ALIABADI, M. H (Editor)",
+    "dc:relation": "Engineering analysis with boundary elements -- Eng. anal. bound. elem, ISSN 0955-7997, Vol. 23 (1) , pp. 59-66",
+    "dc:date": "1999",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "14 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Charge composée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contact mécanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Céramique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Endommagement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Indentation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau fragile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode numérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode élément frontière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propagation fissure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Relaxation énergie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Revêtement céramique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rupture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trajectoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau monolithique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Combined load"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mechanical contact"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ceramic materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Damaging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Indentation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Brittle material"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Numerical method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Boundary element method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Crack propagation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Energy relaxation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ceramic coating"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Rupture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Trajectory"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Monolithic material"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carga compuesta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contacto mecánico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cerámica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Deterioración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Indentación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Material frágil"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método numérico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método elemento frontera"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propagación fisura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Relajación energía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Revestimiento cerámico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ruptura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trayectoria"
+        },
+        "001B00B70P: Méthodes des intégrales frontières / Boundary-integral methods",
+        "001B40F30N: Mécanique de la rupture (fissure, fatigue, endommagement...) / Fracture mechanics (crack, fatigue, damage...)",
+        "001B40F30P: Contact mécanique (frottement...) / Mechanical contact (friction...)",
+        "0270P:  / Boundary-integral methods",
+        "4650:  / Fracture mechanics, fatigue and cracks",
+        "4655:  / Tribology and mechanical contacts"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1695875"
+}

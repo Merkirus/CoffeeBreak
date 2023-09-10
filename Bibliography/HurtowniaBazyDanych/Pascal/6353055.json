@@ -1,0 +1,248 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Concurrent carboplatin and paclitaxel with pelvic radiation therapy in the primary treatment of cervical cancer",
+    "dc:creator": [
+        "HIGGINS, Robert",
+        "BUSSEY, Mary",
+        "NAUMANN, Wendel",
+        "HALL, James",
+        "TAIT, David",
+        "HAAKE, Michael"
+    ],
+    "dc:contributor": "Annual Meeting of the South Atlantic Association of Obstetricians and Gynecologist (69 ; Hot Springs, VA 2007-01-27)",
+    "dc:relation": [
+        "American journal of obstetrics and gynecology -- Am. j. obstet. gynecol, CODEN AJOGAH, ISSN 0002-9378, Vol. 197 (2) , pp. 205-206",
+        "Annual Meeting of the South Atlantic Association of Obstetricians and Gynecologist (69 ; Hot Springs, VA 2007-01-27)"
+    ],
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "2 p."
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Antimitotique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cancer"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dérivé du taxane"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie du col de l'utérus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Platine II Complexe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tumeur maligne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Anticancéreux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cancer du col de l'utérus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Carboplatine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cavité pelvienne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gynécologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Obstétrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Paclitaxel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie de l'appareil génital femelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Radiothérapie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Simultané"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cancer primitif"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antimitotic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cancer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Taxane derivatives"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Uterine cervix diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Platinum II Complexes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Malignant tumor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antineoplastic agent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cervical cancer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Carboplatin"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pelvic cavity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gynecology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Obstetrics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Paclitaxel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Female genital diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiotherapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Concurrent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Primary cancer"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antimitótico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cáncer"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Taxane derivado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuello útero patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Platino II Complejo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tumor maligno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Anticanceroso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cáncer de cuello del útero"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carboplatino"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cavidad pelviana"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ginecología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Obstétrico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Paclitaxel"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato genital hembra patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radioterapia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Simultáneo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        "002B20: Gynecologie. Andrologie. Obstetrique / Gynecology. Andrology. Obstetrics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 19891634"
+}

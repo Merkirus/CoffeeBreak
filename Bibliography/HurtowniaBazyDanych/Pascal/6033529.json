@@ -1,0 +1,287 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Applications and science of computational intelligence IV (Orlando FL, 17-18 April 2001)",
+    "dc:contributor": [
+        "Priddy, Kevin L (Editor)",
+        "Keller, Paul E (Editor)",
+        "Angeline, Peter J (Editor)",
+        "International Society for Optical Engineering (Organiser of meeting)",
+        "Applications and science of computational intelligence. Conference (4 ; Orlando FL 2001-04-17)"
+    ],
+    "dc:relation": "SPIE proceedings series -- SPIE proc. ser",
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Conference Proceedings"
+    ],
+    "dc:identifier": [
+        "ISBN 0-8194-4085-X",
+        "Inist-CNRS record number 44535"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "IX, 306 p ; dissem"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Architecture réseau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Autoorganisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Calcul parallèle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Classification"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Commande non linéaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Compression donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Culture tissu"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Détection cible"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude comparative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Internet"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Manipulateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle Hopfield"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Multimédia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Reconnaissance automatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Robot mobile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Robotique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau neuronal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système non linéaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Topologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement image"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Validation croisée"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Network architecture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Self organization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Parallel computation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Classification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Non linear control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Data compression"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tissue culture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Target detection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Internet"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Manipulator"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hopfield model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Multimedia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Automatic recognition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Moving robot"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Robotics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neural network"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Non linear system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Topology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Image processing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cross validation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Arquitectura red"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Autoorganización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cálculo paralelo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Clasificación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Control no lineal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Compresión dato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cultivo tejido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Detección blanco"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio comparativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Internet"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Manipulador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo Hopfield"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Multimedia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reconocimiento automático"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Robot móvil"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Robótica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red neuronal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema no lineal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Topología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Procesamiento imagen"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Validación cruzada"
+        },
+        "001D02D11: Robotique / Robotics",
+        "001D04A04A2: Détection, estimation, filtrage, égalisation, prédiction / Detection, estimation, filtering, equalization, prediction"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

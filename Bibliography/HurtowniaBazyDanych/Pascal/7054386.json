@@ -1,0 +1,118 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Quantifying and pinpointing sources of noise in optical tweezers experiments",
+    "dc:creator": [
+        "CZERWINSKI, Fabian",
+        "RICHARDSON, Andrew C",
+        "SELHUBER-UNKEL, Christine",
+        "ODDERSHEDE, Lene B"
+    ],
+    "dc:contributor": [
+        "Dholakia, Kishan (Editor)",
+        "Spalding, Gabriel C (Editor)",
+        "SPIE (Organiser of meeting)",
+        "Elliot Scientific (Organiser of meeting)",
+        "Optical trapping and optical micromanipulation (06 ; San Diego CA 2009)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, Vol. 7400",
+        "Optical trapping and optical micromanipulation VI (2-6 August 2009, San Diego, California, United States) -- 0Optical trapping and optical micromanipulation 6 -- 1Optical trapping and optical micromanipulation six"
+    ],
+    "dc:date": "2009",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "740004.1-740004.9 ; 23 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse variance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Application laser"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Echantillonnage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etalonnage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode mesure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pince optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Piégeage optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0130C"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4262"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "8780"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Variance analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laser beam applications"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sampling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Calibration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Measuring methods"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical tweezers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical trapping"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis variancia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Muestreo"
+        },
+        "001B00A30C: Actes de congrès / Conference proceedings",
+        "001B40B62: Applications biologiques et médicales / Biological and medical applications",
+        "002A01C: Appareillage. Matériaux. Réactifs. Organisation du laboratoire de recherche / Instrumentation. Materials. Reagents. Research laboratory organization"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 22179533"
+}

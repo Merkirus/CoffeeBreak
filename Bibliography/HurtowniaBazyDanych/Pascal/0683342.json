@@ -1,0 +1,92 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A PULSED NMR MEASUREMENT OF THE OFF-RESONANCE NUCLEAR SPIN-LATTICE RELAXATION TIME",
+    "dc:creator": [
+        "CORNELL BA",
+        "POPE JM"
+    ],
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. MAGNET. RESON.; USA; DA. 1978; VOL. 32; NO 3; PP. 463-464; BIBL. 2 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DYNAMIQUE MOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETAT LIQUIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MOUVEMENT MOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPECTROMETRIE RMN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RELAXATION SPIN RESEAU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REFERENTIEL TOURNANT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IMPULSION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INTERPRETATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CRISTALLOGRAPHIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOLECULAR DYNAMICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIQUID STATE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOLECULAR MOTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "NMR SPECTROMETRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SPIN LATTICE RELAXATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ROTATING FRAME"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IMPULSE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTERPRETATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CRISTALLOGRAPHY"
+        },
+        "001B60A: Structure des liquides et des solides; cristallographie / Structure of solids and liquids; crystallography"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7940340477"
+}

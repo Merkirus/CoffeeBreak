@@ -1,0 +1,152 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Void swelling in reduced activation ferritic/martensitic steels under ion-beam irradiation to high fluences",
+    "dc:creator": [
+        "OGIWARA, H",
+        "SAKASEGAWA, H",
+        "TANIGAWA, H",
+        "ANDO, M",
+        "KATOH, Y",
+        "KOHYAMA, A"
+    ],
+    "dc:contributor": [
+        "KLEYKAMP, H (Editor)",
+        "LINKE, J (Editor)",
+        "LUCAS, G. E (Editor)",
+        "SINGH, B. N (Editor)",
+        "Forschungszentrum Karlsruhe-EURATOM Fusion Association (Funder/Sponsor)",
+        "ICFRM-10 International Conference on Fusion Reactor Materials (10 ; Baden-Baden 2001-10-14)"
+    ],
+    "dc:relation": [
+        "Journal of nuclear materials -- J. nucl. mater, CODEN JNUMAM, ISSN 0022-3115, Vol. 307-11, pp. 299-303",
+        "Fusion Reactor Materials X. Part A"
+    ],
+    "dc:date": "2002",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "5 p. ; 9 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Acier ferrito martensitique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enceinte recyclage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Faisceau ionique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gonflement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Irradiation ion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microstructure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réacteur fusion nucléaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réacteur nucléaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tungstène alliage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ferritic martensitic steel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Blanket"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ion beam"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Swelling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ion irradiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microstructure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nuclear fusion reactor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nuclear reactor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tungsten alloy"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acero ferrito martensítico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Recinto reciclaje"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Haz iónico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inflamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Irradiación ión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Microestructura"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reactor fusión nuclear"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reactor nuclear"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Wolframio aleación"
+        },
+        "001D06: Energie / Energy",
+        "001D06D04E: Centrales nucléaires à fusion / Controled nuclear fusion plants"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14451807"
+}

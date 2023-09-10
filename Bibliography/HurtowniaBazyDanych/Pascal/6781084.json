@@ -1,0 +1,218 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "MOVPE growth and characterization of AlxGa1-xN",
+    "dc:creator": [
+        "RUFFENACH-CLUR, S",
+        "BRIOT, O",
+        "ROUVIERE, J. L",
+        "GIL, B",
+        "AULOMBARD, R. L"
+    ],
+    "dc:contributor": [
+        "MEYER, B. K (Editor)",
+        "European Materials Research Society (Funder/Sponsor)",
+        "The Council of Europe (Funder/Sponsor)",
+        "The Commission of European Communities (Funder/Sponsor)",
+        "European Materials Research Society 1997 Spring Meeting, Symposium L: III-V Nitrides Semiconductors and Ceramics: from Material Growth to Device Applications (Strasbourg 1997-06-16)"
+    ],
+    "dc:relation": [
+        "Materials science & engineering. B, Solid-state materials for advanced technology -- Mater. sci. eng., B, Solid-state mater. adv. technol, ISSN 0921-5107, Vol. 50 (1-3) , pp. 219-222",
+        "European Materials Research Society 1997 Spring Meeting, Symposium L: III-V Nitrides Semiconductors and Ceramics: from Material Growth to Device Applications"
+    ],
+    "dc:date": "1997",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "16 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé minéral"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aluminium nitrure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Basse pression"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composition chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Composé ternaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Couche épitaxique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffraction RX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffraction électron"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Défaut cristallin"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gallium nitrure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Microstructure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mode opératoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modèle cinétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode MOVPE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Précurseur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Relation orientation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SEM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TEM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AlxGa1-xN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ga Al N"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inorganic compounds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aluminium nitrides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Low pressure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chemical composition"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ternary compounds"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Epitaxial layers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "XRD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electron diffraction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Crystal defects"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gallium nitrides"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microstructure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Operating mode"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Kinetic model"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MOVPE method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Precursor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Orientation relation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SEM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TEM"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método operatorio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelo cinético"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método MOVPE"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Relación orientación"
+        },
+        "001B80A15K: Epitaxie en phase vapeur; croissance en phase vapeur / Vapor phase epitaxy; growth from vapor phase",
+        "8115K:  / Vapor phase epitaxy; growth from vapor phase"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2261259"
+}

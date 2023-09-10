@@ -1,0 +1,86 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "SCP PRODUCTION BY CHAETOMIUM CELLULOLYTICUM, A NEW THERMOTOLERANT CELLULOLYTIC FUNGUS.",
+    "dc:creator": [
+        "MOO YOUNG M",
+        "CHAHAL DS",
+        "SWAN JE",
+        "ROBINSON CW"
+    ],
+    "dc:date": "1977",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "BIOTECHNOL. AND BIOENGNG; U.S.A.; DA. 1977; VOL. 19; NO 4; PP. 527-538; BIBL. 30 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ALIMENT MICROBIEN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CELLULOLYSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FUNGI"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DECHET SOLIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BOIS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PRODUCTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRICHODERMA VIRIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHAETOMIUM CELLULOLYTICUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROBIOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CELLULOLYSIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLID WASTE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WOOD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PRODUCTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TRICHODERMA VIRIDE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CHAETOMIUM CELLULOLYTICUM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROBIOLOGY"
+        },
+        "002B05: Pathologie infectieuse / Infectious diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7750298615"
+}

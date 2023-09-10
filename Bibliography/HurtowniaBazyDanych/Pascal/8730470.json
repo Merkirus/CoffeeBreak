@@ -1,0 +1,92 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Neuere Tendenzen der Agglomeration Budapest; Les nouvelles tendances de l'agglomération de Budapest",
+    "dc:creator": "SARFALVI, B",
+    "dc:relation": "Geographische Rundschau -- Geogr. Rundsch, ISSN 0016-7460, Vol. 43 (12) , pp. 724-730",
+    "dc:date": "1991",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "German",
+    "dc:publisher": "Westermann",
+    "dc:format": [
+        "print",
+        "15 réf"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Aménagement urbain"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Budapest"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Décentralisation industrielle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Grande agglomération"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Industrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pollution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Urban Management"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Budapest"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Industrial Decentralization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Large Conurbation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Industry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pollution"
+        },
+        "528-37: Structure administrative / Administrative structures",
+        "528-137: Aménagement urbain (dont : villes moyennes) / Urban management (medium-sized towns)"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hongrie"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hungary"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6152048"
+}

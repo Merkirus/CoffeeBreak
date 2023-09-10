@@ -1,0 +1,82 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Le statut du patrimoine culturel en droit international : contribution à l'étude de la notion de patrimoine culturel de l'humanité",
+    "dc:creator": "BOUCETTA, A",
+    "dc:contributor": [
+        "FLORY, M (Advisor (for a thesis or dissertation))",
+        "Université de droit, d'économie et des sciences d'Aix-Marseille 3. Faculté de droit et de science politique. Aix-en-Provence (Degree-grantor)"
+    ],
+    "dc:date": "sd",
+    "dc:type": [
+        "Text",
+        "Thesis"
+    ],
+    "dc:language": "French",
+    "dc:format": [
+        "print",
+        "559 p. ; 15 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Culture"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Droit et administration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Droit international"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "International"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Patrimoine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Culture"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Law and Administration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "International"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Patrimony"
+        },
+        "528-37: Structure administrative / Administrative structures",
+        "528-163: Culture (dont : archives) / Culture (included : archives)"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "France"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "France"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6564147"
+}

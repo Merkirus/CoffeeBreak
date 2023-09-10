@@ -1,0 +1,65 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A NEW REAGENT FOR POLYPEPTIDE SYNTHESIS: MU -OXO-BIS-(TRIS-(DIMETHYLAMINO)-PHOSPHONIUM)-BIS-TETRAFLUOROBORATE",
+    "dc:creator": [
+        "BATES AJ",
+        "GALPIN IJ",
+        "HALLETT A",
+        "HUDSON D",
+        "KENNER GW",
+        "RAMAGE R",
+        "SHEPPARD RC"
+    ],
+    "dc:date": "1975",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "HELV. CHIM. ACTA; SUISSE; DA. 1975; VOL. 58; NO 3; PP. 688-696; BIBL. 13 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PHOSPHORE COMPOSE ORGANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PEPTIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SYNTHESE PEPTIDIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AGENT SYNTHESE PEPTIDIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CATION ORGANIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PREPARATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OXY BIS-PHOSPHONIUM COMPOSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "(HEXAKIS-DIMETHYLAMINO)"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIMIE ORGANIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORGANIC CHEMISTRY"
+        },
+        "001C01: Chimie generale et chimie physique / General and physical chemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7517031048"
+}

@@ -1,0 +1,113 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "GLEICHSTROMLINEARMOTOR; LE MOTEUR LINEAIRE A COURANT CONTINU",
+    "dc:creator": "REIMER H",
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "ELEKTRIE; DDR; DA. 1978; VOL. 32; NO 11; PP. 582-585; BIBL. 6 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MOTEUR ELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MACHINE LINEAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MACHINE COURANT CONTINU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ANALYSE FONCTIONNEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONSTRUCTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CIRCUIT MAGNETIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENROULEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMMUTATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REFROIDISSEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COURANT FOUCAULT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROMAGNETISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROTECHNIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRIC MOTOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LINEAR MACHINE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIRECT CURRENT MACHINE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPERATION STUDY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONSTRUCTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MAGNETIC CIRCUIT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WINDING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SWITCHING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COOLING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EDDY CURRENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROMAGNETISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRICAL ENGINEERING"
+        },
+        "001D05: Electrotechnique. Electroenergetique / Electrical engineering. Electrical power engineering"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8030124647"
+}

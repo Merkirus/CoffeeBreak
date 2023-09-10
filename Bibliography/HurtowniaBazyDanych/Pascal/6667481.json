@@ -1,0 +1,126 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Dislocation behaviour at heterointerfaces in III-V semiconductors",
+    "dc:creator": "GOODHEW, P. J",
+    "dc:contributor": [
+        "SEIDMAN, D. N (Editor)",
+        "SIEGEL, R. W (Editor)",
+        "BRISTOWE, P. D (Editor)",
+        "Materials Research Society (Funder/Sponsor)",
+        "Materials Research Society. Fall meeting (Boston MA 1993-11-29)"
+    ],
+    "dc:relation": [
+        "The Journal of physics and chemistry of solids -- J. phys. chem. solids, ISSN 0022-3697, Vol. 55 (10) , pp. 1107-1114",
+        "Atomic scale imperfections in materials"
+    ],
+    "dc:date": "1994",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "16 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Accommodation réseau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrainte résiduelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Couche épitaxique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dislocation interfaciale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude théorique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hétérojonction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Relaxation contrainte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réseau dislocation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Semiconducteur III-V"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Surface vicinale"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mismatch lattice"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Residual stresses"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Epitaxial layers"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Misfit dislocations"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Theoretical study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heterojunctions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stress relaxation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dislocation network"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "III-V semiconductors"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vicinal surface"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Acomodación red"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Red dislocación"
+        },
+        "001B60H35D: Composition; défauts et impuretés / Composition; defects and impurities",
+        "001B60H55L: Défauts et impuretés: dopage, implantation, distribution, concentration, etc / Defects and impurities: doping, implantation, distribution, concentration, etc",
+        "6835D:  / Composition; defects and impurities",
+        "6855L:  / Defects and impurities: doping, implantation, distribution, concentration, etc"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 3325760"
+}

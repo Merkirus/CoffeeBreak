@@ -1,0 +1,224 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Pseudomonas cepacia lipase catalyzed esterification and transesterification of 3-(furan-2-yl) propanoic acid/ethyl ester: A comparison in ionic liquids vs hexane",
+    "dc:creator": [
+        "VIDYA, P",
+        "CHADHA, Anju"
+    ],
+    "dc:contributor": [
+        "REYMOND, Jean-Louis (Editor)",
+        "International Symposium on Biocatalysis and Biotransformations (BIOTRANS 2009) (9 ; Bern 2009-07-05)"
+    ],
+    "dc:relation": [
+        "Journal of molecular catalysis. B, Enzymatic -- J. mol. catal., B Enzym, ISSN 1381-1177, Vol. 65 (1-4) , pp. 68-72",
+        "Selected papers from the IXth International Symposium on Biocatalysis and Biotransformations (BIOTRANS 2009), Bern, Switzerland, 5-9 July 2009"
+    ],
+    "dc:date": "2010",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "5 p. ; 42 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Bactérie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Carboxylic ester hydrolases"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enzyme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Esterases"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hydrolases"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Burkholderia cepacia"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Catalyse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ester"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Estérification"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude comparative"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hexane"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Liquide ionique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transestérification"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Triacylglycerol lipase"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bacteria"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Carboxylic ester hydrolases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Enzyme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Esterases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hydrolases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Burkholderia cepacia"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Catalysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ester"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Esterification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Comparative study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hexane"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ionic liquid"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transesterification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Triacylglycerol lipase"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "3-(Furan-2-yl) propanoic acid ester"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Esterification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ionic liquids"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pseudomonas cepacia lipase"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Transesterification"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bacteria"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carboxylic ester hydrolases"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enzima"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Esterases"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hydrolases"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Burkholderia cepacia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Catálisis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ester"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Esterificación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio comparativo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hexano"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Líquido iónico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transesterificación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Triacylglycerol lipase"
+        },
+        "002A31: Biotechnologie / Biotechnology",
+        "002A31C06: Bioconversions. Hémisynthèses / Bioconversions. Hemisynthesis"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 22891397"
+}

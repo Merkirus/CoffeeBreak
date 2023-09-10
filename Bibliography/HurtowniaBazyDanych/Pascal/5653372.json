@@ -1,0 +1,236 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Genetic modification of stem cells for transplantation",
+    "dc:creator": [
+        "PHILLIPS, M. Ian",
+        "YAO LIANG TANG"
+    ],
+    "dc:contributor": [
+        "YE, Zhaoyang (Editor)",
+        "MAHATO, Ram I (Editor)"
+    ],
+    "dc:relation": "Advanced drug delivery reviews -- Adv. drug deliv. rev, ISSN 0169-409X, Vol. 60 (2) , pp. 160-172",
+    "dc:date": "2008",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "13 p. ; 10 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Cancer"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cardiopathie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Endocrinopathie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie de l'appareil circulatoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Silence expression génique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cellule souche"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diabète"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Génétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Insuffisance cardiaque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interférence ARN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Micro ARN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technologie pharmaceutique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tumeur maligne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vecteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Elément réponse AMP cyclique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cancer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heart disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Endocrinopathy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cardiovascular disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gene silencing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stem cell"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diabetes mellitus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Genetics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heart failure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RNA interference"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Micro RNA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pharmaceutical technology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Malignant tumor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vector"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cancer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cre/Lox P"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diabetes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heart failure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MicroRNA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neurological diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stem cells"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vigilant Vector"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cáncer"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cardiopatía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Endocrinopatía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato circulatorio patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Silencio expresión genética"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Célula primitiva"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diabetes"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Genética"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Insuficiencia cardíaca"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "ARN interferencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Micro ARN"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tecnología farmacéutica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tumor maligno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vector"
+        },
+        "002B02A03: Technologie pharmaceutique. Industrie pharmaceutique / Pharmaceutical technology. Pharmaceutical industry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 20077040"
+}

@@ -1,0 +1,170 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Alternative procedure for LR 115 chemical etching and alpha tracks counting",
+    "dc:creator": [
+        "ARIAS, H",
+        "PALACIOS, D",
+        "SAJO-BOHUS, L",
+        "VILORIA, T"
+    ],
+    "dc:contributor": [
+        "FERNANDEZ, F (Editor)",
+        "ILIC, R (Editor)",
+        "FONT, Ll (Editor)",
+        "DOMINGO, C (Editor)",
+        "International Nuclear Track Society (Organiser of meeting)",
+        "Universitat Autònoma de Barcelona. Grup de Física de les Radiacions (Organiser of meeting)",
+        "International conference on nuclear tracks in solids (22 ; Barcelona 2005-08-23)"
+    ],
+    "dc:relation": [
+        "Radiation measurements -- Radiat. meas, ISSN 1350-4487, Vol. 40 (2-6) , pp. 357-362",
+        "Nuclear tracks in solids, 22nd international conference, Barcelona, Spain, 23-27 August 2004"
+    ],
+    "dc:date": "2005",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "6 p. ; 6 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Attaque chimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Destruction radiation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Distorsion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Détection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Logiciel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthodologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rayonnement alpha"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trace particule"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Comptage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Discrimination"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Détecteur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Image numérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LR-115"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trace nucléaire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "etching"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "radiation damage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "distortion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "detection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "software"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "methodology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "alpha rays"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "particle track"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Image treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LR 115"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Track counting"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Track etching"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ataque químico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Deterioro por radiación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Distorsión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metodología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radiación alfa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Traza particula"
+        },
+        "001E01C02: Géochronologie / Geochronology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17298875"
+}

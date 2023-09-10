@@ -1,0 +1,272 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Whole blood platelet deposition on extracellular matrix under flow conditions in preterm neonatal sepsis",
+    "dc:creator": [
+        "FINKELSTEIN, Yaron",
+        "SHENKMAN, Boris",
+        "SIROTA, Lea",
+        "VISHNE, Tali H",
+        "DARDIK, Rima",
+        "VARON, David",
+        "LINDER, Nehama"
+    ],
+    "dc:contributor": [
+        "Swiss Society of Pediatrics (Funder/Sponsor)",
+        "Swiss Society of Infectiology (Funder/Sponsor)",
+        "Swiss Society of Pediatrics and Swiss Society of Infectiology. Common Congress (Fribourg 2002-06-20)"
+    ],
+    "dc:relation": [
+        "European journal of pediatrics -- Eur. j. pediatr, CODEN EJPEDT, ISSN 0340-6199, Vol. 161 (5) , pp. 270-274",
+        "Swiss Society of Pediatrics and Swiss Society of Infectiology. Common Congress"
+    ],
+    "dc:date": "2002",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "Springer",
+        "Springer"
+    ],
+    "dc:format": [
+        "print",
+        "28 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil circulatoire pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vaisseau sanguin pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Adhérence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Agrégation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bactériose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Complication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Détection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evaluation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exploration"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hémorragie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Indicateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nourrisson"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nouveau né"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prématuré"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sang total"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Septique syndrome"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Thrombocyte"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cardiovascular disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vascular disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adhesion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aggregation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bacteriosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Complication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Detection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Evaluation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Exploration"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hemorrhage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Indicator"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infant"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Newborn"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Premature"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Whole blood"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sepsis syndrome"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Platelet"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato circulatorio patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Infección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vaso sanguíneo patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adherencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Agregación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bacteriosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Complicación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Detección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evaluación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Exploración"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hemorragia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Indicador"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Lactante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Recién nacido"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prematuro"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sangre total"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Séptico síndrome"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trombocito"
+        },
+        "002B27B11: Réanimation néonatale et infantile. Prématurité. Mort subite / Emergency and intensive care: neonates and children. Prematurity. Sudden death"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14183586"
+}

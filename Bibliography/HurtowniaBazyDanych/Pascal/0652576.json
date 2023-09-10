@@ -1,0 +1,65 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A NEW FORMULA FOR EVALUATION THE TRUNCATION ERROR COEFFICIENT.",
+    "dc:creator": "HAGIWARA Y",
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "BULL. GEOD.; FR.; DA. 1976; VOL. 50; NO 2; PP. 131-135; BIBL. 5 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "GEODESIE MATHEMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ERREUR TRONCATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AUTOMATISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEODESIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOPHYSIQUE INTERNE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MATHEMATICAL GEODESY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOID"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TRUNCATION ERROR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AUTOMATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEODESY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTERNAL GEOPHYSICS"
+        },
+        "001E03: Astronomie / Astronomy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7730110054"
+}

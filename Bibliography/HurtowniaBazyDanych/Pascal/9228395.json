@@ -1,0 +1,43 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Evaluation of the Navigation Effectiveness of an Organizational Taxonomy Built on a General Classification Scheme and Domain Thesauri",
+    "dc:creator": [
+        "ZHONGHONG WANG",
+        "KHOO, Christopher S. G",
+        "CHAUDHRY, Abdus Sattar"
+    ],
+    "dc:relation": "Journal of the Association for Information Science and Technology (Print) -- J. assoc. inf. sci. technol. (Print), ISSN 2330-1635, Vol. 65 (5) , pp. 948-963",
+    "dc:date": "2014",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Wiley",
+    "dc:format": [
+        "print",
+        "16 p. ; 3/4 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Classification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Classification"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Clasificación"
+        },
+        "001A01A02: Bibliométrie. Scientométrie. Evaluation / Bibliometrics. Scientometrics. Evaluation",
+        "790-B: Sciences de l'information et des bibliothèques. Etude d'ensemble / Library and information science. General aspects",
+        "790-B02: Bibliométrie. Scientométrie / Bibliometrics. Scientometrics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 28446693"
+}

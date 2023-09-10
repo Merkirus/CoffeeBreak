@@ -1,0 +1,57 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "EINWIRKUNG VON MECHANISCHEN SCHWIRGUNGEN AUF DEN MENSCHEN.; INFLUENCE DES VIBRATIONS MECANIQUES SUR L'HOMME",
+    "dc:creator": "SEBBITZER J",
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "GIESSEREITECHNIK; DTSCH.; DA. 1976; VOL. 22; NO 6; PP. 194-197; BIBL. 16 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "FONDERIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HYGIENE TRAVAIL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "VIBRATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROTECTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FOUNDRY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OCCUPATIONAL HYGIENE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "VIBRATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PROTECTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METALLURGY"
+        },
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7780012647"
+}

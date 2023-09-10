@@ -1,0 +1,305 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Induced myeloperoxidase activity and related superoxide inhibition during hormone replacement therapy",
+    "dc:creator": [
+        "BEKESI, Gabor",
+        "KAKUCS, Reka",
+        "VARBIRO, Szabolcs",
+        "FEHER, Janos",
+        "PAZMANY, Tamas",
+        "MAGYAR, Zoltan",
+        "SPRINTZ, Detlef",
+        "SZEKACS, Bela"
+    ],
+    "dc:contributor": [
+        "British Gynaecological Cancer Society (Funder/Sponsor)",
+        "British Gynaecological Cancer Society. Scientific Meeting (Portsmouth 2000-11-10)"
+    ],
+    "dc:relation": [
+        "BJOG (Oxford. Print) -- BJOG (Oxford. Print), ISSN 1470-0328, Vol. 108 (5) , pp. 474-481",
+        "British Gynaecological Cancer Society. Scientific Meeting"
+    ],
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Blackwell",
+    "dc:format": [
+        "print",
+        "40 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil circulatoire pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enzyme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Oxidoreductases"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Peroxidases"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vaisseau sanguin pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Activité enzymatique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Athérosclérose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Corrélation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Femelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Granulocyte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Influence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ménopause"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Neutrophile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Oestroprogestatif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathogénie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Peroxidase"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Radical libre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Randomisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technique ELISA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement substitutif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Valeur prédictive"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cardiovascular disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Enzyme"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Oxidoreductases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Peroxidases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vascular disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Enzymatic activity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Atherosclerosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Correlation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Female"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Granulocyte"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Influence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Menopause"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Neutrophil"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Estroprogestagen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pathogenesis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Peroxidase"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Free radical"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Randomization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELISA assay"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Replacement therapy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Predictive value"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato circulatorio patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Enzima"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Oxidoreductases"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Peroxidases"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Vaso sanguíneo patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Actividad enzimática"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ateroesclerosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Correlación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hembra"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Granulocito"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Influencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Menopausia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Neutrófilo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estroprogestágeno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Patogenia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Peroxidase"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radical libre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aleatorización"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Técnica ELISA"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento sustitutivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Valor predictivo"
+        },
+        "002B02O: Hormones. Glandes endocrines / Hormones. Endocrine system"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 960656"
+}

@@ -1,0 +1,65 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "BREVET MONTAGE COLLECTEUR POUR L'EXPLOITATION DE L'ENERGIE SOLAIRE",
+    "dc:creator": "MATERIEL TELEPHONIQUE",
+    "dc:date": "1979",
+    "dc:type": "Patent",
+    "dc:language": "French",
+    "dc:format": "; FRA; DA. 1979-04-27; FR/A1/2.401.390; DEP.77-26031/1977-08-26",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE SOLAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EQUIPEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COLLECTEUR SOLAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TUBE SOUS VIDE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "UTILISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLAR ENERGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EQUIPMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLAR COLLECTOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EVACUATED TUBE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "USE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY"
+        },
+        "001D06: Energie / Energy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7970326323"
+}

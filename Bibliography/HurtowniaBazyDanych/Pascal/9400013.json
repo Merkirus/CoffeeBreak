@@ -1,0 +1,297 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Evaluation of treatment and intermediate and long-term outcome of adolescent eating disorders",
+    "dc:creator": [
+        "STEINHAUSEN, H.-C",
+        "SEIDEL, R",
+        "METZKE, C. W"
+    ],
+    "dc:relation": "Psychological medicine (Print) -- Psychol. med. (Print), CODEN PSMDCO, ISSN 0033-2917, Vol. 30 (5) , pp. 1089-1098",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Cambridge University Press",
+    "dc:format": [
+        "print",
+        "26 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Adaptation sociale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Adolescent"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Age apparition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Centre hospitalier universitaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Critère"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Efficacité traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Environnement social"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude cohorte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude longitudinale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Evolution"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exploration clinique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Indice masse corporelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Long terme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mortalité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prédiction"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Service santé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Symptomatologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble comportement alimentaire"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Social adjustment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Adolescent"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Age of onset"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Teaching hospital"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Criterion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment efficiency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Social environment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cohort study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Follow up study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Evolution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Clinical investigation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Body mass index"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Long term"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mortality"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prediction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Health service"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Symptomatology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Eating disorder"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adaptación social"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Adolescente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Edad aparición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Centro hospitalario universitario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Criterio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Eficacia tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio ambiente social"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio cohorte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio longitudinal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Evolución"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Exploración clínica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Indice masa corporal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Largo plazo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mortalidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Predicción"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Servicio sanidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sintomatología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno conducta alimentaria"
+        },
+        "002B18I09: Thérapie institutionnelle. Traitement hospitalier / Institution therapy. Inpatient treatment",
+        "770-: Psychologie. Psychanalyse. Psychiatrie / Psychology. Psychoanalysis. Psychiatry",
+        "770-D: PSYCHOPATHOLOGIE. PSYCHIATRIE / Psychopathology. Psychiatry"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Allemagne"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Germany"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alemania"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1479426"
+}

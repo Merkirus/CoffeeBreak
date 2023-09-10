@@ -1,0 +1,37 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "INFLUENCE DES INFECTIONS VIRALES SUR L'INTENSITE DE LA PHOTOSYNTHESE CHEZ LA POMME DE TERRE",
+    "dc:creator": "CHMULEV VM",
+    "dc:date": "1973",
+    "dc:type": "Serial Issue",
+    "dc:language": "Russian",
+    "dc:format": "DOKL. VSESOJUZ. AKAD. SEL'SKOKHOZ. NAUK V.I. LENINA; S.S.S.R.; DA. 1973; NO 8; PP. 19-22; BIBL. 5 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "POMME DE TERRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MALADIE PARASITAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PHYSIOLOGIE CROISSANCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AGRONOMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "AGRONOMY"
+        },
+        "002A35: Industries agroalimentaires / Food industries"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7338022216"
+}

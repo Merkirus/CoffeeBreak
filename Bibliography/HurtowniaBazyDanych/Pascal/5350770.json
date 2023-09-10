@@ -1,0 +1,165 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A fusion power reactor concept using SiC/SiC composites",
+    "dc:creator": [
+        "UEDA, S",
+        "NISHIO, S",
+        "SEKI, Y",
+        "KURIHARA, R",
+        "ADACHI, J",
+        "YAMAZAKI, S",
+        "DREAM Design Team"
+    ],
+    "dc:contributor": [
+        "KINOSHITA, C (Editor)",
+        "MUROGA, T (Editor)",
+        "MATSUI, H (Editor)",
+        "KOHYAMA, A (Editor)",
+        "GELLES, D. S (Editor)",
+        "International Conference on Fusion Reactor Materials (ICFRM-8) (8 ; Sendai 1997-10-26)"
+    ],
+    "dc:relation": [
+        "Journal of nuclear materials -- J. nucl. mater, CODEN JNUMAM, ISSN 0022-3115, Vol. 258263, pp. 1589-1593",
+        "Fusion reactor materials VIII. Part B"
+    ],
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "10 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Conception"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Céramique thermomécanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enceinte recyclage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau composite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau renforcé fibre"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété thermomécanique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Recherche développement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réacteur fusion nucléaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Silicium carbure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tokamak"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Design"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Structural ceramic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Blanket"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Composite material"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Fiber reinforced material"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Thermomechanical properties"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Research and development"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nuclear fusion reactor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Silicon carbide"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tokamak"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diseño"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cerámica termomecánica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Recinto reciclaje"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Material compuesto"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Material reforzado fibra"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propriedad termomecánica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Investigación desarrollo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reactor fusión nuclear"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Silicio carburo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tokamak"
+        },
+        "001D06: Energie / Energy",
+        "001D06D04E: Centrales nucléaires à fusion / Controled nuclear fusion plants"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1700183"
+}

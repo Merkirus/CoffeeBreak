@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "APPARITION DE LA CRYORESISTANCE AU COURS DE LA SPORULATION CHEZ BACILLUS",
+    "dc:creator": "DEFIVES C",
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "French",
+    "dc:format": "ANN. MICROBIOL.; FRA; DA. 1979; VOL. 130; NO 2; PP. 269-272; ABS. ENG; BIBL. 6 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "BACILLUS CEREUS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BACILLUS SUBTILIS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SPORULATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SENSIBILITE RESISTANCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TEMPERATURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FROID"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BACTERIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AGENT PHYSIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROBIOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BACILLUS CEREUS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BACILLUS SUBTILIS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SPORULATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SENSITIVITY RESISTANCE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TEMPERATURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COLD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BACTERIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHYSICAL AGENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROBIOLOGY"
+        },
+        "002B05: Pathologie infectieuse / Infectious diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7950297885"
+}

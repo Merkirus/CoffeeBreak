@@ -1,0 +1,57 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "KOMPLEXE FORSCHUNGSAUFGABE FOER DERTECHNIK, BAUMASCHINEN, SCHWERMASCHINEN; PROBLEMES COMPLEXES DE RECHERCHES DANS LE DOMAINE DE LA MANUTENTION, DES MACHINES DE CHANTIERS, DES MACHINES LOURDES",
+    "dc:creator": "UHLMANN A",
+    "dc:date": "1978",
+    "dc:type": "Article",
+    "dc:language": "German",
+    "dc:format": "WISSENSCH. Z. TECH. HOCHSCH. OTTO VON GUERICKE MAGDEBURG; DDR; DA. 1978; VOL. 22; NO 3-5; PP. 362-364",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CHANTIER CONSTRUCTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATERIEL CONSTRUCTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATERIEL MANUTENTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RECHERCHE APPLIQUEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GENIE CIVIL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONSTRUCTION SITE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONSTRUCTION EQUIPMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "HANDLING EQUIPMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "APPLIED RESEARCH"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CIVIL ENGINEERING"
+        },
+        "001D14: Batiment. Travaux publics / Buildings. Public works"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7980125531"
+}

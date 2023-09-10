@@ -1,0 +1,58 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "NEUTROPHIL KINETICS IN THE DOG",
+    "dc:creator": [
+        "DEUBELBEISS RA",
+        "DANCEY JT",
+        "HARKER A",
+        "FINCH CA"
+    ],
+    "dc:date": "1975",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. CLIN. INVEST.; U.S.A.; DA. 1975; VOL. 55; NO 4; PP. 833-839; BIBL. 23REF",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "CHIEN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "NEUTROPHILE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MOELLE OSSEUSE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GRANULOPOIESE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HEMATOPOIESE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CARNIVORA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MAMMALIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CELLULE SANGUINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LEUCOCYTE"
+        },
+        "002A14: Ecologie animale, vegetale et microbienne / Animal, plant and microbial ecology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7536508039"
+}

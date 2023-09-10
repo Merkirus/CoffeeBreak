@@ -1,0 +1,52 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ASTRONOMY WITH A MICROSCOPE",
+    "dc:creator": [
+        "DODD RJ",
+        "ANDREWS FP"
+    ],
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "SOUTH. STARS; ISSN 0049-1640; NZL; DA. 1982; VOL. 29; NO 5-6; PP. 136-138; BIBL. 3 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PLAQUE PHOTOGRAPHIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MICROSCOPE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OBSERVATION ASTRONOMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ASTRONOMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHOTOGRAPHIC PLATE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MICROSCOPE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ASTRONOMICAL OBSERVATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ASTRONOMY"
+        },
+        "001E03: Astronomie / Astronomy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL83X0043295"
+}

@@ -1,0 +1,57 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "EL CALERO: VADEMECUN DE UTILIZACION (II); THE LIME KILN: VADEMECUM OF OPERATION (II); LE FOUR A CHAUX: VADEMECUM D'UTILISATION II)",
+    "dc:creator": "LOPEZ GOMEZ P",
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "Spanish",
+    "dc:format": "; ION; ESP.; DA. 1976; VOL. 36; NO 420; PP. 426-434",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "FOUR CHAUX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "UTILISATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMBUSTIBLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONDITION OPERATOIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "LIME KILN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "USE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FUEL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OPERATING CONDITIONS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY"
+        },
+        "001D06: Energie / Energy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7770143658"
+}

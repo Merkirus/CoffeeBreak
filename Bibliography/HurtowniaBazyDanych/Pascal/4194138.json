@@ -1,0 +1,52 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ETUDE DES RAISONS DE LA FORMATION ET DES PROCEDES D'ELIMINATION DES DEFAUTS MACROSCOPIQUES DES LINGOTS D'ACIER DE QUALITE 20K, COULES SOUS SCORIE",
+    "dc:creator": [
+        "SHEVELEV VV",
+        "PROSVIRIN KS",
+        "ZIGALO IN",
+        "CHERNYATEVICH AG",
+        "BARASH LU",
+        "DUBINA YU G"
+    ],
+    "dc:date": "1975",
+    "dc:type": "Article",
+    "dc:language": "Russian",
+    "dc:format": "METALLURG. I KOKSOKHIM., U.S.S.R.; S.S.S.R.; DA. 1975; NO 47; PP. 96-99",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ACIER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DEFAUT FONDERIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COULEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COULEE SOUS LAITIER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LINGOT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METALLURGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METALLURGY"
+        },
+        "001D11: Metaux. Metallurgie / Metals. Metallurgy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7674012235"
+}

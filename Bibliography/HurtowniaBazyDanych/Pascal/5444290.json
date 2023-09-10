@@ -1,0 +1,111 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Heat and fluid flow in asymmetric : Channel - chimney systems",
+    "dc:creator": [
+        "MANCA, Oronzio",
+        "MENDITTO, Nicola",
+        "MUSTO, Marilena",
+        "NASO, Vincenzo"
+    ],
+    "dc:contributor": [
+        "Padet, Colette (Editor)",
+        "Burkhardt, Hans (Editor)",
+        "Faculté des Sciences de Reims (Publishing director)",
+        "Faculté des Sciences de Reims (Publishing director)",
+        "Eurotherm seminar (71 ; Reims 2002)"
+    ],
+    "dc:relation": [
+        "Eurotherm series, ISSN 1248-8313, pp. 157-162",
+        "Visualization imaging and data analysis in convective heat and mass transfer (proceedings of the Eurotherm Seminar 71, October 28-30, 2002, Reims, France)"
+    ],
+    "dc:date": "2002",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Presses Universitaires de Reims",
+    "dc:format": [
+        "print",
+        "6 p. ; 8 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareillage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Asymétrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cheminée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Conduite verticale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Convection naturelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transfert chaleur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Visualisation écoulement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Instrumentation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Asymmetry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Chimneys"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vertical pipe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Natural convection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heat transfer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Flow visualization"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Conducto vertical"
+        },
+        "001B40G27T: Convection et transfert de chaleur / Convection and heat transfer",
+        "001B40G80: Appareillage et mesures / Instrumentation for fluid dynamics",
+        "4727T:  / Convection and heat transfer",
+        "4780:  / Instrumentation for fluid dynamics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17706687"
+}

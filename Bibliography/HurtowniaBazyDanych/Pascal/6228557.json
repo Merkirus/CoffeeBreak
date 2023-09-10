@@ -1,0 +1,343 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Communication mobile (effets biologiques); Mobile phones : biological effects (international symposium, Paris [France], 19-20 April 2000)",
+    "dc:contributor": "Communication mobile : effets biologiques. Symposium international (Paris 2000-04-19)",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Conference Proceedings"
+    ],
+    "dc:identifier": [
+        "ISBN 2-7430-0438-X",
+        "Inist-CNRS record number 76568"
+    ],
+    "dc:language": [
+        "English",
+        "French"
+    ],
+    "dc:publisher": "Editions Tec & Doc",
+    "dc:format": [
+        "print",
+        "340 p. ; dissem"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Biophysique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORL pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rayonnement non ionisant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé publique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système nerveux pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aspect économique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Audition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Carcinogenèse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Champ électromagnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Dosimétrie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Décision"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Effet biologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epidémiologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hyperfréquence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mobile"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthodologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Norme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Radiofréquence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Risque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réglementation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sommeil"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Système nerveux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Télécommunication"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Téléphone"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biophysics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENT disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Non ionizing radiation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nervous system diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Economic aspect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hearing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Carcinogenesis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electromagnetic field"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dosimetry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Decision"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biological effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Epidemiology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Microwave"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mobile"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Methodology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Standards"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radiofrequency"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Risk"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Regulation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sleep"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nervous system"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Telecommunication"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Telephone"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Biofísica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "ORL patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radiación no ionizante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud pública"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aspecto económico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Audición"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Carcinogénesis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Campo electromagnético"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Dosimetría"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Decisión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Efecto biológico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Epidemiología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hiperfrecuencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Móvil"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metodología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Norma"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Radiofrecuencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Riesgo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reglamentación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sueño"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sistema nervioso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Telecomunicación"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Teléfono"
+        },
+        "002A08F01: Rayonnements non ionisants. Ondes hertziennes. Biooptique / Non ionizing radiations. Hertzian waves. Biooptics",
+        "002B30A01C: Planification. Prévention (méthodes). Intervention. Evaluation / Planification. Prevention (methods). Intervention. Evaluation"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ]
+}

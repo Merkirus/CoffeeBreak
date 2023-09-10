@@ -1,0 +1,104 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Evaluation of effective electromagnetic properties in heterogeneous media",
+    "dc:creator": [
+        "BOTTAUSCIO, O",
+        "CHIADO PIAT, V",
+        "CHIAMPI, M",
+        "CODEGONE, M",
+        "MANZIN, A"
+    ],
+    "dc:contributor": [
+        "PIRIOU, F (Author of introductory parts)",
+        "RAZEK, A (Author of introductory parts)"
+    ],
+    "dc:relation": "EPJ. Applied physics (Print) -- EPJ, Appl. phys. (Print), ISSN 1286-0042, Vol. 39 (2) , pp. 113-118",
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": [
+        "EDP Sciences",
+        "Springer"
+    ],
+    "dc:format": [
+        "print",
+        "6 p. ; 9 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Inclusion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau diélectrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Matériau ferromagnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu hétérogène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Perte énergie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Propriété électromagnétique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "7340"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "7540M"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "7570C"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inclusions"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dielectric materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Ferromagnetic materials"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Inhomogeneous media"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Energy losses"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electromagnetic properties"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Propiedad electromagnética"
+        },
+        "001B70C40: Transport électronique dans des structures à interface / Electronic transport in interface structures",
+        "001B70E40M: Etudes par simulation numérique / Numerical simulation studies",
+        "001B70E70C: Propriétés magnétiques interfaciales (multicouches, puits quantiques magnétiques, superréseaux, hétérostructures magnétiques) / Interfacial magnetic properties (multilayers, magnetic quantum wells, superlattices, magnetic heterostructures)"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 19021227"
+}

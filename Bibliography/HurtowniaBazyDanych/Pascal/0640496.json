@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A MIXED FRICTION MODEL FOR DYNAMICALLY LOADED CONTACTS WITH APPLICATION TO PISTON RING LUBRICATION",
+    "dc:creator": "ROHDE SM",
+    "dc:date": "1981",
+    "dc:type": "Conference Paper",
+    "dc:language": "English",
+    "dc:format": "FRICTION AND TRACTION. LEEDS-LYON SYMPOSIUM ON TRIBOLOGY. 7/1980/LEEDS; GBR; GUILDFORD: WESTBURY HOUSE; DA. 1981; PP. 262-280; BIBL. 29 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "LUBRIFICATION ELASTOHYDRODYNAMIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FROTTEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MODELE MATHEMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MOTEUR COMBUSTION INTERNE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SEGMENT PISTON"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETAT SURFACE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EPAISSEUR"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FILM LUBRIFIANT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RENDEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "INDUSTRIE MECANIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FRICTION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MATHEMATICAL MODEL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "INTERNAL COMBUSTION ENGINE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PISTON RING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SURFACE TEXTURE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "THICKNESS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "YIELD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MECHANICAL ENGINEERING"
+        },
+        "001D12: Genie mecanique. Construction mecanique / Mechanical engineering. Machine design"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL82X0066705"
+}

@@ -1,0 +1,90 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Foundry workflow for dynamic-EFA-based yield ramp",
+    "dc:creator": [
+        "KARDACH, C",
+        "KAPILEVICH, I",
+        "BLOCK, J",
+        "LUNDQUIST, T",
+        "KASAPI, S",
+        "LIAO, J",
+        "NG, Y. S",
+        "CORY, B"
+    ],
+    "dc:contributor": [
+        "LABAT, N (Editor)",
+        "MARC, F (Editor)",
+        "European Symposium on the Reliability of Electron Devices, Failure Physics and Analysis (ESREF 2011) (22 ; Bordeaux 2011-10-03)"
+    ],
+    "dc:relation": [
+        "Microelectronics and reliability -- Microelectron. reliab, CODEN MCRLAS, ISSN 0026-2714, Vol. 51 (9-11) , pp. 1668-1672",
+        "Proceedings of the 22nd European Symposium on the Reliability of Electron Devices, Failure Physics and Analysis (ESREF 2011)"
+    ],
+    "dc:date": "2011",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "5 p. ; 9 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Analyse dommage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Débogage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Imagerie optique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pastille électronique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Failure analysis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Debugging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Optical imaging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wafer"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis avería"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Puesta a punto programa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Imaginería óptica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pastilla electrónica"
+        },
+        "001D03B: Essais, mesure, bruit et fiabilité / Testing, measurement, noise and reliability"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 24618534"
+}

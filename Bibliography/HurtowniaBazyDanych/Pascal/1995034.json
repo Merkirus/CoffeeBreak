@@ -1,0 +1,28 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "LLOYDINA, A NEW GENERIC NAME FOR THE LATER HOMONYM LLOYDIELLA AHMAD AND GOLDSTEIN (ZYGNEMACEAE); (LLOYDINA NOUVEAU NOM DE GENRE POUR CET HOMONYME LLOYDIELLA A. ET G. (Z.)",
+    "dc:creator": [
+        "AHMAD A",
+        "GOLDSTEIN ME"
+    ],
+    "dc:date": "1972",
+    "dc:type": "Serial Issue",
+    "dc:language": "English",
+    "dc:format": "PHYCOLOGIA; U.S.A.; DA. 1972; VOL. 11; NO 2; PP. 217; BIBL. 2 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOLOGIE VEGETALE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PLANT BIOLOGY"
+        },
+        "002A10: Physiologie vegetale et developpement / Plant physiology and development"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7337006105"
+}

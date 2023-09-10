@@ -1,0 +1,286 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Predictive values and quality control of techniques for the diagnosis of Echinococcus multilocularis in definitive hosts",
+    "dc:creator": "ECKERT, J",
+    "dc:contributor": [
+        "ALTINTAS, Nazmiye (Editor)",
+        "SCHANTZ, Peter (Editor)",
+        "International Congress of Hydatidology (20 ; Kusadasi 2001-06)"
+    ],
+    "dc:relation": [
+        "Acta tropica -- Acta trop, CODEN ACTRAQ, ISSN 0001-706X, Vol. 85 (2) , pp. 157-163",
+        "New Dimensions in Hydatidology in the New Millennium"
+    ],
+    "dc:date": "2003",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "7 p. ; 16 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Cestoda"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cestodose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Helmintha"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Helminthiase"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Invertebrata"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Parasitose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plathelmintha"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Antigène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Contrôle qualité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DNA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diagnostic"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Echinococcose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Echinococcus multilocularis"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Examen laboratoire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exploration parasitologique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pathologie expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Réaction chaîne polymérase"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technique ELISA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Valeur prédictive"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cestoda"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cestode disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Helmintha"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Helminthiasis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Invertebrata"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Parasitosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plathelmintha"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antigen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Quality control"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DNA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diagnosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Echinococciasis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Echinococcus multilocularis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Laboratory investigations"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Parasitological investigation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Polymerase chain reaction"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELISA assay"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Predictive value"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cestoda"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cestodiasis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Helmintha"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Helmintiasis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Infección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Invertebrata"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Parasitosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Plathelmintha"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Animal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antígeno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Control calidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "DNA"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diagnóstico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Equinococosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Echinococcus multilocularis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Examen laboratorio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Análisis parasitológico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Patología experimental"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Reacción cadena polimerasa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Técnica ELISA"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Valor predictivo"
+        },
+        "002B05E03A3: Echinococcoses / Echinococcoses",
+        "235: Médecine tropicale / Tropical medicine"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14567921"
+}

@@ -1,0 +1,243 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Total gaseous mercury exchange between air and water at river and sea surfaces in Swedish coastal regions",
+    "dc:creator": [
+        "GARDFELDT, Katarina",
+        "XINBIN FENG",
+        "SOMMAR, Jonas",
+        "LINDQVIST, Oliver"
+    ],
+    "dc:contributor": [
+        "PIRRONE, Nicola (Editor)",
+        "European Land-Ocean Interaction Studies (ELOISE) Conference (3 ; Northwijkerhout 1999-12-01)"
+    ],
+    "dc:relation": [
+        "Atmospheric environment (1994) -- Atmos. environ. (1994), ISSN 1352-2310, Vol. 35 (17) , pp. 3027-3038",
+        "Atmospheric mercury research in Europe"
+    ],
+    "dc:date": "2001",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "1 p.1/4"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Cours eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cycle biogéochimique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Densité flux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Echange gazeux"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Emission polluant"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interface air eau"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Interface air mer"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mercure"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Métal lourd"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pollution air"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pollution origine naturelle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Retombée atmosphérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Teneur émission"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Variation saisonnière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Variation temporelle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stream"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Biogeochemical cycle"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Flux density"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gas exchange"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pollutant emission"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Air water interface"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Air sea interface"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mercury"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Heavy metal"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Air pollution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Natural origin pollution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Atmospheric fallout"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Emission content"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Seasonal variation"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Time variation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Curso agua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Ciclo biogeoquímico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Densidad flujo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Intercambio gaseoso"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Emisión contaminante"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interfase aire agua"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Interfase aire mar"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Mercurio"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Metal pesado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contaminación aire"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Polución origen natural"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Recaída atmosférica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Contenido emisión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Variación estacional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Variación temporal"
+        },
+        "001D16C04D: Sources diffuses et autres / Dispersed sources and other"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Suède"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sweden"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Suecia"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 14090161"
+}

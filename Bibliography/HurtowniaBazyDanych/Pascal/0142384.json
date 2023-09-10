@@ -1,0 +1,89 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "LE GRES A ADAMSWILLER.",
+    "dc:creator": "MOTINOT R",
+    "dc:date": "1962",
+    "dc:type": "Miscellaneous",
+    "dc:language": "French",
+    "dc:format": "MAUSOLEE - FR; FRA; 1962(3), NUM. 0309, P. 835 A 850",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "MATERIAU CONSTRUCTION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GRES"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BAS RHIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ADAMSWILLER"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GITOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ROCHE CLASTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ROCHE SEDIMENTAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MASSIF VOSGIEN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FRANCE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EUROPE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BUILDING MATERIAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SANDSTONE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BAS RHIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GITOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        "001E01E: Gisements métalliques et non métalliques / Metallic and non-metallic deposits"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number GEODEBRGMFR1707078"
+}

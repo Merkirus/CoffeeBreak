@@ -1,0 +1,97 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Phenomenological models for post-stall airfoil characteristics of horizontal-axis wind turbines",
+    "dc:creator": [
+        "TAO, Y.-X",
+        "SCOTT, R",
+        "TU, P"
+    ],
+    "dc:contributor": [
+        "SAYIGH, A. A. M (Editor)",
+        "WREC-IV World Renewable Energy Congress (4 ; Denver, Colorado 1996-06-15)"
+    ],
+    "dc:relation": [
+        "Renewable energy -- Renew. energy, ISSN 0960-1481, Vol. 10 (2-3) , pp. 259-263",
+        "Renewable energy, energy efficiency and the environment. III"
+    ],
+    "dc:date": "1997",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier Science",
+    "dc:format": [
+        "print",
+        "4 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Axe horizontal"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aérodynamique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Aérogénérateur"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Energie éolienne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Modélisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Profil aérodynamique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROP code"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Horizontal axis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Aerodynamics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wind turbines"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wind power"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Modeling"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Airfoils"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Eje horizontal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Modelización"
+        },
+        "001D06: Energie / Energy",
+        "001D06C04: Energie éolienne / Wind energy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2561801"
+}

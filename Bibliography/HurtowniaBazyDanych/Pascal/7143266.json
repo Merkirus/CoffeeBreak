@@ -1,0 +1,112 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Through-the-wall-sensor systems, based on hard X-ray imaging optics",
+    "dc:creator": [
+        "JANNSON, Tomasz",
+        "GERTSENSHTEYN, Michael",
+        "GRUBSKY, Victor",
+        "AMOUZOU, Pauline",
+        "KOZIOL, Richard"
+    ],
+    "dc:contributor": [
+        "Carapezza, Edward M (Editor)",
+        "Society of photo-optical instrumentation engineers (Organiser of meeting)",
+        "Sensors, and command, control, communications, and intelligence technologies for homeland security and homeland defense (4 ; Orlando Fl 2007)"
+    ],
+    "dc:relation": [
+        "Proceedings of SPIE, the International Society for Optical Engineering -- Proc. SPIE Int. Soc. Opt. Eng, CODEN PSISDG, ISSN 0277-786X, pp. 65380A.1-65380A.9",
+        "Sensors, and command, control, communications, and intelligence (C3I) technologies for homeland security and homeland defense VI (9-12 April 2007, Orlando, Florida, USA)"
+    ],
+    "dc:date": "2007",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "SPIE",
+    "dc:format": [
+        "print",
+        "10 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Diffusion Compton"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Essai non destructif"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Imagerie RX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Lentille RX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Miroir RX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Oeil"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Optique RX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Rayon X"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "0785F"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "4150"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Compton effect"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nondestructive testing"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "X-ray imaging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "X-ray lens"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "X-ray mirror"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Eyes"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "X-ray optics"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "X radiation"
+        },
+        "001B00G85F: Sources, miroirs, réseaux et détecteurs dans le domaine x et γ / X- and γ-ray sources, mirrors, gratings and detectors",
+        "001B40A50: Rayons x et optique rx / X-ray beams and x-ray optics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 19207301"
+}

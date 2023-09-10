@@ -1,0 +1,235 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A BURST OF ENERGY IN PHOTOVOLTAICS",
+    "dc:creator": "JAVETSKI J",
+    "dc:date": "1979",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "ELECTRONICS; USA; DA. 1979; VOL. 52; NO 19; PP. 105-122",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "DETECTEUR RAYONNEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DISPOSITIF PHOTOELECTRIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CELLULE SOLAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SILICIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ARSENIURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE GALLIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DISPOSITIF PHOTOVOLTAIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MONOCRISTAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "POLYCRISTAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SULFURE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COMPOSE CADMIUM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FABRICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONVERTISSEUR ENERGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONVERTISSEUR DIRECT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE SOLAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RECHERCHE DEVELOPPEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EQUIPEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RENDEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PROCEDE FABRICATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MATERIAU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "R ET D"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COUT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CONCENTRATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETATS UNIS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MONOGRAPHIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROMAGNETISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTROTECHNIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ENERGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RADIATION DETECTOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHOTOELECTRIC CELL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLAR CELL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SILICON"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ARSENIDES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PHOTOVOLTAIC CELL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SINGLE CRYSTAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "POLYCRYSTAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SULFIDES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY CONVERTOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIRECT CONVERTOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOLAR ENERGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RESEARCH AND DEVELOPMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EQUIPMENT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "YIELD"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MANUFACTURING METHODS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MATERIALS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COST"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "CONCENTRATION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "UNITED STATES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MONOGRAPHS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONICS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTROMAGNETISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRICAL ENGINEERING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENERGY"
+        },
+        "001D03: Electronique / Electronics",
+        "001D05: Electrotechnique. Electroenergetique / Electrical engineering. Electrical power engineering",
+        "001D06: Energie / Energy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8030305592"
+}

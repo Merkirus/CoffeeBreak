@@ -1,0 +1,105 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "PROBLEMES DE GEOGRAPHIE HISTORIQUE.",
+    "dc:creator": "COTET PV",
+    "dc:date": "1969",
+    "dc:type": "Miscellaneous",
+    "dc:language": "French",
+    "dc:format": "AN. STI. UNIV. AL. I. CUZA IASI, 2. ; ROM; 1969, VOL. 15, NUM. 0002-00C , P. 11 A 18",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "PENEPLAINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EROSION LITTORALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EROSION FLUVIATILE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PERIGLACIAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ROUMANIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DOBROUDJA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOMORPHOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "FORMATION SUPERFICIELLE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PEDOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GEOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "SCIENCES DE LA TERRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "EUROPE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PENEPLAIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "COASTAL EROSION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FLUVIATILE EROSION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PERIGLACIAL"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RUMANIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOMORPHOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SUPERFICIAL GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "SOIL SCIENCES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "GEOLOGY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EARTH SCIENCES"
+        },
+        "001E01N: Hydrologie. Hydrogéologie / Hydrology. Hydrogeology"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number GEODEBRGM7018016534"
+}

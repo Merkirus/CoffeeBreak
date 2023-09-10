@@ -1,0 +1,164 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A simulation of the formation of the Mississippi fan",
+    "dc:creator": [
+        "WILLIAMS, G. N",
+        "WARREN, J. D",
+        "PARMLEY, K. L"
+    ],
+    "dc:contributor": "25th Annual Offshore Technology Conference (Houston TX 1993-05-03)",
+    "dc:relation": "Geology, earth sciences & environment",
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:format": [
+        "print",
+        "vol. 1, 91-99 ; 11 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Croissance"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Géologie pétrolière"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Géotechnique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Historique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Milieu stratifié"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stratigraphie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Sédimentation marine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Growth"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Petroleum geology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Engineering geology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Case history"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stratified medium"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stratigraphy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Marine sedimentation"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Crecimiento"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Geología del petróleo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Geotécnica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Histórica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medio estratificado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estratigrafía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sedimentación marina"
+        },
+        "001D06: Energie / Energy",
+        "001D06B02B2A: Géologie et géochimie. Prospection géologique et géochimique. Séries pétrolifères / Geology and geochemistry. Geological and geochemical prospecting. Petroliferous series"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique du Nord"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Amérique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etats Unis"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Mississippi"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "North America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "United States"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mississippi"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America del norte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "America"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estados Unidos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Misisipi"
+        }
+    ],
+    "dc:rights": [
+        "Institut Français du Pétrole et des Energies Nouvelles (IFP)",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 6403552"
+}

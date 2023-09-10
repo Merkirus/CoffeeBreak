@@ -1,0 +1,115 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Current sheath dynamics and X-ray emission studies from sequential dense plasma focus device",
+    "dc:creator": [
+        "GUPTA, Ruby",
+        "MOHANTY, S. R",
+        "RAWAT, R. S",
+        "SRIVASTAVA, M. P"
+    ],
+    "dc:contributor": [
+        "MUGGLI, Patrick (Editor)",
+        "ANTONSEN, Thomas M (Editor)",
+        "ICFA International Workshop (2 ; Kardamyli 1999-06-27)"
+    ],
+    "dc:relation": [
+        "IEEE transactions on plasma science -- IEEE trans. plasma sci, CODEN ITPSBD, ISSN 0093-3813, Vol. 28 (4) , pp. 1263-1270",
+        "Laser and plasma accelerators"
+    ],
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Institute of Electrical and Electronics Engineers",
+    "dc:format": [
+        "print",
+        "21 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Dispositif foyer plasma"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Emission RX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude expérimentale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Gaine plasma"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode séquentielle"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ombroscopie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Plasma dense"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Température électron"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plasma focus devices"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "X ray emission"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Experimental study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Plasma sheaths"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Sequential method"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Shadowscopy"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Dense plasma"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Electron temperature"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Emisión RX"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Método secuencial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sombrascopía"
+        },
+        "001B50B25: Propriétés des plasmas / Plasma properties",
+        "001B50B55E: Dispositifs à striction thêta / Theta pinch"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 855779"
+}

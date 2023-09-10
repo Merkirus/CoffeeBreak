@@ -1,0 +1,61 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "ACOUSTIC COUPLING FOR DATA TRANSMISSION",
+    "dc:creator": "MCSHANE TJ",
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "DIGIT. DESIGN; USA; DA. 1980; VOL. 10; NO 6; PP. 38-46; 4 P.; BIBL. 2 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSMISSION DONNEE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COUPLAGE ACOUSTIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MODEM"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRANSMISSION NUMERIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TELECOMMUNICATIONS"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELECTRONIQUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DATA TRANSMISSION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MODEM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "DIGITAL TRANSMISSION"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TELECOMMUNICATIONS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ELECTRONICS"
+        },
+        "001D03: Electronique / Electronics"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8130033893"
+}

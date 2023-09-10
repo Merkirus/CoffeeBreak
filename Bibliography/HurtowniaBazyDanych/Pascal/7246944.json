@@ -1,0 +1,172 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Extraction of inner ear antigens for studies in inner ear autoimmunity",
+    "dc:creator": [
+        "YAMANOBE, S",
+        "HARRIS, J. P"
+    ],
+    "dc:contributor": "Association for Research in Otolaryngology. Midwinter Research Meeting (14 ; Saint Petersburg FL 1990-11-08)",
+    "dc:relation": [
+        "The Annals of otology, rhinology & laryngology -- Ann. otol. rhinol. laryngol, CODEN AORHA2, ISSN 0003-4894, Vol. 102 (1) , pp. 22-27",
+        "Association for Research in Otolaryngology. Midwinter Research Meeting (14 ; Saint Petersburg FL 1990-11-08)"
+    ],
+    "dc:date": "1993",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "Russian",
+    "dc:publisher": "Annals Publishing Compagny",
+    "dc:format": [
+        "print",
+        "15 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Immunopathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORL pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Oreille interne pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Trouble audition"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Antigène"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Autoimmunité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Diagnostic"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Idiopathique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Méthode immunoblotting"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Surdité"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Technique"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immunopathology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ENT disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Internal ear disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Auditory disorder"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Antigen"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Autoimmunity"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Diagnosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Idiopathic"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Immunoblotting assay"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hearing loss"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Technique"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Inmunopatología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "ORL patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Oido interno patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Trastorno auditivo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Antígeno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Autoinmunidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Diagnóstico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Idiopático"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Sordera"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Técnica"
+        },
+        "002B10D02: Maladies non tumorales / Non tumoral diseases"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4561259"
+}

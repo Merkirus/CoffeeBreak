@@ -1,0 +1,94 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "RATES OF DIFFERENT STEPS INVOLVED IN THE INHIBITION OF PROTEIN SYNTHESIS BY THE TOXIC LECTINS ABRIN AND RICIN.",
+    "dc:creator": [
+        "OLSNES S",
+        "SANDVIG K",
+        "REFSNES K",
+        "PIHL A"
+    ],
+    "dc:date": "1976",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "J. BIOL. CHEM.; U.S.A.; DA. 1976; VOL. 251; NO 13; PP. 3985-3992; BIBL. 27 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "INHIBITEUR SYNTHESE PROTEIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LAPIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RETICULOCYTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IN VITRO"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TOXICITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "CELLULE HELA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LAGOMORPHA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MAMMALIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ABRINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RICINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TOXICOLOGIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PROTEIN SYNTHESIS INHIBITOR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RABBIT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RETICULOCYTE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "IN VITRO"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TOXICITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RICIN"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "TOXICOLOGY"
+        },
+        "002B02: Pharmacologie. Traitements medicamenteux / Pharmacology. Drug treatments"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7750106253"
+}

@@ -1,0 +1,116 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Old rules for a new game : Cutter revisited",
+    "dc:creator": "BRUNT, R",
+    "dc:relation": "Library review (Glasgow) -- Libr. rev. (Glasgow), ISSN 0024-2535, Vol. 47 (1-2) , pp. 82-90",
+    "dc:date": "1998",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Emerald",
+    "dc:format": [
+        "print",
+        "6 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Base donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Catalogue"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Logiciel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ordinateur personnel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Organisation information"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Structure donnée"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Utilisation"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cutter"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Database"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Catalogs"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Software"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Personal computer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Information organization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Data structure"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Use"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Base dato"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Catálogo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Logicial"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Computadora personal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Organización información"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estructura datos"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Utilización"
+        },
+        "001A01: Sciences de l'information. Documentation / Information science. Documentation",
+        "001A01E02: Structure et analyse des documents et de l'information / Information and document structure and analysis",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-F: Traitement et recherche d'information / Information processing and retrieval"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 2219385"
+}

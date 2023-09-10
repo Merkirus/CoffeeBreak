@@ -1,0 +1,248 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Positron-emission tomography as a prognostic tool for early-stage lung cancer. Discussion",
+    "dc:creator": [
+        "KIENINGER, Alicia N",
+        "WELSH, Robert",
+        "BENDICK, Phillip J",
+        "ZELENOCK, Gerald",
+        "CHMIELEWSKI, Gary W",
+        "TYBURSKI, James G"
+    ],
+    "dc:contributor": [
+        "Midwest Surgical Association (Organiser of meeting)",
+        "Midwest Surgical Association. Annual Meeting (48 ; Niagara on the Lake, ON 2005-08-14)"
+    ],
+    "dc:relation": [
+        "The American journal of surgery -- Am. j. surg, CODEN AJSUAB, ISSN 0002-9610, Vol. 191 (3) , pp. 433-436",
+        "Papers from the Midwest Surgical Congress, Ontario, Canada, August 14-17, 2005"
+    ],
+    "dc:date": "2006",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Elsevier",
+    "dc:format": [
+        "print",
+        "4 p. ; 23 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil respiratoire pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bronche pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Exploration radioisotopique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Poumon pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tumeur maligne"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Cancer du poumon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Chirurgie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Classification par stade"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Discussion"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Médecine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Outil"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Pronostic"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Stade précoce"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tomographie émission positon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tomoscintigraphie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Traitement"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Respiratory disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Bronchus disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Radionuclide study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lung disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Malignant tumor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lung cancer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Surgery"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Stage classification"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Discussion"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Medicine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Tool"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prognosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Early stage"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Positron emission tomography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Emission tomography"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Treatment"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Lung cancer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "PET scan"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prognosis"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Staging"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato respiratorio patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Bronquio patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Exploración radioisotópica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pulmón patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tumor maligno"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cáncer del pulmón"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cirugía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Clasificación por etapas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Discusión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Medicina"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Herramienta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Pronóstico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estadio precoz"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tomografía emisión positrones"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tomocentelleografía"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Tratamiento"
+        },
+        "002B01: Generalites / General aspects",
+        "002B11A: Tumeurs de l'appareil respiratoire et du médiastin / Tumors of the respiratory system and mediastinum"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 17635177"
+}

@@ -1,0 +1,73 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "TRYPTIC PEPTIDES FROM THE CROSS-LINKING REGIONS OF INSOLUBLE CALF SKIN COLLAGEN",
+    "dc:creator": [
+        "BECKER U",
+        "FURTHMAYR H",
+        "TIMPL R"
+    ],
+    "dc:date": "1975",
+    "dc:type": "Conference Paper",
+    "dc:language": "English",
+    "dc:format": "Z. (HOPPE-SEYLER'S) PHYSIOL. CHEM.; DTSCH.; DA. 1975; VOL. 356; NO 1; PP. 21-32; ABS. ALLEM.; BIBL. 36REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "FRAGMENT PEPTIDIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TRYPSINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "COLLAGENE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "GLYCOPROTEINE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PEAU"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BOVIN"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "DEGRADATION ENZYMATIQUE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RETICULATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "STRUCTURE MOLECULAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MAMMALIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "IMMUNOCHIMIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "BIOCHIMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BIOCHEMISTRY"
+        },
+        "002A02: Biochimie analytique, structurale et metabolique / Analytical, structural and metabolic biochemistry"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL7532006347"
+}

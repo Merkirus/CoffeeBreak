@@ -1,0 +1,316 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Hepatitis C virus (HCV) infection in a community in the Nile Delta : Population description and HCV prevalence",
+    "dc:creator": [
+        "ABDEL-AZIZ, F",
+        "HABIB, M",
+        "ANWAR, W",
+        "SALLAM, I",
+        "MOHAMED, M. K",
+        "ABDEL-HAMID, M",
+        "GAMIL, F",
+        "MADKOUR, S",
+        "MIKHAIL, N. N",
+        "THOMAS, D",
+        "FIX, A. D",
+        "STRICKLAND, G. T"
+    ],
+    "dc:relation": "Hepatology (Baltimore, Md.) -- Hepatology (Baltim. Md.), CODEN HPTLD9, ISSN 0270-9139, Vol. 32 (1) , pp. 111-115",
+    "dc:date": "2000",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Wiley",
+    "dc:format": [
+        "print",
+        "23 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Appareil digestif pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Flaviviridae"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Foie pathologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hepacivirus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Organisation santé"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Santé publique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Virose"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Delta"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Enquête socioéconomique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Epidémiologie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude cohorte"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Etude transversale"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Facteur risque"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Homme"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Hépatite virale C"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Impact environnement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Prévalence"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Résultat"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Virus hépatite C"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Digestive diseases"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Flaviviridae"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hepatic disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hepacivirus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public health organization"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Public health"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Viral disease"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Delta"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Socioeconomic inquiry"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Epidemiology"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cohort study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cross sectional study"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Risk factor"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Human"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Viral hepatitis C"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Environment impact"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Infection"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Prevalence"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Result"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Hepatitis C virus"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Aparato digestivo patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Flaviviridae"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hígado patología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hepacivirus"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Organización salud"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Salud pública"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Virosis"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Virus"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Delta"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Encuesta socioeconómica"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Epidemiología"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio cohorte"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Estudio transversal"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Factor riesgo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hombre"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hepatitis virica C"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Impacto medio ambiente"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Infección"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Prevalencia"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Resultado"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Hepatitis C virus"
+        },
+        "002B05C02G: Hépatites virales / Viral hepatitis"
+    ],
+    "dc:coverage": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Afrique"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Bassin Nil"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Africa"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nile Basin"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Africa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Cuenca Nilo"
+        }
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 1417462"
+}

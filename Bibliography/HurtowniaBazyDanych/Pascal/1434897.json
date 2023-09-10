@@ -1,0 +1,129 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "EFFECTS OF REFEEDING ON ADIPOCYTE METABOLISM IN THE RAT",
+    "dc:creator": [
+        "BJOERNTORP P",
+        "ENZI G",
+        "KARLSSON M",
+        "KRAL J",
+        "LARSSON B",
+        "SJOESTROEM L",
+        "SMITH U"
+    ],
+    "dc:date": "1980",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "INT. J. OBESITY; GBR; DA. 1980; VOL. 4; NO 1; PP. 11-19; BIBL. 44 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "ADIPOCYTE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METABOLISME"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "JEUNE ALIMENTAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "AMAIGRISSEMENT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "REALIMENTATION"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RAT"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "METABOLISME PATHOLOGIE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "PATHOLOGIE EXPERIMENTALE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "RODENTIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MAMMALIA"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "OBESITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "TISSU ADIPEUX"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "MALADIES METABOLIQUES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ADIPOCYTE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METABOLISM"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "FASTING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "WEIGHT LOSS"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "REFEEDING"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RAT"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METABOLIC DISEASES"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "EXPERIMENTAL DISEASE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "RODENTIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "MAMMALIA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "OBESITY"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ADIPOSE TISSUE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "METABOLIC DISEASES"
+        },
+        "002B21: Endocrinopathies / Endocrinopathies"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL8110023103"
+}

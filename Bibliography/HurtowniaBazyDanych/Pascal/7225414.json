@@ -1,0 +1,204 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Convective transport phenomena on the suction surface of a turbine blade including the influence of secondary flows near the endwall",
+    "dc:creator": [
+        "CHEN, P. H",
+        "GOLDSTEIN, R. J"
+    ],
+    "dc:contributor": "International gas turbine and aeroengine congress and exposition (36 ; Orlando FL 1991-06-03)",
+    "dc:relation": [
+        "Journal of turbomachinery -- J. turbomach, CODEN JOTUEI, ISSN 0889-504X, Vol. 114 (4) , pp. 776-787",
+        "International gas turbine and aeroengine congress and exposition (36 ; Orlando FL 1991-06-03)"
+    ],
+    "dc:date": "1992",
+    "dc:type": [
+        "Text",
+        "Conference Paper"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "American Society of Mechanical Engineers",
+    "dc:format": [
+        "print",
+        "1 p"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Aubage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Champ écoulement"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Couche limite"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Distribution pression"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Distribution vitesse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecoulement bidimensionnel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecoulement secondaire"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Ecoulement tridimensionnel"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nombre Nusselt"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Soufflerie"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Tourbillon"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Transfert masse"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Turbine gaz"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Turbomachine"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Nombre Stanton"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Blades"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Flow field"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Boundary layer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Pressure distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Velocity distribution"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Two dimensional flow"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Secondary flow"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Three dimensional flow"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Nusselt number"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Wind tunnel"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Vortex"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Mass transfer"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Gas turbine"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Turbomachine"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Alabe"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Campo flujo"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Capa límite"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Distribución presión"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Distribución velocidad"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Flujo bidimensional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Flujo secundario"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Flujo tridimensional"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Número Nusselt"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Túnel aerodinámico"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Torbellino"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Transferencia masa"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Turbina gas"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Turbomáquina"
+        },
+        "001D12F02: Moteurs à cycles continus: turbines à vapeur, à gaz, propulseurs à réaction / Continuous cycle engines: steam and gas turbines, jet engines"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 4408713"
+}

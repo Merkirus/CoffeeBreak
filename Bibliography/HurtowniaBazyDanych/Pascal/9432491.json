@@ -1,0 +1,70 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "Library of Congress subject heading period subdivisions for Eastern Europe excluding the Soviet Union: some proposed additions",
+    "dc:creator": [
+        "STUDWELL, W. E",
+        "HAMILTON, D. A"
+    ],
+    "dc:relation": "Cataloging & classification quarterly -- Cat. classif. q, CODEN CCQUDB, ISSN 0163-9374, Vol. 6 (1) , pp. 39-60",
+    "dc:date": "1985",
+    "dc:type": [
+        "Text",
+        "Article"
+    ],
+    "dc:language": "English",
+    "dc:publisher": "Haworth Press",
+    "dc:format": [
+        "print",
+        "11 ref"
+    ],
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Catalogage"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Europe Est"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "LC"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "Vedette matière"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Cataloging"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Eastern Europe"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "Subject heading"
+        },
+        {
+            "@xml:lang": "es",
+            "#text": "Europa"
+        },
+        "001A01E02A: Description bibliographique. Catalogage. Référencement / Bibliographic description. Cataloging. Referencing",
+        "790-: Sciences de l'information et de la communication / Information and communication sciences",
+        "790-A: Généralités / General aspects"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number 8623006"
+}

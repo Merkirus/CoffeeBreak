@@ -1,0 +1,73 @@
+{
+    "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+    "dc:title": "A PRELIMINARY ORBIT HR 2577: AK + BE BINARY SYSTEM",
+    "dc:creator": "HENDRY EM",
+    "dc:date": "1982",
+    "dc:type": "Article",
+    "dc:language": "English",
+    "dc:format": "PUBL. ASTRON. SOC. PAC.; ISSN 0004-6280; USA; DA. 1982; VOL. 94; NO 557; PP. 169-171; BIBL. 9 REF.",
+    "dc:subject": [
+        {
+            "@xml:lang": "fr",
+            "#text": "BINAIRE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETOILE BE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ETOILE K"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ORBITE"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HR 2577"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "HD 050820"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ELEMENT ORBITAL"
+        },
+        {
+            "@xml:lang": "fr",
+            "#text": "ASTRONOMIE"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BINARY STAR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "BE STAR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "B STAR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "K STAR"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ORBITA"
+        },
+        {
+            "@xml:lang": "en",
+            "#text": "ASTRONOMY"
+        },
+        "001E03: Astronomie / Astronomy"
+    ],
+    "dc:rights": [
+        "Inist-CNRS",
+        "Sauf mention contraire ci-dessus, le contenu de cette notice bibliographique peut être utilisé dans le cadre d’une licence CC BY 4.0 Inist-CNRS / Unless otherwise stated above, the content of this bibliographic record may be used under a CC BY 4.0 licence by Inist-CNRS / A menos que se haya señalado antes, el contenido de este registro bibliográfico puede ser utilizado al amparo de una licencia CC BY 4.0 Inist-CNRS"
+    ],
+    "dc:identifier": "Inist-CNRS record number PASCAL82X0326962"
+}
